@@ -1,0 +1,87 @@
+#+TITLE: macOS
+#+Date: <2018-05-24 Thu 21:41>
+#+AUTHOR: Vonfry
+
+macOS /ONLY/. Other cross-platfrom apps are in themselves categroies' dirs.
+
+Some of them haven't link, which can be found easily or in app store.
+
+* code
+- [[https://kapeli.com/dash][Dash]]
+  Document searching tools
+- XCode
+  =xcode-select --install=
+- hopper
+  Reversing tools
+- [[https://paw.cloud/][Paw]]
+  Web API Test
+- [[https://www.docker.com/][docker Tool box]]
+  You should install docker with the specific tools
+
+* terminal
+- [[https://www.iterm2.com/][iTerm]]
+  terminal simulator
+- Go2Shell
+  go to shell from finder
+
+* system
+- Teamviewer
+  remote desktop controling
+- Parallels Desktop
+  Best Virtual Machine on macOS, I think.
+- CleanMyMac
+- [[https://www.mediaatelier.com/CheatSheet/][CheatSheet]]
+  quickly see shortcut
+- The Unarchiver
+  archive tool
+- totalfinder
+- iStat Menus
+  system status bar
+- Magnet
+  windows manager
+
+* effect
+- OmniFocus
+  GTD! Best one I think! (Org-mode is useful too, but this can use on iphone as well.)
+- OmniGraffle
+- OmniPlan
+  project time manager
+- MoneyWiz
+  accounting manager
+- Alfred
+  more powerful quick seach
+- fantastical
+  calendar
+- iThoughtsX
+  mindmap
+- Dropbox
+- Day One
+  diary
+- airmail
+  email
+- yummy ftp
+  ftp & sftp
+- flox pro
+  download
+- pdf expert
+    | sigil              | cask / github         | epub                 |
+    +--------------------+-----------------------+----------------------+
+
+* design
+- SketchBook
+  draw a picture
+- PhotoBluk
+  quick cut picture
+- PixWinch
+  check pix color
+- Prepo
+- Pixelmator
+  photo making
+- Final Cut Pro X
+  video making
+
+* media
+- [[https://github.com/lhc70000/iina][IINA]]
+  A wonderful video player
+- Vox
+  Music player

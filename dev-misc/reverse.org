@@ -1,0 +1,9 @@
+#+TITLE: Reverse
+#+Date: <2018-05-24 Thu 21:32>
+#+AUTHOR: Vonfry
+
+A list of tools which can be used for reversing.
+
+* ida pro
+
+A cross-platform sotfware which can be used almost all files.
