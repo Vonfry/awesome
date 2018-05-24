@@ -1,0 +1,32 @@
+#+TITLE: Emacs
+#+AUTHOR: Vonfry
+#+DATE: <2018-05-24 Thu 21:17>
+
+Emacs is one of the best editor on the world. Its default editing mode is used in many morden editors such as all text input form on macos.
+
+But I don't like emacs default editing method. I use evil insteaded.
+
+The most powerful thing is ~emacs-lisp~. You can de anything here! So, why not use it with vim.
+
+And emacs author seems hardworking more than vim.
+
+* Configure
+  :PROPERTIES:
+  :CUSTOM_ID: configure-id
+  :END:
+
+Here are some samples, but I suggest only take a look as a reference. Write configure by yourself!
+
+- [[https://github.com/VonFry/dotfiles/tree/master/emacs.d][Mine]]
+- [[https://github.com/bbatsov/prelude.git][Prelude]]
+  very very very /Simple/
+- [[https://github.com/hlissner/doom-emacs][doom]]
+- [[https://github.com/syl20bnr/spacemacs][Spacemacs]]
+  It is too heavy, just use it as a reference.
+
+
+* Plugins
+
+See [[#configure-id][Configure]]
+
+See [[../dev-lang/lsp.org][dev-lang/lsp.org]]

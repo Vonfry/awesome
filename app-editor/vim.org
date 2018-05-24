@@ -1,0 +1,25 @@
+#+TITLE: Vim
+#+AUTHOR: Vonfry
+#+DATE: <2018-05-24 Thu 21:16>
+
+vim is one of the best editor on the world. It provied a good editing method by normal, insert, visual and other modes.
+
+* [[http://vimawesome.com/][vimawesome]]
+
+ website lists famous vim plugins.
+
+* [[https://neovim.io/][Neovim]]
+
+ rewritten version for vim. It provide more morden api & design, but it is under developing. It can be used to develop vim-like plugin for other editor.
+
+
+** [[https://github.com/onivim/oni][onivim]]
+
+ developing gui cross-platform editor by onivim.
+
+* Configure
+
+Here are some samples, but I suggest only take a look as a reference. Write configure by yourself!
+
+- [[https://github.com/VonFry/dotfiles/blob/master/vimrc][Mine]]
+- [[https://github.com/SpaceVim/SpaceVim][SpaceVim]]
