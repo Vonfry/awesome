@@ -19,7 +19,7 @@ vim is one of the best editor on the world. It provied a good editing method by 
 
 * Configure
 
-Here are some samples, but I suggest only take a look as a reference. Write configure by yourself!
+Here are some samples, but I suggest only take a look as a reference. Write config by yourself!
 
 - [[https://github.com/VonFry/dotfiles/blob/master/vimrc][Mine]]
 - [[https://github.com/SpaceVim/SpaceVim][SpaceVim]]

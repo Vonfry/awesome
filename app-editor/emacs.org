@@ -15,7 +15,7 @@ And emacs author seems hardworking more than vim.
   :CUSTOM_ID: configure-id
   :END:
 
-Here are some samples, but I suggest only take a look as a reference. Write configure by yourself!
+Here are some samples, but I suggest only take a look as a reference. Write config by yourself!
 
 - [[https://github.com/VonFry/dotfiles/tree/master/emacs.d][Mine]]
 - [[https://github.com/bbatsov/prelude.git][Prelude]]
