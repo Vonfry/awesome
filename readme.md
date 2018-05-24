@@ -10,4 +10,4 @@ All files are written in `org-mode`, `markdown` or `tex`.
 
 All content are managed by dir's name.
 
-`section -> subsection -> content(file)`
+`section -> content(file)`
