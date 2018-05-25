@@ -17,23 +17,23 @@ pip
 setuptools
 wheel
 
-- virtualenv
+- [[http://virtualenv.pypa.io/en/stable/][virtualenv]]
   sand box
-- ipython
+- [[https://ipython.org/][ipython]]
   more powerful interpretation
-- jedi
+- [[https://github.com/davidhalter/jedi][jedi]]
   code completion and navigation
-- flake8
+- [[http://flake8.pycqa.org/en/latest/][flake8]]
   code checks
-- importmagic
+- [[https://github.com/alecthomas/importmagic][importmagic]]
   auto imports
-- autopep8
+- [[https://github.com/hhatto/autopep8][autopep8]]
   code PEP8 formatting
-- rope
+- [[https://github.com/python-rope/rope][rope]]
   refactoring library
-- yapf
+- [[https://github.com/google/yapf][yapf]]
   format tool
-- pycscope
+- [[https://github.com/portante/pycscope][pycscope]]
   cscope support
-- pytz
+- [[http://pytz.sourceforge.net/][pytz]]
   a useful package for timezone

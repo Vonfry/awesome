@@ -7,7 +7,7 @@
 - [[https://github.com/tibbe/haskell-style-guide][tibble]]
   tools: hindent
 * Compiler
-- ghc
+- [[https://www.haskell.org/ghc/][ghc]]
 - [[https://github.com/ghcjs/ghcjs][ghcjs]]
   write web script by haskell
 
@@ -20,10 +20,10 @@
 
 * Tool chains
 
- - hoogle
-   quickly searching
- - dhall
-   a config language
+- [[https://www.haskell.org/hoogle/][hoogle]]
+  quickly searching
+- [[https://github.com/dhall-lang/dhall-haskell][dhall]]
+  a config language
 
 * Misc
 
