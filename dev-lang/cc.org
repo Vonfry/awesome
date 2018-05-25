@@ -2,6 +2,19 @@
 #+Date: <2018-05-24 Thu 21:32>
 #+AUTHOR: Vonfry
 
+* Coding Style
+
+ - [[https://www.kernel.org/doc/Documentation/process/coding-style.rst][K & R]]
+ - [[http://llvm.org/docs/CodingStandards.html][LLVM]]
+   tools: clang-format
+ - [[https://github.com/isocpp/CppCoreGuidelines][CPPCoreGuide]]
+ - [[https://google.github.io/styleguide/cppguide.html][Google]]
+ - [[https://github.com/kciter/awesome-style-guide#cpp][More]]
+* Compiler
+
+- [[https://llvm.org/][LLVM]]
+- [[https://gcc.gnu.org/][GCC]]
+
 * Analysis
 
 - [[https://github.com/Ericsson/codechecker][codechecker]]

@@ -1,0 +1,39 @@
+#+TITLE: Python
+#+Date: <2018-05-25 五 19:35>
+#+AUTHOR: Vonfry
+
+* Compiler
+
+Python 3 is better than 2, which provide more morden designing.
+
+* Coding Style
+
+- [[https://www.python.org/dev/peps/pep-0008/][PEP8]]
+  It is too strict, but useful. A tool named ~flake8~ can check it.
+
+* Tool chain
+
+pip
+setuptools
+wheel
+
+- virtualenv
+  sand box
+- ipython
+  more powerful interpretation
+- jedi
+  code completion and navigation
+- flake8
+  code checks
+- importmagic
+  auto imports
+- autopep8
+  code PEP8 formatting
+- rope
+  refactoring library
+- yapf
+  format tool
+- pycscope
+  cscope support
+- pytz
+  a useful package for timezone
