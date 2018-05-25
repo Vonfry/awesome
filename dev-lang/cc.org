@@ -19,3 +19,9 @@
 
 - [[https://github.com/Ericsson/codechecker][codechecker]]
 - [[https://scitools.com/][understand]]
+* Build
+
+- make
+- cmake
+- automake
+- waf
