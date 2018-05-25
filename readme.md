@@ -11,3 +11,5 @@ All files are written in `org-mode`, `markdown` or `tex`.
 All content are managed by dir's name.
 
 `section -> content(file)`
+
+The _readme file_ in each section contains some public or unitversal items.
