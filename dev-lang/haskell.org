@@ -5,27 +5,21 @@
 * Coding Style
 
 - [[https://github.com/tibbe/haskell-style-guide][tibble]]
-  tools: hindent
+  - tools: hindent
 * Compiler
 - [[https://www.haskell.org/ghc/][ghc]]
-- [[https://github.com/ghcjs/ghcjs][ghcjs]]
-  write web script by haskell
+- [[https://github.com/ghcjs/ghcjs][ghcjs]] - write web script by haskell
 
 * Package & Project
  - cabal
- - [[http://www.haskellstack.org/][stack]]
-   Work with cabal to manage whole project.
-   - stack-run
-     A plugin, quickly run the project.
+ - [[http://www.haskellstack.org/][stack]] - Work with cabal to manage whole project.
+   - stack-run - A plugin, quickly run the project.
 
 * Tool chains
 
-- [[https://www.haskell.org/hoogle/][hoogle]]
-  quickly searching
-- [[https://github.com/dhall-lang/dhall-haskell][dhall]]
-  a config language
+- [[https://www.haskell.org/hoogle/][hoogle]] - quickly searching
+- [[https://github.com/dhall-lang/dhall-haskell][dhall]] - a config language
 
 * Misc
 
-- [[http://www.luna-lang.org/][luna-lang]]
-  Developing by haskell, a visual lang.
+- [[http://www.luna-lang.org/][luna-lang]] - Developing by haskell, a visual lang.

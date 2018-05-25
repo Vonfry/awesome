@@ -14,23 +14,17 @@ I think the default is enough.
 
 - Gem & bundler
 - rake
-- [[https://github.com/pry/pry][pry]]
-  powerful interpretation
+- [[https://github.com/pry/pry][pry]] - powerful interpretation
 - pry-doc
 - pry-byebug
 - pry-rails
 - method_source
-- [[https://github.com/ruby-formatter/rufo][rufo]]
-  Ruby code formatter
-- [[https://github.com/eapache/starscope][starscope]]
-  cscope like
+- [[https://github.com/ruby-formatter/rufo][rufo]] - Ruby code formatter
+- [[https://github.com/eapache/starscope][starscope]] - cscope like
 - sass
 - compass
 - nokogiri
-- [[https://github.com/wallyqs/org-ruby][org-ruby]]
-  org-mode conversation
-- [[https://github.com/jneen/rouge][rouge]]
-  code highlight
+- [[https://github.com/wallyqs/org-ruby][org-ruby]] - org-mode conversation
+- [[https://github.com/jneen/rouge][rouge]] - code highlight
 - licensee
-- [[https://jekyllrb.com/][jekyll]]
-  static blog
+- [[https://jekyllrb.com/][jekyll]] - static blog

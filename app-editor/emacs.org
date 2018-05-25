@@ -18,11 +18,9 @@ And emacs author seems hardworking more than vim.
 Here are some samples, but I suggest only take a look as a reference. Write config by yourself!
 
 - [[https://github.com/VonFry/dotfiles/tree/master/emacs.d][Mine]]
-- [[https://github.com/bbatsov/prelude.git][Prelude]]
-  very very very /Simple/
+- [[https://github.com/bbatsov/prelude.git][Prelude]] - very very very /Simple/
 - [[https://github.com/hlissner/doom-emacs][doom]]
-- [[https://github.com/syl20bnr/spacemacs][Spacemacs]]
-  It is too heavy, just use it as a reference.
+- [[https://github.com/syl20bnr/spacemacs][Spacemacs]] - It is too heavy, just use it as a reference.
 
 
 * Plugins

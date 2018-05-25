@@ -19,5 +19,4 @@ Use emacs.
 
 * Misc
 
-- [[https://github.com/kanaka/mal][MAL]]
-  A wonderful project to write a lisp compiler by yourself in many language.
+- [[https://github.com/kanaka/mal][MAL]] - A wonderful project to write a lisp compiler by yourself in many language.
