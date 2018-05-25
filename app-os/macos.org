@@ -6,6 +6,8 @@ macOS /ONLY/. Other cross-platfrom apps are in themselves categroies' dirs.
 
 Some of them haven't link, which can be found easily or in app store.
 
+And there are also some tools which are shown in [[https://github.com/VonFry/dotfiles/blob/master/setup/11macos.sh][dotfiles]].
+
 * code
 - [[https://kapeli.com/dash][Dash]]
   Document searching tools
