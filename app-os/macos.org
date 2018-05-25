@@ -66,8 +66,6 @@ And there are also some tools which are shown in [[https://github.com/VonFry/dot
 - flox pro
   download
 - pdf expert
-    | sigil              | cask / github         | epub                 |
-    +--------------------+-----------------------+----------------------+
 
 * design
 - SketchBook
