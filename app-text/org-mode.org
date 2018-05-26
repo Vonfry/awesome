@@ -1,0 +1,7 @@
+#+TITLE: org-mode
+#+AUTHOR: Vonfry
+#+DATE: <2018-05-26 六 15:41>
+
+It is more powerful than markdown or rst, and easier than tex.
+
+Emacs is enough!
