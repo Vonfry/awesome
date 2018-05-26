@@ -30,6 +30,7 @@ And there are also some tools which are shown in [[https://github.com/VonFry/dot
 - [[http://magnet.crowdcafe.com/][Magnet]] - windows manager
 
 * effect
+- [[https://www.texpad.com/][TexPad]] - The best latex editor on mac, I think.
 - [[https://www.omnigroup.com/omnifocus][OmniFocus]] - GTD! Best one I think! (Org-mode is useful too, but this can use on iphone as well.)
 - [[https://www.omnigroup.com/][OmniGraffle]]
 - [[https://www.omnigroup.com/][OmniPlan]] - project time manager

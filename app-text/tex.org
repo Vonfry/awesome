@@ -1,0 +1,17 @@
+#+TITLE: Tex
+#+DATE: <2018-05-26 六 15:33>
+#+AUTHOR: Vonfry
+
+* Compile
+
+~xelatex~ is the best one in my opinion, which provides more morden function with different language.
+
+* Editor
+
+- [[http://tug.org/texlive/][TexLive]] - Containing the most usually using packages with a superior environment and a simple editor.
+
+** macOS
+
+Texpad is a powerful editor, see [[../app-os/macos.org][macOS.org]]
+
+* Template
