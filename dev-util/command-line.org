@@ -1,0 +1,26 @@
+#+TITLE: Command Line
+#+AUTHOR: Vonfry
+#+DATE: <2018-05-26 六 15:50>
+
+* Shell
+
+- sh - Please write script use this.
+- bash - The default one, it is inconvenient to use.
+- zsh - Quickly, easy, having a lot of plugins and more interactive.
+  - Framework
+    - antigen - plugin manager, it can manage compiling and plugins automatically. Fast!
+    - prezto - simple and fast.
+    - oh-my-zsh - Powerful! But slowly! NOT RECOMMENDED.
+  - Plugins - See [[https://github.com/VonFry/dotfiles/blob/master/antigenrc][dotfiles/antigenrc]]
+    - autosuggestions - fish like
+    - syntax-highlighting - fish like
+- fish - Like zsh, but it contains a lot of functions which are implemented by plugis. It also has a more morden shell script, but /not posix/, so conflicting with some tools.
+- tcsh
+- powershell - Support by windows. Combine with ~.NET~. It has a superior script language, but using for interactive is bad. And why not using ruby, perl, python or other scripting language?
+- [[http://xon.sh/][xonsh]] - python based
+
+I'm using zsh with antigen and prezto. Oh-my-zsh is good, having a lot of functions but I don't need them. The most important reason is speed and stdandard, for example, oh-my-zsh uses ~source~ to load theme, prezto uses ~zstyle~.
+
+* Tools
+
+See each category.
