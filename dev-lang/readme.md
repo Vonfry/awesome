@@ -9,3 +9,7 @@ Here are some projects contain many coding style.
 
 - [google](https://github.com/google/styleguide)
 - [awesome](https://github.com/kciter/awesome-style-guide)
+
+## analysis
+
+- [cloc](https://github.com/AlDanial/cloc) - count lines of code
