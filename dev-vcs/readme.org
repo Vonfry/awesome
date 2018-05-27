@@ -1,3 +1,38 @@
 #+TITLE: vcs
 #+DATE: <2018-05-27 日 20:25>
 #+AUTHOR: Vonfry
+
+* Git
+
+stupid content tracker: distributed VCS designed for speed and efficiency.
+
+The most used.
+
+** server
+
+- gitlab - powerful!!
+- gogs - light, simple
+- [[https://www.slant.co/topics/425/~best-git-web-interfaces][others]]
+
+git has a simple server by it self, here are some powerful tools.
+
+** tools
+
+- git-flow
+- git-extras
+
+* [[http://darcs.net/][darcs]]
+
+Coded in haskell
+
+** servers
+
+- [[https://hub.darcs.net/][darcs-hub]]
+
+* SVN
+
+Not distributed, so there is little coyies. Easily to use for non-programers, which provide a default web interface.
+
+* Others
+
+See [[https://www.slant.co/topics/370/~best-version-control-systems][here]].
