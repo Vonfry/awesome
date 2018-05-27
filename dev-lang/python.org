@@ -13,10 +13,9 @@ Python 3 is better than 2, which provide more morden designing.
 
 * Tool chain
 
-pip
-setuptools
-wheel
-
+- pip
+- setuptools
+- wheel
 - [[http://virtualenv.pypa.io/en/stable/][virtualenv]] - sand box
 - [[https://ipython.org/][ipython]] - more powerful interpretation
 - [[https://github.com/davidhalter/jedi][jedi]] - code completion and navigation

@@ -6,16 +6,16 @@ vim is one of the best editor on the world. It provied a good editing method by 
 
 * [[http://vimawesome.com/][vimawesome]]
 
- website lists famous vim plugins.
+website lists famous vim plugins.
 
 * [[https://neovim.io/][Neovim]]
 
- rewritten version for vim. It provide more morden api & design, but it is under developing. It can be used to develop vim-like plugin for other editor.
+rewritten version for vim. It provide more morden api & design, but it is under developing. It can be used to develop vim-like plugin for other editor.
 
 
 ** [[https://github.com/onivim/oni][onivim]]
 
- developing gui cross-platform editor by onivim.
+developing gui cross-platform editor by onivim.
 
 * Configure
 
