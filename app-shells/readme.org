@@ -23,4 +23,20 @@ I'm using zsh with antigen and prezto. Oh-my-zsh is good, having a lot of functi
 
 * Tools
 
+- autojump - quickly jump to dirs.
+- googler - google in terminal
+- lolcat - colorful cat
+- tree - show dir structure as a tree
+- colordiff
+- fortune - print a saying
+- cmatrix - show coding matrix in terminal
+- figlet - ascii art
+- gpatch - Apply a diff file to an original
+- parallel - like xargs, but use more cpus
+- tmux - more powerful tool like screen
+- thefuck - fix input error in command
+- fzf - fuzzy search
+
 See each category.
+
+Or take a look my [[https://github.com/VonFry/dotfiles/blob/master/etc/portage/sets/vonfry20shell][dotfiles/etc/portage/sets/vonfry20shell]] and [[https://github.com/VonFry/dotfiles/blob/master/setup/11macos.sh][dotfiles/setup/11macos.sh]]

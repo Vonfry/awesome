@@ -1,0 +1,12 @@
+#+TITLE: Misc
+#+AUTHOR: Vonfry
+#+DATE: <2018-05-27 日 19:58>
+
+
+* Convertion
+
+- [[http://www.pandoc.org/][pandoc]] - A tool is written in haskell, which can general markdown, tex, rst and other files to pdf, html, or others.
+
+* PDF
+
+- poppler
