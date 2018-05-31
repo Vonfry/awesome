@@ -28,3 +28,7 @@ Here are some samples, but I suggest only take a look as a reference. Write conf
 See [[#configure-id][Configure]]
 
 See [[../dev-lang/lsp.org][dev-lang/lsp.org]]
+
+* Awesome
+
+- [[https://github.com/emacs-tw/awesome-emacs][emacs-tw]]

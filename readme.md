@@ -17,3 +17,11 @@ The _readme file_ in each section contains some public, unitversal items or repr
 _misc file_ has contents which are like the file name, __misc__.
 
 The section's organization references `gentoo portage` structure.
+
+## Awesome
+
+Here are some good awesome what I love.
+
+Other special awesome in the section's readme file.
+
+- [awesome](https://github.com/sindresorhus/awesome)

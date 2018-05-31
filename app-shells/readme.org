@@ -40,3 +40,6 @@ I'm using zsh with antigen and prezto. Oh-my-zsh is good, having a lot of functi
 See each category.
 
 Or take a look my [[https://github.com/VonFry/dotfiles/blob/master/etc/portage/sets/vonfry20shell][dotfiles/etc/portage/sets/vonfry20shell]] and [[https://github.com/VonFry/dotfiles/blob/master/setup/11macos.sh][dotfiles/setup/11macos.sh]]
+* Awesome
+- [[https://github.com/alebcay/awesome-shell][shell]]
+- [[https://github.com/unixorn/awesome-zsh-plugins][zsh plugin]]
