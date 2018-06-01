@@ -22,6 +22,11 @@
 
 * Awesome
 - [[https://github.com/krispo/awesome-haskell][haskell]]
+
+* Cheatsheet
+
+- [[https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet][symbol search cheatsheet]]
+
 * Misc
 
 - [[http://www.luna-lang.org/][luna-lang]] - Developing by haskell, a visual lang.

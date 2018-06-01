@@ -1,7 +1,7 @@
 # dev-lang
 
  Under this dir are compilers, some tool-chains, coding-style and others for these lang itself,
- developing packages seeing the other to `dev-<lang>/file`.
+ developing packages seeing the other to `dev-<lang>/<file>`.
 
 ## Coding style
 

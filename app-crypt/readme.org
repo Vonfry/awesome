@@ -2,6 +2,12 @@
 #+AUTHOR: Vonfry
 #+DATE: <2018-05-29 二 19:32>
 
+* Passwork manage
+
+- 1Password - Private password managem.
+- [[https://github.com/nuxsmin/sysPass][sysPass]] - Gestor de Claves web basado en PHP para uso empresarial y personal.
+- more - see [[../net-misc/readme.org][selfhost]]
+
 * PGP
 
 Pretty Good Privacy is a nice way to crypt data.
