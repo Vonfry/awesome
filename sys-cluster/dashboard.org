@@ -1,0 +1,7 @@
+#+TITLE: dashboard
+#+DATE: <2018-06-01 五 16:28>
+#+AUTHOR: Vonfry
+
+* OpenStack
+
+What is OpenStack? OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed through a dashboard that gives administrators control while empowering their users to provision resources through a web interface.
