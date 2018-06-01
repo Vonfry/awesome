@@ -1,0 +1,12 @@
+#+TITLE: project
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-01 五 17:09>
+
+Project management
+
+* Server
+
+- redmine
+- openproject
+- taiga
+- more, see [[../net-misc/readme.org][selfhost]]

@@ -1,0 +1,7 @@
+#+TITLE: nixos
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-01 五 17:04>
+
+* guide
+
+- [[https://github.com/Gabriel439/haskell-nix][haskell-nix]] - Nix and Haskell in production

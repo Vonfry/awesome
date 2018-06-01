@@ -1,0 +1,12 @@
+#+TITLE: R
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-01 五 17:16>
+
+* Plot
+- [[https://plot.ly/][plotly]] - A powerful plot which drawing in web page, and it can also be used by python, matlib and so on.
+
+* Color
+- [[https://github.com/karthik/wesanderson][wasenderon]] - A Wes Anderson color palette for R
+
+* Export
+- [[https://github.com/yihui/knitr][yihui/knitr]] - A general-purpose tool for dynamic report generation in R

@@ -4,6 +4,14 @@
 
 A list of tools which can be used for reversing.
 
+* Projects
+
+- [[https://github.com/HackThisSite/CTF-Writeups][HackThisSite/CTF-Writeups]] - Things we learned from Capture The Flag hacking competitions we participated in.
+
 * ida pro
 
 A cross-platform sotfware which can be used almost all files.
+
+* Android
+
+- [[https://github.com/iBotPeaches/Apktool][apktool]] - A tool for reverse engineering Android apk files
