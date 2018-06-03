@@ -2,7 +2,7 @@
 #+DATE: <2018-06-01 五 16:37>
 #+AUTHOR: Vonfry
 
-* Release
+* release
 
 - Gentoo - A flexible, source-based Linux distribution that becomes just about any system you need—and much more. You can choose what you want to install with a package.
 - NixOS - NixOS is a Linux distribution with a unique approach to package and configuration management. Built on top of the Nix package manager, it is completely declarative, makes upgrading systems reliable, and has many other advantages.

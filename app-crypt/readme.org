@@ -1,14 +1,14 @@
-#+TITLE: Crypt
+#+TITLE: crypt
 #+AUTHOR: Vonfry
 #+DATE: <2018-05-29 二 19:32>
 
-* Passwork manage
+* password manage
 
 - 1Password - Private password managem.
 - [[https://github.com/nuxsmin/sysPass][sysPass]] - Gestor de Claves web basado en PHP para uso empresarial y personal.
 - more - see [[../net-misc/readme.org][selfhost]]
 
-* PGP
+* pgp
 
 Pretty Good Privacy is a nice way to crypt data.
 
@@ -16,7 +16,7 @@ Pretty Good Privacy is a nice way to crypt data.
 
 A implement of pgp.
 
-** [[https://keybase.io/][Keybase]]
+** [[https://keybase.io/][keybase]]
 
 Use PGP to send message, which like whatsapp but this won't manage you keys, so it is safter. A end-to-end encryption is the best way to exchange message.
 

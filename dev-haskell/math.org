@@ -1,0 +1,6 @@
+#+TITLE: math
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-03 日 19:58>
+
+- hmatrix - Linear algebra and numerical computation
+- dimensional - Dimensional library variant built on Data Kinds, Closed Type Families, TypeNats (GHC 7.8+).

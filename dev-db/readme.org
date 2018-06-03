@@ -2,7 +2,7 @@
 #+DATE: <2018-05-27 日 20:41>
 #+AUTHOR: Vonfry
 
-* Relational
+* relational
 
 ** postgresql
 

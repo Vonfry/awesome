@@ -2,7 +2,7 @@
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-01 五 16:51>
 
-* Web Log
+* web log
 
 - goaccess - A real-time web log analyzer and interactive viewer that runs in a terminal
 - more, see: [[../net-misc/readme.org][selfhost]]

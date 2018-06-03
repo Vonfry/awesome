@@ -1,12 +1,13 @@
-#+TITLE: Calculus
+#+TITLE: calculus
 #+AUTHOR: Vonfry
 #+DATE: <2018-05-29 二 19:38>
 
-* Lambda
+* lambda
 
 - [[http://goodmath.blogspot.com/][bad math or good math]]
 
-Translate:
+translate:
+
 [[http://cgnail.github.io/academic/lambda-1/][我的最爱Lambda演算——开篇 · cgnail's weblog]]
 [[http://cgnail.github.io/academic/lambda-2/][阿隆佐.丘奇的天才之作——lambda演算中的数字 · cgnail's weblog]]
 [[http://cgnail.github.io/academic/lambda-3/][Lambda演算中的布尔值和选择 · cgnail's weblog]]

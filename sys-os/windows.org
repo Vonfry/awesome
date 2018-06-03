@@ -1,4 +1,4 @@
-#+TITLE: Windows
+#+TITLE: windows
 #+DATE: <2018-05-24 Thu 22:02>
 #+AUTHOR: Vonfry
 

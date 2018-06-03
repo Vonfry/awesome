@@ -1,30 +1,30 @@
-#+TITLE: Ruby
+#+TITLE: ruby
 #+Date: <2018-05-25 五 19:35>
 #+AUTHOR: Vonfry
 
-* Coding style
+* coding style
 
 Please follow the ruby constraint, which is enough.
 
-* Compiler
+* compiler
 
 I think the default is enough.
 
-* Tool chain
+* tool chain
 
 - Gem & bundler
 - rake
-- [[https://github.com/pry/pry][pry]] - powerful interpretation
+- pry - powerful interpretation
 - pry-doc
 - pry-byebug
 - pry-rails
 - method_source
-- [[https://github.com/ruby-formatter/rufo][rufo]] - Ruby code formatter
-- [[https://github.com/eapache/starscope][starscope]] - cscope like
+- rufo - Ruby code formatter
+- starscope - cscope like
 - sass
 - compass
 - nokogiri
-- [[https://github.com/wallyqs/org-ruby][org-ruby]] - org-mode conversation
-- [[https://github.com/jneen/rouge][rouge]] - code highlight
+- org-ruby - org-mode conversation
+- rouge - code highlight
 - licensee
-- [[https://jekyllrb.com/][jekyll]] - static blog
+- jekyll - static blog

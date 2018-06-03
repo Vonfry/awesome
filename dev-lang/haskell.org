@@ -1,32 +1,32 @@
-#+TITLE: Haskell
+#+TITLE: haskell
 #+Date: <2018-05-25 Fri 19:04>
 #+AUTHOR: Vonfry
 
-* Coding Style
+* coding style
 
 - [[https://github.com/tibbe/haskell-style-guide][tibble]]
   - tools: hindent
-* Compiler
+* compiler
 - [[https://www.haskell.org/ghc/][ghc]]
 - [[https://github.com/ghcjs/ghcjs][ghcjs]] - write web script by haskell
 
-* Package & Project
+* package & project
  - cabal
  - [[http://www.haskellstack.org/][stack]] - Work with cabal to manage whole project.
    - stack-run - A plugin, quickly run the project.
 
-* Tool chains
+* tool chains
 
 - [[https://www.haskell.org/hoogle/][hoogle]] - quickly searching
 - [[https://github.com/dhall-lang/dhall-haskell][dhall]] - a config language
 
-* Awesome
+* awesome
 - [[https://github.com/krispo/awesome-haskell][haskell]]
 
-* Cheatsheet
+* cheatsheet
 
 - [[https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet][symbol search cheatsheet]]
 
-* Misc
+* misc
 
 - [[http://www.luna-lang.org/][luna-lang]] - Developing by haskell, a visual lang.

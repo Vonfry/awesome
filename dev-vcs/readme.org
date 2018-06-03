@@ -2,7 +2,7 @@
 #+DATE: <2018-05-27 日 20:25>
 #+AUTHOR: Vonfry
 
-* Git
+* git
 
 stupid content tracker: distributed VCS designed for speed and efficiency.
 
@@ -29,10 +29,10 @@ Coded in haskell
 
 - [[https://hub.darcs.net/][darcs-hub]]
 
-* SVN
+* svn
 
 Not distributed, so there is little coyies. Easily to use for non-programers, which provide a default web interface.
 
-* Others
+* others
 
 See [[https://www.slant.co/topics/370/~best-version-control-systems][here]].

@@ -1,27 +1,27 @@
-#+TITLE: CC
+#+TITLE: cc
 #+Date: <2018-05-24 Thu 21:32>
 #+AUTHOR: Vonfry
 
-* Coding Style
+* coding style
 
-- [[https://www.kernel.org/doc/Documentation/process/coding-style.rst][K & R]]
-- [[http://llvm.org/docs/CodingStandards.html][LLVM]]
+- [[https://www.kernel.org/doc/Documentation/process/coding-style.rst][k & r]]
+- [[http://llvm.org/docs/CodingStandards.html][llvm]]
   - tools: clang-format
-- [[https://github.com/isocpp/CppCoreGuidelines][CPPCoreGuide]]
-- [[https://google.github.io/styleguide/cppguide.html][Google]]
-- [[https://github.com/kciter/awesome-style-guide#cpp][More]]
-* Compiler
+- [[https://github.com/isocpp/CppCoreGuidelines][CppCoreGuide]]
+- [[https://google.github.io/styleguide/cppguide.html][google]]
+- [[https://github.com/kciter/awesome-style-guide#cpp][more]]
+* compiler
 
 - [[https://llvm.org/][LLVM]]
 - [[https://gcc.gnu.org/][GCC]]
 
-* Analysis
+* analysis
 
 - [[https://www.gnu.org/software/cflow/][cflow]] - GNU cflow analyzes a collection of C source files and prints a graph, charting control flow within the program.
 - [[https://github.com/Ericsson/codechecker][codechecker]]
 - [[https://scitools.com/][understand]]
 
-* Build
+* build
 
 - make
 - cmake

@@ -1,8 +1,8 @@
-#+TITLE: Text
+#+TITLE: text
 #+DATE: <2018-05-27 二 19:57>
 #+AUTHOR: Vonfry
 
-* Evernote
+* evernote
 
 It has a wonderful function to take a note anywhere. The editor is terrible,
 but it can do a lot for webpage cropping and knowledge organization. I use it

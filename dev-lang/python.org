@@ -1,17 +1,17 @@
-#+TITLE: Python
+#+TITLE: python
 #+Date: <2018-05-25 五 19:35>
 #+AUTHOR: Vonfry
 
-* Compiler
+* compiler
 
 Python 3 is better than 2, which provide more morden designing.
 
-* Coding Style
+* coding style
 
 - [[https://www.python.org/dev/peps/pep-0008/][PEP8]]
   It is too strict, but useful. A tool named ~flake8~ can check it.
 
-* Tool chain
+* tool chain
 
 - pip
 - setuptools

@@ -1,8 +1,8 @@
-#+TITLE: Game
+#+TITLE: game
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-01 五 16:16>
 
-* OSU
+* osu
 
 rhythm is just a *click* away!
 

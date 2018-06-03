@@ -1,8 +1,8 @@
-#+TITLE: Arch
+#+TITLE: arch
 #+DATE: <2018-06-01 五 16:55>
 #+AUTHOR: Vonfry
 
 architect
 
-* Awesome
+* awesome
 - [[https://github.com/xingshaocheng/architect-awesome][xingshaocheng/architect-awesome]]

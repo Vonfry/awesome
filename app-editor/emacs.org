@@ -1,4 +1,4 @@
-#+TITLE: Emacs
+#+TITLE: emacs
 #+AUTHOR: Vonfry
 #+DATE: <2018-05-24 Thu 21:17>
 
@@ -10,25 +10,25 @@ The most powerful thing is ~emacs-lisp~. You can de anything here! So, why not u
 
 And emacs author seems hardworking more than vim.
 
-* Configure
+* configure
   :PROPERTIES:
   :CUSTOM_ID: configure-id
   :END:
 
 Here are some samples, but I suggest only take a look as a reference. Write config by yourself!
 
-- [[https://github.com/VonFry/dotfiles/tree/master/emacs.d][Mine]]
-- [[https://github.com/bbatsov/prelude.git][Prelude]] - very very very /Simple/
+- [[https://github.com/VonFry/dotfiles/tree/master/emacs.d][mine]]
+- [[https://github.com/bbatsov/prelude.git][prelude]] - very very very /Simple/
 - [[https://github.com/hlissner/doom-emacs][doom]]
 - [[https://github.com/syl20bnr/spacemacs][Spacemacs]] - It is too heavy, just use it as a reference.
 
 
-* Plugins
+* plugins
 
-See [[#configure-id][Configure]]
+See [[#configure-id][configure]]
 
 See [[../dev-lang/lsp.org][dev-lang/lsp.org]]
 
-* Awesome
+* awesome
 
 - [[https://github.com/emacs-tw/awesome-emacs][emacs-tw]]

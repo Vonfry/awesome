@@ -1,7 +1,7 @@
-#+TITLE: Markdown
+#+TITLE: markdown
 #+DATE: <2018-05-26 六 15:33>
 #+AUTHOR: Vonfry
 
-* Editor
+* editor
 
 - [[https://marktext.github.io/website/][mark-text]] - A good cross-platform editor

@@ -1,8 +1,8 @@
-#+TITLE: Build
+#+TITLE: build
 #+DATE: <2018-05-25 五 19:55>
 #+AUTHOR: Vonfry
 
-* Universal
+* universal
 
 - make
 - automake

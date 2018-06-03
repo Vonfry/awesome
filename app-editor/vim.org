@@ -1,4 +1,4 @@
-#+TITLE: Vim
+#+TITLE: vim
 #+AUTHOR: Vonfry
 #+DATE: <2018-05-24 Thu 21:16>
 
@@ -17,9 +17,9 @@ rewritten version for vim. It provide more morden api & design, but it is under 
 
 developing gui cross-platform editor by onivim.
 
-* Configure
+* configure
 
 Here are some samples, but I suggest only take a look as a reference. Write config by yourself!
 
-- [[https://github.com/VonFry/dotfiles/blob/master/vimrc][Mine]]
+- [[https://github.com/VonFry/dotfiles/blob/master/vimrc][mine]]
 - [[https://github.com/SpaceVim/SpaceVim][SpaceVim]]

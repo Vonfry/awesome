@@ -2,5 +2,5 @@
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-01 五 16:45>
 
-- [[http://hackage.haskell.org/package/plugins][plugins]] - Dynamic linking for Haskell and C objects
-- [[http://hackage.haskell.org/package/hnix][hnix]] - Haskell implementation of the Nix language
+- plugins - Dynamic linking for Haskell and C objects
+- hnix - Haskell implementation of the Nix language

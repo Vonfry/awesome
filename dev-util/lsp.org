@@ -1,4 +1,4 @@
-#+TITLE: LSP
+#+TITLE: lsp
 #+DATE: <2018-05-24 Thu 21:57>
 #+AUTHOR: Vonfry
 

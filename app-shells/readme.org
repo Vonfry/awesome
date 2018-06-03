@@ -2,7 +2,7 @@
 #+AUTHOR: Vonfry
 #+DATE: <2018-05-26 六 15:50>
 
-* Shell
+* shell
 
 - sh - Please write script use this.
 - bash - The default one, it is inconvenient to use.
@@ -21,7 +21,7 @@
 
 I'm using zsh with antigen and prezto. Oh-my-zsh is good, having a lot of functions but I don't need them. The most important reason is speed and stdandard, for example, oh-my-zsh uses ~source~ to load theme, prezto uses ~zstyle~.
 
-* Tools
+* tools
 
 - autojump - quickly jump to dirs.
 - googler - google in terminal
@@ -47,6 +47,6 @@ I'm using zsh with antigen and prezto. Oh-my-zsh is good, having a lot of functi
 See each category.
 
 Or take a look my [[https://github.com/VonFry/dotfiles/blob/master/etc/portage/sets/vonfry20shell][dotfiles/etc/portage/sets/vonfry20shell]] and [[https://github.com/VonFry/dotfiles/blob/master/setup/11macos.sh][dotfiles/setup/11macos.sh]]
-* Awesome
+* awesome
 - [[https://github.com/alebcay/awesome-shell][shell]]
 - [[https://github.com/unixorn/awesome-zsh-plugins][zsh plugin]]
