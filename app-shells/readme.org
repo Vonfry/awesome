@@ -38,6 +38,7 @@ I'm using zsh with antigen and prezto. Oh-my-zsh is good, having a lot of functi
 - fzf - fuzzy search
 - [[https://github.com/sharkdp/bat][bat]] - A cat(1) clone with wings.
 - [[https://github.com/aviaviavi/confetti][confetti]] - a configuration file swapping tool
+- asciinema - Terminal session recorder
 
 ** useless
 - [[https://github.com/svenstaro/genact][genact]] - Pretend to be busy or waiting for your computer when you should actually be doing real work! Impress people with your insane multitasking skills. Just open a few instances of genact and watch the show. genact has multiple scenes that pretend to be doing something exciting or useful when in reality nothing is happening at all.

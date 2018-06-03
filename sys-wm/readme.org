@@ -1,0 +1,6 @@
+#+TITLE: window manager
+#+DATE: <2018-06-03 日 20:52>
+#+AUTHOR: Vonfry
+
+- XMonad - A tiling window manager, written in haskell. You can configure it a lot.
+- [[https://www.slant.co/topics/390/~best-window-managers-for-linux][more]]
