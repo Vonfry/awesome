@@ -2,4 +2,8 @@
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-01 五 17:17>
 
-- fontforge - postscript font editor and converter
+* app
+ - fontforge - postscript font editor and converter
+
+* font
+  - [[https://github.com/source-foundry/Hack][hack]] - my favourite

@@ -13,3 +13,7 @@ Here are some projects contain many coding style.
 ## analysis
 
 - [cloc](https://github.com/AlDanial/cloc) - count lines of code
+
+## exercism
+
+- [execrism.io](https://github.com/exercism/exercism.io) - Quickly ramp up in new programming languages.

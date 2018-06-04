@@ -24,3 +24,9 @@
   - cmake
   - automake
   - waf
+
+* tool chains
+  - [[https://github.com/doxygen/doxygen][doxygen]] - document code by comment
+
+* awesome
+- [[https://github.com/fffaraz/awesome-cpp][fffaraz/awesome-cpp]] - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.

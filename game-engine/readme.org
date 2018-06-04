@@ -6,3 +6,7 @@
   - [[https://github.com/OGRECave/ogre][ogre]] - scene-oriented, flexible 3D engine written in C++ - official github mirror
   - godot
   - unity3d
+  - [[https://github.com/mangos/MaNGOS][mangos]] - old engine, just take a look to learn.
+
+* 2d
+  - [[https://github.com/krkrz/krkrz][krkrz]] - galgame

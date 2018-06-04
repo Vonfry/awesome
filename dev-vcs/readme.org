@@ -31,6 +31,10 @@
 ** tools
    - git-flow
    - git-extras
+   - [[https://github.com/commitizen/cz-cli][cz-cli]] - The commitizen command line utility. commit format.
+   - [[https://github.com/conventional-changelog/conventional-changelog][conventional-changelog]] - Generate a changelog from git metadata. working with cz-cli
+   - [[https://github.com/github/gitignore][github/gitignore]] - A collection of useful .gitignore templates
+   - gitignore.io
 
 * [[http://darcs.net/][darcs]]
 

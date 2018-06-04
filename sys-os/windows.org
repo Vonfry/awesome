@@ -23,3 +23,6 @@ I'm not developing on windows, many dev tools just for fun.
   - [[http://www.listary.com/][listary]] - Like macos quick searching
   - office
   - [[https://calibre-ebook.com/][calibre]] - e-book
+
+* locale
+  - [[https://github.com/xupefei/Locale-Emulator][locale-emulator]] - Yet Another System Region and Language Simulator

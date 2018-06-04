@@ -16,3 +16,7 @@
 
 * misc
   - [[https://github.com/kanaka/mal][mal]] - A wonderful project to write a lisp compiler by yourself in many language.
+
+* tutor
+  - acl
+    - [[acl-translation / acl-chinese%0A][cn]]

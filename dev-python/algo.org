@@ -3,4 +3,10 @@
 #+DATE: <2018-06-04 一 15:58>
 
 * partice
-- [[https://github.com/coells/100days][100days]]
+ - [[https://github.com/coells/100days][100days]]
+
+* AI
+
+** machine learning
+   - tensorflow
+     - [[https://github.com/astorfi/TensorFlow-World][tensorflow-world]] - Simple and ready-to-use tutorials for TensorFlow

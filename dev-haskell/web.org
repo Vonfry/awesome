@@ -1,0 +1,6 @@
+#+TITLE: web
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-04 一 22:49>
+
+* framework
+ - [[Year:month:day][yesod]] - A RESTful Haskell web framework built on WAI.

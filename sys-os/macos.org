@@ -40,6 +40,7 @@ And there are also some tools which are shown in [[https://github.com/VonFry/dot
   - [[https://wiz.money/][MoneyWiz]] - accounting manager
   - [[https://www.alfredapp.com/][Alfred]] - more powerful quick seach
     - [[https://github.com/rhydlewis/search-omnifocus][searc-omnifocus]]
+    - [[zenorocha / alfred-workflows%0A][workflow collect]]
   - [[https://flexibits.com/fantastical][fantastical]] - calendar
   - [[https://www.toketaware.com/ithoughts-osx/][iThoughtsX]] - mindmap
   - Dropbox
@@ -63,3 +64,4 @@ And there are also some tools which are shown in [[https://github.com/VonFry/dot
 
 * awesome
   - [[https://github.com/hzlzh/Best-App][best app]]
+  - [[https://github.com/sindresorhus/quick-look-plugins][quick-look-plugin]]

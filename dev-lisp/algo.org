@@ -1,0 +1,7 @@
+#+TITLE: algo
+#+DATE: <2018-06-04 一 22:57>
+#+AUTHOR: Vonfry
+
+* AI
+** AIMA (a book)
+   [[https://github.com/aimacode/aima-lisp][aima-lisp]]

@@ -4,6 +4,3 @@
 
 * foundation
  - foundation - a replace for prelude
-
-* checklist
- - [[https://github.com/haskell-perf/checklist][checklist]] - A checklist to optimize code
