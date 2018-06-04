@@ -1,0 +1,5 @@
+#+TITLE: generator
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-04 一 17:22>
+
+[[http://make.girls.moe/][makegirlsmoe/makegirlsmoe_web]] - Create Anime Characters with MakeGirlsMoe

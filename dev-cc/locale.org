@@ -1,0 +1,6 @@
+#+TITLE: locale
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-04 一 16:58>
+
+* chinese
+- openCC - A project for conversion between Traditional and Simplified Chinese

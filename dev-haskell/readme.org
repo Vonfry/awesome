@@ -1,0 +1,9 @@
+#+TITLE: haskell
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-04 一 16:56>
+
+* foundation
+ - foundation - a replace for prelude
+
+* checklist
+ - [[https://github.com/haskell-perf/checklist][checklist]] - A checklist to optimize code

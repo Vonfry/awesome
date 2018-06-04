@@ -1,0 +1,8 @@
+#+TITLE: mirror
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-04 一 16:47>
+
+* chinese
+
+- [[https://mirrors.tuna.tsinghua.edu.cn/][tuna]]
+- [[http://mirrors.ustc.edu.cn/][ustc]]
