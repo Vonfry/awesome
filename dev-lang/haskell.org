@@ -2,6 +2,8 @@
 #+Date: <2018-05-25 Fri 19:04>
 #+AUTHOR: Vonfry
 
+[[https://github.com/haskell/haskell-report][report]] - Haskell Language Report
+
 * coding style
   - [[https://github.com/tibbe/haskell-style-guide][tibble]]
     - tools: hindent
@@ -10,8 +12,10 @@
   - [[https://github.com/ghcjs/ghcjs][ghcjs]] - write web script by haskell
 
 * package & project
+  - [[http://hackage.haskell.org/][hackage]]
   - cabal
   - [[http://www.haskellstack.org/][stack]] - Work with cabal to manage whole project.
+    - [[https://www.stackage.org/][stackage]] - "Stable Hackage": vetted consistent packages from Hackage
     - stack-run - A plugin, quickly run the project.
 
 * tool chains

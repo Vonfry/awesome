@@ -30,3 +30,4 @@ And emacs author seems hardworking more than vim.
 
 * awesome
   - [[https://github.com/emacs-tw/awesome-emacs][emacs-tw]]
+  - [[https://github.com/purcell/elisp-maintainers][maintainers-list]]

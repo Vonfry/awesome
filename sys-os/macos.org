@@ -8,7 +8,10 @@ Some of them haven't link, which can be found easily or in app store.
 
 And there are also some tools which are shown in [[https://github.com/VonFry/dotfiles/blob/master/setup/11macos.sh][dotfiles]].
 
-* code
+* kernel
+  [[darwin-xnu][darwin source]]
+
+* develop
   - [[https://kapeli.com/dash][Dash]] - Document searching tools
   - [[https://developer.apple.com/cn/xcode/ide/][XCode]] - =xcode-select --install=
   - [[https://www.hopperapp.com/][hopper]] - Reversing tools
@@ -36,6 +39,7 @@ And there are also some tools which are shown in [[https://github.com/VonFry/dot
   - [[https://www.omnigroup.com/][OmniPlan]] - project time manager
   - [[https://wiz.money/][MoneyWiz]] - accounting manager
   - [[https://www.alfredapp.com/][Alfred]] - more powerful quick seach
+    - [[https://github.com/rhydlewis/search-omnifocus][searc-omnifocus]]
   - [[https://flexibits.com/fantastical][fantastical]] - calendar
   - [[https://www.toketaware.com/ithoughts-osx/][iThoughtsX]] - mindmap
   - Dropbox
@@ -56,3 +60,6 @@ And there are also some tools which are shown in [[https://github.com/VonFry/dot
 * media
   - [[https://github.com/lhc70000/iina][IINA]] - A wonderful video player
   - [[https://vox.rocks/][Vox]] - Music player
+
+* awesome
+  - [[https://github.com/hzlzh/Best-App][best app]]

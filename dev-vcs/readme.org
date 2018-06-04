@@ -12,6 +12,9 @@
 
 *** gitlab
     powerful!!
+
+    [[https://github.com/NARKOZ/gitlab][gitlab-ci]] - a third part tool check gitlab on ci.
+
 *** gogs / gitea
     light, simple
 

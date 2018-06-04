@@ -11,6 +11,9 @@
 ** macOS
    Texpad is a powerful editor, see [[../app-os/macos.org][macOS.org]]
 
+* tutor
+   - [[https://github.com/tuna/thulib-latex-talk][tuna]]
+
 * template
   - [[https://github.com/amberj/latex-book-template][amberj/latex-book-template]]
 

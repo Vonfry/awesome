@@ -48,5 +48,6 @@
    Or take a look my [[https://github.com/VonFry/dotfiles/blob/master/etc/portage/sets/vonfry20shell][dotfiles/etc/portage/sets/vonfry20shell]] and [[https://github.com/VonFry/dotfiles/blob/master/setup/11macos.sh][dotfiles/setup/11macos.sh]]
 
 * awesome
+  - [[https://github.com/dotfiles/dotfiles.github.com][dotfiles]]
   - [[https://github.com/alebcay/awesome-shell][shell]]
   - [[https://github.com/unixorn/awesome-zsh-plugins][zsh plugin]]
