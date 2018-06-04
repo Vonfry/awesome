@@ -3,25 +3,22 @@
 #+AUTHOR: Vonfry
 
 * coding style
-
-Please follow the ruby constraint, which is enough.
+  Please follow the ruby constraint, which is enough.
 
 * compiler
-
-I think the default is enough.
+  I think the default is enough.
 
 * tool chain
-
-- Gem & bundler
-- rake
-- pry - powerful interpretation
-- pry-doc
-- pry-byebug
-- pry-rails
-- method_source
-- rufo - Ruby code formatter
-- starscope - cscope like
-- nokogiri
-- rouge - code highlight
-- licensee
-- jekyll - static blog
+  - Gem & bundler
+  - rake
+  - pry - powerful interpretation
+  - pry-doc
+  - pry-byebug
+  - pry-rails
+  - method_source
+  - rufo - Ruby code formatter
+  - starscope - cscope like
+  - nokogiri
+  - rouge - code highlight
+  - licensee
+  - jekyll - static blog

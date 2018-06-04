@@ -3,6 +3,6 @@
 #+DATE: <2018-06-04 一 15:56>
 
 * 3d
-- [[https://github.com/OGRECave/ogre][ogre]] - scene-oriented, flexible 3D engine written in C++ - official github mirror
-- godot
-- unity3d
+  - [[https://github.com/OGRECave/ogre][ogre]] - scene-oriented, flexible 3D engine written in C++ - official github mirror
+  - godot
+  - unity3d

@@ -3,7 +3,7 @@
 #+DATE: <2018-06-04 一 16:21>
 
 * summary
- - [[https://github.com/google/sanitizers][google/sanitizers]] - AddressSanitizer, ThreadSanitizer, MemorySanitizer
+  - [[https://github.com/google/sanitizers][google/sanitizers]] - AddressSanitizer, ThreadSanitizer, MemorySanitizer
 
 * adress
 

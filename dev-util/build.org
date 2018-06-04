@@ -3,6 +3,5 @@
 #+AUTHOR: Vonfry
 
 * universal
-
-- make
-- automake
+  - make
+  - automake

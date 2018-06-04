@@ -6,7 +6,7 @@ Project management
 
 * server
 
-- redmine
-- openproject
-- taiga
-- more, see [[../net-misc/readme.org][selfhost]]
+  - redmine
+  - openproject
+  - taiga
+  - more, see [[../net-misc/readme.org][selfhost]]

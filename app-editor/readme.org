@@ -5,11 +5,9 @@
 List some useful tools for editor to navigate, format or do others.
 
 * navigation & completion
-
-Each editor has its own way to do this, but here is a surprising thing which is [[../dev-util/lsp.org][lsp]] designed by microsoft!
+  Each editor has its own way to do this, but here is a surprising thing which is [[../dev-util/lsp.org][lsp]] designed by microsoft!
 
 * coding style
+  A precondition: using differnt sytle for different language.
 
-A precondition: using differnt sytle for different language.
-
-[[http://editorconfig.org/][Editorconfig]] is a tool to let all stuffs using the same coding style in a project.
+  [[http://editorconfig.org/][Editorconfig]] is a tool to let all stuffs using the same coding style in a project.

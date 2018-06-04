@@ -3,26 +3,23 @@
 #+AUTHOR: Vonfry
 
 * compiler
-
-Python 3 is better than 2, which provide more morden designing.
+  Python 3 is better than 2, which provide more morden designing.
 
 * coding style
-
-- [[https://www.python.org/dev/peps/pep-0008/][PEP8]]
-  It is too strict, but useful. A tool named ~flake8~ can check it.
+  - [[https://www.python.org/dev/peps/pep-0008/][PEP8]]
+    It is too strict, but useful. A tool named ~flake8~ can check it.
 
 * tool chain
-
-- pip
-- setuptools
-- wheel
-- [[http://virtualenv.pypa.io/en/stable/][virtualenv]] - sand box
-- [[https://ipython.org/][ipython]] - more powerful interpretation
-- [[https://github.com/davidhalter/jedi][jedi]] - code completion and navigation
-- [[http://flake8.pycqa.org/en/latest/][flake8]] - code checks
-- [[https://github.com/alecthomas/importmagic][importmagic]] - auto imports
-- [[https://github.com/hhatto/autopep8][autopep8]] - code PEP8 formatting
-- [[https://github.com/python-rope/rope][rope]] - refactoring library
-- [[https://github.com/google/yapf][yapf]] - format tool
-- [[https://github.com/portante/pycscope][pycscope]] - cscope support
-- [[http://pytz.sourceforge.net/][pytz]] - a useful package for timezone
+  - pip
+  - setuptools
+  - wheel
+  - [[http://virtualenv.pypa.io/en/stable/][virtualenv]] - sand box
+  - [[https://ipython.org/][ipython]] - more powerful interpretation
+  - [[https://github.com/davidhalter/jedi][jedi]] - code completion and navigation
+  - [[http://flake8.pycqa.org/en/latest/][flake8]] - code checks
+  - [[https://github.com/alecthomas/importmagic][importmagic]] - auto imports
+  - [[https://github.com/hhatto/autopep8][autopep8]] - code PEP8 formatting
+  - [[https://github.com/python-rope/rope][rope]] - refactoring library
+  - [[https://github.com/google/yapf][yapf]] - format tool
+  - [[https://github.com/portante/pycscope][pycscope]] - cscope support
+  - [[http://pytz.sourceforge.net/][pytz]] - a useful package for timezone

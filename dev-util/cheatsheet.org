@@ -3,6 +3,6 @@
 #+AUTHOR: Vonfry
 
 * awesome
-- [[https://github.com/LeCoupa/awesome-cheatsheets][LeCoupa/cheatsheet]]
-- [[https://github.com/rstacruz/cheatsheets][rstacruz/cheatsheets]]
-- [[https://github.com/detailyang/awesome-cheatsheet][detailyang/awesome-cheatsheet]] - another sheet
+  - [[https://github.com/LeCoupa/awesome-cheatsheets][LeCoupa/cheatsheet]]
+  - [[https://github.com/rstacruz/cheatsheets][rstacruz/cheatsheets]]
+  - [[https://github.com/detailyang/awesome-cheatsheet][detailyang/awesome-cheatsheet]] - another sheet

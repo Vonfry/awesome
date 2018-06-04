@@ -15,20 +15,18 @@ And emacs author seems hardworking more than vim.
   :CUSTOM_ID: configure-id
   :END:
 
-Here are some samples, but I suggest only take a look as a reference. Write config by yourself!
+  Here are some samples, but I suggest only take a look as a reference. Write config by yourself!
 
-- [[https://github.com/VonFry/dotfiles/tree/master/emacs.d][mine]]
-- [[https://github.com/bbatsov/prelude.git][prelude]] - very very very /Simple/
-- [[https://github.com/hlissner/doom-emacs][doom]]
-- [[https://github.com/syl20bnr/spacemacs][Spacemacs]] - It is too heavy, just use it as a reference.
-
+  - [[https://github.com/VonFry/dotfiles/tree/master/emacs.d][mine]]
+  - [[https://github.com/bbatsov/prelude.git][prelude]] - very very very /Simple/
+  - [[https://github.com/hlissner/doom-emacs][doom]]
+  - [[https://github.com/syl20bnr/spacemacs][Spacemacs]] - It is too heavy, just use it as a reference.
 
 * plugins
 
-See [[#configure-id][configure]]
+  See [[#configure-id][configure]]
 
-See [[../dev-lang/lsp.org][dev-lang/lsp.org]]
+  See [[../dev-lang/lsp.org][dev-lang/lsp.org]]
 
 * awesome
-
-- [[https://github.com/emacs-tw/awesome-emacs][emacs-tw]]
+  - [[https://github.com/emacs-tw/awesome-emacs][emacs-tw]]

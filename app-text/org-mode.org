@@ -7,4 +7,4 @@ It is more powerful than markdown or rst, and easier than tex.
 Emacs is enough!
 
 * converter
-- org-ruby - org-mode conversation
+  - org-ruby - org-mode conversation

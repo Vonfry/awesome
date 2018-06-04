@@ -3,4 +3,4 @@
 #+AUTHOR: Vonfry
 
 * awesome
-- [[https://github.com/Kickball/awesome-selfhosted][selfhosted]]
+  - [[https://github.com/Kickball/awesome-selfhosted][selfhosted]]

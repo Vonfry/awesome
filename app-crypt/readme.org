@@ -3,21 +3,17 @@
 #+DATE: <2018-05-29 二 19:32>
 
 * password manage
-
-- 1Password - Private password managem.
-- [[https://github.com/nuxsmin/sysPass][sysPass]] - Gestor de Claves web basado en PHP para uso empresarial y personal.
-- more - see [[../net-misc/readme.org][selfhost]]
+  - 1Password - Private password managem.
+  - [[https://github.com/nuxsmin/sysPass][sysPass]] - Gestor de Claves web basado en PHP para uso empresarial y personal.
+  - more - see [[../net-misc/readme.org][selfhost]]
 
 * pgp
-
-Pretty Good Privacy is a nice way to crypt data.
+  Pretty Good Privacy is a nice way to crypt data.
 
 ** GnuPG
-
-A implement of pgp.
+   A implement of pgp.
 
 ** [[https://keybase.io/][keybase]]
+   Use PGP to send message, which like whatsapp but this won't manage you keys, so it is safter. A end-to-end encryption is the best way to exchange message.
 
-Use PGP to send message, which like whatsapp but this won't manage you keys, so it is safter. A end-to-end encryption is the best way to exchange message.
-
-It also is a platform to show your public key. I love it!
+   It also is a platform to show your public key. I love it!

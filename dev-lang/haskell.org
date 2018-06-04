@@ -3,30 +3,26 @@
 #+AUTHOR: Vonfry
 
 * coding style
-
-- [[https://github.com/tibbe/haskell-style-guide][tibble]]
-  - tools: hindent
+  - [[https://github.com/tibbe/haskell-style-guide][tibble]]
+    - tools: hindent
 * compiler
-- [[https://www.haskell.org/ghc/][ghc]]
-- [[https://github.com/ghcjs/ghcjs][ghcjs]] - write web script by haskell
+  - [[https://www.haskell.org/ghc/][ghc]]
+  - [[https://github.com/ghcjs/ghcjs][ghcjs]] - write web script by haskell
 
 * package & project
- - cabal
- - [[http://www.haskellstack.org/][stack]] - Work with cabal to manage whole project.
-   - stack-run - A plugin, quickly run the project.
+  - cabal
+  - [[http://www.haskellstack.org/][stack]] - Work with cabal to manage whole project.
+    - stack-run - A plugin, quickly run the project.
 
 * tool chains
-
-- [[https://www.haskell.org/hoogle/][hoogle]] - quickly searching
-- [[https://github.com/dhall-lang/dhall-haskell][dhall]] - a config language
+  - [[https://www.haskell.org/hoogle/][hoogle]] - quickly searching
+  - [[https://github.com/dhall-lang/dhall-haskell][dhall]] - a config language
 
 * awesome
-- [[https://github.com/krispo/awesome-haskell][haskell]]
+  - [[https://github.com/krispo/awesome-haskell][haskell]]
 
 * cheatsheet
-
-- [[https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet][symbol search cheatsheet]]
+  - [[https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet][symbol search cheatsheet]]
 
 * misc
-
-- [[http://www.luna-lang.org/][luna-lang]] - Developing by haskell, a visual lang.
+  - [[http://www.luna-lang.org/][luna-lang]] - Developing by haskell, a visual lang.

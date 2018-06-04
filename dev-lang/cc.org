@@ -3,27 +3,24 @@
 #+AUTHOR: Vonfry
 
 * coding style
+  - [[https://www.kernel.org/doc/Documentation/process/coding-style.rst][k & r]]
+  - [[http://llvm.org/docs/CodingStandards.html][llvm]]
+    - tools: clang-format
+  - [[https://github.com/isocpp/CppCoreGuidelines][CppCoreGuide]]
+  - [[https://google.github.io/styleguide/cppguide.html][google]]
+  - [[https://github.com/kciter/awesome-style-guide#cpp][more]]
 
-- [[https://www.kernel.org/doc/Documentation/process/coding-style.rst][k & r]]
-- [[http://llvm.org/docs/CodingStandards.html][llvm]]
-  - tools: clang-format
-- [[https://github.com/isocpp/CppCoreGuidelines][CppCoreGuide]]
-- [[https://google.github.io/styleguide/cppguide.html][google]]
-- [[https://github.com/kciter/awesome-style-guide#cpp][more]]
 * compiler
-
-- [[https://llvm.org/][LLVM]]
-- [[https://gcc.gnu.org/][GCC]]
+  - [[https://llvm.org/][LLVM]]
+  - [[https://gcc.gnu.org/][GCC]]
 
 * analysis
-
-- [[https://www.gnu.org/software/cflow/][cflow]] - GNU cflow analyzes a collection of C source files and prints a graph, charting control flow within the program.
-- [[https://github.com/Ericsson/codechecker][codechecker]]
-- [[https://scitools.com/][understand]]
+  - [[https://www.gnu.org/software/cflow/][cflow]] - GNU cflow analyzes a collection of C source files and prints a graph, charting control flow within the program.
+  - [[https://github.com/Ericsson/codechecker][codechecker]]
+  - [[https://scitools.com/][understand]]
 
 * build
-
-- make
-- cmake
-- automake
-- waf
+  - make
+  - cmake
+  - automake
+  - waf

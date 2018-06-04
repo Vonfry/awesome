@@ -3,18 +3,17 @@
 #+AUTHOR: Vonfry
 
 * transfer/synchronization
-
-Self host file sever.
+  Self host file sever.
 
 ** commercial
-- Dropbox
-- Google drive
+   - Dropbox
+   - Google drive
 
 ** Self host
-- seafile - C, and providing WebDAV. Saving file in blocked, so it syncs quickly.
-- Pydio - Python.
-- owncloud - PHP. Having a nice perference for web. Saving file as what you upload.
-  - Nextcloud - a fork from ownclooud
-- rsync - a command line tool, but small and quick. Pre-installed on macos and many linux. But no GUI.
-- syncthing
-- Samba - Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol
+   - seafile - C, and providing WebDAV. Saving file in blocked, so it syncs quickly.
+   - Pydio - Python.
+   - owncloud - PHP. Having a nice perference for web. Saving file as what you upload.
+     - Nextcloud - a fork from ownclooud
+   - rsync - a command line tool, but small and quick. Pre-installed on macos and many linux. But no GUI.
+   - syncthing
+   - Samba - Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol

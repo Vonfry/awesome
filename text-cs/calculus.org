@@ -3,15 +3,14 @@
 #+DATE: <2018-05-29 二 19:38>
 
 * lambda
+  - [[http://goodmath.blogspot.com/][bad math or good math]]
 
-- [[http://goodmath.blogspot.com/][bad math or good math]]
+  translate:
 
-translate:
-
-[[http://cgnail.github.io/academic/lambda-1/][我的最爱Lambda演算——开篇 · cgnail's weblog]]
-[[http://cgnail.github.io/academic/lambda-2/][阿隆佐.丘奇的天才之作——lambda演算中的数字 · cgnail's weblog]]
-[[http://cgnail.github.io/academic/lambda-3/][Lambda演算中的布尔值和选择 · cgnail's weblog]]
-[[http://cgnail.github.io/academic/lambda-4/][为什么是Y？ · cgnail's weblog]]
-[[http://cgnail.github.io/academic/lambda-5/][从Lambda演算到组合子演算 · cgnail's weblog]]
-[[http://cgnail.github.io/academic/lambda-6/][Lambda演算的类型 · cgnail's weblog]]
-[[http%3A//cgnail.github.io/academic/lambda-7/][终章，Lambda演算建模——程序即证明！ · cgnail's weblog]]
+  [[http://cgnail.github.io/academic/lambda-1/][我的最爱Lambda演算——开篇 · cgnail's weblog]]
+  [[http://cgnail.github.io/academic/lambda-2/][阿隆佐.丘奇的天才之作——lambda演算中的数字 · cgnail's weblog]]
+  [[http://cgnail.github.io/academic/lambda-3/][Lambda演算中的布尔值和选择 · cgnail's weblog]]
+  [[http://cgnail.github.io/academic/lambda-4/][为什么是Y？ · cgnail's weblog]]
+  [[http://cgnail.github.io/academic/lambda-5/][从Lambda演算到组合子演算 · cgnail's weblog]]
+  [[http://cgnail.github.io/academic/lambda-6/][Lambda演算的类型 · cgnail's weblog]]
+  [[http%3A//cgnail.github.io/academic/lambda-7/][终章，Lambda演算建模——程序即证明！ · cgnail's weblog]]

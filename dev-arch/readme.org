@@ -5,4 +5,4 @@
 architect
 
 * awesome
-- [[https://github.com/xingshaocheng/architect-awesome][xingshaocheng/architect-awesome]]
+  - [[https://github.com/xingshaocheng/architect-awesome][xingshaocheng/architect-awesome]]

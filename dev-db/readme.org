@@ -5,16 +5,13 @@
 * relational
 
 ** postgresql
-
-It has a tools named [[https://github.com/PostgREST/postgrest][postgrest]], which can more easily create rest api.
+   It has a tools named [[https://github.com/PostgREST/postgrest][postgrest]], which can more easily create rest api.
 
 ** mysql
 
 *** release
-
-- mysql
-- mariadb - An enhanced, drop-in replacement for MySQL
+    - mysql
+    - mariadb - An enhanced, drop-in replacement for MySQL
 
 * non-relational
-
-** readis
+  - readis

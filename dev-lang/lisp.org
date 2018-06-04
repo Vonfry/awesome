@@ -5,18 +5,14 @@
 * compiler
 
 ** common lisp
-
-- sbcl
-- clisp
+   - sbcl
+   - clisp
 
 ** emacs lisp
-
-Use emacs.
+   Use emacs.
 
 ** scheme
-
-- [[https://github.com/cisco/ChezScheme][cisco/ChezScheme]]
+   - [[https://github.com/cisco/ChezScheme][cisco/ChezScheme]]
 
 * misc
-
-- [[https://github.com/kanaka/mal][mal]] - A wonderful project to write a lisp compiler by yourself in many language.
+  - [[https://github.com/kanaka/mal][mal]] - A wonderful project to write a lisp compiler by yourself in many language.
