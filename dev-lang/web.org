@@ -1,0 +1,25 @@
+#+TITLE: web
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-04 一 16:06>
+
+* css
+** extension
+   - less
+   - sass
+     - compass
+
+* html
+  emmmm, nothing.
+
+* javascript
+** style
+   - [[https://github.com/airbnb/javascript][airbnb]]
+** compiler
+   - v8
+   - nodejs
+*** webassembly
+    - emscripten - llvm to webassembly
+    - ghcjs
+
+* package
+  - grunt

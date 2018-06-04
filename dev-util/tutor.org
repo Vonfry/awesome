@@ -1,7 +1,3 @@
 #+TITLE: tutor
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-03 21:10:00 +0800>
-
-* [[http://www.learnenough.com][learnenugh]]
-
-Talking about something a programmer needs but not necessary. These can make you doing things more interesting.

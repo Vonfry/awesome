@@ -1,0 +1,9 @@
+#+TITLE: performance
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-04 一 16:24>
+
+* [[https://github.com/haskell-perf/checklist][checklist]]
+  A checklist to optimize code
+
+* lib
+  - criterion - This library provides a powerful but simple way to measure software performance. It provides both a framework for executing and analysing benchmarks and a set of driver functions that makes it easy to build and run benchmarks, and to analyse their results.

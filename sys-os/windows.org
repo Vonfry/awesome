@@ -5,17 +5,21 @@
 I'm not developing on windows, many dev tools just for fun.
 
 * code
-- [[https://www.visualstudio.com/][visual studio]] - The best IDE on the world!
-  - supercharge
-  - codegraph
-  - vassitx
-  - installer
+  - [[https://www.visualstudio.com/][visual studio]] - The best IDE on the world!
+    - supercharge
+    - codegraph
+    - vassitx
+    - installer
 
 * terminal
-- [[https://conemu.github.io/][ConEmu]] - Emmmm...Better than windows default, but ...
+  - [[https://conemu.github.io/][ConEmu]] - Emmmm...Better than windows default, but ...
+
+** powershell
+   - [[https://github.com/JanDeDobbeleer/oh-my-posh][oh-my-posh]]
+   - [[https://github.com/chocolatey/choco][choco]] - package manager
 
 * effect
-- [[http://www.voidtools.com/][Everything]] - all file searching
-- [[http://www.listary.com/][listary]] - Like macos quick searching
-- office
-- [[https://calibre-ebook.com/][calibre]] - e-book
+  - [[http://www.voidtools.com/][Everything]] - all file searching
+  - [[http://www.listary.com/][listary]] - Like macos quick searching
+  - office
+  - [[https://calibre-ebook.com/][calibre]] - e-book

@@ -3,15 +3,16 @@
 #+AUTHOR: Vonfry
 
 * compile
-
-~xelatex~ is the best one in my opinion, which provides more morden function with different language.
+  ~xelatex~ is the best one in my opinion, which provides more morden function with different language.
 
 * editor
-
-- [[http://tug.org/texlive/][TexLive]] - Containing the most usually using packages with a superior environment and a simple editor.
+  - [[http://tug.org/texlive/][TexLive]] - Containing the most usually using packages with a superior environment and a simple editor.
 
 ** macOS
-
-Texpad is a powerful editor, see [[../app-os/macos.org][macOS.org]]
+   Texpad is a powerful editor, see [[../app-os/macos.org][macOS.org]]
 
 * template
+  - [[https://github.com/amberj/latex-book-template][amberj/latex-book-template]]
+
+* snippet
+  - [[https://github.com/habi/latex][habi/latex]]

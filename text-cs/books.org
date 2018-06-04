@@ -1,0 +1,12 @@
+#+TITLE: books
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-04 一 15:51>
+
+* summary
+** chinese
+   - [[https://github.com/it-ebooks/it-ebooks-archive][ebook]]
+
+* misc
+  - [[http://www.learnenough.com][learnenugh]] - Talking about something a programmer needs but not necessary. These can make you doing things more interesting.
+
+  - [[https://github.com/sarabander/sicp][sicp]] - HTML5/EPUB3 version of SICP

@@ -1,0 +1,9 @@
+#+TITLE: ci
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-04 一 16:26>
+
+* arguments
+  - optparse-applicative
+
+* input
+  - haskeline

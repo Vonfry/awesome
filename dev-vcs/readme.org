@@ -4,35 +4,42 @@
 
 * git
 
-stupid content tracker: distributed VCS designed for speed and efficiency.
+  stupid content tracker: distributed VCS designed for speed and efficiency.
 
-The most used.
+  The most used.
 
 ** server
 
-- gitlab - powerful!!
-- gogs - light, simple
-- [[https://www.slant.co/topics/425/~best-git-web-interfaces][others]]
+*** gitlab
+    powerful!!
+*** gogs / gitea
+    light, simple
 
-git has a simple server by it self, here are some powerful tools.
+*** github
+**** tools
+     - [[https://github.com/piotrmurach/github_cli][github_ci]]
+**** toy
+     - [[https://github.com/tipsy/profile-summary-for-github][tipsy/profile-summary-for-github]] - Tool for visualizing GitHub profiles
+
+
+** [[https://www.slant.co/topics/425/~best-git-web-interfaces][misc]]
+   git has a simple server by it self, here are some powerful tools.
 
 ** tools
-
-- git-flow
-- git-extras
+   - git-flow
+   - git-extras
 
 * [[http://darcs.net/][darcs]]
 
-Coded in haskell
+  Coded in haskell
 
 ** servers
-
-- [[https://hub.darcs.net/][darcs-hub]]
+   - [[https://hub.darcs.net/][darcs-hub]]
 
 * svn
 
-Not distributed, so there is little coyies. Easily to use for non-programers, which provide a default web interface.
+  Not distributed, so there is little coyies. Easily to use for non-programers, which provide a default web interface.
 
-* others
+* misc
 
-See [[https://www.slant.co/topics/370/~best-version-control-systems][here]].
+  See [[https://www.slant.co/topics/370/~best-version-control-systems][here]].

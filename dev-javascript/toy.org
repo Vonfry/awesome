@@ -1,0 +1,7 @@
+#+TITLE: toy
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-04 一 15:55>
+
+Some insteresting toies.
+
+- [[https://github.com/1j01/98][1j01/98]] - Windows 98 simulator online (web-based recreation)
