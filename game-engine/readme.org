@@ -1,12 +1,12 @@
-#+TITLE: engine
+#+TITLE: Engine
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-04 一 15:56>
 
-* 3d
+* 3D
   - [[https://github.com/OGRECave/ogre][ogre]] - scene-oriented, flexible 3D engine written in C++ - official github mirror
   - godot
   - unity3d
   - [[https://github.com/mangos/MaNGOS][mangos]] - old engine, just take a look to learn.
 
-* 2d
+* 2D
   - [[https://github.com/krkrz/krkrz][krkrz]] - galgame

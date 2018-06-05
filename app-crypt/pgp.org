@@ -1,0 +1,13 @@
+#+TITLE: PGP
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-05 二 19:37>
+
+Pretty Good Privacy is a nice way to crypt data.
+
+* GnuPG
+  A implement of pgp.
+
+* [[https://keybase.io/][keybase]]
+  Use PGP to send message, which like whatsapp but this won't manage you keys, so it is safter. A end-to-end encryption is the best way to exchange message.
+
+  It also is a platform to show your public key. I love it!

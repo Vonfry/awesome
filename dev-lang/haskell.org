@@ -1,44 +1,44 @@
-#+TITLE: haskell
+#+TITLE: Haskell
 #+Date: <2018-05-25 Fri 19:04>
 #+AUTHOR: Vonfry
 
 [[https://github.com/haskell/haskell-report][report]] - Haskell Language Report
 
-* coding style
+* Coding Style
   - [[https://github.com/tibbe/haskell-style-guide][tibble]]
     - tools: hindent
-* compiler
+* Compiler
   - [[https://www.haskell.org/ghc/][ghc]]
   - [[https://github.com/ghcjs/ghcjs][ghcjs]] - write web script by haskell
 
-* package & project
+* Package & project
   - [[http://hackage.haskell.org/][hackage]]
   - cabal
   - [[http://www.haskellstack.org/][stack]] - Work with cabal to manage whole project.
     - [[https://www.stackage.org/][stackage]] - "Stable Hackage": vetted consistent packages from Hackage
     - stack-run - A plugin, quickly run the project.
 
-* tool chains
+* Tool chains
   - haddock - comment to document
     - [[https://github.com/aisamanra/haddock-cheatsheet][cheatsheet]]
   - [[https://www.haskell.org/hoogle/][hoogle]] - quickly searching
   - [[https://github.com/dhall-lang/dhall-haskell][dhall]] - a config language
 
-* ci
+* CI
  - [[https://github.com/haskell-CI/haskell-ci][haskell-ci]] - Scripts and instructions for using CI services (e.g. Travis CI or Appveyor) with multiple GHC configurations
 
-* cheatsheet
+* Cheatsheet
   - [[https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet][symbol search cheatsheet]]
 
-* checklist
+* Checklist
  - [[https://github.com/haskell-perf/checklist][checklist]] - A checklist to optimize code
 
-* tutor
+* Tutor
   - real world haskell
     - [[https://github.com/huangz1990/real-world-haskell-cn][cn]]
 
-* misc
+* Misc
   - [[http://www.luna-lang.org/][luna-lang]] - Developing by haskell, a visual lang.
 
-* awesome
+* Awesome
   - [[https://github.com/krispo/awesome-haskell][haskell]]

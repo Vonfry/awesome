@@ -1,34 +1,34 @@
-#+TITLE: vcs
+#+TITLE: VCS
 #+DATE: <2018-05-27 日 20:25>
 #+AUTHOR: Vonfry
 
-* git
+* Git
 
-  stupid content tracker: distributed VCS designed for speed and efficiency.
+  Stupid content tracker: distributed VCS designed for speed and efficiency.
 
-  The most used.
+  the most used.
 
 ** server
 
-*** gitlab
+*** Gitlab
     powerful!!
 
     [[https://github.com/NARKOZ/gitlab][gitlab-ci]] - a third part tool check gitlab on ci.
 
-*** gogs / gitea
+*** Gogs / Gitea
     light, simple
 
-*** github
-**** tools
+*** Github
+**** Tools
      - [[https://github.com/piotrmurach/github_cli][github_ci]]
-**** toy
+**** Toy
      - [[https://github.com/tipsy/profile-summary-for-github][tipsy/profile-summary-for-github]] - Tool for visualizing GitHub profiles
 
 
-** [[https://www.slant.co/topics/425/~best-git-web-interfaces][misc]]
+** [[https://www.slant.co/topics/425/~best-git-web-interfaces][Misc]]
    git has a simple server by it self, here are some powerful tools.
 
-** tools
+** Tools
    - git-flow
    - git-extras
    - [[https://github.com/commitizen/cz-cli][cz-cli]] - The commitizen command line utility. commit format.
@@ -36,17 +36,17 @@
    - [[https://github.com/github/gitignore][github/gitignore]] - A collection of useful .gitignore templates
    - gitignore.io
 
-* [[http://darcs.net/][darcs]]
+* [[http://darcs.net/][Darcs]]
 
-  Coded in haskell
+  coded in haskell
 
-** servers
+** Server
    - [[https://hub.darcs.net/][darcs-hub]]
 
-* svn
+* Svn
 
-  Not distributed, so there is little coyies. Easily to use for non-programers, which provide a default web interface.
+  not distributed, so there is little coyies. Easily to use for non-programers, which provide a default web interface.
 
-* misc
+* Misc
 
   See [[https://www.slant.co/topics/370/~best-version-control-systems][here]].

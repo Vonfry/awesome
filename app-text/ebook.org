@@ -1,4 +1,4 @@
-#+TITLE: ebook
+#+TITLE: EBook
 #+Date: <2018-05-25 五 20:12>
 #+AUTHOR: Vonfry
 

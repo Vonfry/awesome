@@ -1,5 +1,9 @@
-#+TITLE: performance
+#+TITLE: Performance
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-04 一 16:24>
 
+* Third Lib
 - criterion - This library provides a powerful but simple way to measure software performance. It provides both a framework for executing and analysing benchmarks and a set of driver functions that makes it easy to build and run benchmarks, and to analyse their results.
+
+* GHC
+  - ghc -profile

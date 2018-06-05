@@ -1,6 +1,6 @@
-#+TITLE: misc
+#+TITLE: Misc
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-01 五 17:13>
 
-* instresting project
+* Instresting Project
   - [[https://github.com/64/ByteOS][byteos]] - A simple hobby operating system for the x86_64 architecture, written in C.

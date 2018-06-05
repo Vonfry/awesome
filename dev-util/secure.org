@@ -1,22 +1,22 @@
-#+TITLE: secure
+#+TITLE: Secure
 #+Date: <2018-05-24 Thu 21:32>
 #+AUTHOR: Vonfry
 
-* projects
+* Projects
 ** CTF
    - [[https://github.com/ctfs/resources][CTF-Resource]]
    - [[https://github.com/ctf-wiki/ctf-wiki][ctf-wiki]]
    - [[https://github.com/HackThisSite/CTF-Writeups][HackThisSite/CTF-Writeups]] - Things we learned from Capture The Flag hacking competitions we participated in.
 
-** misc
+** Misc
    - [[https://github.com/vulhub/vulhub][vulhub]] - Docker-Compose file for vulnerability environment
 
-* reverse
+* Reverse
 
-** ida pro
+** Ida Pro
 
    A cross-platform sotfware which can be used almost all files.
 
-** android
+** Android
 
    - [[https://github.com/iBotPeaches/Apktool][apktool]] - A tool for reverse engineering Android apk files

@@ -1,6 +1,18 @@
-#+TITLE: haskell
+#+TITLE: Haskell
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-04 一 16:56>
 
-* foundation
+Some basic, useful and enhanced alternative to the prelude.
+
+* Foundation
  - foundation - a replace for prelude
+
+* String
+ - Text
+ - ByteString
+
+* DataStruct
+  - containers
+    - sets - for set-like things
+    - dictionaries - dictionaries, hashmaps, maps, etc.
+    - sequences - lists, vectors/arrays, sequences, etc.

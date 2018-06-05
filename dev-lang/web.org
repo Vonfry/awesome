@@ -1,32 +1,32 @@
-#+TITLE: web
+#+TITLE: Web
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-04 一 16:06>
 
-* css
+* Css
 
 ** extension
    - less
    - sass
      - compass
 
-* html
+* Html
   emmmm, nothing.
 
-* javascript
+* Javascript
 
-** style
+** Style
    - [[https://github.com/airbnb/javascript][airbnb]]
 
-** compiler
+** Compiler
    - v8
    - nodejs
 
-*** webassembly
+*** Webassembly
     - emscripten - llvm to webassembly
     - ghcjs
 
-* package
+* Package
   - grunt
 
-* road map
+* Road Map
   - [[https://github.com/sdmg15/Best-websites-a-programmer-should-visit][best web developers a programmer should visit]]

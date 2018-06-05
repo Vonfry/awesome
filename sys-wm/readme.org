@@ -1,4 +1,4 @@
-#+TITLE: window manager
+#+TITLE: Window Manager
 #+DATE: <2018-06-03 日 20:52>
 #+AUTHOR: Vonfry
 

@@ -1,6 +1,6 @@
-#+TITLE: paper
+#+TITLE: Paper
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-04 一 23:03>
 
-* collection
+* Collection
   - [[https://github.com/papers-we-love/papers-we-love][paper-we-loves]] - Papers from the computer science community to read and discuss.

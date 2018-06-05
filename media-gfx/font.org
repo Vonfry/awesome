@@ -1,9 +1,9 @@
-#+TITLE: font
+#+TITLE: Font
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-01 五 17:17>
 
-* app
+* App
  - fontforge - postscript font editor and converter
 
-* font
+* Font
   - [[https://github.com/source-foundry/Hack][hack]] - my favourite

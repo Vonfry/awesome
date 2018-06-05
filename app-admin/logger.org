@@ -1,5 +1,7 @@
-#+TITLE: logger
+#+TITLE: Logger
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-04 一 16:50>
+
+Manage system log.
 
 - fluentd - data collector and unified logging layer (project under CNCF)

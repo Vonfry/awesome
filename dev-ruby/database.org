@@ -1,10 +1,10 @@
-#+TITLE: database
+#+TITLE: Database
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-03 日 20:48>
 
 - sequel - Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby.
 
-* rails
+* Rails
   separate from rails.
   - ActiveRecord
   - standalone-migrations - A gem to use Rails Database Migrations in non Rails projects

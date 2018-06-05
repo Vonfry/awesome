@@ -1,9 +1,9 @@
-#+TITLE: server
+#+TITLE: Server
 #+DATE: <2018-06-04 一 16:03>
 #+AUTHOR: Vonfry
 
-* web
+* Web
 
-** framework
+** Framework
    - flask - The Python micro framework for building web applications.
    - django

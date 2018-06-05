@@ -1,11 +1,10 @@
-#+TITLE: project
+#+TITLE: Project
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-01 五 17:09>
 
 Project management
 
-* server
-
+* Server
   - redmine
   - openproject
   - taiga

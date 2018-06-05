@@ -1,8 +1,8 @@
-#+TITLE: file
+#+TITLE: File
 #+DATE: <2018-05-31 四 18:45>
 #+AUTHOR: Vonfry
 
-* transfer/synchronization
+* Transfer / Synchronization
   Self host file sever.
 
 ** commercial

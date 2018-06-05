@@ -1,9 +1,9 @@
-#+TITLE: nixos
+#+TITLE: NixOS
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-01 五 17:04>
 
-* guide
+* Guide
   - [[https://github.com/Gabriel439/haskell-nix][haskell-nix]] - Nix and Haskell in production
 
-* converter
+* Converter
   - [[https://github.com/input-output-hk/stack2nix][stack2nix]] - Generate nix expressions for Haskell projects

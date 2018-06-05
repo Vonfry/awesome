@@ -1,6 +1,8 @@
-#+TITLE: algo
+#+TITLE: Algo
 #+DATE: <2018-06-04 一 22:57>
 #+AUTHOR: Vonfry
+
+All algorithm will be listed here.
 
 * AI
 ** AIMA (a book)

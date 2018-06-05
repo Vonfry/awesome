@@ -1,14 +1,14 @@
-#+TITLE: ruby
+#+TITLE: Ruby
 #+Date: <2018-05-25 五 19:35>
 #+AUTHOR: Vonfry
 
-* coding style
+* Coding Style
   Please follow the ruby constraint, which is enough.
 
-* compiler
+* Compiler
   I think the default is enough.
 
-* tool chain
+* Tool Chain
   - Gem & bundler
   - rake
   - pry - powerful interpretation

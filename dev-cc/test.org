@@ -1,4 +1,4 @@
-#+TITLE: test
+#+TITLE: Test
 #+DATE: <2018-06-04 一 22:59>
 #+AUTHOR: Vonfry
 

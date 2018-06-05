@@ -1,4 +1,4 @@
-#+TITLE: badages
+#+TITLE: Badages
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-04 一 17:21>
 

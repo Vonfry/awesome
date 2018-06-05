@@ -12,7 +12,11 @@ All content are managed by dir's name.
 
 `section -> content(file)`
 
+### reademe
+
 The _readme file_ in each section contains some public, unitversal items or represent the section self.
+
+### misc
 
 _misc file_ has contents which are like the file name, __misc__.
 

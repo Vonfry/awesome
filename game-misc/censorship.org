@@ -1,4 +1,4 @@
-#+TITLE: censorship
+#+TITLE: Censorship
 #+DATE: <2018-06-01 五 16:57>
 #+AUTHOR: Vonfry
 

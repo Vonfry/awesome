@@ -1,6 +1,6 @@
-#+TITLE: server
+#+TITLE: Server
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-04 一 16:04>
 
-* web
+* Web
   rails is the best one.

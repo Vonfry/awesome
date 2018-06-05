@@ -1,6 +1,6 @@
-#+TITLE: misc
+#+TITLE: Misc
 #+DATE: <2018-06-04 一 22:44>
 #+AUTHOR: Vonfry
 
-* blog
+* Blog
   - hakyll - static blog

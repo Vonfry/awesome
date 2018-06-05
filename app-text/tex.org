@@ -1,21 +1,21 @@
-#+TITLE: tex
+#+TITLE: Tex
 #+DATE: <2018-05-26 六 15:33>
 #+AUTHOR: Vonfry
 
-* compile
+* Compile
   ~xelatex~ is the best one in my opinion, which provides more morden function with different language.
 
-* editor
+* Editor
   - [[http://tug.org/texlive/][TexLive]] - Containing the most usually using packages with a superior environment and a simple editor.
 
 ** macOS
    Texpad is a powerful editor, see [[../app-os/macos.org][macOS.org]]
 
-* tutor
+* Tutor
    - [[https://github.com/tuna/thulib-latex-talk][tuna]]
 
-* template
+* Template
   - [[https://github.com/amberj/latex-book-template][amberj/latex-book-template]]
 
-* snippet
+* Snippet
   - [[https://github.com/habi/latex][habi/latex]]

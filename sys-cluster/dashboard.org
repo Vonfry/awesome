@@ -1,8 +1,8 @@
-#+TITLE: dashboard
+#+TITLE: Dashboard
 #+DATE: <2018-06-01 五 16:28>
 #+AUTHOR: Vonfry
 
-* terminal
+* Terminal
  - [[https://github.com/senorprogrammer/wtf][senorprogrammer/wtf]] - personal
 
 * OpenStack

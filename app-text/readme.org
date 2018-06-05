@@ -1,4 +1,4 @@
-#+TITLE: text
+#+TITLE: Text
 #+DATE: <2018-05-27 二 19:57>
 #+AUTHOR: Vonfry
 

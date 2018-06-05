@@ -1,28 +1,28 @@
-#+TITLE: windows
+#+TITLE: Windows
 #+DATE: <2018-05-24 Thu 22:02>
 #+AUTHOR: Vonfry
 
 I'm not developing on windows, many dev tools just for fun.
 
-* code
+* Code
   - [[https://www.visualstudio.com/][visual studio]] - The best IDE on the world!
     - supercharge
     - codegraph
     - vassitx
     - installer
 
-* terminal
+* Terminal
   - [[https://conemu.github.io/][ConEmu]] - Emmmm...Better than windows default, but ...
 
 ** powershell
    - [[https://github.com/JanDeDobbeleer/oh-my-posh][oh-my-posh]]
    - [[https://github.com/chocolatey/choco][choco]] - package manager
 
-* effect
+* Effect
   - [[http://www.voidtools.com/][Everything]] - all file searching
   - [[http://www.listary.com/][listary]] - Like macos quick searching
   - office
   - [[https://calibre-ebook.com/][calibre]] - e-book
 
-* locale
+* Locale
   - [[https://github.com/xupefei/Locale-Emulator][locale-emulator]] - Yet Another System Region and Language Simulator

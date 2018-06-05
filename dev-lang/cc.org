@@ -1,8 +1,8 @@
-#+TITLE: cc
+#+TITLE: CC
 #+Date: <2018-05-24 Thu 21:32>
 #+AUTHOR: Vonfry
 
-* coding style
+* Coding Style
   - [[https://www.kernel.org/doc/Documentation/process/coding-style.rst][k & r]]
   - [[http://llvm.org/docs/CodingStandards.html][llvm]]
     - tools: clang-format
@@ -10,23 +10,23 @@
   - [[https://google.github.io/styleguide/cppguide.html][google]]
   - [[https://github.com/kciter/awesome-style-guide#cpp][more]]
 
-* compiler
+* Compiler
   - [[https://llvm.org/][LLVM]]
   - [[https://gcc.gnu.org/][GCC]]
 
-* analysis
+* Analysis
   - [[https://www.gnu.org/software/cflow/][cflow]] - GNU cflow analyzes a collection of C source files and prints a graph, charting control flow within the program.
   - [[https://github.com/Ericsson/codechecker][codechecker]]
   - [[https://scitools.com/][understand]]
 
-* build
+* Build
   - make
   - cmake
   - automake
   - waf
 
-* tool chains
+* Tool chains
   - [[https://github.com/doxygen/doxygen][doxygen]] - document code by comment
 
-* awesome
+* Awesome
 - [[https://github.com/fffaraz/awesome-cpp][fffaraz/awesome-cpp]] - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.

@@ -1,8 +1,10 @@
-#+TITLE: shells
+#+TITLE: Shells
 #+AUTHOR: Vonfry
 #+DATE: <2018-05-26 六 15:50>
 
-* shell
+This mainly means linux/unix shell. Winodows powershell is good, but hardly using for daily and we have other better language for scripts, if you don't use ~.net~.
+
+* Shell
   - sh - Please write script use this.
   - bash - The default one, it is inconvenient to use.
   - zsh - Quickly, easy, having a lot of plugins and more interactive.
@@ -20,7 +22,8 @@
 
   I'm using zsh with antigen and prezto. Oh-my-zsh is good, having a lot of functions but I don't need them. The most important reason is speed and stdandard, for example, oh-my-zsh uses ~source~ to load theme, prezto uses ~zstyle~.
 
-* tools
+* Tools
+  List some useful tools.
   - autojump - quickly jump to dirs.
   - googler - google in terminal
   - lolcat - colorful cat
@@ -39,16 +42,15 @@
   - asciinema - Terminal session recorder
   - shellcheck - ShellCheck, a static analysis tool for shell scripts
 
-** useless
+** Useless
    - [[https://github.com/svenstaro/genact][genact]] - Pretend to be busy or waiting for your computer when you should actually be doing real work! Impress people with your insane multitasking skills. Just open a few instances of genact and watch the show. genact has multiple scenes that pretend to be doing something exciting or useful when in reality nothing is happening at all.
    - [[https://github.com/dustinkirkland/hollywood][hollywood]]
-
-
+** Misc
    See each category.
 
    Or take a look my [[https://github.com/VonFry/dotfiles/blob/master/etc/portage/sets/vonfry20shell][dotfiles/etc/portage/sets/vonfry20shell]] and [[https://github.com/VonFry/dotfiles/blob/master/setup/11macos.sh][dotfiles/setup/11macos.sh]]
 
-* awesome
+* Awesome
   - [[https://github.com/dotfiles/dotfiles.github.com][dotfiles]]
   - [[https://github.com/alebcay/awesome-shell][shell]]
   - [[https://github.com/unixorn/awesome-zsh-plugins][zsh plugin]]

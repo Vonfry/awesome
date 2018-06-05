@@ -1,17 +1,17 @@
-#+TITLE: db
+#+TITLE: DB
 #+DATE: <2018-05-27 日 20:41>
 #+AUTHOR: Vonfry
 
-* relational
+* Relational
 
-** postgresql
+** PostgreSQL
    It has a tools named [[https://github.com/PostgREST/postgrest][postgrest]], which can more easily create rest api.
 
-** mysql
+** MySQL
 
 *** release
     - mysql
     - mariadb - An enhanced, drop-in replacement for MySQL
 
-* non-relational
-  - readis
+* Non-relational
+  - Readis

@@ -1,10 +1,9 @@
-#+TITLE: evernote
+#+TITLE: Evernote
 #+DATE: <2018-06-04 一 22:47>
 #+AUTHOR: Vonfry
 
-* evernote
-  It has a wonderful function to take a note anywhere. The editor is terrible,
-  but it can do a lot for webpage cropping and knowledge organization. I use it
-  for these.
+It has a wonderful function to take a note anywhere. The editor is terrible,
+but it can do a lot for webpage cropping and knowledge organization. I use it
+for these.
 
-  So some content may not tidy in this project.
+So some content may not tidy in this project.

@@ -1,6 +1,6 @@
-#+TITLE: text
+#+TITLE: Text
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-04 一 16:53>
 
-* xml
+* Xml
  - xml-conduit

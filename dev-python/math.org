@@ -1,9 +1,9 @@
-#+TITLE: math
+#+TITLE: Math
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-04 一 22:28$>
 
-- scipy
-- numpy
-- pandas
-- matplotlib
-- sympy
+- Scipy
+- Numpy
+- Pandas
+- Matplotlib
+- Sympy

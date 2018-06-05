@@ -1,6 +1,6 @@
-#+TITLE: english
+#+TITLE: English
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-04 一 22:53>
 
-* chinese
+* Chinese
  - [[https://github.com/shimohq/chinese-programmer-wrong-pronunciation][wrong pronunciation]]

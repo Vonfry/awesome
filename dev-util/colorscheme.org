@@ -1,4 +1,4 @@
-#+TITLE: colorscheme
+#+TITLE: Colorscheme
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-01 五 17:23>
 

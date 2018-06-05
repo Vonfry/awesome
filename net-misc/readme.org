@@ -1,6 +1,0 @@
-#+TITLE: misc
-#+DATE: <2018-05-31 四 19:42>
-#+AUTHOR: Vonfry
-
-* awesome
-  - [[https://github.com/Kickball/awesome-selfhosted][selfhosted]]

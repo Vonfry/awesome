@@ -2,21 +2,21 @@
 #+Date: <2018-05-25 五 19:49>
 #+AUTHOR: Vonfry
 
-* compiler
+* Compiler
 
-** common lisp
+** Common Lisp
    - sbcl
    - clisp
 
-** emacs lisp
+** Emacs lisp
    Use emacs.
 
-** scheme
+** Scheme
    - [[https://github.com/cisco/ChezScheme][cisco/ChezScheme]]
 
-* misc
+* Misc
   - [[https://github.com/kanaka/mal][mal]] - A wonderful project to write a lisp compiler by yourself in many language.
 
-* tutor
+* Tutor
   - acl
     - [[acl-translation / acl-chinese%0A][cn]]

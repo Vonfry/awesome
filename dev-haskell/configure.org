@@ -1,0 +1,6 @@
+#+TITLE: Configure
+#+AUTHOR: Vonfry
+#+DATE: <2018-06-05 二 20:00>
+
+- hnix - Haskell implementation of the Nix language
+- dhall

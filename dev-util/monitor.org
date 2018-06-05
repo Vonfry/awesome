@@ -1,13 +1,13 @@
-#+TITLE: monitor
+#+TITLE: Monitor
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-04 一 16:21>
 
-* summary
+* Summary
   - [[https://github.com/google/sanitizers][google/sanitizers]] - AddressSanitizer, ThreadSanitizer, MemorySanitizer
 
-* adress
+* Adress
 
-* thread
+* Thread
   - [[https://github.com/opcm/pcm][pcm]] - Processor Counter Monitor
 
-* memory
+* Memory

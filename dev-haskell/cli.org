@@ -1,12 +1,12 @@
-#+TITLE: cli
+#+TITLE: CLI
 #+AUTHOR: Vonfry
 #+DATE: <2018-06-04 一 16:26>
 
-* arguments
+* Arguments
   - optparse-applicative
 
-* input
+* Input
   - haskeline
 
-* interpreter
+* Interpreter
   - ihaskell
