@@ -17,6 +17,7 @@
   - [[http://www.haskellstack.org/][stack]] - Work with cabal to manage whole project.
     - [[https://www.stackage.org/][stackage]] - "Stable Hackage": vetted consistent packages from Hackage
     - stack-run - A plugin, quickly run the project.
+  - [[https://github.com/nmattia/snack][snack]] - Nix-based incremental Haskell build tool
 
 * Tool chains
   - haddock - comment to document
