@@ -3,4 +3,5 @@
 #+AUTHOR: Vonfry
 
 - XMonad - A tiling window manager, written in haskell. You can configure it a lot.
+  - [[https://github.com/taffybar/taffybar][system info bar]]
 - [[https://www.slant.co/topics/390/~best-window-managers-for-linux][more]]
