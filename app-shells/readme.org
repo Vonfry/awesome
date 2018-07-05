@@ -41,6 +41,7 @@ This mainly means linux/unix shell. Winodows powershell is good, but hardly usin
   - [[https://github.com/aviaviavi/confetti][confetti]] - a configuration file swapping tool
   - asciinema - Terminal session recorder
   - shellcheck - ShellCheck, a static analysis tool for shell scripts
+  - [[https://github.com/simonmichael/hledger][simonmichael/hledger]] - The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger
 
 ** Useless
    - [[https://github.com/svenstaro/genact][genact]] - Pretend to be busy or waiting for your computer when you should actually be doing real work! Impress people with your insane multitasking skills. Just open a few instances of genact and watch the show. genact has multiple scenes that pretend to be doing something exciting or useful when in reality nothing is happening at all.
