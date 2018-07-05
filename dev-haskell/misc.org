@@ -4,3 +4,6 @@
 
 * Blog
   - hakyll - static blog
+
+* Amazing
+  - [[https://github.com/dpiponi/quine-central][dpiponi/quine-central]] - This is a Haskell program that prints out a Perl program that prints out a Python program that prints out a Ruby program that prints out a C program that prints out a Java program that prints out the original program.
