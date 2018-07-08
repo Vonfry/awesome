@@ -1,0 +1,7 @@
+#+TITLE: Log
+#+AUTHOR: Vonfry
+#+DATE: <2018-07-08 日 10:55>
+
+- [[https://www.elastic.co/cn/products/logstash][logstas]] - transport and process your logs, events, or other data
+- elk
+- [[https://goaccess.io/][goaccess]] - GoAccess was designed to be a fast, terminal-based log analyzer. Its core idea is to quickly analyze and view web server statistics in real time without needing to use your browser (great if you want to do a quick analysis of your access log via SSH, or if you simply love working in the terminal).
