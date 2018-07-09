@@ -5,3 +5,7 @@
 * Web Log
   - goaccess - A real-time web log analyzer and interactive viewer that runs in a terminal
   - more, see: [[../net-misc/readme.org][selfhost]]
+
+* Security
+  - nmap - port scan
+  - nessus - A remote security scanner
