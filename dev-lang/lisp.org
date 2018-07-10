@@ -10,6 +10,7 @@
 
 ** Emacs lisp
    Use emacs.
+*** [[https://github.com/bbatsov/emacs-lisp-style-guide][Coding Style]]
 
 ** Scheme
    - [[https://github.com/cisco/ChezScheme][cisco/ChezScheme]]
