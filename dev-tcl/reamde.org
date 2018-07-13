@@ -1,0 +1,7 @@
+#+TITLE: Tcl
+#+DATE: <2018-07-13 五 14:52>
+#+AUTHOR: Vonfry
+
+* Test
+** Automate
+    - except - tool for automating interactive applications
