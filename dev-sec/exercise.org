@@ -1,0 +1,16 @@
+#+TITLE: Exercise
+#+Date: <2018-07-15 Sun 10:10>
+#+AUTHOR: Vonfry
+
+** CTF
+   - [[https://picoctf.com/][picoctf]]
+   - [[https://ctfs.me/][ctfs.me]]
+   - [[https://ctflearn.com/][CTF-learn]]
+   - [[https://github.com/ctfs/resources][CTF-Resource]]
+   - [[https://github.com/ctf-wiki/ctf-wiki][ctf-wiki]]
+   - [[https://github.com/HackThisSite/CTF-Writeups][HackThisSite/CTF-Writeups]] - Things we learned from Capture The Flag hacking competitions we participated in.
+
+** Website
+   - [[http://pwnable.kr/][pwnable]] - 'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. the main purpose of pwnable.kr is 'fun'.    please consider each of the challenges as a game. while playing pwnable.kr, you could learn/improve system hacking skills but that shouldn't be your only purpose.
+   - [[https://www.hackthebox.eu/][hack the box]]
+

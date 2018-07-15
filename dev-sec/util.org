@@ -1,0 +1,16 @@
+#+TITLE: Util
+#+Date: <2018-07-15 Sun 10:10>
+#+AUTHOR: Vonfry
+
+* Reverse
+
+** Ida Pro
+
+   A cross-platform sotfware which can be used almost all files.
+
+** Android
+
+   - [[https://github.com/iBotPeaches/Apktool][apktool]] - A tool for reverse engineering Android apk files
+
+** Misc
+   - [[https://github.com/vulhub/vulhub][vulhub]] - Docker-Compose file for vulnerability environment
