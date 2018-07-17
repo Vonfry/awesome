@@ -50,6 +50,8 @@ And there are also some tools which are shown in [[https://github.com/VonFry/dot
   - [[https://www.yummysoftware.com/][yummy ftp]] - ftp & sftp
   - [[https://itunes.apple.com/us/app/folx-go/id736584830][folx]] - download
   - [[https://pdfexpert.com/][pdf expert]]
+  - unlox - Unlock your Mac with your fingerprint, wrist or face.
+  - duet display - Ex-Apple Engineers turn your iPad into an extra display.
 
 * Design
   - [[https://sketchbook.com/][SketchBook]] - draw a picture
