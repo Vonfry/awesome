@@ -9,3 +9,8 @@ Project management
   - openproject
   - taiga
   - more, see [[../net-misc/readme.org][selfhost]]
+
+* Tracking
+  - trello
+  - Pivotal Tracker
+  - [[https://www.slant.co/topics/1811/~feature-tracking-planning-tools-for-small-development-teams][more]]
