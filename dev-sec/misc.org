@@ -1,0 +1,6 @@
+#+TITLE: Misc
+#+Date: <2018-07-23 Mon 16:24>
+#+AUTHOR: Vonfry
+
+- [[https://www.sans.org/][sans]]
+- [[https://www.offensive-security.com/][ospc]]
