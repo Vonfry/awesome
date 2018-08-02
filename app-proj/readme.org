@@ -11,6 +11,7 @@ Project management
   - more, see [[../net-misc/readme.org][selfhost]]
 
 * Tracking
+  - Jira & Jenkins - which can be cooperated with gitlab
   - trello
   - Pivotal Tracker
   - [[https://www.slant.co/topics/1811/~feature-tracking-planning-tools-for-small-development-teams][more]]
