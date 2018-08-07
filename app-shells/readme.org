@@ -25,6 +25,8 @@ This mainly means linux/unix shell. Winodows powershell is good, but hardly usin
 * Tools
   List some useful tools.
   - autojump - quickly jump to dirs.
+  - most - powerful more and less
+  - mc - GNU Midnight Commander is a text based file manager
   - googler - google in terminal
   - lolcat - colorful cat
   - tree - show dir structure as a tree
@@ -46,6 +48,7 @@ This mainly means linux/unix shell. Winodows powershell is good, but hardly usin
 ** Useless
    - [[https://github.com/svenstaro/genact][genact]] - Pretend to be busy or waiting for your computer when you should actually be doing real work! Impress people with your insane multitasking skills. Just open a few instances of genact and watch the show. genact has multiple scenes that pretend to be doing something exciting or useful when in reality nothing is happening at all.
    - [[https://github.com/dustinkirkland/hollywood][hollywood]]
+
 ** Misc
    See each category.
 
