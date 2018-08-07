@@ -1,0 +1,7 @@
+#+TITLE: Security
+#+AUTHOR: Vonfry
+#+DATE: <2018-08-07 二 20:06>
+
+- snort - Snort is an intrusion prevention system, network monitor, and alert daemon.
+- ossec
+- fail2ban - scans log files and bans IPs that show malicious signs
