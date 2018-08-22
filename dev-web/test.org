@@ -4,3 +4,6 @@
 
 * Automate
 - selenium
+
+* Penetration
+- beef - The Browser Exploitation Framework Project
