@@ -1,0 +1,6 @@
+#+TITLE: Kernel
+#+DATE:
+#+AUTHOR: Vonfry
+
+* cheat
+- [[https://github.com/cirosantilli/linux-kernel-module-cheat][cirosantilli/linux-kernel-module-cheat]]
