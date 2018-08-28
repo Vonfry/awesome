@@ -34,6 +34,10 @@
 * Checklist
  - [[https://github.com/haskell-perf/checklist][checklist]] - A checklist to optimize code
 
+* IDE
+  - [[https://github.com/haskell/haskell-ide-engine][haskell-ide-engine]] - A framework which can work with vim, emacs and others
+  - [[https://github.com/leksah/leksah][leksah]]
+
 * Tutor
   - real world haskell
     - [[https://github.com/huangz1990/real-world-haskell-cn][cn]]
