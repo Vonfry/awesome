@@ -16,3 +16,9 @@ Some basic, useful and enhanced alternative to the prelude.
     - sets - for set-like things
     - dictionaries - dictionaries, hashmaps, maps, etc.
     - sequences - lists, vectors/arrays, sequences, etc.
+
+* Compiler
+
+  - llvm
+  - rdstc
+  - Harpy
