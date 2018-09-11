@@ -1,0 +1,1 @@
+- [a chinese archive](https://web.archive.org/save/https://www.itcodemonkey.com/article/8867.html)
