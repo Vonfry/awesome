@@ -21,3 +21,7 @@ Here are some projects contain many coding style.
 ## Exercism
 
 - [execrism.io](https://github.com/exercism/exercism.io) - Quickly ramp up in new programming languages.
+
+## Misc
+
+- [thinking with function](https://github.com/jwiegley/thinking-with-functions)
