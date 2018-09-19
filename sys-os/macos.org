@@ -25,7 +25,9 @@ And there are also some tools which are shown in [[https://github.com/VonFry/dot
 * System
   - [[https://www.teamviewer.com/][Teamviewer]] - remote desktop controling
   - [[http://www.parallels.com][Parallels Desktop]] - Best Virtual Machine on macOS, I think.
+  - [[https://freemacsoft.net/appcleaner/][AppCleaner]] - free
   - CleanMyMac
+  - Onxy
   - [[https://www.mediaatelier.com/CheatSheet/][CheatSheet]] - quickly see shortcut
   - [[https://theunarchiver.com][The Unarchiver]] - archive tool
   - [[https://totalfinder.binaryage.com/][totalfinder]]
