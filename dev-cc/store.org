@@ -1,0 +1,5 @@
+#+TITLE: Store
+#+DATE: <2018-09-22 一 21:59>
+#+AUTHOR: Vonfry
+
+- FoundationDB - the open source, distributed, transactional key-value store
