@@ -2,5 +2,8 @@
 #+DATE:
 #+AUTHOR: Vonfry
 
-* cheat
+* Cheat
 - [[https://github.com/cirosantilli/linux-kernel-module-cheat][cirosantilli/linux-kernel-module-cheat]]
+
+* Source
+- [[http://lxr.linux.no][lxr]] - the linux cross reference
