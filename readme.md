@@ -29,3 +29,7 @@ Here are some good awesome what I love.
 Other special awesome in the section's readme file.
 
 - [awesome](https://github.com/sindresorhus/awesome)
+
+## Ask
+
+- [how to ask questino the smart way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
