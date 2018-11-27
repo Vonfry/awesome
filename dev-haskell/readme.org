@@ -22,3 +22,7 @@ Some basic, useful and enhanced alternative to the prelude.
   - llvm
   - rdstc
   - Harpy
+
+* Article
+  - [[http://www.willamette.edu/~fruehr/haskell/evolution.html][The Evolution of a Haskell Programmer
+]]
