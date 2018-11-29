@@ -1,0 +1,5 @@
+#+TITLE: Math
+#+DATE: <2018-11-29 一 21:59>
+#+AUTHOR: Vonfry
+
+- ensmallen - flexible C++ library for efficient mathematical optimization
