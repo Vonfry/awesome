@@ -17,6 +17,7 @@ And there are also some tools which are shown in [[https://github.com/VonFry/dot
   - [[https://www.hopperapp.com/][hopper]] - Reversing tools
   - [[https://paw.cloud/][Paw]] - Web API Test
   - [[https://www.docker.com/][docker Tool box]] - You should install docker with the specific tools
+  - VimR - Refined Neoviw for macOS
 
 * Terminal
   - [[https://www.iterm2.com/][iTerm]] - terminal simulator
