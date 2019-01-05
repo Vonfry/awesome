@@ -24,5 +24,4 @@ Some basic, useful and enhanced alternative to the prelude.
   - Harpy
 
 * Article
-  - [[http://www.willamette.edu/~fruehr/haskell/evolution.html][The Evolution of a Haskell Programmer
-]]
+  - [[http://www.willamette.edu/~fruehr/haskell/evolution.html][The Evolution of a Haskell Programmer ]]
