@@ -4,6 +4,12 @@
 
 This mainly means linux/unix shell. Winodows powershell is good, but hardly using for daily and we have other better language for scripts, if you don't use ~.net~.
 
+* Terminal
+- xterm
+- urxvt
+- termonad - Terminal emulator configurable in Haskell.
+- alacritty - use gpu for terminal
+
 * Shell
   - sh - Please write script use this.
   - bash - The default one, it is inconvenient to use.

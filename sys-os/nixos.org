@@ -6,4 +6,4 @@
   - [[https://github.com/Gabriel439/haskell-nix][haskell-nix]] - Nix and Haskell in production
 
 * Converter
-  - [[https://github.com/input-output-hk/stack2nix][stack2nix]] - Generate nix expressions for Haskell projects
+See nixpkgs manual

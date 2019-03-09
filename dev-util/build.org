@@ -5,3 +5,4 @@
 * Universal
   - make
   - automake
+  - nix
