@@ -10,3 +10,6 @@
   - [[http://www.learnenough.com][learnenugh]] - Talking about something a programmer needs but not necessary. These can make you doing things more interesting.
 
   - [[https://github.com/sarabander/sicp][sicp]] - HTML5/EPUB3 version of SICP
+
+* Awesome
+  - [[https://github.com/EbookFoundation/free-programming-books][free programming books]]
