@@ -6,3 +6,5 @@
   - make
   - automake
   - nix
+  - direnv
+  - lorri - combine with nix-shell and direnv
