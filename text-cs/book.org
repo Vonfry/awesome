@@ -6,6 +6,9 @@
 ** Chinese
    - [[https://github.com/it-ebooks/it-ebooks-archive][ebook]]
 
+* Note
+- [[https://github.com/apachecn/stanford-cs183-notes][apachecn/stanford-cs183-notes]]
+
 * Misc
   - [[http://www.learnenough.com][learnenugh]] - Talking about something a programmer needs but not necessary. These can make you doing things more interesting.
 
