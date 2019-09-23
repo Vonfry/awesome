@@ -4,4 +4,4 @@
 
 - [[https://devdocs.io][devDocs]]
 - [[https://zealdocs.org/][zeal]] - linux & windows
-- dash - macos
+- [[https://kapeli.com/dash][dash]] - macos
