@@ -1,0 +1,6 @@
+#+TITLE: Agda
+#+Date: <2019-10-12 Sat 12:55>
+#+AUTHOR: Vonfry
+
+Agda is a dependently typed programming language / interactive theorem
+prover.

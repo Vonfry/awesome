@@ -1,0 +1,5 @@
+#+TITLE: Math
+#+AUTHOR: Vonfry
+#+DATE: <2019-10-12 Sat>
+
+- math-comp

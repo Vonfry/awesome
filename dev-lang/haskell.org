@@ -25,6 +25,7 @@
     - [[https://github.com/aisamanra/haddock-cheatsheet][cheatsheet]]
   - [[https://www.haskell.org/hoogle/][hoogle]] - quickly searching
   - [[https://github.com/dhall-lang/dhall-haskell][dhall]] - a config language
+  - [[https://github.com/yav/graphmod][graphmod]] - A utility for displaying the module dependencies of Haskell programs.
 
 * CI
  - [[https://github.com/haskell-CI/haskell-ci][haskell-ci]] - Scripts and instructions for using CI services (e.g. Travis CI or Appveyor) with multiple GHC configurations
