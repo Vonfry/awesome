@@ -9,3 +9,7 @@
 * Security
   - nmap - port scan
   - nessus - A remote security scanner
+
+* Emulation
+  - exata
+  - [[https://github.com/omnetpp/omnetpp][omnetpp]]
