@@ -1,0 +1,6 @@
+#+TITLE: Symbolic
+#+AUTHOR: Vonfry
+#+DATE: <2019-10-15 五 11:24>
+
+- [https://github.com/GaloisInc/crucible][crucible] - Crucible is a library for symbolic simulation of imperative programs
+
