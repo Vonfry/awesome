@@ -51,6 +51,7 @@
 * Awesome
   - [[https://github.com/krispo/awesome-haskell][haskell]]
   - [[https://github.com/albohlabs/awesome-haskell][for beginner]]
+  - [[https://github.com/sdiehl/wiwinwlh][wiwinwlh]]
 
 * Article
   - [[http://www.willamette.edu/~fruehr/haskell/evolution.html][The Evolution of a Haskell Programmer ]]
