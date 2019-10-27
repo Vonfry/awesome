@@ -60,4 +60,4 @@
   - 范畴论完全装逼手册 / Grokking Monad
 	- [[https://web.archive.org/web/20191027082028/https://blog.oyanglul.us/grokking-monad/part1][part1]]
 	- [[https://web.archive.org/web/20191027082045/https://blog.oyanglul.us/grokking-monad/part2][part2]]
-	- [[https://web.archive.org/save/https://blog.oyanglul.us/grokking-monad/part3][part3]]
+	- [[https://web.archive.org/web/20191027082055/https://blog.oyanglul.us/grokking-monad/part3][part3]]
