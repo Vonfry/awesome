@@ -9,6 +9,7 @@
     - tools: hindent
 * Compiler
   - [[https://www.haskell.org/ghc/][ghc]]
+    - [[https://github.com/ndmitchell/ghcid][ghcid]] - Very low feature GHCi based IDE
   - [[https://github.com/ghcjs/ghcjs][ghcjs]] - write web script by haskell
 
 * Package & project
