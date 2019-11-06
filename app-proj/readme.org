@@ -1,6 +1,6 @@
 #+TITLE: Project
 #+AUTHOR: Vonfry
-#+DATE: <2018-06-01 五 17:09>
+#+DATE: <2019-11-06 Wed 10:39>
 
 Project management
 
@@ -18,3 +18,6 @@ Project management
   - openproject
   - Pivotal Tracker
   - [[https://www.slant.co/topics/1811/~feature-tracking-planning-tools-for-small-development-teams][more]]
+
+* Misc
+- [[https://github.com/hashicorp/terraform][terraform]] - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. https://www.terraform.io/
