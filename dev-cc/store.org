@@ -1,5 +1,6 @@
 #+TITLE: Store
-#+DATE: <2018-09-22 一 21:59>
+#+DATE: <2019-11-09 Sat 11:55>
 #+AUTHOR: Vonfry
 
 - FoundationDB - the open source, distributed, transactional key-value store
+- [[https://github.com/protocolbuffers/protobuf][protobuf]] - Protocol Buffers - Google's data interchange format
