@@ -1,0 +1,6 @@
+#+TITLE: Rust
+#+DATE: <2019-11-19 Tue 08:33>
+#+AUTHOR: Vonfry
+
+* Awesome
+  - [[https://github.com/rust-unofficial/awesome-rust][rust-unofficial/awesome-rust]]
