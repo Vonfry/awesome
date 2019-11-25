@@ -55,6 +55,7 @@
   - [[https://github.com/sdiehl/wiwinwlh][wiwinwlh]]
 
 * Article
+  - [[https://www.williamyaoh.com/posts/2019-11-24-design-and-testing-articles.html][A LIST OF HASKELL ARTICLES ON GOOD DESIGN, GOOD TESTING]]
   - [[http://www.willamette.edu/~fruehr/haskell/evolution.html][The Evolution of a Haskell Programmer ]]
   - [[https://stackoverflow.com/questions/6724434/how-to-debug-haskell-code][How to debug Haskell code?]]
   - [[https://stackoverflow.com/questions/4156727/what-is-the-difference-between-pattern-matching-and-guards][What is the difference between Pattern Matching and Guards?]]
