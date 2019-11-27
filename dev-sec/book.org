@@ -1,0 +1,5 @@
+#+TITLE: Book
+#+AUTHOR: Vonfry
+#+DATE: <2019-11-27 Wed 10:15>
+
+- [[https://beginners.re/][beginners]]
