@@ -10,3 +10,7 @@
     - niv - Easy dependency management for Nix projects
     - [[https://github.com/nix-community/awesome-nix][awesome-nix]]
   - direnv
+
+* Mobile
+  - [[https://github.com/fastlane/fastlane][fastlane]]
+
