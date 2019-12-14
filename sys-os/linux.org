@@ -9,4 +9,8 @@
 
   Both of them are my love. And the archlinux's wiki is the best wiki I think.
 
-  I use Gentoo for my main server, and use nixos to do something quickly. Gentoo needs more time to configure and install.
+  _I use Gentoo for my main server, and use nixos to do something quickly. Gentoo needs more time to configure and install._
+
+* Kernal patch
+  - [[https://github.com/zen-kernel/zen-kernel][zen]]
+  - other - see gentoo hardened wiki

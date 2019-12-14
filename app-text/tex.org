@@ -20,6 +20,8 @@
   - [[https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/][ieee]]
   - [[https://www.springer.com/gp/livingreviews/latex-templates][springer]]
   - [[https://github.com/amberj/latex-book-template][amberj/latex-book-template]]
+  - [[https://github.com/jdavis/latex-homework-template][homework]]
+  - [[https://github.com/mohuangrui/ucasthesis][ucasthesis]]
 
 * Snippet
   - [[https://github.com/habi/latex][habi/latex]]
