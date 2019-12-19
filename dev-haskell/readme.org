@@ -6,6 +6,7 @@ Some basic, useful and enhanced alternative to the prelude.
 
 * Foundation
  - foundation - a replace for prelude
+ - [[https://github.com/polysemy-research/polysemy][polysemy]] - gemini higher-order, no-boilerplate, zero-cost monads
 
 * String
  - Text
