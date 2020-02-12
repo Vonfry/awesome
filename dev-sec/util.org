@@ -7,6 +7,7 @@
 - [[https://www.metasploit.com/][metasploit]]
 - Ida Pro
    A cross-platform sotfware which can be used almost all files.
+- [[https://binary.ninja/][binary ninja]] - A New Type of Reversing Platform
 
 ** Android
 
