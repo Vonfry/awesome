@@ -1,0 +1,5 @@
+#+TITLE: Haskell
+#+Date: <2019-10-12 Sat 12:55>
+#+AUTHOR: Vonfry
+
+A Dependently Typed Functional Programming Language

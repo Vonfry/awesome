@@ -14,3 +14,6 @@
   [[http://cgnail.github.io/academic/lambda-5/][从Lambda演算到组合子演算 · cgnail's weblog]]
   [[http://cgnail.github.io/academic/lambda-6/][Lambda演算的类型 · cgnail's weblog]]
   [[http%3A//cgnail.github.io/academic/lambda-7/][终章，Lambda演算建模——程序即证明！ · cgnail's weblog]]
+
+* Logic
+  - [[https://softwarefoundations.cis.upenn.edu/current/index.html][software foundation]]

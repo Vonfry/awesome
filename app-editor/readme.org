@@ -11,3 +11,6 @@ List some useful tools for editor to navigate, format or do others.
   A precondition: using differnt sytle for different language.
 
   [[http://editorconfig.org/][Editorconfig]] is a tool to let all stuffs using the same coding style in a project.
+
+* build your self
+  - [[https://viewsourcecode.org/snaptoken/kilo/index.html][url]]

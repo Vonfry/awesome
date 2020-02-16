@@ -1,5 +1,5 @@
 #+TITLE: CC
-#+Date: <2018-05-24 Thu 21:32>
+#+Date: <2019-11-14 Thu 15:20>
 #+AUTHOR: Vonfry
 
 * Coding Style
@@ -24,6 +24,7 @@
   - cmake
   - automake
   - waf
+  - [[https://github.com/rizsotto/Bear][bear]] - a tools to help generate compile-commands.json
 
 * Tool chains
   - [[https://github.com/doxygen/doxygen][doxygen]] - document code by comment

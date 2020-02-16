@@ -9,6 +9,7 @@
     - tools: hindent
 * Compiler
   - [[https://www.haskell.org/ghc/][ghc]]
+    - [[https://github.com/ndmitchell/ghcid][ghcid]] - Very low feature GHCi based IDE
   - [[https://github.com/ghcjs/ghcjs][ghcjs]] - write web script by haskell
 
 * Package & project
@@ -25,6 +26,7 @@
     - [[https://github.com/aisamanra/haddock-cheatsheet][cheatsheet]]
   - [[https://www.haskell.org/hoogle/][hoogle]] - quickly searching
   - [[https://github.com/dhall-lang/dhall-haskell][dhall]] - a config language
+  - [[https://github.com/yav/graphmod][graphmod]] - A utility for displaying the module dependencies of Haskell programs.
 
 * CI
  - [[https://github.com/haskell-CI/haskell-ci][haskell-ci]] - Scripts and instructions for using CI services (e.g. Travis CI or Appveyor) with multiple GHC configurations
@@ -44,7 +46,20 @@
     - [[https://github.com/huangz1990/real-world-haskell-cn][cn]]
 
 * Misc
-  - [[http://www.luna-lang.org/][luna-lang]] - Developing by haskell, a visual lang.
+  - [[http://www.luna-lang.org/][luna-lang]] - a visual lang.
+  - [[https://www.idris-lang.org/][Idris]] - A Dependently Typed Functional Programming Language
 
 * Awesome
   - [[https://github.com/krispo/awesome-haskell][haskell]]
+  - [[https://github.com/albohlabs/awesome-haskell][for beginner]]
+  - [[https://github.com/sdiehl/wiwinwlh][wiwinwlh]]
+
+* Article
+  - [[https://www.williamyaoh.com/posts/2019-11-24-design-and-testing-articles.html][A LIST OF HASKELL ARTICLES ON GOOD DESIGN, GOOD TESTING]]
+  - [[http://www.willamette.edu/~fruehr/haskell/evolution.html][The Evolution of a Haskell Programmer ]]
+  - [[https://stackoverflow.com/questions/6724434/how-to-debug-haskell-code][How to debug Haskell code?]]
+  - [[https://stackoverflow.com/questions/4156727/what-is-the-difference-between-pattern-matching-and-guards][What is the difference between Pattern Matching and Guards?]]
+  - 范畴论完全装逼手册 / Grokking Monad
+	- [[https://web.archive.org/web/20191027082028/https://blog.oyanglul.us/grokking-monad/part1][part1]]
+	- [[https://web.archive.org/web/20191027082045/https://blog.oyanglul.us/grokking-monad/part2][part2]]
+	- [[https://web.archive.org/web/20191027082055/https://blog.oyanglul.us/grokking-monad/part3][part3]]

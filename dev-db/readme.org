@@ -1,5 +1,5 @@
 #+TITLE: DB
-#+DATE: <2018-05-27 日 20:41>
+#+DATE: <2018-05-27 Sun 20:41>
 #+AUTHOR: Vonfry
 
 * Relational
@@ -15,3 +15,8 @@
 
 * Non-relational
   - Readis
+
+
+* Misc
+
+  - [[https://github.com/rethinkdb/rethinkdb][rethinkdb]] - The open-source database for the realtime web. https://rethinkdb.com

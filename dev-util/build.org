@@ -1,10 +1,16 @@
 #+TITLE: Build
-#+DATE: <2018-05-25 五 19:55>
+#+DATE: <2019-11-06 Wed 10:35>
 #+AUTHOR: Vonfry
 
 * Universal
   - make
   - automake
   - nix
+    - lorri - combine with nix-shell and direnv
+    - niv - Easy dependency management for Nix projects
+    - [[https://github.com/nix-community/awesome-nix][awesome-nix]]
   - direnv
-  - lorri - combine with nix-shell and direnv
+
+* Mobile
+  - [[https://github.com/fastlane/fastlane][fastlane]]
+
