@@ -29,6 +29,7 @@ Here are some good awesome what I love.
 Other special awesome in the section's readme file.
 
 - [awesome](https://github.com/sindresorhus/awesome)
+- [FalseHood](https://github.com/kdeldycke/awesome-falsehood)
 
 ## Ask
 

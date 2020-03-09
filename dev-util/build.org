@@ -14,3 +14,6 @@
 * Mobile
   - [[https://github.com/fastlane/fastlane][fastlane]]
 
+* Misc
+- [[https://github.com/craigmbooth/nix-visualize][nix-visualize]] - uses the Nix package manager to visualize the dependencies of
+a given package

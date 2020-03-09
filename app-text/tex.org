@@ -22,6 +22,10 @@
   - [[https://github.com/amberj/latex-book-template][amberj/latex-book-template]]
   - [[https://github.com/jdavis/latex-homework-template][homework]]
   - [[https://github.com/mohuangrui/ucasthesis][ucasthesis]]
+  - [[https://github.com/ElegantLaTeX/ElegantNote][EleganNote]]
 
 * Snippet
   - [[https://github.com/habi/latex][habi/latex]]
+
+* Macro
+  - [[https://github.com/CTeX-org/ctex-kit][ctex-kit]]
