@@ -1,0 +1,6 @@
+#+TITLE: Audio
+#+AUTHOR: Vonfry
+#+DATE: <2020-03-23 Mon>
+
+- [[https://www.audacityteam.org/][audacityteam]] - Audacity is an easy-to-use, multi-track audio editor and
+  recorder for Windows, Mac OS X, GNU/Linux and other operating systems.
