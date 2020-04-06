@@ -4,3 +4,4 @@
 
 - strace - A useful diagnostic, instructional, and debugging tool
 - [[https://github.com/GaloisInc/macaw][macaw]] - Open source binary analysis tools.
+- valgrind
