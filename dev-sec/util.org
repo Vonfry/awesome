@@ -9,13 +9,17 @@
    A cross-platform sotfware which can be used almost all files.
 - [[https://binary.ninja/][binary ninja]] - A New Type of Reversing Platform
 
+** Password
+- [[https://github.com/magnumripper/JohnTheRipper][johnTheRipper]]
+- rockyou.txt - a password directory
+
 ** Android
 
-   - [[https://github.com/iBotPeaches/Apktool][apktool]] - A tool for reverse engineering Android apk files
+- [[https://github.com/iBotPeaches/Apktool][apktool]] - A tool for reverse engineering Android apk files
 
 ** VM
-   - [[https://github.com/vulhub/vulhub][vulhub]] - Docker-Compose file for vulnerability environment
+- [[https://github.com/vulhub/vulhub][vulhub]] - Docker-Compose file for vulnerability environment
 
 ** Server
 
-   - [[Security-Onion-Solutions/security-onion][https://github.com/Security-Onion-Solutions/security-onion]]
+- [[Security-Onion-Solutions/security-onion][https://github.com/Security-Onion-Solutions/security-onion]]
