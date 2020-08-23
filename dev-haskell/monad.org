@@ -1,0 +1,6 @@
+#+title: Monadic
+#+date:  <2020-08-23 Sun 13:49>
+#+author: Vonfry
+
+- transformers
+- mtl
