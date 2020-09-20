@@ -5,8 +5,10 @@
 [[https://github.com/haskell/haskell-report][report]] - Haskell Language Report
 
 * Coding Style
+  - [[https://wiki.haskell.org/Category:Style][wiki: style]]
+  - [[https://wiki.haskell.org/Category:Idioms][wiki: idiomls]]
   - [[https://github.com/tibbe/haskell-style-guide][tibble]]
-    - tools: hindent
+      - tools: hindent
 * Compiler
   - [[https://www.haskell.org/ghc/][ghc]]
     - [[https://github.com/ndmitchell/ghcid][ghcid]] - Very low feature GHCi based IDE
