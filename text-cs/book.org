@@ -16,6 +16,7 @@
   - [[https://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/][category theory for scientists]]
   - [[https://github.com/hmemcpy/milewski-ctfp-pdf][category theory for programmer]]
   - categories for the working mathematician
+  - [[https://github.com/liuxinyu95/unplugged][unplugged]]
 
 * Programming Language
   - [[https://steshaw.org/plt/][book list]]
