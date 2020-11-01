@@ -6,5 +6,5 @@
    - runge kutta
 
 * Tools
-- [[https://www.sagemath.org/][SageMath]] - an open source math tool to
+- [[https://www.sagemath.org/][SageMath]] :: an open source math tool to
   instead matlab

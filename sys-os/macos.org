@@ -44,8 +44,8 @@ And there are also some tools which are shown in [[https://gitlab.com/VonFry/dot
   - [[https://www.omnigroup.com/][OmniPlan]] :: project time manager
   - [[https://wiz.money/][MoneyWiz]] :: accounting manager
   - [[https://www.alfredapp.com/][Alfred]] :: more powerful quick seach
-    - [[https://github.com/rhydlewis/search-omnifocus][searc-omnifocus]]
-    - [[zenorocha / alfred-workflows%0A][workflow collect]]
+      - [[https://github.com/rhydlewis/search-omnifocus][searc-omnifocus]]
+      - [[zenorocha / alfred-workflows%0A][workflow collect]]
   - [[https://flexibits.com/fantastical][fantastical]] :: calendar
   - [[https://www.toketaware.com/ithoughts-osx/][iThoughtsX]] :: mindmap
   - Dropbox

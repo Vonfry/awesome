@@ -8,8 +8,7 @@ the constructive proof of its formal specification.
 
 * Offcial
 
-- [[https://coq.inria.fr][website]]
-  A released pdf or current refl can be found in document page.
+  - [[https://coq.inria.fr][website]] :: A released pdf or current refl can be found in document page.
 
 ** Tutor
    - [[https://github.com/ilyasergey/pnp][PNP]] :: Lecture notes for a short course on proving/programming in Coq via SSReflect.

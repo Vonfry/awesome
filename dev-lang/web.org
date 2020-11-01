@@ -15,8 +15,7 @@
   - foundation
   - bootstrap
   - semantic ui
-  - [[https://github.com/egoist/hack][egoist/hack]] - Dead simple CSS framework.
-  emmmm, nothing.
+  - [[https://github.com/egoist/hack][egoist/hack]] :: Dead simple CSS framework.
 
 * Javascript
 
@@ -53,7 +52,7 @@
    - beef :: The Browser Exploitation Framework Project
 
 * Misc
-  - [[https://cdnjs.com/][cdnjs]] - Free and Open Source Public Web CDN
+  - [[https://cdnjs.com/][cdnjs]] :: Free and Open Source Public Web CDN
   - [[https://github.com/rstacruz/nprogressv][ngprogress]]
-  - [[https://github.com/tinymce/tinymce][tinmce]] - The world's most popular JavaScript library for rich text editing
-  - [[https://github.com/aui/font-spider][fontspider]] - Smart webfont compression and format conversion tool
+  - [[https://github.com/tinymce/tinymce][tinmce]] :: The world's most popular JavaScript library for rich text editing
+  - [[https://github.com/aui/font-spider][fontspider]] :: Smart webfont compression and format conversion tool

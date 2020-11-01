@@ -9,10 +9,10 @@
    - make
    - automake
    - nix
-     - lorri :: combine with nix-shell and direnv
-     - niv :: Easy dependency management for Nix projects
-     - [[https://github.com/nix-community/awesome-nix][awesome-nix]]
-     - [[https://github.com/nix-community/NUR][NUR]] :: A community nix repo
+       - lorri :: combine with nix-shell and direnv
+       - niv :: Easy dependency management for Nix projects
+       - [[https://github.com/nix-community/awesome-nix][awesome-nix]]
+       - [[https://github.com/nix-community/NUR][NUR]] :: A community nix repo
    - direnv
 
 ** Mobile
@@ -25,18 +25,18 @@
 ** Awesome
    - [[https://github.com/LeCoupa/awesome-cheatsheets][LeCoupa/cheatsheet]]
    - [[https://github.com/rstacruz/cheatsheets][rstacruz/cheatsheets]]
-   - [[https://github.com/detailyang/awesome-cheatsheet][detailyang/awesome-cheatsheet]] - another sheet
+   - [[https://github.com/detailyang/awesome-cheatsheet][detailyang/awesome-cheatsheet]] :: another sheet
 * Code Review
   - Phabricator
 * Colorscheme
-  - [[https://github.com/altercation/solarized][altercation/solarized]] - My love!
+  - [[https://github.com/altercation/solarized][altercation/solarized]] :: My love!
       - [[https://github.com/thomasf/solarized-css][css]]
   - dracula
   - tomorrow
-  - one - provide by atom
+  - one :: provide by atom
 * Debug
-  - strace - A useful diagnostic, instructional, and debugging tool
-  - [[https://github.com/GaloisInc/macaw][macaw]] - Open source binary analysis tools.
+  - strace :: A useful diagnostic, instructional, and debugging tool
+  - [[https://github.com/GaloisInc/macaw][macaw]] :: Open source binary analysis tools.
   - valgrind
 * Diff
   - diff/colordiff
@@ -44,8 +44,8 @@
   - meld
 * Doc
   - [[https://devdocs.io][devDocs]]
-  - [[https://zealdocs.org/][zeal]] - linux & windows
-  - [[https://kapeli.com/dash][dash]] - macos
+  - [[https://zealdocs.org/][zeal]] :: linux & windows
+  - [[https://kapeli.com/dash][dash]] :: macos
 * English
   - [[https://github.com/shimohq/chinese-programmer-wrong-pronunciation][wrong pronunciation]]
 * Keyboard
@@ -55,7 +55,7 @@
   - filco
   - CM Storm Quickfire Rapid
   - typematrix
-  - [[https://github.com/komar007/gh60][gh60]] - DIY!!
+  - [[https://github.com/komar007/gh60][gh60]] :: DIY!!
 * Lang Server Protocol
   [[https://microsoft.github.io/language-server-protocol/specification][langserver]] is a protocol used  between a tool (the client) and a language smartness provider (the server) to integrate features like auto complete, go to definition, find all references and alike into the tool
 
@@ -67,12 +67,12 @@
 * Monitor
 
 ** Summary
-   - [[https://github.com/google/sanitizers][google/sanitizers]] - AddressSanitizer, ThreadSanitizer, MemorySanitizer
+   - [[https://github.com/google/sanitizers][google/sanitizers]] :: AddressSanitizer, ThreadSanitizer, MemorySanitizer
 
 ** Adress
 
 ** Thread
-   - [[https://github.com/opcm/pcm][pcm]] - Processor Counter Monitor
+   - [[https://github.com/opcm/pcm][pcm]] :: Processor Counter Monitor
 
 ** Memory
 * Parsing
@@ -96,7 +96,7 @@
 **** Gitlab
      powerful!!
 
-     [[https://github.com/NARKOZ/gitlab][gitlab-ci]] - a third part tool check gitlab on ci.
+     - [[https://github.com/NARKOZ/gitlab][gitlab-ci]] :: a third part tool check gitlab on ci.
 
 **** Gogs / Gitea
      light, simple
@@ -114,9 +114,9 @@
 *** Tools
     - git-flow
     - git-extras
-    - [[https://github.com/commitizen/cz-cli][cz-cli]] - The commitizen command line utility. commit format.
-    - [[https://github.com/conventional-changelog/conventional-changelog][conventional-changelog]] - Generate a changelog from git metadata. working with cz-cli
-    - [[https://github.com/github/gitignore][github/gitignore]] - A collection of useful .gitignore templates
+    - [[https://github.com/commitizen/cz-cli][cz-cli]] :: The commitizen command line utility. commit format.
+    - [[https://github.com/conventional-changelog/conventional-changelog][conventional-changelog]] :: Generate a changelog from git metadata. working with cz-cli
+    - [[https://github.com/github/gitignore][github/gitignore]] :: A collection of useful .gitignore templates
     - gitignore.io
 
 ** [[http://darcs.net/][Darcs]]

@@ -2,7 +2,7 @@
 #+AUTHOR: Vonfry
 
 * App
- - fontforge :: postscript font editor and converter
+  - fontforge :: postscript font editor and converter
 
 * Font
   - [[https://github.com/source-foundry/Hack][hack]] :: my favourite

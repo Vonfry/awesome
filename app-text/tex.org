@@ -2,11 +2,11 @@
 #+AUTHOR: Vonfry
 
 * Compile
-  - [[https://github.com/tectonic-typesetting/tectonic][tectonic]] - a replacement for latex compiler
+  - [[https://github.com/tectonic-typesetting/tectonic][tectonic]] :: a replacement for latex compiler
   - ~xelatex~ is the best one in my opinion, which provides more morden function with different language.
 
 * Editor
-  - [[http://tug.org/texlive/][TexLive]] - Containing the most usually using packages with a superior environment and a simple editor.
+  - [[http://tug.org/texlive/][TexLive]] :: Containing the most usually using packages with a superior environment and a simple editor.
 
 ** macOS
    Texpad is a powerful editor, see [[../app-os/macos.org][macOS.org]]

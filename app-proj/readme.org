@@ -10,7 +10,7 @@ Project management
   - more, see [[../net-misc/readme.org][selfhost]]
 
 * Tracking
-  - Jira & Jenkins - which can be cooperated with gitlab
+  - Jira & Jenkins :: which can be cooperated with gitlab
   - trello
   - asana
   - wrike

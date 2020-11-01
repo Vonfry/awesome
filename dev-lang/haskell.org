@@ -19,8 +19,8 @@
   - [[http://hackage.haskell.org/][hackage]]
   - cabal
   - [[http://www.haskellstack.org/][stack]] :: Work with cabal to manage whole project.
-    - [[https://www.stackage.org/][stackage]] :: "Stable Hackage": vetted consistent packages from Hackage
-    - stack-run :: A plugin, quickly run the project.
+      - [[https://www.stackage.org/][stackage]] :: "Stable Hackage": vetted consistent packages from Hackage
+      - stack-run :: A plugin, quickly run the project.
   - [[https://github.com/nmattia/snack][snack]] :: Nix-based incremental Haskell build tool
   - shake
 
@@ -38,7 +38,7 @@
   - [[https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet][symbol search cheatsheet]]
 
 * Checklist
- - [[https://github.com/haskell-perf/checklist][checklist]] :: A checklist to optimize code
+  - [[https://github.com/haskell-perf/checklist][checklist]] :: A checklist to optimize code
 
 * IDE
   - [[https://github.com/haskell/haskell-language-server][haskell-language-server]] :: A framework which can work with vim, emacs and others
@@ -46,7 +46,7 @@
 
 * Tutor
   - real world haskell
-    - [[https://github.com/huangz1990/real-world-haskell-cn][cn]]
+      - [[https://github.com/huangz1990/real-world-haskell-cn][cn]]
   - learn4haskell
 
 * Misc
@@ -64,9 +64,9 @@
   - [[https://stackoverflow.com/questions/6724434/how-to-debug-haskell-code][How to debug Haskell code?]]
   - [[https://stackoverflow.com/questions/4156727/what-is-the-difference-between-pattern-matching-and-guards][What is the difference between Pattern Matching and Guards?]]
   - 范畴论完全装逼手册 / Grokking Monad
-	- [[https://web.archive.org/web/20191027082028/https://blog.oyanglul.us/grokking-monad/part1][part1]]
-	- [[https://web.archive.org/web/20191027082045/https://blog.oyanglul.us/grokking-monad/part2][part2]]
-	- [[https://web.archive.org/web/20191027082055/https://blog.oyanglul.us/grokking-monad/part3][part3]]
+      - [[https://web.archive.org/web/20191027082028/https://blog.oyanglul.us/grokking-monad/part1][part1]]
+      - [[https://web.archive.org/web/20191027082045/https://blog.oyanglul.us/grokking-monad/part2][part2]]
+      - [[https://web.archive.org/web/20191027082055/https://blog.oyanglul.us/grokking-monad/part3][part3]]
 
 * Library
 ** CLI

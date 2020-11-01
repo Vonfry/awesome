@@ -5,10 +5,10 @@ I'm not developing on windows, many dev tools just for fun.
 
 * Code
   - [[https://www.visualstudio.com/][visual studio]] :: The best IDE on the world!
-    - supercharge
-    - codegraph
-    - vassitx
-    - installer
+      - supercharge
+      - codegraph
+      - vassitx
+      - installer
 
 * Terminal
   - [[https://conemu.github.io/][ConEmu]] :: Emmmm...Better than windows default, but ...

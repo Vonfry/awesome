@@ -2,7 +2,7 @@
 #+AUTHOR: Vonfry
 
 * Converter
-  - [[http://www.pandoc.org/][pandoc]] - A tool is written in haskell, which can general markdown, tex, rst and other files to pdf, html, or others.
+  - [[http://www.pandoc.org/][pandoc]] :: A tool is written in haskell, which can general markdown, tex, rst and other files to pdf, html, or others.
 
 * Typing
   - [[https://www.typingclub.com/][typingclub]]

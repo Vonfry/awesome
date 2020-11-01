@@ -10,7 +10,7 @@
 
 *** release
     - mysql
-    - mariadb - An enhanced, drop-in replacement for MySQL
+    - mariadb :: An enhanced, drop-in replacement for MySQL
 
 * Non-relational
   - Readis
@@ -18,4 +18,4 @@
 
 * Misc
 
-  - [[https://github.com/rethinkdb/rethinkdb][rethinkdb]] - The open-source database for the realtime web. https://rethinkdb.com
+  - [[https://github.com/rethinkdb/rethinkdb][rethinkdb]] :: The open-source database for the realtime web. https://rethinkdb.com

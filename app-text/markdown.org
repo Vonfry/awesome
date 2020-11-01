@@ -2,4 +2,4 @@
 #+AUTHOR: Vonfry
 
 * Editor
-  - [[https://marktext.github.io/website/][mark-text]] - A good cross-platform editor
+  - [[https://marktext.github.io/website/][mark-text]] :: A good cross-platform editor

@@ -31,7 +31,7 @@
 ** AI
 *** ML
     - tensorflow
-      - [[https://github.com/astorfi/TensorFlow-World][tensorflow-world]] :: Simple and ready-to-use tutorials for TensorFlow
+        - [[https://github.com/astorfi/TensorFlow-World][tensorflow-world]] :: Simple and ready-to-use tutorials for TensorFlow
 ** Web
 *** Framework
     - flask :: The Python micro framework for building web applications.

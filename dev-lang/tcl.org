@@ -3,4 +3,4 @@
 
 * Test
 ** Automate
-    - except - tool for automating interactive applications
+   - except :: tool for automating interactive applications
