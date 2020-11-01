@@ -1,5 +1,4 @@
 #+TITLE: Visual
 #+AUTHOR: Vonfry
-#+DATE: <2019-08-07 三 11:46>
 
 - [[https://github.com/algorithm-visualizer/algorithm-visualizer][algorithm-visualizer/algorithm-visualizer]]

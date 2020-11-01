@@ -1,5 +1,0 @@
-#+TITLE: Community
-#+AUTHOR: Vonfry
-#+DATE: <2018-06-15 五 18:33>
-
-- [[http://stackoverflow.com/][stackoverflow]]

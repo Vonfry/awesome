@@ -1,24 +1,36 @@
 #+TITLE: Ruby
-#+Date: <2018-05-25 五 19:35>
 #+AUTHOR: Vonfry
 
 * Coding Style
   Please follow the ruby constraint, which is enough.
 
 * Compiler
-  I think the default is enough.
+  - jruby
 
 * Tool Chain
   - Gem & bundler
   - rake
-  - pry - powerful interpretation
+  - pry :: powerful interpretation
   - pry-doc
   - pry-byebug
   - pry-rails
   - method_source
-  - rufo - Ruby code formatter
-  - starscope - cscope like
+  - rufo :: Ruby code formatter
+  - starscope :: cscope like
   - nokogiri
-  - rouge - code highlight
+  - rouge :: code highlight
   - licensee
-  - jekyll - static blog
+  - jekyll :: static blog
+
+* Library
+** Database
+   - sequel :: Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby.
+
+** Web
+*** Rails
+**** separate from rails
+    - ActiveRecord
+    - standalone-migrations :: A gem to use Rails Database Migrations in non Rails projects
+**** author
+     - authlogic
+     - devise

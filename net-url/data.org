@@ -1,5 +1,0 @@
-#+TITLE: Community
-#+AUTHOR: Vonfry
-#+DATE: <2018-07-15 日 10:09>
-
-- [[archive.org][archive]] - Internet Archive is a non-profit digital library offering free universal access to books, movies & music, as well as 327 billion archived web pages...

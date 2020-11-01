@@ -1,0 +1,29 @@
+#+author: Vonfry
+#+title: Literature
+
+* Books
+  - 银河铁道之夜
+  - 周易
+  - 易经杂说 :: 南怀瑾
+  - 周易折中
+  - 红楼梦
+  - 加缪
+  - 春天与修罗
+  - 美丽心灵
+  - 美丽新世界
+  - 1984
+  - 王德尔童话
+  - 浮士德
+  - 美的历程 :: 李泽厚
+  - 人间失格 :: 及同作者其它作品
+  - 虚拟的历史
+  - 把栏杆拍遍
+
+* Poetry
+** Chinese
+   [[https://github.com/chinese-poetry/chinese-poetry][chinese-poetry]]
+   - 诗韵格律
+   - 书情画意
+
+** Japanese
+   - 宫沢贤治

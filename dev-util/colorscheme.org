@@ -1,8 +1,0 @@
-#+TITLE: Colorscheme
-#+AUTHOR: Vonfry
-#+DATE: <2018-06-01 五 17:23>
-
-- [[https://github.com/altercation/solarized][altercation/solarized]] - My love!
-  - [[https://github.com/thomasf/solarized-css][css]]
-- tomorrow
-- one - provide by atom

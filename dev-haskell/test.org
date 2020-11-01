@@ -1,6 +1,0 @@
-#+TITLE: Test
-#+AUTHOR: Vonfry
-#+DATE: <2018-06-05 二 19:58>
-
-- hspce
-- tasty

@@ -1,5 +1,4 @@
 #+TITLE: Badages
 #+AUTHOR: Vonfry
-#+DATE: <2018-06-04 一 17:21>
 
-- [[https://github.com/badges/shields][shields]] - Concise, consistent, and legible badges in SVG and raster format
+- [[https://github.com/badges/shields][shields]] :: Concise, consistent, and legible badges in SVG and raster format

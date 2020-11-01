@@ -1,9 +1,8 @@
 #+TITLE: Firewall
 #+AUTHOR: Vonfry
-#+DATE: <2018-06-04 一 16:59>
 
 * Linux
- - firehol - A firewall for humans... To control iptables
+ - firehol :: A firewall for humans... To control iptables
 
 * Awesome
  - [[https://github.com/0xInfection/Awesome-WAF][awesome-WAf]]

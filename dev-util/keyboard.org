@@ -1,9 +1,0 @@
-#+TITLE: Keyboard
-#+AUTHOR: Vonfry
-#+DATE: <2018-07-18 三 20:50>
-
-- hhkb
-- code keyboard
-- filco
-- CM Storm Quickfire Rapid
-- [[https://github.com/komar007/gh60][gh60]] - DIY!!

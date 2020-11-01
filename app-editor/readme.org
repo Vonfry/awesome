@@ -1,16 +1,17 @@
 #+TITLE: Editor
 #+AUTHOR: Vonfry
-#+DATE: <2018-05-25 五 20:02>
 
 List some useful tools for editor to navigate, format or do others.
 
 * Navigation & Completion & Syntax Check
-  each editor has its own way to do this, but here is a surprising thing which is [[../dev-util/lsp.org][lsp]] designed by microsoft!
+  each editor has its own way to do this, but here is a surprising thing which
+  is [[../dev-util/lsp.org][lsp]] designed by microsoft!
 
 * Coding Style
   A precondition: using differnt sytle for different language.
 
-  [[http://editorconfig.org/][Editorconfig]] is a tool to let all stuffs using the same coding style in a project.
+  [[http://editorconfig.org/][Editorconfig]] is a tool to let all stuffs using the same coding style in a
+  project.
 
 * build your self
   - [[https://viewsourcecode.org/snaptoken/kilo/index.html][url]]

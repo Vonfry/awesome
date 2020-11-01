@@ -1,12 +1,13 @@
 #+TITLE: Emacs
 #+AUTHOR: Vonfry
-#+DATE: <2018-05-24 Thu 21:17>
 
-Emacs is one of the best editor on the world. Its default editing mode is used in many morden editors such as all text input form on macos.
+Emacs is one of the best editor on the world. Its default editing mode is used
+in many morden editors such as all text input form on macos.
 
 But I don't like emacs default editing method. I use evil insteaded.
 
-The most powerful thing is ~emacs-lisp~. You can de anything here! So, why not use it with vim.
+The most powerful thing is ~emacs-lisp~. You can de anything here! So, why not
+use it with vim.
 
 And emacs author seems hardworking more than vim.
 
@@ -18,9 +19,9 @@ And emacs author seems hardworking more than vim.
   Here are some samples, but I suggest only take a look as a reference. Write config by yourself!
 
   - [[https://github.com/VonFry/dotfiles/tree/master/emacs.d][mine]]
-  - [[https://github.com/bbatsov/prelude.git][prelude]] - very very very /Simple/
+  - [[https://github.com/bbatsov/prelude.git][prelude]] :: very very very /Simple/
   - [[https://github.com/hlissner/doom-emacs][doom]]
-  - [[https://github.com/syl20bnr/spacemacs][Spacemacs]] - It is too heavy, just use it as a reference.
+  - [[https://github.com/syl20bnr/spacemacs][Spacemacs]] :: It is too heavy, just use it as a reference.
 
 * Plugins
 
@@ -34,3 +35,9 @@ And emacs author seems hardworking more than vim.
 
 * Article
   - [[https://medium.com/@mrbig/the-road-to-emacs-87473db09526][road to emacs]]
+* Org Mode
+  One of the killer feature in emacs. It use marks to make program analyzing
+  document structure and do many actions such as GTD, calucalting and so on.
+
+  Furthermore [[https://github.com/org-roam/org-roam][roam]] is a kind of way to
+  manage notes. ~org-babel~ allow you to write doucment with coding result.

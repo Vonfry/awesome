@@ -1,7 +1,0 @@
-#+TITLE: Lang Server Protocol
-#+DATE: <2018-05-24 Thu 21:57>
-#+AUTHOR: Vonfry
-
-[[https://microsoft.github.io/language-server-protocol/specification][langserver]] is a protocol used  between a tool (the client) and a language smartness provider (the server) to integrate features like auto complete, go to definition, find all references and alike into the tool
-
-[[http://langserver.org/][langserver suuport list]]

@@ -1,8 +1,0 @@
-#+TITLE: Game
-#+AUTHOR: Vonfry
-#+DATE: <2018-06-01 五 16:16>
-
-* OSU
-  rhythm is just a *click* away!
-
-  [[https://github.com/ppy/osu][source]]

@@ -1,5 +1,0 @@
-#+TITLE: Log
-#+AUTHOR: Vonfry
-#+DATE: <2018-06-04 一 23:00>
-
-- [[https://github.com/gabime/spdlog][spdlog]] - Fast C++ logging library.

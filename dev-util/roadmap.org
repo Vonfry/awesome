@@ -1,5 +1,0 @@
-#+TITLE: Roadmap
-#+AUTHOR: Vonfry
-#+DATE: <2018-06-04 一 22:46>
-
-- [[https://github.com/kamranahmedse/developer-roadmap][developer roadmap]]

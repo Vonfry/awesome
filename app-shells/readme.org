@@ -1,68 +1,82 @@
 #+TITLE: Shells
 #+AUTHOR: Vonfry
-#+DATE: <2018-05-26 六 15:50>
 
-This mainly means linux/unix shell. Winodows powershell is good, but hardly using for daily and we have other better language for scripts, if you don't use ~.net~.
+This mainly means linux/unix shell. Winodows powershell is good, but hardly
+using for daily and we have other better language for scripts, if you don't use
+~.net~.
 
 * Terminal
 - xterm
 - urxvt
-- termonad - Terminal emulator configurable in Haskell.
-- alacritty - use gpu for terminal
+- termonad :: Terminal emulator configurable in Haskell.
+- alacritty :: use gpu for terminal
 
 * Shell
-  - sh - Please write script use this.
-  - bash - The default one, it is inconvenient to use.
-  - zsh - Quickly, easy, having a lot of plugins and more interactive.
-    - Framework
-      - antigen - plugin manager, it can manage compiling and plugins automatically. Fast!
-      - prezto - simple and fast.
-      - oh-my-zsh - Powerful! But slowly! NOT RECOMMENDED.
-    - Plugins - See [[https://github.com/VonFry/dotfiles/blob/master/antigenrc][dotfiles/antigenrc]]
-      - autosuggestions - fish like
-      - syntax-highlighting - fish like
-  - fish - Like zsh, but it contains a lot of functions which are implemented by plugis. It also has a more morden shell script, but /not posix/, so conflicting with some tools.
+  - sh :: Please write script use this.
+  - bash :: The default one, it is inconvenient to use.
+  - zsh :: Quickly, easy, having a lot of plugins and more interactive.
+      - Framework
+          - antigen :: plugin manager, it can manage compiling and plugins
+            automatically. Fast!
+          - zplug :: plugin manager
+          - prezto :: simple and fast.
+          - oh-my-zsh :: Powerful! But slowly! NOT RECOMMENDED.
+            Oh-my-zsh is good, having a lot of functions but I don't need them. The
+            most important reason is speed and stdandard, for example, oh-my-zsh
+            uses ~source~ to load theme, prezto uses ~zstyle~.
+      - prompt
+          - [[https://github.com/starship/starship][starship]] :: The minimal, blazing-fast, and infinitely customizable prompt
+            for any shell!
+          - powerlevel10k
+      - Plugins
+          - autosuggestions :: fish like
+          - syntax-highlighting :: fish like
+          - you-should-use :: ZSH plugin that reminds you to use existing aliases
+            for commands you just typed.
+  - fish :: Like zsh, but it contains a lot of functions which are implemented by plugis. It also has a more morden shell script, but /not posix/, so conflicting with some tools.
   - tcsh
-  - powershell - Support by windows. Combine with ~.NET~. It has a superior script language, but using for interactive is bad. And why not using ruby, perl, python or other scripting language? More about see: [[../sys-os/windows.org][sys-os/windows.org]]
-  - [[http://xon.sh/][xonsh]] - python based
-
-  I'm using zsh with antigen and prezto. Oh-my-zsh is good, having a lot of functions but I don't need them. The most important reason is speed and stdandard, for example, oh-my-zsh uses ~source~ to load theme, prezto uses ~zstyle~.
+  - powershell :: Support by windows. Combine with ~.NET~. It has a superior script language, but using for interactive is bad. And why not using ruby, perl, python or other scripting language? More about see: [[../sys-os/windows.org][sys-os/windows.org]]
+  - [[http://xon.sh/][xonsh]] :: python based
 
 * Tools
   List some useful tools.
-  - autojump - quickly jump to dirs.
-  - most - powerful more and less
-  - mc - GNU Midnight Commander is a text based file manager
-  - googler - google in terminal
-  - lolcat - colorful cat
-  - tree - show dir structure as a tree
+  - [[https://github.com/gsamokovarov/jump][jump]] :: Jump helps you navigate faster by learning your habits
+  - most :: powerful more and less
+  - mc :: GNU Midnight Commander is a text based file manager
+  - googler :: google in terminal
+  - lolcat :: colorful cat
+  - tree :: show dir structure as a tree
   - colordiff
-  - fortune - print a saying
-  - cmatrix - show coding matrix in terminal
-  - figlet - ascii art
-  - gpatch - Apply a diff file to an original
-  - parallel - like xargs, but use more cpus
-  - tmux - more powerful tool like screen
-  - thefuck - fix input error in command
-  - fzf - fuzzy search
-  - [[https://github.com/sharkdp/bat][bat]] - A cat(1) clone with wings.
-  - [[https://github.com/aviaviavi/confetti][confetti]] - a configuration file swapping tool
-  - asciinema - Terminal session recorder
-  - shellcheck - ShellCheck, a static analysis tool for shell scripts
-  - [[https://github.com/simonmichael/hledger][simonmichael/hledger]] - The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger
-  - tldr - Simplified and community-driven man pages
-  - [[https://gitlab.com/screenkey/screenkey][screenkey]] - print the key on screen when you click.
-  - [[https://github.com/cheat/cheat][cheat]] - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not …
+  - fortune-mod :: print a saying
+  - cmatrix :: show coding matrix in terminal
+  - figlet :: ascii art
+  - gpatch :: Apply a diff file to an original
+  - parallel :: like xargs, but use more cpus
+  - tmux :: more powerful tool like screen
+  - thefuck :: fix input error in command
+  - fzf :: fuzzy search
+  - [[https://github.com/sharkdp/bat][bat]] :: A cat(1) clone with wings.
+  - exa :: A morden ls
+  - ripgrep :: A fast grep
+  - asciinema :: Terminal session recorder
+  - shellcheck :: ShellCheck, a static analysis tool for shell scripts
+  - [[https://github.com/simonmichael/hledger][hledger]] :: The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger
+  - tldr :: Simplified and community-driven man pages
+  - [[https://gitlab.com/screenkey/screenkey][screenkey]] :: print the key on screen when you click.
+  - [[https://github.com/cheat/cheat][cheat]] :: cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not …
 
 
 ** Useless
-   - [[https://github.com/svenstaro/genact][genact]] - Pretend to be busy or waiting for your computer when you should actually be doing real work! Impress people with your insane multitasking skills. Just open a few instances of genact and watch the show. genact has multiple scenes that pretend to be doing something exciting or useful when in reality nothing is happening at all.
+   - [[https://github.com/svenstaro/genact][genact]] :: Pretend to be busy or waiting for your computer when you should actually be doing real work! Impress people with your insane multitasking skills. Just open a few instances of genact and watch the show. genact has multiple scenes that pretend to be doing something exciting or useful when in reality nothing is happening at all.
+   - autojump :: quickly jump to dirs.
+   - [[https://github.com/aviaviavi/confetti][confetti]] :: a configuration file swapping tool
    - [[https://github.com/dustinkirkland/hollywood][hollywood]]
 
 ** Misc
    See each category.
 
-   Or take a look my [[https://github.com/VonFry/dotfiles/blob/master/etc/portage/sets/vonfry20shell][dotfiles/etc/portage/sets/vonfry20shell]] and [[https://github.com/VonFry/dotfiles/blob/master/setup/11macos.sh][dotfiles/setup/11macos.sh]]
+   Or take a look [[https://gitlab.com/Vonfry/dotfiles][mime]].
+
 
 * Awesome
   - [[https://github.com/dotfiles/dotfiles.github.com][dotfiles]]

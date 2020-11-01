@@ -1,6 +1,7 @@
 # Awesome
 
-An extensive list of interesting open source projects, articles and other things for _myself_.
+An extensive list of interesting open source projects, articles and other things
+for _myself_. Most of things are collected because of I used.
 
 ## file type
 
@@ -14,7 +15,8 @@ All content are managed by dir's name.
 
 ### reademe
 
-The _readme file_ in each section contains some public, unitversal items or represent the section self.
+The _readme file_ in each section contains some public, unitversal items or
+represent the section self.
 
 ### misc
 

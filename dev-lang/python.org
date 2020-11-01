@@ -1,5 +1,4 @@
 #+TITLE: Python
-#+Date: <2018-05-25 五 19:35>
 #+AUTHOR: Vonfry
 
 * Compiler
@@ -13,14 +12,27 @@
   - pip
   - setuptools
   - wheel
-  - [[http://virtualenv.pypa.io/en/stable/][virtualenv]] - sand box
-  - [[https://ipython.org/][ipython]] - more powerful interpretation
-  - [[https://github.com/davidhalter/jedi][jedi]] - code completion and navigation
-  - [[http://flake8.pycqa.org/en/latest/][flake8]] - code checks
-  - [[https://github.com/alecthomas/importmagic][importmagic]] - auto imports
-  - [[https://github.com/hhatto/autopep8][autopep8]] - code PEP8 formatting
-  - [[https://github.com/python-rope/rope][rope]] - refactoring library
-  - [[https://github.com/google/yapf][yapf]] - format tool
-  - [[https://github.com/portante/pycscope][pycscope]] - cscope support
-  - [[http://pytz.sourceforge.net/][pytz]] - a useful package for timezone
-  - [[https://github.com/python-poetry/poetry][poetry]] - a dependency management
+  - [[http://virtualenv.pypa.io/en/stable/][virtualenv]] :: sand box
+  - [[https://ipython.org/][ipython]] :: more powerful interpretation
+  - [[https://github.com/davidhalter/jedi][jedi]] :: code completion and navigation
+  - [[http://flake8.pycqa.org/en/latest/][flake8]] :: code checks
+  - [[https://github.com/alecthomas/importmagic][importmagic]] :: auto imports
+  - [[https://github.com/hhatto/autopep8][autopep8]] :: code PEP8 formatting
+  - [[https://github.com/python-rope/rope][rope]] :: refactoring library
+  - [[https://github.com/google/yapf][yapf]] :: format tool
+  - [[https://github.com/portante/pycscope][pycscope]] :: cscope support
+  - [[http://pytz.sourceforge.net/][pytz]] :: a useful package for timezone
+  - [[https://github.com/python-poetry/poetry][poetry]] :: a dependency management
+
+* Partice
+ - [[https://github.com/coells/100days][100days]]
+
+* Library
+** AI
+*** ML
+    - tensorflow
+      - [[https://github.com/astorfi/TensorFlow-World][tensorflow-world]] :: Simple and ready-to-use tutorials for TensorFlow
+** Web
+*** Framework
+    - flask :: The Python micro framework for building web applications.
+    - django

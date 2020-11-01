@@ -1,0 +1,4 @@
+#+author: Vonfry
+#+title: CS
+
+Some text is independ from developing topic, such as calculus.

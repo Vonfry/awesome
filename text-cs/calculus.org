@@ -1,6 +1,5 @@
 #+TITLE: Calculus
 #+AUTHOR: Vonfry
-#+DATE: <2018-05-29 二 19:38>
 
 * Lambda
   - [[http://goodmath.blogspot.com/][bad math or good math]]

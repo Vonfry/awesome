@@ -1,5 +1,4 @@
 #+TITLE: Dos
-#+DATE:
 #+AUTHOR: Vonfry
 
 * Sorcue

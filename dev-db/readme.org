@@ -1,5 +1,4 @@
 #+TITLE: DB
-#+DATE: <2018-05-27 Sun 20:41>
 #+AUTHOR: Vonfry
 
 * Relational

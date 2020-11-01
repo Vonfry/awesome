@@ -1,5 +1,4 @@
 #+TITLE: Tex
-#+DATE: <2018-05-26 六 15:33>
 #+AUTHOR: Vonfry
 
 * Compile

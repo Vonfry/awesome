@@ -1,12 +1,11 @@
 #+TITLE: Font
 #+AUTHOR: Vonfry
-#+DATE: <2018-06-01 五 17:17>
 
 * App
- - fontforge - postscript font editor and converter
+ - fontforge :: postscript font editor and converter
 
 * Font
-  - [[https://github.com/source-foundry/Hack][hack]] - my favourite
+  - [[https://github.com/source-foundry/Hack][hack]] :: my favourite
   - [[https://github.com/ryanoasis/nerd-fonts][nerd]]
   - [[https://github.com/larsenwork/monoid][monoid]]
   - [[https://github.com/tonsky/FiraCode][fira code]]

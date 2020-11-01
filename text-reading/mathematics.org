@@ -1,0 +1,12 @@
+#+title: Mathematics
+#+author: Vonfry
+
+* Math
+  - 用数学的眼光看世界
+
+* Physics
+
+** Primary
+   - 平等宇宙
+   - 自然哲学的数学原理
+   - 费曼物理讲义

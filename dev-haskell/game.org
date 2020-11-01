@@ -1,7 +1,0 @@
-#+TITLE: Game
-#+AUTHOR: Vonfry
-#+DATE: <2019-10-11 五 11:55>
-
-* Engine
-
-- [[https://github.com/LambdaHack/LambdaHack][LambdaHack]] - Haskell game engine library for roguelike dungeon crawlers; please offer feedback

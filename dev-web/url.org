@@ -1,5 +1,0 @@
-#+TITLE: Url
-#+AUTHOR: Vonfry
-#+DATE: [2019-12-24 Tue 08:14]
-
-- [[https://github.com/thedevs-network/kutt][kutt]] - custom url shortener

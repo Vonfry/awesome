@@ -1,14 +1,15 @@
 #+TITLE: Vim
 #+AUTHOR: Vonfry
-#+DATE: <2018-05-24 Thu 21:16>
 
-vim is one of the best editor on the world. It provied a good editing method by normal, insert, visual and other modes.
+vim is one of the best editor on the world. It provied a good editing method by
+normal, insert, visual and other modes.
 
 * [[http://vimawesome.com/][Vimawesome]]
   website lists famous vim plugins.
 
 * [[https://neovim.io/][NeoVim]]
-  rewritten version for vim. It provide more morden api & design, but it is under developing. It can be used to develop vim-like plugin for other editor.
+  rewritten version for vim. It provide more morden api & design, but it is
+  under developing. It can be used to develop vim-like plugin for other editor.
 
 
 ** [[https://github.com/onivim/oni][onivim]]
@@ -16,5 +17,5 @@ vim is one of the best editor on the world. It provied a good editing method by 
 
 * Configure
   Here are some samples, but I suggest only take a look as a reference. Write config by yourself!
-  - [[https://github.com/VonFry/dotfiles/blob/master/vimrc][mine]]
+  - [[https://gitlab.com/Vonfry/dotfiles/-/tree/master/etc/nixos/modules/user/files/nvim][mine]]
   - [[https://github.com/SpaceVim/SpaceVim][SpaceVim]]

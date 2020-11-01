@@ -1,8 +1,0 @@
-#+TITLE: Uml
-#+AUTHOR: Vonfry
-#+DATE: <2019-10-27 Sun 16:58>
-
-* Generate
-  - [buml](https://bouml.fr/index.html)
-  - [staruml](https://staruml.sourceforge.net/en/)
-  - [uml](https://uml.sourceforge.net)

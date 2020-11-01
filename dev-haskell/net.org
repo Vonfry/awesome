@@ -1,6 +1,0 @@
-#+title: Net
-#+date: <2020-08-23 Sun 13:48>
-#+author: Vonfry
-
-* Request
-  - req

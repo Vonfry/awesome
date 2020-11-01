@@ -1,5 +1,4 @@
 #+TITLE: Linux
-#+DATE:
 #+AUTHOR: Vonfry
 
 * Cheat

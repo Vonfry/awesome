@@ -1,3 +1,0 @@
-* GHC
-
-- [[https://github.com/bgamari/ghc-utils][bgamari/ghc-utils]]

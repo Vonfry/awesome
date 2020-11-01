@@ -1,6 +1,0 @@
-#+TITLE: Tools
-#+Date: <2020-03-09 Mon 09:45>
-#+AUTHOR: Vonfry
-
-* Linux
-- [[https://github.com/niklasb/libc-database][libc database]]

@@ -1,16 +1,17 @@
 #+TITLE: Linux
-#+DATE: <2018-06-01 五 16:37>
 #+AUTHOR: Vonfry
 
+
 * Release
-  - Gentoo - A flexible, source-based Linux distribution that becomes just about any system you need—and much more. You can choose what you want to install with a package.
+  - Gentoo :: A flexible, source-based Linux distribution that becomes just about any system you need—and much more. You can choose what you want to install with a package.
     - Anything(installation, development environment, overlay or others) about it can be fountd on its [[http://wiki.gentoo.org/][*wiki*]].
-  - NixOS - NixOS is a Linux distribution with a unique approach to package and configuration management. Built on top of the Nix package manager, it is completely declarative, makes upgrading systems reliable, and has many other advantages.
+  - NixOS :: NixOS is a Linux distribution with a unique approach to package and configuration management. Built on top of the Nix package manager, it is completely declarative, makes upgrading systems reliable, and has many other advantages.
 
   Both of them are my love. And the archlinux's wiki is the best wiki I think.
 
-  _I use Gentoo for my main server, and use nixos to do something quickly. Gentoo needs more time to configure and install._
-
 * Kernal patch
   - [[https://github.com/zen-kernel/zen-kernel][zen]]
-  - other - see gentoo hardened wiki
+  - other :: see gentoo hardened wiki
+
+* Application
+  Linux tools can be checked in shell and other topics as well.

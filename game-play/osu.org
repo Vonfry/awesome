@@ -1,0 +1,7 @@
+#+TITLE: Game
+#+AUTHOR: Vonfry
+
+* OSU
+  rhythm is just a *click* away!
+
+  [[https://github.com/ppy/osu][source]]

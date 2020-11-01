@@ -1,7 +1,0 @@
-#+TITLE: Diff
-#+AUTHOR: Vonfry
-#+DATE: <2018-07-22 日 16:17>
-
-- diff/colordiff
-- vimdiff
-- meld

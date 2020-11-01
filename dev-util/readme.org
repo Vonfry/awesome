@@ -1,0 +1,135 @@
+#+title: Utils
+#+author: Vonfry
+
+* Audit
+  - rats
+  - understand
+* Build
+** Universal
+   - make
+   - automake
+   - nix
+     - lorri :: combine with nix-shell and direnv
+     - niv :: Easy dependency management for Nix projects
+     - [[https://github.com/nix-community/awesome-nix][awesome-nix]]
+     - [[https://github.com/nix-community/NUR][NUR]] :: A community nix repo
+   - direnv
+
+** Mobile
+   - [[https://github.com/fastlane/fastlane][fastlane]]
+
+** Misc
+   - [[https://github.com/craigmbooth/nix-visualize][nix-visualize]] :: uses the Nix package manager to visualize the dependencies of
+     a given package
+* Cheatsheet
+** Awesome
+   - [[https://github.com/LeCoupa/awesome-cheatsheets][LeCoupa/cheatsheet]]
+   - [[https://github.com/rstacruz/cheatsheets][rstacruz/cheatsheets]]
+   - [[https://github.com/detailyang/awesome-cheatsheet][detailyang/awesome-cheatsheet]] - another sheet
+* Code Review
+  - Phabricator
+* Colorscheme
+  - [[https://github.com/altercation/solarized][altercation/solarized]] - My love!
+      - [[https://github.com/thomasf/solarized-css][css]]
+  - dracula
+  - tomorrow
+  - one - provide by atom
+* Debug
+  - strace - A useful diagnostic, instructional, and debugging tool
+  - [[https://github.com/GaloisInc/macaw][macaw]] - Open source binary analysis tools.
+  - valgrind
+* Diff
+  - diff/colordiff
+  - vimdiff
+  - meld
+* Doc
+  - [[https://devdocs.io][devDocs]]
+  - [[https://zealdocs.org/][zeal]] - linux & windows
+  - [[https://kapeli.com/dash][dash]] - macos
+* English
+  - [[https://github.com/shimohq/chinese-programmer-wrong-pronunciation][wrong pronunciation]]
+* Keyboard
+  - hhkb
+  - code keyboard
+  - x-bows nature
+  - filco
+  - CM Storm Quickfire Rapid
+  - typematrix
+  - [[https://github.com/komar007/gh60][gh60]] - DIY!!
+* Lang Server Protocol
+  [[https://microsoft.github.io/language-server-protocol/specification][langserver]] is a protocol used  between a tool (the client) and a language smartness provider (the server) to integrate features like auto complete, go to definition, find all references and alike into the tool
+
+  [[http://langserver.org/][langserver suuport list]]
+* Mirror
+** Chinese
+   - [[https://mirrors.tuna.tsinghua.edu.cn/][tuna]]
+   - [[http://mirrors.ustc.edu.cn/][ustc]]
+* Monitor
+
+** Summary
+   - [[https://github.com/google/sanitizers][google/sanitizers]] - AddressSanitizer, ThreadSanitizer, MemorySanitizer
+
+** Adress
+
+** Thread
+   - [[https://github.com/opcm/pcm][pcm]] - Processor Counter Monitor
+
+** Memory
+* Parsing
+  - [[https://github.com/tree-sitter/tree-sitter][tree-sitter]] :: An incremental parsing system for programming tools
+* Roadmap
+  - [[https://github.com/kamranahmedse/developer-roadmap][developer roadmap]]
+* Uml
+** Generate
+   - [buml](https://bouml.fr/index.html)
+   - [staruml](https://staruml.sourceforge.net/en/)
+   - [uml](https://uml.sourceforge.net)
+* VCS
+** Git
+
+   Stupid content tracker: distributed VCS designed for speed and efficiency.
+
+   the most used.
+
+*** Server
+
+**** Gitlab
+     powerful!!
+
+     [[https://github.com/NARKOZ/gitlab][gitlab-ci]] - a third part tool check gitlab on ci.
+
+**** Gogs / Gitea
+     light, simple
+
+**** Github
+***** Tools
+      - [[https://github.com/piotrmurach/github_cli][github_ci]]
+***** Toy
+      - [[https://github.com/tipsy/profile-summary-for-github][tipsy/profile-summary-for-github]] - Tool for visualizing GitHub profiles
+
+
+*** [[https://www.slant.co/topics/425/~best-git-web-interfaces][Misc]]
+    git has a simple server by it self, here are some powerful tools.
+
+*** Tools
+    - git-flow
+    - git-extras
+    - [[https://github.com/commitizen/cz-cli][cz-cli]] - The commitizen command line utility. commit format.
+    - [[https://github.com/conventional-changelog/conventional-changelog][conventional-changelog]] - Generate a changelog from git metadata. working with cz-cli
+    - [[https://github.com/github/gitignore][github/gitignore]] - A collection of useful .gitignore templates
+    - gitignore.io
+
+** [[http://darcs.net/][Darcs]]
+
+   coded in haskell
+
+*** Server
+    - [[https://hub.darcs.net/][darcs-hub]]
+
+** Svn
+
+   not distributed, so there is little coyies. Easily to use for non-programers, which provide a default web interface.
+
+** Misc
+
+   See [[https://www.slant.co/topics/370/~best-version-control-systems][here]].

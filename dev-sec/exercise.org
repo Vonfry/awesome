@@ -1,9 +1,9 @@
 #+TITLE: Exercise
-#+Date: <2018-07-15 Sun 10:10>
 #+AUTHOR: Vonfry
 
 * CTF
    - [[https://picoctf.com/][picoctf]]
+   - google ctf
    - [[https://ctfs.me/][ctfs.me]]
    - [[https://ctflearn.com/][CTF-learn]]
    - [[https://github.com/ctfs/resources][CTF-Resource]]

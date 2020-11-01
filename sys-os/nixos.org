@@ -1,9 +1,8 @@
 #+TITLE: NixOS
 #+AUTHOR: Vonfry
-#+DATE: <2018-06-01 五 17:04>
 
 * Guide
-  - [[https://github.com/Gabriel439/haskell-nix][haskell-nix]] - Nix and Haskell in production
+  - [[https://github.com/Gabriel439/haskell-nix][haskell-nix]] :: Nix and Haskell in production
 
 * Converter
 See nixpkgs manual

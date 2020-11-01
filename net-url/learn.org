@@ -1,6 +1,0 @@
-#+TITLE: Learn
-#+AUTHOR: Vonfry
-#+DATE: <2018-06-15 五 18:34>
-
-- [[https://www.tutorialspoint.com/index.htm%5D%5D][tutorialspoints]]
-- [[https://www.geeksforgeeks.org/][GeekForGeeks]]

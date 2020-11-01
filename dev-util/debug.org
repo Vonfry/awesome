@@ -1,7 +1,0 @@
-#+TITLE: Debug
-#+AUTHOR: Vonfry
-#+DATE: <2018-07-21 一 11:37>
-
-- strace - A useful diagnostic, instructional, and debugging tool
-- [[https://github.com/GaloisInc/macaw][macaw]] - Open source binary analysis tools.
-- valgrind

@@ -1,0 +1,22 @@
+#+author: Vonfry
+#+title: Coq
+
+Coq is an interactive theorem prover first released in 1989. It allows for the
+expression of mathematical assertions, mechanically checks proofs of these
+assertions, helps to find formal proofs, and extracts a certified program from
+the constructive proof of its formal specification.
+
+* Offcial
+
+- [[https://coq.inria.fr][website]]
+  A released pdf or current refl can be found in document page.
+
+** Tutor
+   - [[https://github.com/ilyasergey/pnp][PNP]] :: Lecture notes for a short course on proving/programming in Coq via SSReflect.
+   - Math Comp
+
+** Editor
+   - [[https://github.com/ProofGeneral/PG][emacs plugins]]
+
+* Library
+  - math-comp

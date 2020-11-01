@@ -1,6 +1,0 @@
-#+TITLE: Rank
-#+AUTHOR: Vonfry
-#+DATE: <2018-06-15 五 18:36>
-
-- CTF
-- [[https://www.hackerrank.com/][hackerrank]]

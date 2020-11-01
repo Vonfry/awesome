@@ -1,0 +1,13 @@
+#+TITLE: Simulation
+#+AUTHOR: Vonfry
+
+* Math
+- [[https://www.sagemath.org/][SageMath]] :: an open source math tool to
+  instead matlab
+
+* CS
+** Network
+   - exata
+   - [[https://github.com/omnetpp/omnetpp][omnet++]]
+     - inet
+   - [[https://github.com/akeranen/the-one][ONE]]

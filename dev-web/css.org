@@ -1,5 +1,0 @@
-#+TITLE: CSS
-#+AUTHOR: Vonfry
-#+DATE: <2018-06-04 一 22:40>
-
-- [[https://github.com/necolas/normalize.css][normalize]] - A modern alternative to CSS resets

@@ -1,7 +1,0 @@
-#+TITLE: Doc
-#+AUTHOR: Vonfry
-#+DATE: <2019-09-23 一 9:34>
-
-- [[https://devdocs.io][devDocs]]
-- [[https://zealdocs.org/][zeal]] - linux & windows
-- [[https://kapeli.com/dash][dash]] - macos

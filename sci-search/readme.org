@@ -1,0 +1,14 @@
+#+author: Vonfry
+#+title: Search
+
+* SCI
+  - webofknowledge
+  - sciencedirect
+
+* Preview
+  - arxiv
+  - scihub
+
+* CS
+  - ieee
+  - acm

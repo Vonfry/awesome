@@ -1,5 +1,4 @@
 #+TITLE: Math
-#+DATE: <2018-06-30 六 18:18>
 #+AUTHOR: Vonfry
 
 * Equation

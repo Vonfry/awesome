@@ -1,5 +1,0 @@
-#+TITLE: Code Review
-#+AUTHOR: Vonfry
-#+DATE: <2018-09-11 二 21:58>
-
-- Phabricator

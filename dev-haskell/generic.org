@@ -1,5 +1,0 @@
-#+title: Generic
-#+author: Vonfry
-
-* cheatsheet
-  - [[https://generics.jasperwoudenberg.com/][generics]] - archive

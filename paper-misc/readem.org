@@ -1,5 +1,0 @@
-#+TITLE: Misc
-#+AUTHOR: Vonfry
-#+DATE: <2018-06-20 三 21:26>
-
-- [[https://hol-theorem-prover.org/][HOL]] - Interactive Theorem Prover

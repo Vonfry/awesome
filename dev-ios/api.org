@@ -1,5 +1,4 @@
 #+TITLE: API
-#+DATE: <2018-06-04 一 16:31>
 #+AUTHOR: Vonfry
 
 * Private

@@ -1,5 +1,4 @@
 #+TITLE: EBook
-#+Date: <2018-05-25 五 20:12>
 #+AUTHOR: Vonfry
 
 - [[https://sigil-ebook.com/][sigil]] - An open source to edit epub
