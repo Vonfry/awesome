@@ -5,7 +5,10 @@
 
   - [[https://www.metasploit.com/][metasploit]]
   - Ida Pro :: A cross-platform sotfware which can be used almost all files.
+** Linux Binary
   - [[https://binary.ninja/][binary ninja]] :: A New Type of Reversing Platform
+  - radare2 :: cli
+  - ghidra :: gui, but having problem with no DE linux.
 
 ** Password
    - [[https://github.com/magnumripper/JohnTheRipper][johnTheRipper]]
