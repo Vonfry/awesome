@@ -1,0 +1,11 @@
+#+title: Perl
+#+author: Vonfry
+
+* Library
+** Net
+   - LWP
+** Math
+   - ntheory :: Number theory utilities, such as convertion
+** Data
+   - JSON
+   - URI :: Escape and others
