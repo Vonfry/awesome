@@ -9,6 +9,7 @@
   - [[https://binary.ninja/][binary ninja]] :: A New Type of Reversing Platform
   - radare2 :: cli
   - ghidra :: gui, but having problem with no DE linux.
+  - [[https://github.com/google/binnavi][binnavi]]
 
 ** Password
    - [[https://github.com/magnumripper/JohnTheRipper][johnTheRipper]]
