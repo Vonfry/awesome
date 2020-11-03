@@ -28,3 +28,7 @@
 
 * Macro
   - [[https://github.com/CTeX-org/ctex-kit][ctex-kit]]
+* Diff
+  - [[https://gitlab.com/git-latexdiff/git-latexdiff][git-latexdiff]] :: a tool to graphically visualize differences between
+    different versions of a LaTeX file. Technically, it is a wrapper around git
+    and latexdiff.
