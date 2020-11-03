@@ -7,3 +7,20 @@
     - [[https://github.com/taffybar/taffybar][system info bar]]
 - waymonad :: A wayland compositor based on ideas from and inspired by xmonad
 - [[https://www.slant.co/topics/390/~best-window-managers-for-linux][more]]
+
+* Login
+  - sddm
+      - [[https://github.com/MarianArlt/sddm-chili][chili]] :: A beatiful theme without kde dependencies.
+      - [[https://github.com/MarianArlt/sddm-sugar-dark][sugar]]
+      - [[https://github.com/RadRussianRus/sddm-slice][slice]]
+      - [[https://github.com/Rokin05/SDDM-Themes][Rokin05/SDDM-Themes]]
+
+* Locker
+  - i3lock
+      - i3lock-color :: A rewrite with more customizing feature.
+      - i3lock-fancy
+      - betterlockscreen
+  - sflock
+  - light-locker
+  - lightdm :: dm-tools lock
+  - xscreensaver

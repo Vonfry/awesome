@@ -38,7 +38,7 @@ using for daily and we have other better language for scripts, if you don't use
   - powershell :: Support by windows. Combine with ~.NET~. It has a superior script language, but using for interactive is bad. And why not using ruby, perl, python or other scripting language? More about see: [[../sys-os/windows.org][sys-os/windows.org]]
   - [[http://xon.sh/][xonsh]] :: python based
 
-* Tools
+* Utils
   List some useful tools.
   - [[https://github.com/gsamokovarov/jump][jump]] :: Jump helps you navigate faster by learning your habits
   - most :: powerful more and less
@@ -64,7 +64,6 @@ using for daily and we have other better language for scripts, if you don't use
   - tldr :: Simplified and community-driven man pages
   - [[https://gitlab.com/screenkey/screenkey][screenkey]] :: print the key on screen when you click.
   - [[https://github.com/cheat/cheat][cheat]] :: cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not …
-
 
 ** Useless
    - [[https://github.com/svenstaro/genact][genact]] :: Pretend to be busy or waiting for your computer when you should actually be doing real work! Impress people with your insane multitasking skills. Just open a few instances of genact and watch the show. genact has multiple scenes that pretend to be doing something exciting or useful when in reality nothing is happening at all.
