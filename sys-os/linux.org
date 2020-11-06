@@ -22,5 +22,16 @@
 * Application
   Linux tools can be checked in shell and other topics as well.
 
-* System
+** Remote(GUI)
+   - freerdp :: rdp protocol remote connectiing util. This can connect to
+     windows. On linux, you have to open a service first.
+   - tigervnc :: vnc protocol to connect.
+   - remmina :: Multiple protocol supporting client.
+   - nomachine :: server and client, self protocol
+   - rdesktop
+
+** VLAN
+   - zerotier
+
+** System
   - xidlehook :: a replacement for xautolock.
