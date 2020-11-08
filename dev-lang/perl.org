@@ -1,6 +1,8 @@
 #+title: Perl
 #+author: Vonfry
 
+* Cookbook
+  - [[https://learnbyexample.github.io/learn_perl_oneliners/one-liner-introduction.html][one liner]]
 * Library
 ** Net
    - LWP
