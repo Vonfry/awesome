@@ -10,6 +10,7 @@
   - radare2 :: cli
       - r2dec :: decompiler plugins written in js
       - RetDec : decompiler plugins
+      - r2ghidra :: decompiler depended on ghidra
   - ghidra :: gui, but having problem with no DE linux.
   - [[https://github.com/google/binnavi][binnavi]]
 
