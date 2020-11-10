@@ -12,3 +12,5 @@
 * CS
   - ieee
   - acm
+* Knowledge Graph
+  - [[https://github.com/husthuke/awesome-knowledge-graph][awesome-chinese]]
