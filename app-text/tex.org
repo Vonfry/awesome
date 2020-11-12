@@ -33,3 +33,7 @@
   - [[https://gitlab.com/git-latexdiff/git-latexdiff][git-latexdiff]] :: a tool to graphically visualize differences between
     different versions of a LaTeX file. Technically, it is a wrapper around git
     and latexdiff.
+
+* Style
+** Graph
+   - xkcd :: A kind of graph style, some [[https://tex.stackexchange.com/questions/74878/create-xkcd-style-diagram-in-tex][tutor]]
