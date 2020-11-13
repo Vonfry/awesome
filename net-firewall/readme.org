@@ -3,6 +3,9 @@
 
 * Linux
   - firehol :: A firewall for humans... To control iptables
+  - firewalld
+  - iptstate :: a real time tracking
+  - nftables :: a replacement to iptables
 
 * Awesome
   - [[https://github.com/0xInfection/Awesome-WAF][awesome-WAf]]
