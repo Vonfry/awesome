@@ -119,6 +119,7 @@
    - xml-conduit
 *** JSON
     - aeson
+    - [[https://hackage.haskell.org/package/json-to-haskell][json-to-haskell]] :: generate haskell code by json data
 ** Web
    - [[Year:month:day][yesod]] :: A RESTful Haskell web framework built on WAI.
 
