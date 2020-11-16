@@ -39,3 +39,5 @@
 * Style
 ** Graph
    - xkcd :: A kind of graph style, some [[https://tex.stackexchange.com/questions/74878/create-xkcd-style-diagram-in-tex][tutor]]
+** Cite
+   - gbt7714 :: chinese bibtex style
