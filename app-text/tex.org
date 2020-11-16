@@ -24,6 +24,7 @@
   - [[https://github.com/ElegantLaTeX/ElegantNote][EleganNote]]
   - [[https://github.com/elauksap/focus-beamertheme][focus]] :: beamer templete
   - standalone :: produce tight pdf files for one or multiple tikz pictures
+  - Auriga :: a minimalist beamer template
 
 * Snippet
   - [[https://github.com/habi/latex][habi/latex]]
