@@ -58,3 +58,5 @@
   - [[https://github.com/aui/font-spider][fontspider]] :: Smart webfont compression and format conversion tool
 * Utils
   - [[https://github.com/Marak/faker.js][faker.js]] :: generate many fake data to do testing.
+* Tutorials
+  - [[https://github.com/microsoft/Web-Dev-For-Beginners][microsoft/web-dev-for-beginners]]
