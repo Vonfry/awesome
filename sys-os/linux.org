@@ -30,8 +30,5 @@
    - nomachine :: server and client, self protocol
    - rdesktop
 
-** VLAN
-   - zerotier
-
 ** System
   - xidlehook :: a replacement for xautolock.
