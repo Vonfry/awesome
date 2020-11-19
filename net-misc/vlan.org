@@ -3,3 +3,4 @@
 
 - zerotier
 - ngrok
+- localtunnel
