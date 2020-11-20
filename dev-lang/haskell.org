@@ -97,7 +97,9 @@
    - plugins :: Dynamic linking for Haskell and C objects
 ** Math
    - hmatrix :: Linear algebra and numerical computation
-   - dimensional :: Dimensional library variant built on Data Kinds, Closed Type Families, TypeNats (GHC 7.8+).
+   - dimensional :: Dimensional library variant built on Data Kinds, Closed Type
+     Families, TypeNats (GHC 7.8+).
+   - what4 :: Symbolic formula representation and solver interaction library
 ** Monadic
    - transformers
    - mtl
