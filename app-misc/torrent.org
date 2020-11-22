@@ -1,3 +1,4 @@
 #+title: Torrent
 
 - [[https://github.com/ngosang/trackerslist][tracker list]]
+- [[https://github.com/XIU2/TrackersListCollection][another tracker list]]
