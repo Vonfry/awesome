@@ -13,3 +13,7 @@
       - libvirt
   - Virtualbox
   - Parallel
+
+** Repo
+   - [[https://github.com/foxlet/macOS-Simple-KVM][macOS-Simple-KVM]] :: Tools to set up a quick macOS VM in QEMU, accelerated
+     by KVM.
