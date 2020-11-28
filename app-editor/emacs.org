@@ -37,6 +37,7 @@ And emacs author seems hardworking more than vim.
   - [[https://medium.com/@mrbig/the-road-to-emacs-87473db09526][road to emacs]]
   - [[https://github.com/condy0919/emacs-newbie][emacs-newbie]]
   - [[https://github.com/lujun9972/emacs-document][chinese document]]
+  - [[https://liujiacai.net/blog/2020/11/25/why-emacs/][chinese introduction]]
 * Org Mode
   One of the killer feature in emacs. It use marks to make program analyzing
   document structure and do many actions such as GTD, calucalting and so on.
