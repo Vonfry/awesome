@@ -50,3 +50,6 @@
 ** Test
    - [[https://github.com/google/googletest][google-test]]
    - [[https://github.com/unittest-cpp/unittest-cpp][unite-test]]
+** Text
+   - re2 :: RE2 is a fast, safe, thread-friendly alternative to backtracking
+     regular expression engines like those used in PCRE, Perl, and Python.
