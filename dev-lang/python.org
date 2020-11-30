@@ -36,3 +36,7 @@
 *** Framework
     - flask :: The Python micro framework for building web applications.
     - django
+
+** Music
+   - [[https://github.com/Rainbow-Dreamer/musicpy][musicpy]] :: Musicpy is a music programming langauge designed to write music
+     in very handy syntax for musicians
