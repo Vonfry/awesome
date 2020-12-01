@@ -32,3 +32,7 @@
 
 ** System
   - xidlehook :: a replacement for xautolock.
+
+* Tutor
+  - [[https://github.com/learnbyexample/Command-line-text-processing][CLI]]
+  - [[https://linuxcommand.org][linuxcommand.org]]
