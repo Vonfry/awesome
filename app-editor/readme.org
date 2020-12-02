@@ -3,6 +3,9 @@
 
 List some useful tools for editor to navigate, format or do others.
 
+* IDE and Editor
+  - archive: [[https://web.archive.org/web/20201202025456/http://ntraft.com/a-taxonomy-of-toolchains/][article]], [[https://web.archive.org/web/20201202025333/http%3A%2F%2Fntraft.com%2Fwp-content%2Fuploads%2F2014%2F01%2FIDE.png][picture]], [[https://web.archive.org/web/20201202025409/http%3A%2F%2Fntraft.com%2Fwp-content%2Fuploads%2F2014%2F01%2Ftoolchain.jpg][picture]]
+
 * Navigation & Completion & Syntax Check
   each editor has its own way to do this, but here is a surprising thing which
   is [[../dev-util/lsp.org][lsp]] designed by microsoft!
