@@ -2,17 +2,17 @@
 #+author: Vonfry
 
 * Container
-  - Docker
+  - Docker ::
   - [[https://github.com/hpcng/singularity][singularity]] :: Singularity is an open source container platform designed to
     be simple, fast, and secure. Singularity is optimized for compute focused
     enterprise and HPC workloads, allowing untrusted users to run untrusted
     containers in a trusted way.
 
 * VM
-  - Qemu
-      - libvirt
-  - Virtualbox
-  - Parallel
+  - Qemu ::
+    - libvirt ::
+  - Virtualbox ::
+  - Parallel ::
 
 ** Repo
    - [[https://github.com/foxlet/macOS-Simple-KVM][macOS-Simple-KVM]] :: Tools to set up a quick macOS VM in QEMU, accelerated

@@ -5,22 +5,22 @@ I'm not developing on windows, many dev tools just for fun.
 
 * Code
   - [[https://www.visualstudio.com/][visual studio]] :: The best IDE on the world!
-      - supercharge
-      - codegraph
-      - vassitx
-      - installer
+    - supercharge ::
+    - codegraph ::
+    - vassitx ::
+    - installer ::
 
 * Terminal
   - [[https://conemu.github.io/][ConEmu]] :: Emmmm...Better than windows default, but ...
 
 ** powershell
-   - [[https://github.com/JanDeDobbeleer/oh-my-posh][oh-my-posh]]
+   - [[https://github.com/JanDeDobbeleer/oh-my-posh][oh-my-posh]] ::
    - [[https://github.com/chocolatey/choco][choco]] :: package manager
 
 * Effect
   - [[http://www.voidtools.com/][Everything]] :: all file searching
   - [[https://github.com/Wox-launcher/Wox][Wox]] :: Like macos quick searching
-  - office
+  - office ::
   - [[https://calibre-ebook.com/][calibre]] :: e-book
 
 * Locale

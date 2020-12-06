@@ -1,12 +1,12 @@
 #+title: Zsh
 
 * Plugins
-  - fzf-tab
-  - fzf-marks
-  - zsh-navigation-tools
-  - zsh-autocomplete
-  - zsh-completions
-  - zsh-fast-syntax-highlighting
-  - zsh-history-substring-search
-  - zsh-autosuggestions
-  - zsh-youshould-use
+  - fzf-tab ::
+  - fzf-marks ::
+  - zsh-navigation-tools ::
+  - zsh-autocomplete ::
+  - zsh-completions ::
+  - zsh-fast-syntax-highlighting ::
+  - zsh-history-substring-search ::
+  - zsh-autosuggestions ::
+  - zsh-youshould-use ::

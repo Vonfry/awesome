@@ -3,7 +3,7 @@
 
 - snort :: Snort is an intrusion prevention system, network monitor, and alert
   daemon.
-- ossec
+- ossec ::
 - fail2ban :: scans log files and bans IPs that show malicious signs
 - mhn :: Modern Honey Network, MHN is a centralized server for management and
   data collection of honeypots. MHN allows you to deploy sensors quickly and

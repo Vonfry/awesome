@@ -3,8 +3,7 @@
 
 * Equation
 ** Differential Equation
-   - runge kutta
+   - runge kutta ::
 
 * Tools
-- [[https://www.sagemath.org/][SageMath]] :: an open source math tool to
-  instead matlab
+  - [[https://www.sagemath.org/][SageMath]] :: an open source math tool to instead matlab

@@ -2,4 +2,4 @@
 #+AUTHOR: Vonfry
 
 - [[archive.org][archive]] :: Internet Archive is a non-profit digital library offering free universal access to books, movies & music, as well as 327 billion archived web pages...
-- [[https://github.com/thedevs-network/kutt][kutt]] - custom url shortener
+- [[https://github.com/thedevs-network/kutt][kutt]] :: custom url shortener

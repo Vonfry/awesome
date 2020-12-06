@@ -2,28 +2,28 @@
 #+AUTHOR: Vonfry
 
 * Coding Style
-  - [[https://www.kernel.org/doc/Documentation/process/coding-style.rst][k & r]]
-  - [[http://llvm.org/docs/CodingStandards.html][llvm]]
-      - clang-format
-  - [[https://github.com/isocpp/CppCoreGuidelines][CppCoreGuide]]
-  - [[https://google.github.io/styleguide/cppguide.html][google]]
-  - [[https://github.com/kciter/awesome-style-guide#cpp][more]]
+  - [[https://www.kernel.org/doc/Documentation/process/coding-style.rst][k & r]] ::
+  - [[http://llvm.org/docs/CodingStandards.html][llvm]] ::
+    - clang-format ::
+  - [[https://github.com/isocpp/CppCoreGuidelines][CppCoreGuide]] ::
+  - [[https://google.github.io/styleguide/cppguide.html][google]] ::
+  - [[https://github.com/kciter/awesome-style-guide#cpp][more]] ::
 
 * Compiler
-  - [[https://llvm.org/][LLVM]]
-  - [[https://gcc.gnu.org/][GCC]]
+  - [[https://llvm.org/][LLVM]] ::
+  - [[https://gcc.gnu.org/][GCC]] ::
 
 * Analysis
   - [[https://www.gnu.org/software/cflow/][cflow]] :: GNU cflow analyzes a collection of C source files and prints a
     graph, charting control flow within the program.
-  - [[https://github.com/Ericsson/codechecker][codechecker]]
-  - [[https://scitools.com/][understand]]
+  - [[https://github.com/Ericsson/codechecker][codechecker]] ::
+  - [[https://scitools.com/][understand]] ::
 
 * Build
-  - make
-  - cmake
-  - automake
-  - waf
+  - make ::
+  - cmake ::
+  - automake ::
+  - waf ::
   - [[https://github.com/rizsotto/Bear][bear]] :: a tools to help generate ~compile-commands.json~
 
 * Tool chains
@@ -48,8 +48,8 @@
    - FoundationDB :: the open source, distributed, transactional key-value store
    - [[https://github.com/protocolbuffers/protobuf][protobuf]] :: Protocol Buffers - Google's data interchange format
 ** Test
-   - [[https://github.com/google/googletest][google-test]]
-   - [[https://github.com/unittest-cpp/unittest-cpp][unite-test]]
+   - [[https://github.com/google/googletest][google-test]] ::
+   - [[https://github.com/unittest-cpp/unittest-cpp][unite-test]] ::
 ** Text
    - re2 :: RE2 is a fast, safe, thread-friendly alternative to backtracking
      regular expression engines like those used in PCRE, Perl, and Python.

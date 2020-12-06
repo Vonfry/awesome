@@ -1,5 +1,5 @@
 #+title: Community
 #+author: Vonfry
 
-- [[http://stackoverflow.com/][stackoverflow]]
-- github
+- [[http://stackoverflow.com/][stackoverflow]] ::
+- github ::

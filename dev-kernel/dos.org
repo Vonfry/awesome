@@ -2,5 +2,4 @@
 #+AUTHOR: Vonfry
 
 * Sorcue
-
-- [[https://github.com/Microsoft/MS-DOS][MS-DOS]]
+  - [[https://github.com/Microsoft/MS-DOS][MS-DOS]] ::

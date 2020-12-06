@@ -2,15 +2,15 @@
 #+title: Search
 
 * SCI
-  - webofknowledge
-  - sciencedirect
+  - webofknowledge ::
+  - sciencedirect ::
 
 * Preview
-  - arxiv
-  - scihub
+  - arxiv ::
+  - scihub ::
 
 * CS
-  - ieee
-  - acm
+  - ieee ::
+  - acm ::
 * Knowledge Graph
-  - [[https://github.com/husthuke/awesome-knowledge-graph][awesome-chinese]]
+  - [[https://github.com/husthuke/awesome-knowledge-graph][awesome-chinese]] ::

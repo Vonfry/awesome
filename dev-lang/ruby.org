@@ -5,21 +5,21 @@
   Please follow the ruby constraint, which is enough.
 
 * Compiler
-  - jruby
+  - jruby ::
 
 * Tool Chain
-  - Gem & bundler
-  - rake
+  - Gem & bundler ::
+  - rake ::
   - pry :: powerful interpretation
-  - pry-doc
-  - pry-byebug
-  - pry-rails
-  - method_source
+  - pry-doc ::
+  - pry-byebug ::
+  - pry-rails ::
+  - method_source ::
   - rufo :: Ruby code formatter
   - starscope :: cscope like
-  - nokogiri
+  - nokogiri ::
   - rouge :: code highlight
-  - licensee
+  - licensee ::
   - jekyll :: static blog
 
 * Library
@@ -29,8 +29,8 @@
 ** Web
 *** Rails
 **** separate from rails
-    - ActiveRecord
+    - ActiveRecord ::
     - standalone-migrations :: A gem to use Rails Database Migrations in non Rails projects
 **** author
-     - authlogic
-     - devise
+     - authlogic ::
+     - devise ::

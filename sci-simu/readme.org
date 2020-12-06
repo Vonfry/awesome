@@ -7,7 +7,7 @@
 
 * CS
 ** Network
-   - exata
-   - [[https://github.com/omnetpp/omnetpp][omnet++]]
-       - inet
-   - [[https://github.com/akeranen/the-one][ONE]]
+   - exata ::
+   - [[https://github.com/omnetpp/omnetpp][omnet++]] ::
+       - inet ::
+   - [[https://github.com/akeranen/the-one][ONE]] ::

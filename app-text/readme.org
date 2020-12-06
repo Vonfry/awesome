@@ -8,15 +8,15 @@
   - [[https://www.typingclub.com/][typingclub]]
 
 * Export style
-export pure text document to html or other file type with beautiful style.
-- [[https://github.com/mosra/m.css][m.css]]
-- [[https://github.com/edwardtufte/tufte-css][tufte]]
-- [[https://github.com/xz/new.css][new.css]]
+  export pure text document to html or other file type with beautiful style.
+  - [[https://github.com/mosra/m.css][m.css]] ::
+  - [[https://github.com/edwardtufte/tufte-css][tufte]] ::
+  - [[https://github.com/xz/new.css][new.css]] ::
 
 * App / Markdown
-  - [[./tex.org][tex]]
-  - [[./org-mode.org][orgmode]]
-  - [[file:markdown.org][markdown]]
+  - [[./tex.org][tex]] ::
+  - [[./org-mode.org][orgmode]] ::
+  - [[file:markdown.org][markdown]] ::
   - evernote :: It has a wonderful function to take a note anywhere. The editor
     is terrible, but it can do a lot for webpage cropping and knowledge
     organization.

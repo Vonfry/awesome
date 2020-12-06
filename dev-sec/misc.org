@@ -1,7 +1,7 @@
 #+TITLE: Misc
 #+AUTHOR: Vonfry
 
-- [[https://www.sans.org/][sans]]
-- [[https://www.offensive-security.com/][ospc]]
+- [[https://www.sans.org/][sans]] ::
+- [[https://www.offensive-security.com/][ospc]] ::
 - [[https://github.com/vxunderground/MalwareSourceCode][MalwareSourceCode]] :: Collection of malware source code for a variety of
   platforms in an array of different programming languages.

@@ -2,6 +2,6 @@
 #+AUTHOR: Vonfry
 
 - [[https://www.elastic.co/cn/products/logstash][logstas]] :: transport and process your logs, events, or other data
-- elk
+- elk ::
 - [[https://logz.io/][logz]] :: AI-Powered ELK as a Service
 - [[https://logentries.com/][logntries]] :: The Fastest Way to Analyze Your Log Data No complex setup. No waiting. Just answers.

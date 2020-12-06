@@ -4,59 +4,59 @@
 * Css
 
 ** extension
-   - less
-   - sass
-       - compass
+   - less ::
+   - sass ::
+       - compass ::
 ** Library
-   - [[https://github.com/necolas/normalize.css][normalize]] - A modern alternative to CSS resets
+   - [[https://github.com/necolas/normalize.css][normalize]] :: A modern alternative to CSS resets
 
 * Html
 ** Framework
-  - foundation
-  - bootstrap
-  - semantic ui
+  - foundation ::
+  - bootstrap ::
+  - semantic ui ::
   - [[https://github.com/egoist/hack][egoist/hack]] :: Dead simple CSS framework.
 
 * Javascript
 
 ** Style
-   - [[https://github.com/airbnb/javascript][airbnb]]
+   - [[https://github.com/airbnb/javascript][airbnb]] ::
 
 ** Compiler
-   - v8
-   - nodejs
+   - v8 ::
+   - nodejs ::
 
 *** Webassembly
     - emscripten :: llvm to webassembly
-    - ghcjs
+    - ghcjs ::
 
 ** Library
 *** Foundation
-    - prototypeJS
-    - zepto.js
-    - jQuery
+    - prototypeJS ::
+    - zepto.js ::
+    - jQuery ::
 *** Misc
-   - [[https://github.com/js-cookie/js-cookie][js-cookie]] - A simple, lightweight JavaScript API for handling browser cookies
+   - [[https://github.com/js-cookie/js-cookie][js-cookie]] :: A simple, lightweight JavaScript API for handling browser cookies
 
 * Package
-  - grunt
+  - grunt ::
 
 * Road Map
-  - [[https://github.com/sdmg15/Best-websites-a-programmer-should-visit][best web developers a programmer should visit]]
+  - [[https://github.com/sdmg15/Best-websites-a-programmer-should-visit][best web developers a programmer should visit]] ::
 
 * Test
 ** Automate
-   - selenium
+   - selenium ::
 
 ** Penetration
    - beef :: The Browser Exploitation Framework Project
 
 * Misc
   - [[https://cdnjs.com/][cdnjs]] :: Free and Open Source Public Web CDN
-  - [[https://github.com/rstacruz/nprogressv][ngprogress]]
+  - [[https://github.com/rstacruz/nprogressv][ngprogress]] ::
   - [[https://github.com/tinymce/tinymce][tinmce]] :: The world's most popular JavaScript library for rich text editing
   - [[https://github.com/aui/font-spider][fontspider]] :: Smart webfont compression and format conversion tool
 * Utils
   - [[https://github.com/Marak/faker.js][faker.js]] :: generate many fake data to do testing.
 * Tutorials
-  - [[https://github.com/microsoft/Web-Dev-For-Beginners][microsoft/web-dev-for-beginners]]
+  - [[https://github.com/microsoft/Web-Dev-For-Beginners][microsoft/web-dev-for-beginners]] ::

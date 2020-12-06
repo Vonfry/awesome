@@ -15,22 +15,22 @@
    - [[https://github.com/tuna/thulib-latex-talk][tuna]]
 
 * Template
-  - [[https://github.com/borisveytsman/acmart][acmart]] / [[https://www.acm.org/publications/proceedings-template][ACM Master Article Template]]
-  - [[https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/][ieee]]
-  - [[https://www.springer.com/gp/livingreviews/latex-templates][springer]]
-  - [[https://github.com/amberj/latex-book-template][amberj/latex-book-template]]
-  - [[https://github.com/jdavis/latex-homework-template][homework]]
-  - [[https://github.com/mohuangrui/ucasthesis][ucasthesis]]
-  - [[https://github.com/ElegantLaTeX/ElegantNote][EleganNote]]
+  - [[https://github.com/borisveytsman/acmart][acmart]] / [[https://www.acm.org/publications/proceedings-template][ACM Master Article Template]] ::
+  - [[https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/][ieee]] ::
+  - [[https://www.springer.com/gp/livingreviews/latex-templates][springer]] ::
+  - [[https://github.com/amberj/latex-book-template][amberj/latex-book-template]] ::
+  - [[https://github.com/jdavis/latex-homework-template][homework]] ::
+  - [[https://github.com/mohuangrui/ucasthesis][ucasthesis]] ::
+  - [[https://github.com/ElegantLaTeX/ElegantNote][EleganNote]] ::
   - [[https://github.com/elauksap/focus-beamertheme][focus]] :: beamer templete
   - standalone :: produce tight pdf files for one or multiple tikz pictures
   - Auriga :: a minimalist beamer template
 
 * Snippet
-  - [[https://github.com/habi/latex][habi/latex]]
+  - [[https://github.com/habi/latex][habi/latex]] ::
 
 * Macro
-  - [[https://github.com/CTeX-org/ctex-kit][ctex-kit]]
+  - [[https://github.com/CTeX-org/ctex-kit][ctex-kit]] ::
 * Diff
   - [[https://gitlab.com/git-latexdiff/git-latexdiff][git-latexdiff]] :: a tool to graphically visualize differences between
     different versions of a LaTeX file. Technically, it is a wrapper around git

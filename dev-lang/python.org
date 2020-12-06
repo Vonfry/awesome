@@ -5,13 +5,12 @@
   python 3 is better than 2, which provide more morden designing.
 
 * Coding Style
-  - [[https://www.python.org/dev/peps/pep-0008/][PEP8]]
-    It is too strict, but useful. A tool named ~flake8~ can check it.
+  - [[https://www.python.org/dev/peps/pep-0008/][PEP8]] :: It is too strict, but useful. A tool named ~flake8~ can check it.
 
 * Tool Chain
-  - pip
-  - setuptools
-  - wheel
+  - pip ::
+  - setuptools ::
+  - wheel ::
   - [[http://virtualenv.pypa.io/en/stable/][virtualenv]] :: sand box
   - [[https://ipython.org/][ipython]] :: more powerful interpretation
   - [[https://github.com/davidhalter/jedi][jedi]] :: code completion and navigation
@@ -25,17 +24,17 @@
   - [[https://github.com/python-poetry/poetry][poetry]] :: a dependency management
 
 * Partice
- - [[https://github.com/coells/100days][100days]]
+ - [[https://github.com/coells/100days][100days]] ::
 
 * Library
 ** AI
 *** ML
-    - tensorflow
-        - [[https://github.com/astorfi/TensorFlow-World][tensorflow-world]] :: Simple and ready-to-use tutorials for TensorFlow
+    - tensorflow ::
+      - [[https://github.com/astorfi/TensorFlow-World][tensorflow-world]] :: Simple and ready-to-use tutorials for TensorFlow
 ** Web
 *** Framework
     - flask :: The Python micro framework for building web applications.
-    - django
+    - django ::
 
 ** Music
    - [[https://github.com/Rainbow-Dreamer/musicpy][musicpy]] :: Musicpy is a music programming langauge designed to write music

@@ -7,8 +7,8 @@ Pretty Good Privacy is a nice way to crypt data.
   A implement of pgp.
 
 ** Public Key Server
-   - [[http://keys.gnupg.net/][openpgp]]
-   - [[http://pgp.mit.edu/][mit]]
+   - [[http://keys.gnupg.net/][openpgp]] ::
+   - [[http://pgp.mit.edu/][mit]] ::
 
 * [[https://keybase.io/][keybase]]
   Use PGP to send message, which like whatsapp but this won't manage you keys, so it is safter. A end-to-end encryption is the best way to exchange message.

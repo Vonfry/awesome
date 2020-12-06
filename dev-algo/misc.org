@@ -6,4 +6,4 @@
 
 * Execise
   - leetcode
-      - [[https://github.com/apachecn/awesome-leetcode][awesome]]
+    - [[https://github.com/apachecn/awesome-leetcode][awesome]] ::

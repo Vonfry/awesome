@@ -1,4 +1,4 @@
 #+TITLE: Visual
 #+AUTHOR: Vonfry
 
-- [[https://github.com/algorithm-visualizer/algorithm-visualizer][algorithm-visualizer/algorithm-visualizer]]
+- [[https://github.com/algorithm-visualizer/algorithm-visualizer][algorithm-visualizer/algorithm-visualizer]] ::

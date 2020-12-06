@@ -28,11 +28,11 @@ And there are also some tools which are shown in [[https://gitlab.com/VonFry/dot
   - [[https://www.teamviewer.com/][Teamviewer]] :: remote desktop controling
   - [[http://www.parallels.com][Parallels Desktop]] :: Best Virtual Machine on macOS, I think.
   - [[https://freemacsoft.net/appcleaner/][AppCleaner]] :: free
-  - CleanMyMac
-  - Onxy
+  - CleanMyMac ::
+  - Onxy ::
   - [[https://www.mediaatelier.com/CheatSheet/][CheatSheet]] :: quickly see shortcut
   - [[https://theunarchiver.com][The Unarchiver]] :: archive tool
-  - [[https://totalfinder.binaryage.com/][totalfinder]]
+  - [[https://totalfinder.binaryage.com/][totalfinder]] ::
   - [[https://bjango.com/mac/istatmenus/][iStat Menus]] :: system status bar
   - [[http://magnet.crowdcafe.com/][Magnet]] :: windows manager
   - Amethyst :: Another manager like xmonad
@@ -40,15 +40,15 @@ And there are also some tools which are shown in [[https://gitlab.com/VonFry/dot
 * Effect
   - [[https://www.texpad.com/][TexPad]] :: The best latex editor on mac, I think.
   - [[https://www.omnigroup.com/omnifocus][OmniFocus]] :: GTD! Best one I think! (Org-mode is useful too, but this can use on iphone as well.)
-  - [[https://www.omnigroup.com/][OmniGraffle]]
+  - [[https://www.omnigroup.com/][OmniGraffle]] ::
   - [[https://www.omnigroup.com/][OmniPlan]] :: project time manager
   - [[https://wiz.money/][MoneyWiz]] :: accounting manager
   - [[https://www.alfredapp.com/][Alfred]] :: more powerful quick seach
-      - [[https://github.com/rhydlewis/search-omnifocus][searc-omnifocus]]
-      - [[zenorocha / alfred-workflows%0A][workflow collect]]
+    - [[https://github.com/rhydlewis/search-omnifocus][searc-omnifocus]] ::
+    - [[zenorocha / alfred-workflows%0A][workflow collect]] ::
   - [[https://flexibits.com/fantastical][fantastical]] :: calendar
   - [[https://www.toketaware.com/ithoughts-osx/][iThoughtsX]] :: mindmap
-  - Dropbox
+  - Dropbox ::
   - [[http://dayoneapp.com/][Day One]] :: diary
   - [[http://airmailapp.com/][airmail]] :: email
   - [[https://www.yummysoftware.com/][yummy ftp]] :: ftp & sftp
@@ -61,7 +61,7 @@ And there are also some tools which are shown in [[https://gitlab.com/VonFry/dot
   - [[https://sketchbook.com/][SketchBook]] :: draw a picture
   - [[https://photobulkeditor.com/][PhotoBluk]] :: quick cut picture
   - [[https://itunes.apple.com/us/app/pixel-winch/id735066709][Pixel Winch]] :: check pix color
-  - [[https://itunes.apple.com/us/app/prepo/id476533227][Prepo]]
+  - [[https://itunes.apple.com/us/app/prepo/id476533227][Prepo]] ::
   - [[http://www.pixelmator.com/pro/][Pixelmator]] :: photo making
   - [[https://www.apple.com/final-cut-pro/][Final Cut Pro X]] :: video making
 
@@ -70,5 +70,5 @@ And there are also some tools which are shown in [[https://gitlab.com/VonFry/dot
   - [[https://vox.rocks/][Vox]] :: Music player
 
 * Awesome
-  - [[https://github.com/hzlzh/Best-App][best app]]
-  - [[https://github.com/sindresorhus/quick-look-plugins][quick-look-plugin]]
+  - [[https://github.com/hzlzh/Best-App][best app]] ::
+  - [[https://github.com/sindresorhus/quick-look-plugins][quick-look-plugin]] ::

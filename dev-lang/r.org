@@ -5,7 +5,7 @@
 ** Data Frame
    - dplyr :: A fast, consistent tool for working with data frame like objects, both in memory and out of memory.
    - data.table :: fast version for data.frame
-   - reshape
+   - reshape ::
 
 ** String
    - stringr :: regex support and some other string action
@@ -20,5 +20,5 @@
     - [[https://github.com/karthik/wesanderson][wasenderon]] :: A Wes Anderson color palette for R
 
 * Awesome
-  - [[https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages][quick list of useful packages]]
-  - [[https://github.com/qinwf/awesome-R][awesome]]
+  - [[https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages][quick list of useful packages]] ::
+  - [[https://github.com/qinwf/awesome-R][awesome]] ::

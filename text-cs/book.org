@@ -3,29 +3,29 @@
 
 * Summary
 ** Chinese
-   - [[https://github.com/it-ebooks/it-ebooks-archive][ebook]]
+   - [[https://github.com/it-ebooks/it-ebooks-archive][ebook]] ::
 
 * Note
-  - [[https://github.com/apachecn/stanford-cs183-notes][apachecn/stanford-cs183-notes]]
+  - [[https://github.com/apachecn/stanford-cs183-notes][apachecn/stanford-cs183-notes]] ::
 
 * Category Theory
-  - Category Theory for Computer Science(michael barr)
-  - Category Theory(Awodey)
-  - [[https://link.springer.com/book/10.1007/3-540-60164-3][Category Theory and Computer Science]]
-  - [[https://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/][category theory for scientists]]
-  - [[https://github.com/hmemcpy/milewski-ctfp-pdf][category theory for programmer]]
-  - categories for the working mathematician
-  - [[https://github.com/liuxinyu95/unplugged][unplugged]]
+  - Category Theory for Computer Science(michael barr) ::
+  - Category Theory(Awodey) ::
+  - [[https://link.springer.com/book/10.1007/3-540-60164-3][Category Theory and Computer Science]] ::
+  - [[https://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/][category theory for scientists]] ::
+  - [[https://github.com/hmemcpy/milewski-ctfp-pdf][category theory for programmer]] ::
+  - categories for the working mathematician ::
+  - [[https://github.com/liuxinyu95/unplugged][unplugged]] ::
 
 * Programming Language
-  - [[https://steshaw.org/plt/][book list]]
-  - concepts of programming languages
-  - practical foundations for programming languages
-  - types and programming languages
+  - [[https://steshaw.org/plt/][book list]] ::
+  - concepts of programming languages ::
+  - practical foundations for programming languages ::
+  - types and programming languages ::
 * Misc
   - [[http://www.learnenough.com][learnenugh]] :: Talking about something a programmer needs but not necessary. These can make you doing things more interesting.
 
   - [[https://github.com/sarabander/sicp][sicp]] :: HTML5/EPUB3 version of SICP
 
 * Awesome
-  - [[https://github.com/EbookFoundation/free-programming-books][free programming books]]
+  - [[https://github.com/EbookFoundation/free-programming-books][free programming books]] ::

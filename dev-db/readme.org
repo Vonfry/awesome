@@ -9,12 +9,11 @@
 ** MySQL
 
 *** release
-    - mysql
+    - mysql ::
     - mariadb :: An enhanced, drop-in replacement for MySQL
 
 * Non-relational
-  - Readis
-
+  - Readis ::
 
 * Misc
 

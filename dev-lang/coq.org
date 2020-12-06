@@ -15,7 +15,7 @@ the constructive proof of its formal specification.
    - Math Comp
 
 ** Editor
-   - [[https://github.com/ProofGeneral/PG][emacs plugins]]
+   - [[https://github.com/ProofGeneral/PG][emacs plugins]] ::
 
 * Library
-  - math-comp
+  - math-comp ::

@@ -16,7 +16,7 @@
   Both of them are my love. And the archlinux's wiki is the best wiki I think.
 
 * Kernal patch
-  - [[https://github.com/zen-kernel/zen-kernel][zen]]
+  - [[https://github.com/zen-kernel/zen-kernel][zen]] ::
   - other :: see gentoo hardened wiki
 
 * Application
@@ -28,11 +28,11 @@
    - tigervnc :: vnc protocol to connect.
    - remmina :: Multiple protocol supporting client.
    - nomachine :: server and client, self protocol
-   - rdesktop
+   - rdesktop ::
 
 ** System
   - xidlehook :: a replacement for xautolock.
 
 * Tutor
-  - [[https://github.com/learnbyexample/Command-line-text-processing][CLI]]
-  - [[https://linuxcommand.org][linuxcommand.org]]
+  - [[https://github.com/learnbyexample/Command-line-text-processing][CLI]] ::
+  - [[https://linuxcommand.org][linuxcommand.org]] ::

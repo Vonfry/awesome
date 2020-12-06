@@ -1,6 +1,6 @@
 #+TITLE: Tutor
 #+AUTHOR: Vonfry
 
-- [[https://github.com/ahangchen/How-to-Be-A-Programmer-CN][how to ba a good programmer]]
-- [[https://www.tutorialspoint.com/index.html][tutorialspoints]]
-- [[https://www.geeksforgeeks.org/][GeekForGeeks]]
+- [[https://github.com/ahangchen/How-to-Be-A-Programmer-CN][how to ba a good programmer]] ::
+- [[https://www.tutorialspoint.com/index.html][tutorialspoints]] ::
+- [[https://www.geeksforgeeks.org/][GeekForGeeks]] ::

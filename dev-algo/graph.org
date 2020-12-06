@@ -2,4 +2,4 @@
 #+author: Vonfry
 
 * Library
-  - [[https://github.com/CMU-Perceptual-Computing-Lab/openpose][openpose]]
+  - [[https://github.com/CMU-Perceptual-Computing-Lab/openpose][openpose]] ::

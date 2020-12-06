@@ -6,8 +6,8 @@
 
 * Font
   - [[https://github.com/source-foundry/Hack][hack]] :: my favourite
-  - [[https://github.com/ryanoasis/nerd-fonts][nerd]]
-  - [[https://github.com/larsenwork/monoid][monoid]]
-  - [[https://github.com/tonsky/FiraCode][fira code]]
-  - [[https://github.com/i-tu/Hasklig][hasklig]]
+  - [[https://github.com/ryanoasis/nerd-fonts][nerd]] ::
+  - [[https://github.com/larsenwork/monoid][monoid]] ::
+  - [[https://github.com/tonsky/FiraCode][fira code]] ::
+  - [[https://github.com/i-tu/Hasklig][hasklig]] ::
 

@@ -5,7 +5,7 @@
   The official is enough.
 
 * Awesome
-  - [[https://github.com/rust-unofficial/awesome-rust][rust-unofficial/awesome-rust]]
+  - [[https://github.com/rust-unofficial/awesome-rust][rust-unofficial/awesome-rust]] ::
 * Library
 ** Game Engine
    - [[https://github.com/bevyengine/bevy][bevy]] :: Bevy is a refreshingly simple data-driven game engine built in

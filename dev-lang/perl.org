@@ -2,12 +2,12 @@
 #+author: Vonfry
 
 * Cookbook
-  - [[https://learnbyexample.github.io/learn_perl_oneliners/one-liner-introduction.html][one liner]]
+  - [[https://learnbyexample.github.io/learn_perl_oneliners/one-liner-introduction.html][one liner]] ::
 * Library
 ** Net
-   - LWP
+   - LWP ::
 ** Math
    - ntheory :: Number theory utilities, such as convertion
 ** Data
-   - JSON
+   - JSON ::
    - URI :: Escape and others
