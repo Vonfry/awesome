@@ -114,8 +114,11 @@
 ** Symbolic
    - [[https://github.com/GaloisInc/crucible][crucible]] :: Crucible is a library for symbolic simulation of imperative programs
 ** Test
+   - quickcheck ::
    - hspce ::
    - tasty ::
+   - haskell-hedgehog :: Release with confidence, state-of-the-art property
+     testing for Haskell.
 ** Text
 *** Xml
    - xml-conduit ::
