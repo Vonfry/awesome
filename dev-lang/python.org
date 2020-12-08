@@ -39,3 +39,6 @@
 ** Music
    - [[https://github.com/Rainbow-Dreamer/musicpy][musicpy]] :: Musicpy is a music programming langauge designed to write music
      in very handy syntax for musicians
+
+** Visualization
+   - [[https://github.com/3b1b/manim][manim]] :: Animation engine for explanatory math videos
