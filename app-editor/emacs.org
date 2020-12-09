@@ -44,3 +44,12 @@ And emacs author seems hardworking more than vim.
 
   Furthermore [[https://github.com/org-roam/org-roam][roam]] is a kind of way to
   manage notes. ~org-babel~ allow you to write doucment with coding result.
+
+  - org-agenda :: GTD
+  - org-roam :: roam search
+  - org-z :: zettelkasten link
+  - org-contacts :: contacts with org mode
+* Theme
+  - Dracula ::
+  - [[https://github.com/rougier/elegant-emacs][elegant]] :: A very minimal but elegant emacs (I think)
+  - [[https://github.com/rougier/nano-emacs][nano]] :: GNU Emacs / N Λ N O - Emacs made simple
