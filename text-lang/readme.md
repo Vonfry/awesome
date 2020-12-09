@@ -1,5 +1,8 @@
 # Language
 
+## Dict
+- [dict.org](https://dict.org)
+
 ## Chinese
 - [中英混排w3c标准](https://github.com/byoungd/English-level-up-tips-for-Chinese)
 - [一个人的排版规范](https://github.com/sparanoid/chinese-copywriting-guidelines)
