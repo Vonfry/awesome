@@ -1,8 +1,5 @@
 # Lang
 
-Under this dir are compilers, some tool-chains, coding-style and others for these lang itself,
-developing packages seeing the other to `dev-<lang>/<file>`.
-
 ## Coding Style
 
 Here are some projects contain many coding style.
@@ -29,4 +26,4 @@ Here are some projects contain many coding style.
 ## Misc
 
 - [thinking with function](https://github.com/jwiegley/thinking-with-functions)
-
+- [learnable programming](http://worrydream.com/#!/LearnableProgramming)
