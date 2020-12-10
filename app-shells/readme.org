@@ -82,3 +82,5 @@ using for daily and we have other better language for scripts, if you don't use
   - [[https://github.com/dotfiles/dotfiles.github.com][dotfiles]]
   - [[https://github.com/alebcay/awesome-shell][shell]]
   - [[https://github.com/unixorn/awesome-zsh-plugins][zsh plugin]]
+* Tutor
+  - [[https://github.com/jlevy/the-art-of-command-line][the art of command line]] :: Master the command line, in one page
