@@ -67,6 +67,7 @@
       - [[https://web.archive.org/web/20191027082028/https://blog.oyanglul.us/grokking-monad/part1][part1]] ::
       - [[https://web.archive.org/web/20191027082045/https://blog.oyanglul.us/grokking-monad/part2][part2]] ::
       - [[https://web.archive.org/web/20191027082055/https://blog.oyanglul.us/grokking-monad/part3][part3]] ::
+  - [[https://web.archive.org/web/20201211002735/https://www.snoyman.com/series/haskell-bad-parts][haskell-bad-parts]] ::
 
 * Library
 ** CLI
@@ -100,6 +101,7 @@
    - dimensional :: Dimensional library variant built on Data Kinds, Closed Type
      Families, TypeNats (GHC 7.8+).
    - what4 :: Symbolic formula representation and solver interaction library
+   - group-theory :: the theory of group
 ** Monadic
    - transformers ::
    - mtl ::
@@ -128,6 +130,8 @@
 ** Web
    - [[Year:month:day][yesod]] :: A RESTful Haskell web framework built on WAI.
 
+** Data
+   - password :: Hashing and checking of passwords
 * Utils
 ** Blog
    - hakyll :: static blog
