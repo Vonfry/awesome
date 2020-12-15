@@ -12,6 +12,7 @@
   - [[https://github.com/mosra/m.css][m.css]] ::
   - [[https://github.com/edwardtufte/tufte-css][tufte]] ::
   - [[https://github.com/xz/new.css][new.css]] ::
+  - [[https://github.com/gongzhitaao/orgcss][orgcss]] ::
 
 * App / Markdown
   - [[./tex.org][tex]] ::
