@@ -8,7 +8,7 @@ List some useful tools for editor to navigate, format or do others.
 
 * Navigation & Completion & Syntax Check
   each editor has its own way to do this, but here is a surprising thing which
-  is [[../dev-util/lsp.org][lsp]] designed by microsoft!
+  is [[file:~/repos/awesome/dev-util/readme.org][lsp]] designed by microsoft!
 
 * Coding Style
   A precondition: using differnt sytle for different language.

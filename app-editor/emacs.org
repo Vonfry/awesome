@@ -27,7 +27,7 @@ And emacs author seems hardworking more than vim.
 
   See [[#configure-id][configure]]
 
-  See [[../dev-lang/lsp.org][dev-lang/lsp.org]]
+  See [[../dev-util/readme.org][lsp]]
 
 * Awesome
   - [[https://github.com/emacs-tw/awesome-emacs][emacs-tw]] ::
