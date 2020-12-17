@@ -23,8 +23,8 @@
   - practical foundations for programming languages ::
   - types and programming languages ::
 * Misc
+  - [[https://github.com/missing-semester-cn/missing-semester-cn.github.io][missing-semester-cn]] :: *HIGH RECOMMENDED* The Missing Semester of Your CS Education.
   - [[http://www.learnenough.com][learnenugh]] :: Talking about something a programmer needs but not necessary. These can make you doing things more interesting.
-
   - [[https://github.com/sarabander/sicp][sicp]] :: HTML5/EPUB3 version of SICP
 
 * Awesome
