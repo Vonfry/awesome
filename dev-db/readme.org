@@ -27,6 +27,7 @@
    - Sqlectron ::
    - dbeaver ::
    - SQuirreL ::
+   - DB Visualizer ::
 
 * Non-relational
   - Readis ::
