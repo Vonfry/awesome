@@ -5,12 +5,28 @@
 
 ** PostgreSQL
    It has a tools named [[https://github.com/PostgREST/postgrest][postgrest]], which can more easily create rest api.
+*** client
+    - pgcli :: Postgres CLI with autocompletion and syntax highlighting
 
 ** MySQL
 
 *** release
     - mysql ::
     - mariadb :: An enhanced, drop-in replacement for MySQL
+
+*** client
+    - mycli :: A Terminal Client for MySQL with AutoCompletion and Syntax
+      Highlighting.
+
+** SQLite
+*** client
+    - sqlitebrowser ::
+
+** Client(General)
+   - phpMyAdmin ::
+   - Sqlectron ::
+   - dbeaver ::
+   - SQuirreL ::
 
 * Non-relational
   - Readis ::
