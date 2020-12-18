@@ -10,3 +10,7 @@
   - zsh-history-substring-search ::
   - zsh-autosuggestions ::
   - zsh-youshould-use ::
+* Prompt
+  - starship ::
+  - powerlevel10k ::
+  - pure ::
