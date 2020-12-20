@@ -39,6 +39,7 @@
    - openjd ::
 *** Client
     - apache directory studio ::
+    - LDAP Admin Tool ::
 * Misc
 
   - [[https://github.com/rethinkdb/rethinkdb][rethinkdb]] :: The open-source database for the realtime web. https://rethinkdb.com
