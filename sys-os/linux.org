@@ -31,8 +31,9 @@
    - rdesktop ::
 
 ** System
-  - xidlehook :: a replacement for xautolock.
-
+   - xidlehook :: a replacement for xautolock.
+** Utils
+   - qrencode :: qrcode
 * Tutor
   - [[https://github.com/learnbyexample/Command-line-text-processing][CLI]] ::
   - [[https://linuxcommand.org][linuxcommand.org]] ::
