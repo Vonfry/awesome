@@ -56,6 +56,7 @@
   - CM Storm Quickfire Rapid ::
   - typematrix ::
   - [[https://github.com/komar007/gh60][gh60]] :: DIY!!
+  - ergodox :: 人体工程学键盘
 * Lang Server Protocol
   [[https://microsoft.github.io/language-server-protocol/specification][langserver]] is a protocol used  between a tool (the client) and a language smartness provider (the server) to integrate features like auto complete, go to definition, find all references and alike into the tool
 
