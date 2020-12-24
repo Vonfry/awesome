@@ -58,5 +58,9 @@
   - [[https://github.com/aui/font-spider][fontspider]] :: Smart webfont compression and format conversion tool
 * Utils
   - [[https://github.com/Marak/faker.js][faker.js]] :: generate many fake data to do testing.
+  - [[https://github.com/davecheney/httpstat][httpstat]] :: It's like curl -v, with colours.
+  - [[https://github.com/httpie/httpie][httpie]] :: As easy as /aitch-tee-tee-pie/ ￼ Modern, user-friendly
+    command-line HTTP client for the API era. JSON support, colors, sessions,
+    downloads, plugins & more.
 * Tutorials
   - [[https://github.com/microsoft/Web-Dev-For-Beginners][microsoft/web-dev-for-beginners]] ::
