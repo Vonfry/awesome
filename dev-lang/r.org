@@ -21,6 +21,12 @@
 *** Color
     - [[https://github.com/karthik/wesanderson][wasenderon]] :: A Wes Anderson color palette for R
 
+** Math
+   - signal :: A set of signal processing functions originally written for
+     'Matlab' and 'Octave'.
+   - mosaic :: Description Data sets and utilities from Project [[http://mosaic-web.org][MOSAIC]]
+     used sed to teach mathematics, statistics, computation and modeling. Funded
+     by the NSF, Project MOSAIC is a community of educators working
 * Awesome
   - [[https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages][quick list of useful packages]] ::
   - [[https://github.com/qinwf/awesome-R][awesome]] ::
