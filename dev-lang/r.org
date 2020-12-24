@@ -27,6 +27,8 @@
    - mosaic :: Description Data sets and utilities from Project [[http://mosaic-web.org][MOSAIC]]
      used sed to teach mathematics, statistics, computation and modeling. Funded
      by the NSF, Project MOSAIC is a community of educators working
+** Performance
+   - microbenchmark :: benchmark
 * Awesome
   - [[https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages][quick list of useful packages]] ::
   - [[https://github.com/qinwf/awesome-R][awesome]] ::
