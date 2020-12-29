@@ -33,7 +33,9 @@
 ** System
    - xidlehook :: a replacement for xautolock.
 ** Utils
-   - qrencode :: qrcode
+   - qrencode :: qrcode encode
+   - zbar :: qrcode decode
+   - qtqr ::
 * Tutor
   - [[https://github.com/learnbyexample/Command-line-text-processing][CLI]] ::
   - [[https://linuxcommand.org][linuxcommand.org]] ::
