@@ -23,7 +23,10 @@ Here are some projects contain many coding style.
 ## Semantic
 - [github/semantic](https://github.com/github/semantic)
 
-## Misc
+## Text
 
 - [thinking with function](https://github.com/jwiegley/thinking-with-functions)
 - [learnable programming](http://worrydream.com/#!/LearnableProgramming)
+
+## Study
+- [repl.it](https://repl.it/) :: try repl language
