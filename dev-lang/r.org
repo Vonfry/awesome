@@ -2,6 +2,8 @@
 #+title: R
 
 * Library
+** Funcition
+   - purrr :: A complete and consistent functional programming toolkit for R.
 ** Data Frame
    - dplyr :: A fast, consistent tool for working with data frame like objects, both in memory and out of memory.
    - data.table :: fast version for data.frame
