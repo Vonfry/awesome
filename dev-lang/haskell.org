@@ -57,6 +57,7 @@
   - [[https://github.com/krispo/awesome-haskell][haskell]] ::
   - [[https://github.com/albohlabs/awesome-haskell][for beginner]] ::
   - [[https://github.com/sdiehl/wiwinwlh][wiwinwlh]] ::
+  - *[[https://toolbox.brick.do/][toolbox]]* :: Useful tools when developing haskell
 
 * Article
   - [[https://www.williamyaoh.com/posts/2019-11-24-design-and-testing-articles.html][A LIST OF HASKELL ARTICLES ON GOOD DESIGN, GOOD TESTING]] ::
@@ -70,8 +71,17 @@
   - [[https://web.archive.org/web/20201211002735/https://www.snoyman.com/series/haskell-bad-parts][haskell-bad-parts]] ::
 
 * Library
+** Codc
+*** Compression
+    - zstd ::
+*** Serialize
+    - serialise :: control format
+    - cereal ::
 ** CLI
 *** Arguments
+    - optparse-generic :: This library auto-generates an
+      optparse-applicative-compatible Parser from any data type that derives the
+      Generic interface.
     - optparse-applicative ::
 
 *** Input
@@ -82,14 +92,34 @@
 ** Data
    - [[https://github.com/isomorphism/these][these]] :: An either-or-both data type, with corresponding hybrid error/writer monad transformer.
 *** String
-   - Text ::
-   - ByteString ::
+   - Text :: utf
+   - ByteString :: binary, ascii
+   - fmt :: A new formatting library that tries to be simple to understand
+     while still being powerful and providing more convenience features than
+     other libraries (like functions for pretty-printing maps and lists, or a
+     function for printing arbitrary datatypes using generics).
+   - text-icu :: unicode aware
+   - lucid :: html
+   - xml-conduit :: xml
+   - aeson :: json
+   - [[https://hackage.haskell.org/package/json-to-haskell][json-to-haskell]] :: generate haskell code by json data
+*** Cryptography
+    - password :: Hashing and checking of passwords
+    - cryptonite :: many algorithms
+*** Parsing
+    - megaparsec :: Monadic parser combinators
 *** Struct
     - containers ::
         - sets :: for set-like things
         - dictionaries :: dictionaries, hashmaps, maps, etc.
         - sequences :: lists, vectors/arrays, sequences, etc.
     - unordered-containers ::
+    - stm-containers :: This library is based on an STM-specialized
+      implementation of Hash Array Mapped Trie. It provides efficient
+      implementations of Map, Set and other data structures, which starting from
+      version 1 perform even better than their counterparts from
+      "unordered-containers", but also scale well on concurrent access
+      patterns.
 ** Game
    - [[https://github.com/LambdaHack/LambdaHack][LambdaHack]] :: Haskell game engine library for roguelike dungeon crawlers; please offer feedback
 ** Graphisc
@@ -108,8 +138,17 @@
 ** Net
 *** Request
     - req ::
-** Performance
-   - criterion :: This library provides a powerful but simple way to measure software performance. It provides both a framework for executing and analysing benchmarks and a set of driver functions that makes it easy to build and run benchmarks, and to analyse their results.
+    - wreq :: scripting
+    - http-client-tls :: everything else(client)
+    - servant-client :: both the client and the server.
+*** Server
+   - [[Year:month:day][yesod]] :: A RESTful Haskell web framework built on WAI.
+** Benchmarking
+   - criterion :: This library provides a powerful but simple way to measure
+     software performance. It provides both a framework for executing and
+     analysing benchmarks and a set of driver functions that makes it easy to
+     build and run benchmarks, and to analyse their results.
+   - gauge :: 'gauge' is a lean, maintained fork of Criterion
 ** Foundation
    - foundation :: a replace for prelude
    - [[https://github.com/polysemy-research/polysemy][polysemy]] :: gemini higher-order, no-boilerplate, zero-cost monads
@@ -121,17 +160,11 @@
    - tasty ::
    - haskell-hedgehog :: Release with confidence, state-of-the-art property
      testing for Haskell.
-** Text
-*** Xml
-   - xml-conduit ::
-*** JSON
-    - aeson ::
-    - [[https://hackage.haskell.org/package/json-to-haskell][json-to-haskell]] :: generate haskell code by json data
-** Web
-   - [[Year:month:day][yesod]] :: A RESTful Haskell web framework built on WAI.
-
-** Data
-   - password :: Hashing and checking of passwords
+** System
+   - random ::
+   - retry :: retry io action
+** C preprocessor
+   - cpphs ::
 * Utils
 ** Blog
    - hakyll :: static blog
