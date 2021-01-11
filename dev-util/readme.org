@@ -92,6 +92,8 @@
 
    the most used.
 
+   - [[https://about.gitlab.com/images/press/git-cheat-sheet.pdf][git cheat]] ::
+
 *** Server
 
 **** Gitlab
