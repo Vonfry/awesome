@@ -103,6 +103,7 @@
      light, simple
 
 **** Github
+     - [[https://github.com/tiimgreen/github-cheat-sheet][github cheat sheet]] ::
 ***** Tools
       - [[https://github.com/piotrmurach/github_cli][github_ci]] ::
 ***** Toy
