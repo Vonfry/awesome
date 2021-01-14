@@ -12,8 +12,11 @@
     configuration management. Built on top of the Nix package manager, it is
     completely declarative, makes upgrading systems reliable, and has many
     other advantages.
+  - Kali :: Kali Linux Advanced Web Attacks and Exploitation
+  - qubes os :: A reasonably secure operating system
 
-  Both of them are my love. And the archlinux's wiki is the best wiki I think.
+  Both NixOS and Gentoo are my love. And the archlinux's wiki is the best wiki I
+  think. Other distributions are used for special usage in virtual machine.
 
 * Kernal patch
   - [[https://github.com/zen-kernel/zen-kernel][zen]] ::
