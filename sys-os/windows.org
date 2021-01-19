@@ -25,3 +25,6 @@ I'm not developing on windows, many dev tools just for fun.
 
 * Locale
   - [[https://github.com/xupefei/Locale-Emulator][locale-emulator]] :: Yet Another System Region and Language Simulator
+
+* System
+  - sandboxie :: Sandbox
