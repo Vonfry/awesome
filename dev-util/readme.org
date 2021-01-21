@@ -13,6 +13,7 @@
      - niv :: Easy dependency management for Nix projects
      - [[https://github.com/nix-community/awesome-nix][awesome-nix]]
      - [[https://github.com/nix-community/NUR][NUR]] :: A community nix repo
+     - [[https://github.com/GTrunSec/braindump-nix-resource][recouse collection]] ::
    - direnv ::
 
 ** Mobile
