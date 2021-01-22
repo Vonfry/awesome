@@ -3,4 +3,5 @@
 
 - zerotier ::
 - ngrok ::
+- [[https://github.com/inlets/inlets][inlets]] :: Cloud Native Tunnel for APIs
 - localtunnel ::
