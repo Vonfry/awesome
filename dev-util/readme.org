@@ -64,6 +64,7 @@
   [[http://langserver.org/][langserver suuport list]]
 * Mirror
 ** Chinese
+   - [[https://mirrors.sjtug.sjtu.edu.cn/][sjtu]] ::
    - [[https://mirrors.tuna.tsinghua.edu.cn/][tuna]] ::
    - [[http://mirrors.ustc.edu.cn/][ustc]] ::
 * Monitor
