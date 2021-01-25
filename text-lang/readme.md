@@ -7,6 +7,7 @@
 - [中英混排w3c标准](https://github.com/byoungd/English-level-up-tips-for-Chinese)
 - [一个人的排版规范](https://github.com/sparanoid/chinese-copywriting-guidelines)
 - 《中文出版物夹用英文的编辑标准》 CY T154—2017
+- [Chinese Text Project](https://ctext.org/)
 
 ## English
 
@@ -15,3 +16,4 @@
 ## Japanese
 
 - [awesome](https://github.com/yudataguy/Awesome-Japanese)
+
