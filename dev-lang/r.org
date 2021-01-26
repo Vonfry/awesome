@@ -17,6 +17,8 @@
    - [[https://github.com/yihui/knitr][yihui/knitr]] :: A general-purpose tool for dynamic report generation in R
 ** Visualization
    - ggplot :: 2d
+   - patchwork ::  The goal of patchwork is to make it ridiculously simple to
+     combine separate ggplots into the same graphic
    - tikzDevice :: export ggplot picture to latex with tikz that you can use
      latex math expression
    - glr :: 3d
