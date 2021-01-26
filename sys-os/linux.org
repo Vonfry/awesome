@@ -41,3 +41,5 @@
 * Tutor
   - [[https://github.com/learnbyexample/Command-line-text-processing][CLI]] ::
   - [[https://linuxcommand.org][linuxcommand.org]] ::
+* Philosophy
+  - KISS Principle :: [[https://en.wikipedia.org/wiki/KISS_principle][keep it simple and silly]], [[https://web.archive.org/web/20210126090054/https://en.wikipedia.org/wiki/KISS_principle][archive]]
