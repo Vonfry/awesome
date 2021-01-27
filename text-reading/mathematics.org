@@ -4,7 +4,7 @@
 * Math
   - 用数学的眼光看世界 ::
 ** Roadmap
-   - [[https://mathmap.quantamagazine.org/map/][map]] :: the map of mathematics
+   - [[https://mathmap.quantamagazine.org/map/][map]] :: the map of mathematics, [[https://web.archive.org/web/20210127023729/https://mathmap.quantamagazine.org/map/][archive]]
 
 * Physics
 
