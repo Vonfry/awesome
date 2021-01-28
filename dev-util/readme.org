@@ -9,11 +9,12 @@
    - make ::
    - automake ::
    - nix ::
-     - lorri :: combine with nix-shell and direnv
-     - niv :: Easy dependency management for Nix projects
-     - [[https://github.com/nix-community/awesome-nix][awesome-nix]]
-     - [[https://github.com/nix-community/NUR][NUR]] :: A community nix repo
-     - [[https://github.com/GTrunSec/braindump-nix-resource][recouse collection]] ::
+       - lorri :: combine with nix-shell and direnv
+       - niv :: Easy dependency management for Nix projects
+       - [[https://github.com/nix-community/awesome-nix][awesome-nix]]
+       - [[https://github.com/nix-community/NUR][NUR]] :: A community nix repo
+       - [[https://github.com/GTrunSec/braindump-nix-resource][recouse collection]] ::
+       - [[https://github.com/numtide/rnix-hashes][rnix-hashesr]] :: nix hash converter
    - direnv ::
 
 ** Mobile
