@@ -26,6 +26,10 @@
   - waf ::
   - [[https://github.com/rizsotto/Bear][bear]] :: a tools to help generate ~compile-commands.json~
 
+* Debug
+  - gdb ::
+    - gdbgui ::
+  - lldb ::
 * Tool chains
   - [[https://github.com/doxygen/doxygen][doxygen]] :: document code by comment
 
