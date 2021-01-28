@@ -1,0 +1,54 @@
+#+title: VCS
+#+author: Vonfry
+
+* Git
+
+  Stupid content tracker: distributed VCS designed for speed and efficiency.
+
+  the most used.
+
+  - [[https://about.gitlab.com/images/press/git-cheat-sheet.pdf][git cheat]] ::
+
+** Server
+
+*** Gitlab
+    powerful!!
+
+    - [[https://github.com/NARKOZ/gitlab][gitlab-ci]] :: a third part tool check gitlab on ci.
+
+*** Gogs / Gitea
+    light, simple
+
+*** Github
+    - [[https://github.com/tiimgreen/github-cheat-sheet][github cheat sheet]] ::
+**** Tools
+     - [[https://github.com/piotrmurach/github_cli][github_ci]] ::
+**** Toy
+     - [[https://github.com/tipsy/profile-summary-for-github][tipsy/profile-summary-for-github]] :: Tool for visualizing GitHub profiles
+
+
+** [[https://www.slant.co/topics/425/~best-git-web-interfaces][Misc]]
+   git has a simple server by it self, here are some powerful tools.
+
+** Tools
+   - git-flow ::
+   - git-extras ::
+   - [[https://github.com/commitizen/cz-cli][cz-cli]] :: The commitizen command line utility. commit format.
+   - [[https://github.com/conventional-changelog/conventional-changelog][conventional-changelog]] :: Generate a changelog from git metadata. working with cz-cli
+   - [[https://github.com/github/gitignore][github/gitignore]] :: A collection of useful .gitignore templates
+   - gitignore.io ::
+
+* [[http://darcs.net/][Darcs]]
+
+  coded in haskell
+
+** Server
+   - [[https://hub.darcs.net/][darcs-hub]] ::
+
+* Svn
+
+  not distributed, so there is little coyies. Easily to use for non-programers, which provide a default web interface.
+
+* Misc
+
+  See [[https://www.slant.co/topics/370/~best-version-control-systems][here]].
