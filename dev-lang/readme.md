@@ -15,6 +15,7 @@ Here are some projects contain many coding style.
 ## Analysis
 
 - [cloc](https://github.com/AlDanial/cloc) :: count lines of code
+- [tokie](https://github.com/XAMPPRocky/tokei) :: Count your code, quickly
 
 ## Exercism
 
