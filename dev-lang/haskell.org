@@ -55,6 +55,7 @@
 
 * Awesome
   - [[https://github.com/krispo/awesome-haskell][haskell]] ::
+  - [[https://haskell.pl-a.net/][haskell planetarium]] ::
   - [[https://github.com/albohlabs/awesome-haskell][for beginner]] ::
   - [[https://github.com/sdiehl/wiwinwlh][wiwinwlh]] ::
   - *[[https://toolbox.brick.do/][toolbox]]* :: Useful tools when developing haskell
