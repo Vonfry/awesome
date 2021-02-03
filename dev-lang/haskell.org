@@ -121,6 +121,7 @@
       version 1 perform even better than their counterparts from
       "unordered-containers", but also scale well on concurrent access
       patterns.
+    - [[https://github.com/ZHaskell/z-data][z-data]] :: array, slices and text
 ** Game
    - [[https://github.com/LambdaHack/LambdaHack][LambdaHack]] :: Haskell game engine library for roguelike dungeon crawlers; please offer feedback
 ** Graphisc
