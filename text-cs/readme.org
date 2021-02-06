@@ -2,3 +2,6 @@
 #+title: CS
 
 Some text is independ from developing topic, such as calculus.
+
+* Execrise
+  - [[https://cscx.org/][cscx]] :: cs by examples
