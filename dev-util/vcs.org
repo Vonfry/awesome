@@ -25,6 +25,7 @@
      - [[https://github.com/piotrmurach/github_cli][github_ci]] ::
 **** Toy
      - [[https://github.com/tipsy/profile-summary-for-github][tipsy/profile-summary-for-github]] :: Tool for visualizing GitHub profiles
+     - [[www.visualsource.net][visualsource]] ::
 
 
 ** [[https://www.slant.co/topics/425/~best-git-web-interfaces][Misc]]
