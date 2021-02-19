@@ -26,6 +26,7 @@
 **** Toy
      - [[https://github.com/tipsy/profile-summary-for-github][tipsy/profile-summary-for-github]] :: Tool for visualizing GitHub profiles
      - [[www.visualsource.net][visualsource]] ::
+     - [[https://skyline.github.com/][skyline]] :: your github story in 3d
 
 
 ** [[https://www.slant.co/topics/425/~best-git-web-interfaces][Misc]]
