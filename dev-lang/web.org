@@ -64,3 +64,6 @@
     downloads, plugins & more.
 * Tutorials
   - [[https://github.com/microsoft/Web-Dev-For-Beginners][microsoft/web-dev-for-beginners]] ::
+
+* Deploy
+  - [[https://www.heroku.com][heroku]] ::
