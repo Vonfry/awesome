@@ -9,3 +9,5 @@
   - nmap :: port scan
   - nessus :: A remote security scanner
 
+* Social
+  - [[https://github.com/qeeqbox/social-analyzer][social analyzer]] :: OSINT
