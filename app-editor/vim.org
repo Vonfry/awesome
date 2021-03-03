@@ -19,3 +19,6 @@ normal, insert, visual and other modes.
   Here are some samples, but I suggest only take a look as a reference. Write config by yourself!
   - [[https://gitlab.com/Vonfry/dotfiles/-/tree/master/etc/nixos/modules/user/files/nvim][mine]]
   - [[https://github.com/SpaceVim/SpaceVim][SpaceVim]]
+
+* Tutor
+  - [[https://github.com/mhinz/vim-galore][galore]] :: All things Vim!
