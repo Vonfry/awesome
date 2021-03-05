@@ -146,6 +146,9 @@
     - servant-client :: both the client and the server.
 *** Server
    - [[Year:month:day][yesod]] :: A RESTful Haskell web framework built on WAI.
+   - servant :: servant is a set of Haskell libraries for writing type-safe web
+     applications but also deriving clients (in Haskell and other languages) or
+     generating documentation for them, and more.
 ** Benchmarking
    - criterion :: This library provides a powerful but simple way to measure
      software performance. It provides both a framework for executing and
