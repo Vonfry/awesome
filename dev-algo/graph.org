@@ -3,3 +3,6 @@
 
 * Library
   - [[https://github.com/CMU-Perceptual-Computing-Lab/openpose][openpose]] ::
+* Project
+  - [[https://github.com/nagadomi/waifu2x][waifu2x]] :: Image Super-Resolution for Anime-style art using Deep
+    Convolutional Neural Networks. And it supports photo.
