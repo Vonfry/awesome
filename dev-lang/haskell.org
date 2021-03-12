@@ -178,6 +178,7 @@
    - [[https://generics.jasperwoudenberg.com/][generics]] :: archive
 ** GHC
    - [[https://github.com/bgamari/ghc-utils][bgamari/ghc-utils]]
+   - [[https://github.com/alpmestan/ghc.nix][ghc with nix support]] :: Nix (shell) expression for working on GHC
 ** Configure
    - hnix :: Haskell implementation of the Nix language
    - dhall ::
