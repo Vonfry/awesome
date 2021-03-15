@@ -20,6 +20,7 @@
 ** Android
 
    - [[https://github.com/iBotPeaches/Apktool][apktool]] :: A tool for reverse engineering Android apk files
+   - [[https://github.com/frida/frida][frida]] :: hook tools
 
 ** VM
    - [[https://github.com/vulhub/vulhub][vulhub]] :: Docker-Compose file for vulnerability environment
