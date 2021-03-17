@@ -33,3 +33,7 @@ Here are some projects contain many coding style.
 - [repl.it](https://repl.it/) :: try repl language
 - [project based learning](https://github.com/tuvtran/project-based-learning) :: Curated list of project-based tutorials
 
+- [catala-lang](https://catala-lang.org/) :: Catala is a domain-specific
+  programming language designed for deriving correct-by-construction
+  implementations from legislative texts.
+
