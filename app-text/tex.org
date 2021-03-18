@@ -12,7 +12,8 @@
    Texpad is a powerful editor, see [[../app-os/macos.org][macOS.org]]
 
 * Tutor
-   - [[https://github.com/tuna/thulib-latex-talk][tuna]]
+   - [[https://github.com/tuna/thulib-latex-talk][tuna]] :: 清华
+   - [[https://www.learnlatex.org/en/][leanrn tex]] ::
 
 * Template
   - [[https://github.com/borisveytsman/acmart][acmart]] / [[https://www.acm.org/publications/proceedings-template][ACM Master Article Template]] ::
