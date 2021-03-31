@@ -40,6 +40,7 @@ using for daily and we have other better language for scripts, if you don't use
 
 * Utils
   List some useful tools.
+  - [[https://github.com/uutils/coreutils][coreutils]] :: rust rewrite for gnu coreutils
   - [[https://github.com/gsamokovarov/jump][jump]] :: Jump helps you navigate faster by learning your habits
   - trash-cli :: a safe rm with xdg
   - most :: powerful more and less
