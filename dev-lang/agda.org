@@ -3,3 +3,7 @@
 
 Agda is a dependently typed programming language / interactive theorem
 prover.
+
+* Tutor
+  - [[https://plfa.github.io/][PLFA]] ::
+  - [[https://agda-zh.github.io/PLFA-zh/][PLFA-zh]] ::
