@@ -14,7 +14,10 @@
   - [[https://www.haskell.org/ghc/][ghc]] ::
     - [[https://github.com/ndmitchell/ghcid][ghcid]] :: Very low feature GHCi based IDE
   - [[https://github.com/ghcjs/ghcjs][ghcjs]] :: write web script by haskell
-
+** Parser
+   - alex ::
+     - [[https://devanla.com/posts/wya-lexer.html][tutor]] :: example to python
+   - happy ::
 * Package & project
   - [[http://hackage.haskell.org/][hackage]] ::
   - cabal ::
