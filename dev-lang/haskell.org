@@ -16,7 +16,7 @@
   - [[https://github.com/ghcjs/ghcjs][ghcjs]] :: write web script by haskell
 ** Parser
    - alex ::
-     - [[https://devanla.com/posts/wya-lexer.html][tutor]] :: example to python
+     - [[https://devanla.com/posts/wya-lexer.html][tutor]], [[https://web.archive.org/web/20210409010429/https://devanla.com/posts/wya-lexer.html][archive]] :: example to python
    - happy ::
 * Package & project
   - [[http://hackage.haskell.org/][hackage]] ::
