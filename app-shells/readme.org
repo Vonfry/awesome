@@ -87,3 +87,4 @@ using for daily and we have other better language for scripts, if you don't use
   - [[https://github.com/unixorn/awesome-zsh-plugins][zsh plugin]]
 * Tutor
   - [[https://github.com/jlevy/the-art-of-command-line][the art of command line]] :: Master the command line, in one page
+  - [[https://github.com/you-dont-need/You-Dont-Need-GUI][you dont neet gui]] :: Stop relying on GUI; CLI **ROCKS**
