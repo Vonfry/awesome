@@ -23,6 +23,7 @@
   - concepts of programming languages ::
   - practical foundations for programming languages ::
   - types and programming languages ::
+  - certified programming with dependent types ::
 * Misc
   - [[https://github.com/missing-semester-cn/missing-semester-cn.github.io][missing-semester-cn]] :: *HIGH RECOMMENDED* The Missing Semester of Your CS Education.
   - [[http://www.learnenough.com][learnenugh]] :: Talking about something a programmer needs but not necessary. These can make you doing things more interesting.
