@@ -16,6 +16,7 @@
   - [[https://github.com/hmemcpy/milewski-ctfp-pdf][category theory for programmer]] ::
   - categories for the working mathematician ::
   - [[https://github.com/liuxinyu95/unplugged][unplugged]] :: isomorphism
+  - basic category theroy ::
 
 * Programming Language
   - [[https://steshaw.org/plt/][book list]] ::
