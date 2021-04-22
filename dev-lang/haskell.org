@@ -147,6 +147,8 @@
     - wreq :: scripting
     - http-client-tls :: everything else(client)
     - servant-client :: both the client and the server.
+    - haxl :: A Haskell library that simplifies access to remote data, such as
+      databases or web-based services.
 *** Server
    - [[Year:month:day][yesod]] :: A RESTful Haskell web framework built on WAI.
    - servant :: servant is a set of Haskell libraries for writing type-safe web
