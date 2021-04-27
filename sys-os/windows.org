@@ -28,3 +28,4 @@ I'm not developing on windows, many dev tools just for fun.
 
 * System
   - sandboxie :: Sandbox
+  - process monitor :: a better monitor
