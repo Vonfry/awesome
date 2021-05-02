@@ -1,0 +1,15 @@
+#+title: Misc
+#+author: Vonfry
+
+* Web
+** Archive
+  - [[https://github.com/ArchiveBox/ArchiveBox][archivebox]] ::
+** Torrent
+   - [[https://github.com/ngosang/trackerslist][tracker list]] ::
+   - [[https://github.com/XIU2/TrackersListCollection][another tracker list]] ::
+** Feed
+   - feedly :: Feedly, free and safe download.
+   - rsshub ::
+   - pocket ::
+   - [[https://github.com/osmoscraft/osmosfeed][osmosfeed]] :: A web-based RSS reader running entirely from your GitHub repo.
+

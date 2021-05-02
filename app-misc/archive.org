@@ -1,5 +1,0 @@
-#+title: Archive
-#+author: Vonfry
-
-* Web
-  - [[https://github.com/ArchiveBox/ArchiveBox][archivebox]] ::
