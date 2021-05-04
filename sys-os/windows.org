@@ -29,3 +29,6 @@ I'm not developing on windows, many dev tools just for fun.
 * System
   - sandboxie :: Sandbox
   - process monitor :: a better monitor
+  - RAMDisk :: RAMDisk is a program that takes a portion of your system memory
+    and uses it as a disk drive. The more RAM your computer has, the larger the
+    RAMDisk you can create.
