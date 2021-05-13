@@ -11,9 +11,9 @@ normal, insert, visual and other modes.
   rewritten version for vim. It provide more morden api & design, but it is
   under developing. It can be used to develop vim-like plugin for other editor.
 
-
-** [[https://github.com/onivim/oni][onivim]]
-   developing gui cross-platform editor by onivim.
+** GUI
+   - [[https://github.com/onivim/oni][onivim]] :: developing gui cross-platform editor by onivim.
+   - [[https://github.com/Kethku/neovide][neovide]] :: No Nonsense Neovim Client in Rust
 
 * Configure
   Here are some samples, but I suggest only take a look as a reference. Write config by yourself!
