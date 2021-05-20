@@ -35,9 +35,19 @@
 
 ** System
    - xidlehook :: a replacement for xautolock.
+   - inxi :: system states, such as cpu, memory and etc
 ** Utils
    - qrencode :: qrcode encode
    - zbar :: qrcode decode
+** Picture
+   - inkscape ::
+   - gimp ::
+** Audio
+   - pavucontrol ::
+   - pulseeffects ::
+   - kid3 ::
+   - audacity ::
+   - ffmpeg ::
 * Tutor
   - [[https://github.com/learnbyexample/Command-line-text-processing][CLI]] ::
   - [[https://linuxcommand.org][linuxcommand.org]] ::
