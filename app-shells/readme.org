@@ -68,12 +68,14 @@ using for daily and we have other better language for scripts, if you don't use
   - [[https://github.com/cheat/cheat][cheat]] :: cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not …
   - [[https://github.com/alexanderepstein/Bash-Snippets][bash-snippet]] :: A collection of small bash scripts for heavy terminal users
   - [[https://github.com/sharkdp/hyperfine][hyperfine]] :: command line benchmarking
+  - unar :: unar is the BEST solution for archives containing non UTF-8 encoding file names.
 
 ** Useless
    - [[https://github.com/svenstaro/genact][genact]] :: Pretend to be busy or waiting for your computer when you should actually be doing real work! Impress people with your insane multitasking skills. Just open a few instances of genact and watch the show. genact has multiple scenes that pretend to be doing something exciting or useful when in reality nothing is happening at all.
    - autojump :: quickly jump to dirs.
    - [[https://github.com/aviaviavi/confetti][confetti]] :: a configuration file swapping tool
    - [[https://github.com/dustinkirkland/hollywood][hollywood]] ::
+   - visidata :: A terminal spreadsheet multitool for discovering and arranging data
 
 ** Misc
    See each category.
