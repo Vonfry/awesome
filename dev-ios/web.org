@@ -1,4 +1,0 @@
-#+title: Web
-
-* Pack
-  - Apache Cordova :: Mobile apps with HTML, CSS & JS
