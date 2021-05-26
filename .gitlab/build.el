@@ -7,6 +7,9 @@
 (message (concat "cache dir: " cache-dir))
 (message (concat "output file: " output-file))
 
+(when (file-exists-p output-file)
+  (delete-file output-file))
+
 (setq-default package-user-dir (expand-file-name "emacs/packages" cache-dir))
 
 (require 'package)
