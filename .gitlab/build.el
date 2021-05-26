@@ -33,6 +33,7 @@
 
 (require 'org-roam)
 
+(org-roam-db-build-cache t)
 (setq graph-process (org-roam-graph))
 
 (while (process-live-p graph-process))
