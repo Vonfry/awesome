@@ -7,11 +7,14 @@ default:
   cache:
     paths:
       - .build/
+      - .cache/
 
 build:
   before_script:
     - apt update
     - apt install -y ca-cacert emacs graphviz sqlite3
+    - mkdir -p .build
+    - mkdir -p .cache
   script:
     - emacs readme.org --batch -l .gitlab/build.el
   stage: build
