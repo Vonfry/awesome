@@ -1,0 +1,29 @@
+stages:
+  - build
+  - deploy
+
+default:
+  image: ubuntu
+  cache:
+    paths:
+      - .build/
+
+build:
+  before_script:
+    - apt update
+    - apt install -y emacs graphviz
+  script:
+    - emacs readme.org --batch -l .gitlab/build.el
+  stage: build
+
+pages:
+  script:
+    - mkdir public
+    - cp .build/roam.svg public/roam.svg
+    - echo "<img src=roam.svg>" > public/index.html
+  stage: deploy
+  only:
+    - master
+  artifacts:
+    paths:
+      - public
