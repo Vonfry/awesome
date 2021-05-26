@@ -17,7 +17,8 @@
     (print (concat "graph file: " file))
     (print (concat "new file: " output_path))
     (copy-file file output_path t)))
-(setq-default org-roam-directory CI_DIR)
+(setq-default org-roam-directory CI_DIR
+              org-roam-graphviz-extra-options '(("rankdir" . "LR")))
 
 (require 'org-roam)
 
