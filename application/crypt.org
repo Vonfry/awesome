@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       2975b67a-4521-4582-b271-a7c24cbb5f59
 :END:
+#+title: Crypt
 
 * Password Manager
   :PROPERTIES:

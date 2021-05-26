@@ -1,6 +1,12 @@
+:PROPERTIES:
+:ID:       3f4301af-7176-441a-bcb5-d109401fafac
+:END:
 #+TITLE: Misc
 #+AUTHOR: Vonfry
 
 * Instresting Project
+  :PROPERTIES:
+  :ID:       3e5bae35-04c1-4c69-9f75-ff78bada8a1d
+  :END:
   - [[https://github.com/64/ByteOS][byteos]] :: A simple hobby operating system for the x86_64 architecture, written in C.
   - minix :: minial system

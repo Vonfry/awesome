@@ -38,9 +38,10 @@ internal link cannot be used outside.
   :ID:       97db93bc-c296-49c3-a2af-5726d369835c
   :END:
   - [[id:850125d7-f835-48bb-97fb-653d78f67082][linux]]
-    - [[id:746a0cc6-f0c7-4ff0-a1c8-d3d7779ca44a][nixos]]
+      - [[id:746a0cc6-f0c7-4ff0-a1c8-d3d7779ca44a][nixos]]
   - [[f06b29d0-2566-475d-83d2-f7a519c01f13][windows]]
   - [[a153e6be-1933-426a-98ae-d0694e84413d][macos]]
+  - [[id:3f4301af-7176-441a-bcb5-d109401fafac][misc]]
 * Academic
   :PROPERTIES:
   :ID:       d6568af3-1ffc-462d-bc59-853be090c45c

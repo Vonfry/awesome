@@ -3,6 +3,9 @@
 :END:
 #+title: Reading
 * General
+  :PROPERTIES:
+  :ID:       5c409498-6fc1-498c-ab98-11562e63d859
+  :END:
   - [[https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way][how to ask questino the smart way]]
 * Literature
   :PROPERTIES:

@@ -26,11 +26,17 @@
 
 
 * Video
+  :PROPERTIES:
+  :ID:       da22c115-2775-4af8-9711-7543a5a02b82
+  :END:
   - handbrake :: HandBrake is an open-source video transcoder available for Linux, Mac, and Windows, licensed under the GNU General Public License (GPL) Version 2.
   - ffmpeg ::
-      + [[https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730][cheatsheet]] ::
+    + [[https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730][cheatsheet]] ::
   - vlc :: qt-based video player
-   - mpv :: Video Player
+  - mpv :: Video Player
 
 * Audio
+  :PROPERTIES:
+  :ID:       69e22d64-0eb8-4a4e-b0e8-5f04f8a35ee2
+  :END:
   - audacity :: Audio Player and management
