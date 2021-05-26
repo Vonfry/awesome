@@ -21,6 +21,9 @@
 
 (package-install 'org-roam)
 
+(require 'org-id)
+(org-id-update-id-locations (directory-files-recursively ci-dir "\\.org$" t))
+
 (setq-default org-roam-graph-viewer
   (lambda (file)
     (message "graph file: %s" file)
