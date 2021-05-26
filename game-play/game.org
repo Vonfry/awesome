@@ -5,3 +5,8 @@
   rhythm is just a *click* away!
 
   [[https://github.com/ppy/osu][source]]
+
+* Galgame
+  - 素晴日 ::
+  - 青空下的加缪 ::
+  - 樱之诗 ::

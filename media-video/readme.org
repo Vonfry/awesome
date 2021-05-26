@@ -1,10 +1,6 @@
 #+TITLE: Video
 #+AUTHOR: Vonfry
 
-* Player
-  - mpv ::
-  - vlc ::
-
 * Convert
   - handbrake :: HandBrake is an open-source video transcoder available for Linux, Mac, and Windows, licensed under the GNU General Public License (GPL) Version 2.
   - ffmpeg ::

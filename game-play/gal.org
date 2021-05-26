@@ -1,6 +1,0 @@
-#+title: Galgame
-#+author: Vonfry
-
-- 素晴日 ::
-- 青空下的加缪 ::
-- 樱之诗 ::

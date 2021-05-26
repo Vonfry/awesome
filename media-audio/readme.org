@@ -1,5 +1,0 @@
-#+TITLE: Audio
-#+AUTHOR: Vonfry
-
-- [[https://www.audacityteam.org/][audacityteam]] :: Audacity is an easy-to-use, multi-track audio editor and
-  recorder for Windows, Mac OS X, GNU/Linux and other operating systems.

@@ -8,7 +8,7 @@
     install with a package.
       - Anything(installation, development environment, overlay or others) about
         it can be fountd on its [[http://wiki.gentoo.org/][*wiki*]].
-  - NixOS :: NixOS is a Linux distribution with a unique approach to package and
+  - [[file:nixos.org][NixOS]] :: NixOS is a Linux distribution with a unique approach to package and
     configuration management. Built on top of the Nix package manager, it is
     completely declarative, makes upgrading systems reliable, and has many
     other advantages.
@@ -48,6 +48,16 @@
    - kid3 ::
    - audacity ::
    - ffmpeg ::
+** Media
+   - inkscape :: vector graphics
+   - gimp :: image Manipulation Program
+   - kid3 :: Audio Tagger
+   - audacity :: Audio Player and management
+   - mpv :: Video Player
+   - ffmpeg :: video converter
+   - vlc :: qt-based video player
+** Document
+   - zathura :: pdf reader
 * Tutor
   - [[https://github.com/learnbyexample/Command-line-text-processing][CLI]] ::
   - [[https://linuxcommand.org][linuxcommand.org]] ::
