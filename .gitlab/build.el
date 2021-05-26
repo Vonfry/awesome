@@ -10,7 +10,8 @@
 (when (file-exists-p output-file)
   (delete-file output-file))
 
-(setq-default package-user-dir (expand-file-name "emacs/packages" cache-dir))
+(setq-default package-user-dir (expand-file-name "emacs/packages" cache-dir)
+              org-id-locations-file (expand-file-name "emacs/id" cache-dir))
 
 (require 'package)
 (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
