@@ -76,6 +76,9 @@ internal link cannot be used outside.
   - [[id:ea5f732b-1775-449d-9435-7ed891f60aa1][game]]
   - [[id:4e42518b-3e82-487b-b421-b8afa9fcd92f][lang]]
 * Network
+  :PROPERTIES:
+  :ID:       0bc3e47a-0640-43cf-b1a5-36903f7e3b43
+  :END:
   - [[id:d86279bd-315c-4288-94de-81cac4a4919b][site]]
   - [[id:31124768-e7f5-4667-bb6f-68b43f7c04ba][analyzer]]
   - [[id:f18a0a56-bbec-420a-b264-64eff0dbe931][service]]
