@@ -1,7 +1,7 @@
 (setq ci-dir (getenv "CI_PROJECT_DIR")
       build-dir (expand-file-name ".build" ci-dir)
       output-file (expand-file-name "roam.svg" build-dir)
-      cache-dir (expand-file-name ".cache" ci-dir))
+      cache-dir (xdg-cache-home))
 (message (concat "ci dir: " ci-dir))
 (message (concat "build dir: " build-dir))
 (message (concat "cache dir: " cache-dir))
