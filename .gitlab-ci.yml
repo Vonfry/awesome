@@ -11,7 +11,7 @@ default:
 build:
   before_script:
     - apt update
-    - apt install -y emacs graphviz
+    - apt install -y ca-cacert emacs graphviz sqlite3
   script:
     - emacs readme.org --batch -l .gitlab/build.el
   stage: build
