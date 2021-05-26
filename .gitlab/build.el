@@ -1,3 +1,4 @@
+(require 'xdg)
 (setq ci-dir (getenv "CI_PROJECT_DIR")
       build-dir (expand-file-name ".build" ci-dir)
       output-file (expand-file-name "roam.svg" build-dir)
