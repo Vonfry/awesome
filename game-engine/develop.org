@@ -1,5 +1,0 @@
-#+TITLE: Develop
-#+AUTHOR: Vonfry
-
-* Roadmap
- - [[https://github.com/miloyip/game-programmer][roadmap]] ::

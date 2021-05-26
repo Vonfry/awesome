@@ -1,5 +1,0 @@
-#+TITLE: Markdown
-#+AUTHOR: Vonfry
-
-* Editor
-  - [[https://marktext.github.io/website/][mark-text]] :: A good cross-platform editor

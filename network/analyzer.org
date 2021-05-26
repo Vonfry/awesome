@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       31124768-e7f5-4667-bb6f-68b43f7c04ba
+:END:
+#+title: Analyzer
+
+* Web Log
+  :PROPERTIES:
+  :ID:       32e114cf-3abf-45f8-88c5-bb9004a030a3
+  :END:
+  - goaccess :: A real-time web log analyzer and interactive viewer that runs in a terminal
+  - rhit :: nginx log reader
+  - fluentd :: data collector and unified logging layer (project under CNCF)
+  - more :: see [[id:6a798127-176b-44b1-8913-a865a9d223dc][selfhost]]
+
+* Security
+  :PROPERTIES:
+  :ID:       3e93f5be-2201-4cd0-8eef-1c45aa28ad83
+  :END:
+  - nmap :: port scan
+  - nessus :: A remote security scanner
+  - snort :: Snort is an intrusion prevention system, network monitor, and alert
+    daemon.
+  - ossec ::
+  - mhn :: Modern Honey Network, MHN is a centralized server for management and
+    data collection of honeypots. MHN allows you to deploy sensors quickly and
+    to collect data immediately, viewable from a neat web interface. Honeypot
+    deploy scripts include several common honeypot technologies, including
+    Snort, Cowrie, Dionaea, and glastopf, among others.
+
+* Social
+  :PROPERTIES:
+  :ID:       f1cdad42-6dde-4a7b-92e5-4ec1c7f7fef6
+  :END:
+  - [[https://github.com/qeeqbox/social-analyzer][social analyzer]] :: OSINT

@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       9fc615d1-51af-4f9c-a147-9055db39e30b
+:END:
+#+title: Application
+
+* Android
+  :PROPERTIES:
+  :ID:       4f34aa4b-4cbc-4be7-9f86-6a627a2685bf
+  :END:
+** Simulation
+   :PROPERTIES:
+   :ID:       7fc72d6f-c28d-48a9-8d89-4cb194adb413
+   :END:
+   - android-sdk ::
+   - anbox ::
+
+
+* iOS
+  :PROPERTIES:
+  :ID:       858bd719-8ea8-4bcc-9b00-2b1c70a00f02
+  :END:
+
+** Swift
+   :PROPERTIES:
+   :ID:       c338f57c-50fa-43b4-9bfa-f39ebc014128
+   :END:
+   - [[https://github.com/jphong1111/Useful_Swift][useful]] :: List of useful iOS & Swift stuff!!
+** API
+   :PROPERTIES:
+   :ID:       5dae9a45-4437-4a96-87e5-19699e628b18
+   :END:
+*** Private
+    - [[https://github.com/nst/iOS-Runtime-Headers][header]] ::
+** Web
+   :PROPERTIES:
+   :ID:       4838ba42-6d04-4656-9f0a-f6effa19f153
+   :END:
+*** Pack
+    - Apache Cordova :: Mobile apps with HTML, CSS & JS

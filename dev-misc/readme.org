@@ -1,5 +1,0 @@
-#+title: Misc
-#+author: Vonfry
-
-- [[https://colin-scott.github.io/personal_website/research/interactive_latency.html][Latency Numbers Every Programmer Should Know]] ::
-- [[https://eater.net/8bit][build an 8 b ticomputer from scratch]]

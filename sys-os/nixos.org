@@ -1,8 +1,0 @@
-#+TITLE: NixOS
-#+AUTHOR: Vonfry
-
-* Guide
-  - [[https://github.com/Gabriel439/haskell-nix][haskell-nix]] :: Nix and Haskell in production
-
-* Converter
-See nixpkgs manual

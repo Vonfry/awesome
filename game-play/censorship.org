@@ -1,4 +1,0 @@
-#+TITLE: Censorship
-#+AUTHOR: Vonfry
-
-- [[https://github.com/cnnblike/discord-lite][cnnblike/discord-lite]] :: A solution to censorship on mobile game in Mainland China

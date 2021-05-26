@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e6523338-7cb4-4491-b49c-66159ce05d3c
+:END:
+#+TITLE: Agda
+#+AUTHOR: Vonfry
+
+Agda is a dependently typed programming language / interactive theorem
+prover.
+
+* Tutor
+  :PROPERTIES:
+  :ID:       99bb2a60-1564-4242-a480-937f6f04703d
+  :END:
+  - [[https://plfa.github.io/][PLFA]] ::
+  - [[https://agda-zh.github.io/PLFA-zh/][PLFA-zh]] ::

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a6a6db93-3ae6-4880-bfd7-7fd006f73809
+:END:
+#+title: Perl
+#+author: Vonfry
+
+* Cookbook
+  :PROPERTIES:
+  :ID:       322cfc13-4c94-4945-aa12-96b0c70a37ad
+  :END:
+  - [[https://learnbyexample.github.io/learn_perl_oneliners/one-liner-introduction.html][one liner]] ::
+* Library
+  :PROPERTIES:
+  :ID:       1ae21c43-0022-49be-ac00-3bb8bda5811c
+  :END:
+** Net
+   - LWP ::
+** Math
+   - ntheory :: Number theory utilities, such as convertion
+** Data
+   - JSON ::
+   - URI :: Escape and others

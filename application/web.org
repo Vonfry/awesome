@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       4cf184af-90d7-45e1-bea5-fc91b069fc08
+:END:
+#+title: Web
+#+author: Vonfry
+
+* Archive
+  :PROPERTIES:
+  :ID:       b1616375-71d4-4ef2-b8ad-91f639a7ab13
+  :END:
+ - [[https://github.com/ArchiveBox/ArchiveBox][archivebox]] ::
+* Torrent
+  :PROPERTIES:
+  :ID:       31b752ad-144c-4f0a-9664-654f076a556e
+  :END:
+  - [[https://github.com/ngosang/trackerslist][tracker list]] ::
+  - [[https://github.com/XIU2/TrackersListCollection][another tracker list]] ::
+* Feed
+  :PROPERTIES:
+  :ID:       4ca87913-1575-4eb6-a535-c36689f74b8a
+  :END:
+  - feedly :: Feedly, free and safe download.
+  - rsshub ::
+  - pocket ::
+  - [[https://github.com/osmoscraft/osmosfeed][osmosfeed]] :: A web-based RSS reader running entirely from your GitHub repo.
+

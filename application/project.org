@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       b4016a62-7008-4b5e-9b2c-902248915c33
+:END:
+#+TITLE: Project
+#+AUTHOR: Vonfry
+
+Project management
+
+* Server
+  :PROPERTIES:
+  :ID:       0687c0c5-124c-42cc-b604-fd57888b7c3e
+  :END:
+  - redmine ::
+  - openproject ::
+  - taiga ::
+  - more :: see [[id:6a798127-176b-44b1-8913-a865a9d223dc][selfhost]]
+
+* Tracking
+  :PROPERTIES:
+  :ID:       db6f05c8-82c2-4449-8688-674fb380b1c2
+  :END:
+  - Jira & Jenkins :: which can be cooperated with gitlab
+  - trello ::
+  - asana ::
+  - wrike ::
+  - openproject ::
+  - Pivotal Tracker ::
+  - [[https://www.slant.co/topics/1811/~feature-tracking-planning-tools-for-small-development-teams][more]] ::
+
+* Misc
+  :PROPERTIES:
+  :ID:       5bcab7d2-53ff-4d02-a3fd-2d3f0e0f1297
+  :END:
+  - [[https://github.com/hashicorp/terraform][terraform]] :: Terraform enables you to safely and predictably create, change,
+    and improve infrastructure. It is an open source tool that codifies APIs into
+    declarative configuration files that can be shared amongst team members,
+    treated as code, edited, reviewed, and versioned. https://www.terraform.io/

@@ -1,4 +1,0 @@
-#+TITLE: Haskell
-#+AUTHOR: Vonfry
-
-A Dependently Typed Functional Programming Language

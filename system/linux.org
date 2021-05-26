@@ -1,0 +1,178 @@
+:PROPERTIES:
+:ID:       850125d7-f835-48bb-97fb-653d78f67082
+:END:
+#+TITLE: Linux
+#+AUTHOR: Vonfry
+
+* Release
+  :PROPERTIES:
+  :ID:       a5349de9-dfaf-44cb-9414-1f5644b7bd2b
+  :END:
+  - Gentoo :: A flexible, source-based Linux distribution that becomes just
+    about any system you need—and much more. You can choose what you want to
+    install with a package.
+      - Anything(installation, development environment, overlay or others) about
+        it can be fountd on its [[http://wiki.gentoo.org/][*wiki*]].
+  - [[id:746a0cc6-f0c7-4ff0-a1c8-d3d7779ca44a][NixOS]] :: NixOS is a Linux distribution with a unique approach to package and
+    configuration management. Built on top of the Nix package manager, it is
+    completely declarative, makes upgrading systems reliable, and has many
+    other advantages.
+  - Kali :: Kali Linux Advanced Web Attacks and Exploitation
+  - qubes os :: A reasonably secure operating system
+
+  Both NixOS and Gentoo are my love. And the archlinux's wiki is the best wiki I
+  think. Other distributions are used for special usage in virtual machine.
+
+* Kernal patch
+  :PROPERTIES:
+  :ID:       afe466f7-da48-4322-9856-7b4bd5b47a92
+  :END:
+  - [[https://github.com/zen-kernel/zen-kernel][zen]] ::
+  - other :: see gentoo hardened wiki
+
+* Application
+  :PROPERTIES:
+  :ID:       40cce5b0-44be-4c79-b78b-6a1d15460620
+  :END:
+  Linux tools can be checked in shell and other topics as well.
+** Terminal
+   - xterm ::
+   - urxvt ::
+   - termonad :: Terminal emulator configurable in Haskell.
+   - alacritty :: use gpu for terminal
+
+** VM
+   :PROPERTIES:
+   :ID:       e0171361-a324-4d29-b024-43e3e1fe651d
+   :END:
+   - Qemu ::
+     - libvirt ::
+   - Virtualbox ::
+   - Parallel ::
+
+*** Repo
+    - [[https://github.com/foxlet/macOS-Simple-KVM][macOS-Simple-KVM]] :: Tools to set up a quick macOS VM in QEMU, accelerated
+      by KVM.
+
+*** Container
+    - Docker ::
+    - [[https://github.com/hpcng/singularity][singularity]] :: Singularity is an open source container platform designed to
+      be simple, fast, and secure. Singularity is optimized for compute focused
+      enterprise and HPC workloads, allowing untrusted users to run untrusted
+      containers in a trusted way.
+** Windows Manager
+   :PROPERTIES:
+   :ID:       4ff3b217-e317-4b39-a791-5fa88b3992c4
+   :END:
+   - XMonad :: A tiling window manager, written in haskell. You can configure it a lot.
+     - xmonad-contrib :: Third party tiling algorithms, configurations and scripts to xmonad, a tiling window manager for X.
+     - xmonad-extra :: Various modules for xmonad that cannot be added to xmonad-contrib because of additional dependencies.
+     - [[https://github.com/taffybar/taffybar][system info bar]]
+   - waymonad :: A wayland compositor based on ideas from and inspired by xmonad
+   - [[https://www.slant.co/topics/390/~best-window-managers-for-linux][more]] ::
+*** Login
+    - sddm ::
+        - [[https://github.com/MarianArlt/sddm-chili][chili]] :: A beatiful theme without kde dependencies.
+        - [[https://github.com/MarianArlt/sddm-sugar-dark][sugar]] ::
+        - [[https://github.com/RadRussianRus/sddm-slice][slice]] ::
+        - [[https://github.com/Rokin05/SDDM-Themes][Rokin05/SDDM-Themes]] ::
+
+*** Locker
+    - i3lock ::
+        - i3lock-color :: A rewrite with more customizing feature.
+        - i3lock-fancy ::
+        - betterlockscreen ::
+    - sflock ::
+    - light-locker ::
+    - lightdm :: dm-tools lock
+    - xscreensaver ::
+    - xidlehook :: a replacement for xautolock.
+** Remote(GUI)
+   :PROPERTIES:
+   :ID:       db25d406-e2b1-4f3b-8cd0-9366ed8e027e
+   :END:
+   - freerdp :: rdp protocol remote connectiing util. This can connect to
+     windows. On linux, you have to open a service first.
+   - tigervnc :: vnc protocol to connect.
+   - remmina :: Multiple protocol supporting client.
+   - nomachine :: server and client, self protocol
+   - rdesktop ::
+
+** System
+   :PROPERTIES:
+   :ID:       5c2e877c-bc0c-46d1-a446-b60bf2685bbf
+   :END:
+   - inxi :: system states, such as cpu, memory and etc
+** Picture
+   :PROPERTIES:
+   :ID:       ca8cf2f1-ddf5-4c0e-b0c4-7331cb2f5f72
+   :END:
+   - inkscape ::
+   - gimp ::
+** Audio
+   :PROPERTIES:
+   :ID:       8abd585f-20d4-4f49-9c05-168c8832aa71
+   :END:
+   - pavucontrol ::
+   - pulseeffects ::
+   - kid3 ::
+   - audacity ::
+   - ffmpeg ::
+** Media
+   :PROPERTIES:
+   :ID:       8bb02c88-1823-4ee2-b957-d2d34f9ed98b
+   :END:
+   - inkscape :: vector graphics
+   - gimp :: image Manipulation Program
+   - kid3 :: Audio Tagger
+   - mpd :: Music player daemon
+   - more :: see [[id:0d5835dd-8113-4721-92d2-4bc4d5a37ffc][media]]
+** Document
+   :PROPERTIES:
+   :ID:       64096e78-af25-4be2-ab81-3d9a15bd5b1c
+   :END:
+   - zathura :: pdf reader
+   - more :: see [[id:e72ff155-eb79-44ca-8f3e-d9494bb1151e][text]]
+** Monitor
+   :PROPERTIES:
+   :ID:       2b88bc17-e06a-4e4b-8c47-5f5ecb09060f
+   :END:
+   - netdata :: system resource monitor
+   - [[https://github.com/prometheus/prometheus][prometheus]] :: Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts if some condition is observed to be true.
+   - [[https://osquery.io/][osquery]] :: Performant endpoint visibility
+** Log
+   :PROPERTIES:
+   :ID:       d13f1bfb-8839-4364-9c01-5ce2ba1046e6
+   :END:
+   - [[https://www.elastic.co/cn/products/logstash][logstas]] :: transport and process your logs, events, or other data
+   - elk ::
+   - [[https://logz.io/][logz]] :: AI-Powered ELK as a Service
+   - [[https://logentries.com/][logntries]] :: The Fastest Way to Analyze Your Log Data No complex setup. No waiting. Just answers.
+   - OpenStack :: What is OpenStack? OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed through a dashboard that gives administrators control while empowering their users to provision resources through a web interface.
+   - grafana ::
+** Security
+   - fail2ban :: scans log files and bans IPs that show malicious signs
+** Dashboard
+   :PROPERTIES:
+   :ID:       8952788f-5803-419f-9364-d5b1e076dc18
+   :END:
+*** Terminal
+   - [[https://github.com/senorprogrammer/wtf][senorprogrammer/wtf]] :: personal
+** [[id:c8070a20-4d88-4fca-bcef-e1fd921f183b][Shell]]
+* Tutor
+  :PROPERTIES:
+  :ID:       8bbac4cb-9fbc-4d7d-b761-452fac500807
+  :END:
+  - [[https://github.com/learnbyexample/Command-line-text-processing][CLI]] ::
+  - [[https://linuxcommand.org][linuxcommand.org]] ::
+  - [[https://wizardzines.com/zines/bite-size-linux/][bite size linux]] :: Confused about what a system call is? Heard the term
+    “file descriptor” but not sure what it means? This zine is for you!! It has
+    19 important Linux concepts, each explained with a simple 1-page comic.
+  - [[https://wizardzines.com/][bite size tutor]] :: Our best-selling collection of zines! You can either buy
+    them individually (for $10-$12 each), or get the whole collection.
+
+* Philosophy
+  :PROPERTIES:
+  :ID:       3aad2fb1-0159-4452-8a63-fa8927d152b3
+  :END:
+  - KISS Principle :: [[https://en.wikipedia.org/wiki/KISS_principle][keep it simple and silly]], [[https://web.archive.org/web/20210126090054/https://en.wikipedia.org/wiki/KISS_principle][archive]]

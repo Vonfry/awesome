@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bee36cae-0646-4f4e-bcc1-a893d078079b
+:END:
+#+title: Misc
+
+* Tutor
+  :PROPERTIES:
+  :ID:       43ceee66-554e-4f7b-bee9-0e439706971f
+  :END:
+  This involves the generic tutor, and the others are listed in each topic
+  self.
+  - [[https://github.com/ahangchen/How-to-Be-A-Programmer-CN][how to ba a good programmer]] ::
+  - [[https://www.tutorialspoint.com/index.html][tutorialspoints]] ::
+  - [[https://www.geeksforgeeks.org/][GeekForGeeks]] ::
+* Community
+  :PROPERTIES:
+  :ID:       c195d6fb-5919-494b-95a4-c449ecb28c6d
+  :END:
+  - [[http://stackoverflow.com/][stackoverflow]] ::
+  - github ::

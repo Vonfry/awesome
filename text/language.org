@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aa90b535-3acb-485c-be8b-10c6d3b386e6
+:END:
+#+title: Language
+
+* Dict
+  - [[https://dict.org][dict.org]]
+
+* Chinese
+  - [[https://github.com/byoungd/English-level-up-tips-for-Chinese][中英混排w3c标准]]
+  - [[https://github.com/sparanoid/chinese-copywriting-guidelines][一个人的排版规范]]
+  - 《中文出版物夹用英文的编辑标准》 CY T154—2017
+  - [[https://ctext.org/][Chinese Text Project]]
+
+* English
+
+  - [[https://github.com/byoungd/English-level-up-tips-for-Chinese][English level up tips for chinese]] :: 可能是让你受益匪浅的英语进阶指南，其中一部分不仅仅是英语，对其它各类事物也很有意义。
+
+* Japanese
+
+  - [[https://github.com/yudataguy/Awesome-Japanese][awesome]]
+

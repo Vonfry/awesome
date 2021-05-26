@@ -1,0 +1,112 @@
+:PROPERTIES:
+:ID:       6a83b9c1-ae82-4723-bc01-87e04f24d11a
+:END:
+#+title: Security
+* Tutor
+  :PROPERTIES:
+  :ID:       dea7ad6a-e1ba-429c-97da-80535898392a
+  :END:
+  - [[https://beginners.re/][beginners]] ::
+* Execrise
+  :PROPERTIES:
+  :ID:       edf0543b-ec65-43e9-8981-380f83a8ff04
+  :END:
+** CTF
+   :PROPERTIES:
+   :ID:       7dc5711f-458e-47ce-a149-42dbf112ff1d
+   :END:
+   - [[https://picoctf.com/][picoctf]] ::
+   - google ctf ::
+   - [[https://ctfs.me/][ctfs.me]] ::
+   - [[https://ctflearn.com/][CTF-learn]] ::
+   - [[https://github.com/ctfs/resources][CTF-Resource]] ::
+   - [[https://github.com/ctf-wiki/ctf-wiki][ctf-wiki]] ::
+   - [[https://github.com/HackThisSite/CTF-Writeups][HackThisSite/CTF-Writeups]] :: Things we learned from Capture The Flag hacking competitions we participated in.
+   - [[http://pwnable.kr/][pwnable]] :: 'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. the main purpose of pwnable.kr is 'fun'.    please consider each of the challenges as a game. while playing pwnable.kr, you could learn/improve system hacking skills but that shouldn't be your only purpose.
+   - [[https://www.hackthebox.eu/][hack the box]] ::
+*** Solution
+    - [[https://github.com/Dvd848/CTFs][A collection of solution]] ::
+
+** Website
+   :PROPERTIES:
+   :ID:       02259089-06f1-40bf-ba32-4b022f54d5fe
+   :END:
+   - [[https://www.sans.org/][sans]] ::
+   - [[https://www.offensive-security.com/][ospc]] ::
+
+** Tools
+   :PROPERTIES:
+   :ID:       03060563-f7d6-45f7-865f-763f372252d1
+   :END:
+   - Hacker0x01/hacker101 ::
+   - [[https://github.com/TonyChen56/HackerTools][HackerTools]] :: 使用MFC编写的病毒技术合集
+   - [[https://github.com/vxunderground/MalwareSourceCode][MalwareSourceCode]] :: Collection of malware source code for a variety of
+     platforms in an array of different programming languages.
+* Util
+  :PROPERTIES:
+  :ID:       1c045581-fff3-4d60-b1a1-db16a5c0ccdf
+  :END:
+** Reverse
+   :PROPERTIES:
+   :ID:       c8261481-d78a-474b-b68d-7e8a3d397043
+   :END:
+
+   - [[https://www.metasploit.com/][metasploit]] ::
+   - Ida Pro :: A cross-platform sotfware which can be used almost all files.
+*** Linux Binary
+    :PROPERTIES:
+    :ID:       b8978ffa-6cfb-4547-af51-71dee65def7a
+    :END:
+   - [[https://binary.ninja/][binary ninja]] :: A New Type of Reversing Platform
+   - radare2 :: cli
+       - r2dec :: decompiler plugins written in js
+       - RetDec : decompiler plugins
+       - r2ghidra :: decompiler depended on ghidra
+   - ghidra :: gui, but having problem with no DE linux.
+   - [[https://github.com/google/binnavi][binnavi]] ::
+
+*** Password
+    :PROPERTIES:
+    :ID:       1c46af80-77e2-4c8c-8817-2d7507e0b56b
+    :END:
+    - [[https://github.com/magnumripper/JohnTheRipper][johnTheRipper]] ::
+    - rockyou.txt :: a password directory
+*** Android
+    :PROPERTIES:
+    :ID:       fd0eeb1e-f67b-41bf-80bf-6b388830ccd4
+    :END:
+
+    - [[https://github.com/iBotPeaches/Apktool][apktool]] :: A tool for reverse engineering Android apk files
+    - [[https://github.com/frida/frida][frida]] :: hook tools
+
+*** VM
+    :PROPERTIES:
+    :ID:       d49925af-4072-4fad-9e24-810a857b3f37
+    :END:
+    - [[https://github.com/vulhub/vulhub][vulhub]] :: Docker-Compose file for vulnerability environment
+
+*** Server
+    :PROPERTIES:
+    :ID:       61b01899-c014-4d97-91a2-3bd29cb0ea01
+    :END:
+
+    - [[Security-Onion-Solutions/security-onion][security-onion]] ::
+
+*** Data
+    :PROPERTIES:
+    :ID:       20f0bdf9-65b3-4cb5-a7bc-91ccd6a93c0c
+    :END:
+    - [[https://github.com/MOOND4rk/HackBrowserData][hack browser data]] :: Decrypt passwords/cookies/history/bookmarks from the
+      browser.
+
+** Linux
+   :PROPERTIES:
+   :ID:       ebd94d93-665e-4dd1-a590-34ac007dc7a5
+   :END:
+   - [[https://github.com/niklasb/libc-database][libc database]] ::
+** Dongles
+   :PROPERTIES:
+   :ID:       653befca-87eb-4a1b-9911-16d81da54f85
+   :END:
+   - opensk :: OpenSK is an open-source implementation for security keys written
+     in Rust that supports both FIDO U2F and FIDO2 standards.

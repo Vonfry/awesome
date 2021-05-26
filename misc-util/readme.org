@@ -1,5 +1,0 @@
-#+title: Utils
-#+author: Vonfry
-
-- [[http://make.girls.moe/][makegirlsmoe_web]] :: Create Anime Characters with MakeGirlsMoe
-- [[https://github.com/1j01/98][1j01/98]] :: Windows 98 simulator online (web-based recreation)

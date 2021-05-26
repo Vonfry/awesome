@@ -1,2 +1,0 @@
-- [crawdad](https://crawdad.org/) :: network simulation data
-- [hifleet](http://www.hifleet.com/prelogin.do) :: boat data

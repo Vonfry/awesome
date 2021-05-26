@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       cb156bef-3818-4737-b4e7-6c0af1e8385d
+:END:
+#+TITLE: Lisp
+#+author: Vonfry
+
+* Compiler
+  :PROPERTIES:
+  :ID:       b6bad4bf-e423-4125-b8af-db82f8c0024e
+  :END:
+
+** Common Lisp
+   - sbcl ::
+   - clisp ::
+
+** Emacs lisp
+*** [[https://github.com/bbatsov/emacs-lisp-style-guide][Coding Style]]
+
+** Scheme
+   - [[https://github.com/cisco/ChezScheme][cisco/ChezScheme]] ::
+
+* Env
+  :PROPERTIES:
+  :ID:       f1e5d8b2-af1e-4e0c-a162-ec54b8160e80
+  :END:
+  - [[https://github.com/roswell/roswell][roswell]] :: intended to be a launcher for a major lisp environment that just works.
+
+* Misc
+  :PROPERTIES:
+  :ID:       9eb410e1-24b8-474c-acd9-34b010cbc02b
+  :END:
+  - [[https://github.com/kanaka/mal][mal]] - A wonderful project to write a lisp compiler by yourself in many language.
+
+* Tutor
+  :PROPERTIES:
+  :ID:       c51fde42-caa4-436d-839e-3fdd933debde
+  :END:
+  - acl ::
+      - [[acl-translation / acl-chinese%0A][cn]] ::
+  - [[https://github.com/binghe/pcl-cn][pcl-cn]] ::
+

@@ -1,9 +1,0 @@
-#+author: Vonfry
-#+title: CS
-
-Some text is independ from developing topic, such as calculus.
-
-* Execrise
-  - [[https://cscx.org/][cscx]] :: cs by examples
-* Awesome
-  - [[https://www.bottomupcs.com/][Bottom Up Computer Science]] :: [[https://github.com/ianw/bottomupcs][source]], [[https://web.archive.org/web/20210430003222/https://www.bottomupcs.com/][archive]]

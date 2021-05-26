@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       eb644dd4-35e4-4736-859d-6be59b4754de
+:END:
+#+author: Vonfry
+#+title: TCL
+
+* Test
+  :PROPERTIES:
+  :ID:       1a9200c4-68b6-4651-a8db-19835ae45e53
+  :END:
+** Automate
+   - except :: tool for automating interactive applications

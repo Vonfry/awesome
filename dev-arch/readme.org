@@ -1,7 +1,0 @@
-#+TITLE: Arch
-#+AUTHOR: Vonfry
-
-architect
-
-* Awesome
-  - [[https://github.com/xingshaocheng/architect-awesome][xingshaocheng/architect-awesome]] ::

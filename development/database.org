@@ -1,0 +1,79 @@
+:PROPERTIES:
+:ID:       ce866a36-dca1-4cc3-8d5b-49f465fb4544
+:END:
+#+TITLE: DB
+#+AUTHOR: Vonfry
+
+* Relational
+  :PROPERTIES:
+  :ID:       4443cecb-cd15-45b1-983e-71ce901a58ea
+  :END:
+
+** PostgreSQL
+   :PROPERTIES:
+   :ID:       391512c1-a3e5-4300-bd41-d1d1c8257f50
+   :END:
+   It has a tools named [[https://github.com/PostgREST/postgrest][postgrest]], which can more easily create rest api.
+*** client
+    - pgcli :: Postgres CLI with autocompletion and syntax highlighting
+
+** MySQL
+   :PROPERTIES:
+   :ID:       b95534d7-4a0f-473b-81bb-9ff3bbb9dc1c
+   :END:
+
+*** release
+    - mysql ::
+    - mariadb :: An enhanced, drop-in replacement for MySQL
+
+*** client
+    - mycli :: A Terminal Client for MySQL with AutoCompletion and Syntax
+      Highlighting.
+
+** SQLite
+   :PROPERTIES:
+   :ID:       744ccfce-0834-4cb6-8468-ed8b4a46b66b
+   :END:
+*** client
+    - sqlitebrowser ::
+
+** Client(General)
+   :PROPERTIES:
+   :ID:       9d5fe45f-a038-4a9c-8083-7d918bbbac65
+   :END:
+   - phpMyAdmin ::
+   - Sqlectron ::
+   - dbeaver ::
+   - SQuirreL ::
+   - DB Visualizer ::
+
+* Non-relational
+  :PROPERTIES:
+  :ID:       a722cb66-bab2-4772-a0fd-283738f9ba77
+  :END:
+  - Readis ::
+
+* Directory
+  :PROPERTIES:
+  :ID:       1b308db5-c546-41b6-ab3e-baa91ce133b3
+  :END:
+** LDAP
+*** Server
+    :PROPERTIES:
+    :ID:       8f286502-f9f5-4466-a3f5-f93d303f6381
+    :END:
+   - openldap ::
+   - openjd ::
+*** Client
+    :PROPERTIES:
+    :ID:       d68d11f1-f590-46cb-b750-dd16d65a9ecc
+    :END:
+    - apache directory studio ::
+    - LDAP Admin Tool ::
+    - phpldapadmin ::
+* Misc
+  :PROPERTIES:
+  :ID:       e8f7650f-414d-44bb-a4b5-bc9a896503b2
+  :END:
+
+  - [[https://github.com/rethinkdb/rethinkdb][rethinkdb]] :: The open-source database for the realtime web. https://rethinkdb.com

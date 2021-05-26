@@ -1,1 +1,0 @@
-- [skymind.ai](https://skymind.ai/)

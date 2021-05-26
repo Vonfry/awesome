@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       49507414-beec-4407-a074-da10337a71f7
+:END:
+#+TITLE: Simulation
+#+AUTHOR: Vonfry
+
+* Mathematics
+  :PROPERTIES:
+  :ID:       01ccb801-48ec-422c-b7a6-c23d631ca12b
+  :END:
+  - [[https://www.sagemath.org/][SageMath]] :: an open source math tool to
+    instead matlab
+
+* CS
+  :PROPERTIES:
+  :ID:       f6dcf68e-ff33-4aec-9fa3-38de2905778d
+  :END:
+** Network
+   :PROPERTIES:
+   :ID:       0b04dda9-093b-4535-987e-83d88ab98768
+   :END:
+   - exata ::
+   - [[https://github.com/omnetpp/omnetpp][omnet++]] ::
+       - inet ::
+       - [[https://www.semanticscholar.org/paper/Parallel-simulation-made-easy-with-OMNeT-Sekercioglu-Varga/fe5a96d4ca8125e407214d5195c45a65fc543a6d][parallel simulation]] :: a paper and guide
+   - [[https://github.com/akeranen/the-one][ONE]] ::

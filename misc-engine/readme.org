@@ -1,3 +1,0 @@
-#+title: Engine
-
-- [[http://animatedengines.com/][animated]] :: animated engines

@@ -1,0 +1,117 @@
+:PROPERTIES:
+:ID:       c8070a20-4d88-4fca-bcef-e1fd921f183b
+:END:
+#+TITLE: Shell
+#+AUTHOR: Vonfry
+
+This mainly means linux/unix shell. Winodows powershell is good, but hardly
+using for daily and we have other better language for scripts, if you don't use
+~.net~.
+
+* Shell
+  :PROPERTIES:
+  :ID:       6be16198-8f29-4071-9c76-b71dc8adf87b
+  :END:
+  - sh :: Please write script use this.
+  - bash :: The default one, it is inconvenient to use.
+  - zsh :: Quickly, easy, having a lot of plugins and more interactive.
+      - Framework ::
+          + antigen :: plugin manager, it can manage compiling and plugins
+            automatically. Fast!
+          + zplug :: plugin manager
+          + prezto :: simple and fast.
+          + oh-my-zsh :: Powerful! But slowly! NOT RECOMMENDED.
+            Oh-my-zsh is good, having a lot of functions but I don't need them. The
+            most important reason is speed and stdandard, for example, oh-my-zsh
+            uses ~source~ to load theme, prezto uses ~zstyle~.
+      - prompt ::
+          + [[https://github.com/starship/starship][starship]] :: The minimal, blazing-fast, and infinitely customizable prompt
+            for any shell!
+          + powerlevel10k
+          + pure ::
+      - Plugins ::
+          +  ::
+          + fzf-tab ::
+          + fzf-marks ::
+          + zsh-navigation-tools ::
+          + zsh-autocomplete ::
+          + zsh-completions ::
+          + zsh-fast-syntax-highlighting ::
+          + zsh-history-substring-search ::
+          + autosuggestions :: fish like
+          + you-should-use :: ZSH plugin that reminds you to use existing aliases
+            for commands you just typed.
+  - fish :: Like zsh, but it contains a lot of functions which are implemented by plugis. It also has a more morden shell script, but /not posix/, so conflicting with some tools.
+  - tcsh ::
+  - powershell :: Support by windows. Combine with ~.NET~. It has a superior script language, but using for interactive is bad. And why not using ruby, perl, python or other scripting language? More about see: [[../sys-os/windows.org][sys-os/windows.org]]
+  - [[http://xon.sh/][xonsh]] :: python based
+
+* Utils
+  :PROPERTIES:
+  :ID:       37c0bb8b-bca6-4596-8963-87c54be4da60
+  :END:
+  List some useful tools.
+  - [[https://github.com/uutils/coreutils][coreutils]] :: rust rewrite for gnu coreutils
+  - [[https://github.com/gsamokovarov/jump][jump]] :: Jump helps you navigate faster by learning your habits
+  - trash-cli :: a safe rm with xdg
+  - most :: powerful more and less
+  - mc :: GNU Midnight Commander is a text based file manager
+  - googler :: google in terminal
+  - lolcat :: colorful cat
+  - tree :: show dir structure as a tree
+  - colordiff ::
+  - fortune-mod :: print a saying
+  - cmatrix :: show coding matrix in terminal
+  - figlet :: ascii art
+  - gpatch :: Apply a diff file to an original
+  - parallel :: like xargs, but use more cpus
+  - tmux :: more powerful tool like screen
+  - thefuck :: fix input error in command
+  - fzf :: fuzzy search
+  - [[https://github.com/sharkdp/bat][bat]] :: A cat(1) clone with wings.
+  - exa :: A morden ls
+  - ripgrep :: A fast grep
+  - asciinema :: Terminal session recorder
+  - shellcheck :: ShellCheck, a static analysis tool for shell scripts
+  - [[https://github.com/simonmichael/hledger][hledger]] :: The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger
+  - tldr :: Simplified and community-driven man pages
+  - [[https://gitlab.com/screenkey/screenkey][screenkey]] :: print the key on screen when you click.
+  - [[https://github.com/cheat/cheat][cheat]] :: cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not …
+  - [[https://github.com/alexanderepstein/Bash-Snippets][bash-snippet]] :: A collection of small bash scripts for heavy terminal users
+  - [[https://github.com/sharkdp/hyperfine][hyperfine]] :: command line benchmarking
+  - unar :: unar is the BEST solution for archives containing non UTF-8 encoding file names.
+  - qrencode :: qrcode encode
+  - zbar :: qrcode decode
+  - direnv ::
+** Useless
+   :PROPERTIES:
+   :ID:       91a4912f-15ee-45ba-974a-0f234d46d40d
+   :END:
+   - [[https://github.com/svenstaro/genact][genact]] :: Pretend to be busy or waiting for your computer when you should actually be doing real work! Impress people with your insane multitasking skills. Just open a few instances of genact and watch the show. genact has multiple scenes that pretend to be doing something exciting or useful when in reality nothing is happening at all.
+   - autojump :: quickly jump to dirs.
+   - [[https://github.com/aviaviavi/confetti][confetti]] :: a configuration file swapping tool
+   - [[https://github.com/dustinkirkland/hollywood][hollywood]] ::
+   - visidata :: A terminal spreadsheet multitool for discovering and arranging data
+
+** Misc
+   :PROPERTIES:
+   :ID:       dc31948d-ce1e-425c-8aa4-c87e025510e9
+   :END:
+   See each category.
+
+   Or take a look [[https://gitlab.com/Vonfry/dotfiles][mime]].
+
+
+* Awesome
+  :PROPERTIES:
+  :ID:       603efd4a-b79d-42b7-a109-10352e4d33d1
+  :END:
+  - [[https://github.com/dotfiles/dotfiles.github.com][dotfiles]]
+  - [[https://github.com/alebcay/awesome-shell][shell]]
+  - [[https://github.com/unixorn/awesome-zsh-plugins][zsh plugin]]
+* Tutor
+  :PROPERTIES:
+  :ID:       23ee1d27-b6e7-43c5-bb79-ef6ded683a43
+  :END:
+  - [[https://github.com/jlevy/the-art-of-command-line][the art of command line]] :: Master the command line, in one page
+  - [[https://github.com/you-dont-need/You-Dont-Need-GUI][you dont neet gui]] :: Stop relying on GUI; CLI **ROCKS**

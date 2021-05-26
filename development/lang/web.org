@@ -1,0 +1,104 @@
+:PROPERTIES:
+:ID:       0598a292-589c-43a3-a1de-410199592f8c
+:END:
+#+TITLE: Web
+#+AUTHOR: Vonfry
+
+* Css
+  :PROPERTIES:
+  :ID:       f32a6eea-792c-4691-9786-9ae51a5d1199
+  :END:
+
+** extension
+   - less ::
+   - sass ::
+       - compass ::
+** Library
+   - [[https://github.com/necolas/normalize.css][normalize]] :: A modern alternative to CSS resets
+
+* Html
+  :PROPERTIES:
+  :ID:       abc0a02e-6f21-40f2-9eac-d6fec548e9f4
+  :END:
+** Framework
+  - foundation ::
+  - bootstrap ::
+  - semantic ui ::
+  - [[https://github.com/egoist/hack][egoist/hack]] :: Dead simple CSS framework.
+
+* Javascript
+  :PROPERTIES:
+  :ID:       0c64da08-b2bd-42cf-942d-7b489d653e49
+  :END:
+
+** Style
+   - [[https://github.com/airbnb/javascript][airbnb]] ::
+
+** Compiler
+   - v8 ::
+   - nodejs ::
+
+*** Webassembly
+    - emscripten :: llvm to webassembly
+    - ghcjs ::
+
+** Library
+*** Foundation
+    - prototypeJS ::
+    - zepto.js ::
+    - jQuery ::
+*** Misc
+   - [[https://github.com/js-cookie/js-cookie][js-cookie]] :: A simple, lightweight JavaScript API for handling browser cookies
+
+* Package
+  :PROPERTIES:
+  :ID:       45fd5afe-0f84-42c7-96ef-f27d61907dd2
+  :END:
+  - grunt ::
+
+* Road Map
+  :PROPERTIES:
+  :ID:       76f840cd-b665-4cdc-a684-7d1ca829dd45
+  :END:
+  - [[https://github.com/sdmg15/Best-websites-a-programmer-should-visit][best web developers a programmer should visit]] ::
+
+* Test
+  :PROPERTIES:
+  :ID:       13acfb38-1069-4f9f-a27d-03f8ac767edb
+  :END:
+** Automate
+   - selenium ::
+
+** Penetration
+   - beef :: The Browser Exploitation Framework Project
+
+* Utils
+  :PROPERTIES:
+  :ID:       bc607440-3042-459e-b71a-428ee1ef01af
+  :END:
+  - [[https://github.com/Marak/faker.js][faker.js]] :: generate many fake data to do testing.
+  - [[https://github.com/davecheney/httpstat][httpstat]] :: It's like curl -v, with colours.
+  - [[https://github.com/httpie/httpie][httpie]] :: As easy as /aitch-tee-tee-pie/ ￼ Modern, user-friendly
+    command-line HTTP client for the API era. JSON support, colors, sessions,
+    downloads, plugins & more.
+  - [[https://cdnjs.com/][cdnjs]] :: Free and Open Source Public Web CDN
+  - [[https://github.com/rstacruz/nprogressv][ngprogress]] ::
+  - [[https://github.com/tinymce/tinymce][tinmce]] :: The world's most popular JavaScript library for rich text editing
+  - [[https://github.com/aui/font-spider][fontspider]] :: Smart webfont compression and format conversion tool
+  - [[https://github.com/fangzesheng/free-api][free-api]] ::
+* Tutorials
+  :PROPERTIES:
+  :ID:       2314fbdf-c45a-41ae-8915-cff95aea7d8d
+  :END:
+  - [[https://github.com/microsoft/Web-Dev-For-Beginners][microsoft/web-dev-for-beginners]] ::
+
+* Deploy
+  :PROPERTIES:
+  :ID:       926e309a-7ade-4433-8825-a3c07e98a7d2
+  :END:
+  - [[https://www.heroku.com][heroku]] ::
+  - [[https://crossbar.io/][crossbar]] :: Crossbar.io is an open source networking platform for
+    distributed and microservice applications. It implements the open Web
+    Application Messaging Protocol (WAMP), is feature rich, scalable, robust and
+    secure. Let Crossbar.io take care of the hard parts of messaging so you can
+    focus on your app's features.

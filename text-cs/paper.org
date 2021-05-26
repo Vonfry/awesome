@@ -1,5 +1,0 @@
-#+TITLE: Paper
-#+AUTHOR: Vonfry
-
-* Collection
-  - [[https://github.com/papers-we-love/papers-we-love][paper-we-loves]] :: Papers from the computer science community to read and discuss.

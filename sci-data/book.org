@@ -1,5 +1,0 @@
-#+title: Book
-#+author: Vonfry
-
-* ML
-  - [[https://christophm.github.io/interpretable-ml-book/index.html][Interpretable Machine learning]] ::

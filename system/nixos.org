@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       746a0cc6-f0c7-4ff0-a1c8-d3d7779ca44a
+:END:
+#+TITLE: NixOS
+#+AUTHOR: Vonfry
+
+* Guide
+  :PROPERTIES:
+  :ID:       55191c8e-6df4-4679-95fd-839ad2a3754c
+  :END:
+  - [[https://github.com/Gabriel439/haskell-nix][haskell-nix]] :: Nix and Haskell in production
+  - [[https://nix.dev/][nix.dev]] :: An opinionated guide for developers getting things done using the Nix ecosystem.
+
+* Converter
+  :PROPERTIES:
+  :ID:       1e5f8180-c3a2-469a-b984-4ac0f409eaa2
+  :END:
+See nixpkgs manual

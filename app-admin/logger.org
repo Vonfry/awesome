@@ -1,6 +1,0 @@
-#+TITLE: Logger
-#+AUTHOR: Vonfry
-
-Manage system log.
-
-- fluentd :: data collector and unified logging layer (project under CNCF)

@@ -1,4 +1,0 @@
-#+title: Compression
-#+author: Vonfry
-
-- [[https://github.com/facebook/zstd][zstd]] :: Zstandard - Fast real-time compression algorithm

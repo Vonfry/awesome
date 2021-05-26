@@ -1,8 +1,0 @@
-#+TITLE: Linux
-#+AUTHOR: Vonfry
-
-* Cheat
-  - [[https://github.com/cirosantilli/linux-kernel-module-cheat][cirosantilli/linux-kernel-module-cheat]] ::
-
-* Source
-  - [[http://lxr.linux.no][lxr]] :: the linux cross reference, and a online [[https://elixir.bootlin.com/linux/latest/source][one]].

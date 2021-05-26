@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       b129507d-56f3-4333-be50-9d516e1375c7
+:END:
+#+TITLE: Rust
+#+AUTHOR: Vonfry
+
+* Tool Chains
+  :PROPERTIES:
+  :ID:       b2286919-dd35-4b72-bdc6-04fb85054bc6
+  :END:
+  The official is enough.
+
+* Awesome
+  :PROPERTIES:
+  :ID:       624532fe-6dcb-4698-87d9-5f71041d7ef0
+  :END:
+  - [[https://github.com/rust-unofficial/awesome-rust][rust-unofficial/awesome-rust]] ::
+* Library
+  :PROPERTIES:
+  :ID:       5858b2dd-2319-431c-9081-cae248691abc
+  :END:
+** Game Engine
+   - [[https://github.com/bevyengine/bevy][bevy]] :: Bevy is a refreshingly simple data-driven game engine built in
+     Rust. It is free and open-source forever!
+* CheatSheet
+  :PROPERTIES:
+  :ID:       e36b62b9-7715-4763-ad53-51bba3e6ceb8
+  :END:
+  - [[https://cheats.rs/][cheats.rs]] :: cheatsheet

@@ -1,4 +1,0 @@
-#+TITLE: Book
-#+AUTHOR: Vonfry
-
-- [[https://beginners.re/][beginners]] ::

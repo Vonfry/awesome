@@ -1,5 +1,0 @@
-#+TITLE: Visual
-#+AUTHOR: Vonfry
-
-- [[https://github.com/algorithm-visualizer/algorithm-visualizer][algorithm-visualizer/algorithm-visualizer]] ::
-- [[https://github.com/afonsonf/tlaplus-graph-explorer][tla+]] :: A static web application to explore and animate a TLA+ state graph.

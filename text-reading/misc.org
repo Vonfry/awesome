@@ -1,9 +1,0 @@
-#+title: Misc
-#+author: Vonfry
-
-- 精神分析引论 ::
-- 梦的解析 ::
-- 性学三论 ::
-- 方法论 ::
-- On Aggressive ::
-- 论有学识的无知 ::

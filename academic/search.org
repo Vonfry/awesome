@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       fbc2b35a-7af6-4b9d-80fa-ac9408adb950
+:END:
+#+author: Vonfry
+#+title: Search
+* Generic
+  - google scholar
+* SCI
+  :PROPERTIES:
+  :ID:       42dd0b7c-781b-4f49-aba7-a76a62faeded
+  :END:
+  - webofknowledge
+  - sciencedirect
+
+* Preview
+  :PROPERTIES:
+  :ID:       ae23a18f-0f7d-4098-b237-f1ba306a86d3
+  :END:
+  - arxiv
+  - scihub
+* Mathematics
+  - [[https://mathscinet.ams.org/mathscinet/index.html][ams]]
+* CS
+  :PROPERTIES:
+  :ID:       ddb04618-5291-4ab4-9631-e3ad49113b14
+  :END:
+  - ieee
+  - acm
+  - iet
+* Knowledge Graph
+  :PROPERTIES:
+  :ID:       8b26962a-203a-40c0-a38f-00e35d2b737f
+  :END:
+  - [[https://github.com/husthuke/awesome-knowledge-graph][awesome-chinese]]

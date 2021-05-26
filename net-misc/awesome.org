@@ -1,4 +1,0 @@
-#+TITLE: Awesome
-#+AUTHOR: Vonfry
-
-- [[https://github.com/Kickball/awesome-selfhosted][selfhosted]] ::

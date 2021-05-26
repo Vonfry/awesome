@@ -1,4 +1,0 @@
-#+title: Quantum
-#+author: Vonfry
-
-- [[https://qiskit.org/textbook/preface.html][qiskit]]

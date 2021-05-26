@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       0d5835dd-8113-4721-92d2-4bc4d5a37ffc
+:END:
+#+title: Media
+#+author: Vonfry
+
+* Font
+  :PROPERTIES:
+  :ID:       1858b089-9320-44cf-8189-5a4619160345
+  :END:
+** App
+   :PROPERTIES:
+   :ID:       28444b6b-1806-41ea-8892-d0b5fdb15cfc
+   :END:
+   - fontforge :: postscript font editor and converter
+
+** Font
+   :PROPERTIES:
+   :ID:       72dcf863-e483-4454-abeb-42cd8ab0d421
+   :END:
+   - [[https://github.com/source-foundry/Hack][hack]] :: my favourite
+   - [[https://github.com/ryanoasis/nerd-fonts][nerd]] ::
+   - [[https://github.com/larsenwork/monoid][monoid]] ::
+   - [[https://github.com/tonsky/FiraCode][fira code]] ::
+   - [[https://github.com/i-tu/Hasklig][hasklig]] ::
+
+
+* Video
+  - handbrake :: HandBrake is an open-source video transcoder available for Linux, Mac, and Windows, licensed under the GNU General Public License (GPL) Version 2.
+  - ffmpeg ::
+      + [[https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730][cheatsheet]] ::
+  - vlc :: qt-based video player
+   - mpv :: Video Player
+
+* Audio
+  - audacity :: Audio Player and management

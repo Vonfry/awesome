@@ -1,0 +1,122 @@
+:PROPERTIES:
+:ID:       b47cd194-8cd7-4c3c-92ca-4bb5f01ec780
+:END:
+#+title: Reading
+* General
+  - [[https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way][how to ask questino the smart way]]
+* Literature
+  :PROPERTIES:
+  :ID:       b380fa4c-efc9-4994-97a0-37a916024673
+  :END:
+  - 银河铁道之夜 ::
+  - 周易 ::
+  - 易经杂说 :: 南怀瑾
+  - 周易折中 ::
+  - 红楼梦 ::
+  - 加缪 ::
+  - 春天与修罗 ::
+  - 美丽心灵 ::
+  - 美丽新世界 ::
+  - 1984 ::
+  - 王德尔童话 ::
+  - 浮士德 ::
+  - 美的历程 :: 李泽厚
+  - 人间失格 :: 及同作者其它作品
+  - 虚拟的历史 ::
+  - 把栏杆拍遍 ::
+
+** Poetry
+   :PROPERTIES:
+   :ID:       5f034ae9-9a83-430e-a8d8-b3a8ae849a2e
+   :END:
+*** Chinese
+**** [[https://github.com/chinese-poetry/chinese-poetry][chinese-poetry]]
+     - 诗韵格律 ::
+     - 书情画意 ::
+
+*** Japanese
+    - 宫沢贤治 ::
+
+* Biography
+  :PROPERTIES:
+  :ID:       80b822f2-3f18-4a07-b07e-3c5e69abae57
+  :END:
+  - 乔布斯传 ::
+  - 乔纳森传 ::
+  - 人月神话 ::
+  - 疯狂的独角兽 ::
+  - 爱因斯坦传 ::
+  - 狄克拉的标准传记 ::
+  - 时间简史 ::
+  - 薛定谔的标准传记 ::
+  - 松本行弘的程序世界 ::
+  - 黑客与画家 ::
+  - 只是为了好玩 :: Linus
+
+* Mathematics
+  :PROPERTIES:
+  :ID:       488e8cbf-425f-43ba-ae18-33b2460e209e
+  :END:
+  - 用数学的眼光看世界 ::
+** Roadmap
+   :PROPERTIES:
+   :ID:       bc565bca-fdb4-4962-abad-88c1dae185f5
+   :END:
+   - [[https://mathmap.quantamagazine.org/map/][map]] :: the map of mathematics, [[https://web.archive.org/web/20210127023729/https://mathmap.quantamagazine.org/map/][archive]]
+** Category Theory
+   :PROPERTIES:
+   :ID:       fff9ad25-e1cf-49ac-aa36-9d3837d07b07
+   :END:
+   see [[id:efa440d2-c947-4f9b-b822-af25d3160d0a][CS/Category Theory]]
+* Physics
+  :PROPERTIES:
+  :ID:       0140ff1a-94db-44c3-bad6-9e13d9ac745e
+  :END:
+** Primary
+   - 平等宇宙 ::
+   - 自然哲学的数学原理 ::
+   - 费曼物理讲义 ::
+* Misc
+  :PROPERTIES:
+  :ID:       c72d29da-dc83-4d4d-8eb2-53620cf96b99
+  :END:
+  - 精神分析引论 ::
+  - 梦的解析 ::
+  - 性学三论 ::
+  - 方法论 ::
+  - On Aggressive ::
+  - 论有学识的无知 ::
+* Philosophy
+  :PROPERTIES:
+  :ID:       0acdc03b-9033-4967-8bf9-9866589ef4cd
+  :END:
+** Primary
+   :PROPERTIES:
+   :ID:       b8bd3157-8c2a-40ef-ae52-a0d452cf29c6
+   :END:
+   - 你的第一本哲学书 ::
+   - 苏菲的世界 ::
+
+** Logic
+   :PROPERTIES:
+   :ID:       c7d68f31-0908-4df9-a3ac-5e769ddf2fcb
+   :END:
+   - 逻辑哲学论 ::
+   - 《逻辑哲学论》研究 :: 韩林合
+   - 世界的逻辑构造 ::
+   - 哲学研究 ::
+   - 哲学问题 ::
+   - 罗素 ::
+
+** Misc
+   :PROPERTIES:
+   :ID:       6dc6a4a5-f0f8-41c8-a905-339c35a5be52
+   :END:
+   - 存在与虚无 ::
+   - 中国哲学简史 :: 冯友兰
+   - 查拉图斯特拉如是说 ::
+   - 悲剧的诞生 ::
+   - 非此即彼 ::
+   - 纯粹理性批判 ::
+   - 希腊悲剧时代的哲学 ::
+   - 人性论 ::

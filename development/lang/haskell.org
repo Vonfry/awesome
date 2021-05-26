@@ -1,0 +1,309 @@
+:PROPERTIES:
+:ID:       8e3e4532-76f6-4794-aa53-8b0119188fa1
+:END:
+#+TITLE: Haskell
+#+AUTHOR: Vonfry
+* Syntax
+  :PROPERTIES:
+  :ID:       82f45854-f45c-4a25-a2b9-54032f49f3a6
+  :END:
+  - [[https://github.com/haskell/haskell-report][report]] :: Haskell Language Report
+
+* Coding Style
+  :PROPERTIES:
+  :ID:       0b3493c2-8365-4093-a69c-ec34d4c98df1
+  :END:
+  - [[https://wiki.haskell.org/Category:Style][wiki: style]] ::
+  - [[https://wiki.haskell.org/Category:Idioms][wiki: idiomls]] ::
+  - [[https://github.com/tibbe/haskell-style-guide][tibble]] ::
+      - hindent ::
+  - [[https://github.com/facebookincubator/retrie][retrie]] ::
+
+* Compiler
+  :PROPERTIES:
+  :ID:       597184df-4c59-4005-b8ff-b26e8e99b8f2
+  :END:
+  - [[https://www.haskell.org/ghc/][ghc]] ::
+    - [[https://github.com/ndmitchell/ghcid][ghcid]] :: Very low feature GHCi based IDE
+  - [[https://github.com/ghcjs/ghcjs][ghcjs]] :: write web script by haskell
+** Parser
+   - alex ::
+     - [[https://devanla.com/posts/wya-lexer.html][tutor]], [[https://web.archive.org/web/20210409010429/https://devanla.com/posts/wya-lexer.html][archive]] :: example to python
+   - happy ::
+* Package & project
+  :PROPERTIES:
+  :ID:       e09de8d8-8c94-4b7e-ad76-ecf5208fdea6
+  :END:
+  - [[http://hackage.haskell.org/][hackage]] ::
+  - cabal ::
+  - [[http://www.haskellstack.org/][stack]] :: Work with cabal to manage whole project.
+      - [[https://www.stackage.org/][stackage]] :: "Stable Hackage": vetted consistent packages from Hackage
+      - stack-run :: A plugin, quickly run the project.
+  - [[https://github.com/nmattia/snack][snack]] :: Nix-based incremental Haskell build tool
+  - shake ::
+
+* Tool Chains
+  :PROPERTIES:
+  :ID:       ccf1cf41-da63-42ff-baad-d67c9dd3fd24
+  :END:
+  - haddock :: comment to document
+      - [[https://hackage.haskell.org/package/haddock][cheatsheet]] ::
+  - [[https://hackage.haskell.org/package/CheatSheet][cheatsheet]] ::
+  - [[https://www.haskell.org/hoogle/][hoogle]] :: quickly searching
+  - [[https://github.com/dhall-lang/dhall-haskell][dhall]] :: a config language
+  - [[https://github.com/yav/graphmod][graphmod]] :: A utility for displaying the module dependencies of Haskell programs.
+
+* CI
+  :PROPERTIES:
+  :ID:       2ad954f4-6f98-4357-a460-da8b579c5fc8
+  :END:
+  - [[https://github.com/haskell-CI/haskell-ci][haskell-ci]] :: Scripts and instructions for using CI services (e.g. Travis CI or Appveyor) with multiple GHC configurations
+
+* Cheatsheet
+  :PROPERTIES:
+  :ID:       87f35dea-a72d-4fd2-9e9d-03314404b32e
+  :END:
+  - [[https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet][symbol search cheatsheet]] ::
+
+* Checklist
+  :PROPERTIES:
+  :ID:       bb255970-c9a7-4cd2-9cec-1ed1c27045ac
+  :END:
+  - [[https://github.com/haskell-perf/checklist][checklist]] :: A checklist to optimize code
+
+* IDE
+  :PROPERTIES:
+  :ID:       76fc5cd6-2ab9-44d2-9934-3ecd1fbad8f2
+  :END:
+  - [[https://github.com/haskell/haskell-language-server][haskell-language-server]] :: A framework which can work with vim, emacs and others
+  - [[https://github.com/leksah/leksah][leksah]] ::
+
+* Tutor
+  :PROPERTIES:
+  :ID:       a4a98e32-b2a5-4e50-9c1d-3a8f15d88c87
+  :END:
+  - real world haskell ::
+      - [[https://github.com/huangz1990/real-world-haskell-cn][cn]] ::
+  - learn4haskell ::
+
+* Misc
+  :PROPERTIES:
+  :ID:       0446d055-8c21-4673-8e06-bec77fb17eeb
+  :END:
+  - [[http://www.luna-lang.org/][luna-lang]] :: a visual lang.
+  - [[https://www.idris-lang.org/][Idris]] :: A Dependently Typed Functional Programming Language
+
+* Awesome
+  :PROPERTIES:
+  :ID:       5fe632f1-15d7-4768-b0a0-30df0ca8ba12
+  :END:
+  - [[https://github.com/krispo/awesome-haskell][haskell]] ::
+  - [[https://haskell.pl-a.net/][haskell planetarium]] ::
+  - [[https://github.com/albohlabs/awesome-haskell][for beginner]] ::
+  - [[https://github.com/sdiehl/wiwinwlh][wiwinwlh]] ::
+  - *[[https://toolbox.brick.do/][toolbox]]* :: Useful tools when developing haskell
+
+* Article
+  :PROPERTIES:
+  :ID:       190722fb-e866-45d2-9c05-291315f91bff
+  :END:
+  - [[https://www.williamyaoh.com/posts/2019-11-24-design-and-testing-articles.html][A LIST OF HASKELL ARTICLES ON GOOD DESIGN, GOOD TESTING]] ::
+  - [[http://www.willamette.edu/~fruehr/haskell/evolution.html][The Evolution of a Haskell Programmer ]] ::
+  - [[https://stackoverflow.com/questions/6724434/how-to-debug-haskell-code][How to debug Haskell code?]] ::
+  - [[https://stackoverflow.com/questions/4156727/what-is-the-difference-between-pattern-matching-and-guards][What is the difference between Pattern Matching and Guards?]] ::
+  - 范畴论完全装逼手册 / Grokking Monad ::
+      - [[https://web.archive.org/web/20191027082028/https://blog.oyanglul.us/grokking-monad/part1][part1]] ::
+      - [[https://web.archive.org/web/20191027082045/https://blog.oyanglul.us/grokking-monad/part2][part2]] ::
+      - [[https://web.archive.org/web/20191027082055/https://blog.oyanglul.us/grokking-monad/part3][part3]] ::
+  - [[https://web.archive.org/web/20201211002735/https://www.snoyman.com/series/haskell-bad-parts][haskell-bad-parts]] ::
+
+* Library
+  :PROPERTIES:
+  :ID:       fd60b09a-f18c-455a-a44e-32bed8a936b8
+  :END:
+** Codc
+   :PROPERTIES:
+   :ID:       a029ef7f-7845-4ede-8fc5-540f4fc2ab4e
+   :END:
+*** Compression
+    - zstd ::
+*** Serialize
+    - serialise :: control format
+    - cereal ::
+** CLI
+   :PROPERTIES:
+   :ID:       b723ef46-a881-476f-a9fe-6890a213153c
+   :END:
+*** Arguments
+    - optparse-generic :: This library auto-generates an
+      optparse-applicative-compatible Parser from any data type that derives the
+      Generic interface.
+    - optparse-applicative ::
+
+*** Input
+    - haskeline ::
+
+*** Interpreter
+    - ihaskell ::
+** Data
+   :PROPERTIES:
+   :ID:       6a0a80e6-25ae-46ea-b6b5-130e39bc7add
+   :END:
+   - [[https://github.com/isomorphism/these][these]] :: An either-or-both data type, with corresponding hybrid error/writer monad transformer.
+*** String
+   - Text :: utf
+   - ByteString :: binary, ascii
+   - fmt :: A new formatting library that tries to be simple to understand
+     while still being powerful and providing more convenience features than
+     other libraries (like functions for pretty-printing maps and lists, or a
+     function for printing arbitrary datatypes using generics).
+   - text-icu :: unicode aware
+   - lucid :: html
+   - xml-conduit :: xml
+   - aeson :: json
+   - [[https://hackage.haskell.org/package/json-to-haskell][json-to-haskell]] :: generate haskell code by json data
+*** Cryptography
+    - password :: Hashing and checking of passwords
+    - cryptonite :: many algorithms
+*** Parsing
+    - megaparsec :: Monadic parser combinators
+*** Struct
+    - containers ::
+        - sets :: for set-like things
+        - dictionaries :: dictionaries, hashmaps, maps, etc.
+        - sequences :: lists, vectors/arrays, sequences, etc.
+    - unordered-containers ::
+    - stm-containers :: This library is based on an STM-specialized
+      implementation of Hash Array Mapped Trie. It provides efficient
+      implementations of Map, Set and other data structures, which starting from
+      version 1 perform even better than their counterparts from
+      "unordered-containers", but also scale well on concurrent access
+      patterns.
+    - [[https://github.com/ZHaskell/z-data][z-data]] :: array, slices and text
+** Game
+   :PROPERTIES:
+   :ID:       5d71af26-771c-41d8-81c4-8914883a732d
+   :END:
+   - [[https://github.com/LambdaHack/LambdaHack][LambdaHack]] :: Haskell game engine library for roguelike dungeon crawlers; please offer feedback
+** Graphisc
+   :PROPERTIES:
+   :ID:       858c04ce-7c61-462a-820e-85d72a4a224e
+   :END:
+   - gloss :: Gloss hides the pain of drawing simple vector graphics behind a nice data type and a few display functions. Gloss uses OpenGL under the hood, but you won't need to worry about any of that. Get something cool on the screen in under 10 minutes.
+** Link
+   :PROPERTIES:
+   :ID:       fe4ad51e-4104-4d0c-ae56-e2fd9770e730
+   :END:
+   - plugins :: Dynamic linking for Haskell and C objects
+** Math
+   :PROPERTIES:
+   :ID:       9c9a745c-e2fd-4f8e-abcf-51d5e329194b
+   :END:
+   - hmatrix :: Linear algebra and numerical computation
+   - dimensional :: Dimensional library variant built on Data Kinds, Closed Type
+     Families, TypeNats (GHC 7.8+).
+   - what4 :: Symbolic formula representation and solver interaction library
+   - group-theory :: the theory of group
+** Monadic
+   :PROPERTIES:
+   :ID:       8f68a258-4899-4dca-bca1-3312beffd21a
+   :END:
+   - transformers ::
+   - mtl ::
+** Net
+   :PROPERTIES:
+   :ID:       57eb43c8-ca07-4817-8a3a-1143f60a0c07
+   :END:
+*** Request
+    - req ::
+    - wreq :: scripting
+    - http-client-tls :: everything else(client)
+    - servant-client :: both the client and the server.
+    - haxl :: A Haskell library that simplifies access to remote data, such as
+      databases or web-based services.
+*** Server
+   - [[Year:month:day][yesod]] :: A RESTful Haskell web framework built on WAI.
+   - servant :: servant is a set of Haskell libraries for writing type-safe web
+     applications but also deriving clients (in Haskell and other languages) or
+     generating documentation for them, and more.
+** Benchmarking
+   :PROPERTIES:
+   :ID:       29953593-c73f-4519-8c0c-65a38762e766
+   :END:
+   - criterion :: This library provides a powerful but simple way to measure
+     software performance. It provides both a framework for executing and
+     analysing benchmarks and a set of driver functions that makes it easy to
+     build and run benchmarks, and to analyse their results.
+   - gauge :: 'gauge' is a lean, maintained fork of Criterion
+** Foundation
+   :PROPERTIES:
+   :ID:       0615ab4f-058f-4aad-9d47-9b4e9459a8de
+   :END:
+   - foundation :: a replace for prelude
+   - [[https://github.com/polysemy-research/polysemy][polysemy]] :: gemini higher-order, no-boilerplate, zero-cost monads
+** Symbolic
+   :PROPERTIES:
+   :ID:       66eb20f9-833e-4bc9-b169-664b2f4f7ab9
+   :END:
+   - [[https://github.com/GaloisInc/crucible][crucible]] :: Crucible is a library for symbolic simulation of imperative programs
+** Test
+   :PROPERTIES:
+   :ID:       7faebf0a-fa9d-429c-a00c-cadc13f43f47
+   :END:
+   - quickcheck ::
+   - hspce ::
+   - tasty ::
+   - haskell-hedgehog :: Release with confidence, state-of-the-art property
+     testing for Haskell.
+** System
+   :PROPERTIES:
+   :ID:       0317689a-7265-4907-ae03-a830df790e30
+   :END:
+   - random ::
+   - retry :: retry io action
+** C preprocessor
+   :PROPERTIES:
+   :ID:       d59f973d-166d-4536-a868-392f1d2af7dc
+   :END:
+   - cpphs ::
+* Utils
+  :PROPERTIES:
+  :ID:       4575d700-48ea-47ee-9488-7ed431687cf1
+  :END:
+** Blog
+   :PROPERTIES:
+   :ID:       0c637ebd-cb7c-4b28-a144-090401bd2ccd
+   :END:
+   - hakyll :: static blog
+** Generic
+   :PROPERTIES:
+   :ID:       60bad86a-ebee-4d3d-b223-3c247b82730f
+   :END:
+   - [[https://generics.jasperwoudenberg.com/][generics]] :: archive
+** GHC
+   :PROPERTIES:
+   :ID:       66548bd2-bc37-4e89-a4f1-cb013a43fcc3
+   :END:
+   - [[https://github.com/bgamari/ghc-utils][bgamari/ghc-utils]]
+   - [[https://github.com/alpmestan/ghc.nix][ghc with nix support]] :: Nix (shell) expression for working on GHC
+** Configure
+   :PROPERTIES:
+   :ID:       7a6f9157-91fb-4277-90b4-946540f64f67
+   :END:
+   - hnix :: Haskell implementation of the Nix language
+   - dhall ::
+** Performance
+   :PROPERTIES:
+   :ID:       7a6db49f-bdaa-450c-91a5-4360b32a9b69
+   :END:
+   - ~ghc -profile~ ::
+** AI
+   :PROPERTIES:
+   :ID:       215ddcb3-d551-4c87-9f3d-38cea1fabaf2
+   :END:
+   - [[https://github.com/hasktorch/hasktorch][hasktorch]] :: Tensors and neural networks in Haskell
+* Amazing
+  :PROPERTIES:
+  :ID:       dfc35d1a-1d61-4878-8190-bebd39fa7f80
+  :END:
+  - [[https://github.com/dpiponi/quine-central][dpiponi/quine-central]] :: This is a Haskell program that prints out a Perl program that prints out a Python program that prints out a Ruby program that prints out a C program that prints out a Java program that prints out the original program.

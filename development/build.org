@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       17cc65cd-5b30-4216-aceb-9e55923d18fb
+:END:
+#+title: Build
+#+author: Vonfry
+
+* Universal
+  :PROPERTIES:
+  :ID:       a77ade2b-eaff-4d9f-a9e1-edd78d84d7e9
+  :END:
+  - make ::
+  - automake ::
+  - nix ::
+      + lorri :: combine with nix-shell and direnv
+      + niv :: Easy dependency management for Nix projects
+      + [[https://github.com/nix-community/awesome-nix][awesome-nix]] ::
+      + [[https://github.com/nix-community/NUR][NUR]] :: A community nix repo
+      + [[https://github.com/GTrunSec/braindump-nix-resource][recouse collection]] ::
+      + [[https://github.com/numtide/rnix-hashes][rnix-hashesr]] :: nix hash converter
+      + [[https://github.com/craigmbooth/nix-visualize][nix-visualize]] :: uses the Nix package manager to visualize the dependencies of
+        a given package
+
+* Mobile
+  :PROPERTIES:
+  :ID:       e7198447-12ab-4d0d-9deb-d893dd0c7170
+  :END:
+  - [[https://github.com/fastlane/fastlane][fastlane]] ::

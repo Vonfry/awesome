@@ -1,9 +1,0 @@
-#+TITLE: Misc
-#+AUTHOR: Vonfry
-
-* Archive
-  - [[https://github.com/algorithm-archivists/algorithm-archive][algorithm-archive]] :: The Arcane Algorithm Archive is a collaborative effort to create a guide for all important algorithms in all languages.
-
-* Execise
-  - leetcode
-    - [[https://github.com/apachecn/awesome-leetcode][awesome]] ::

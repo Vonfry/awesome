@@ -1,8 +1,0 @@
-#+title: IM
-
-* IRC
-  - liberachat
-  - freenode
-* Morden
-  - [[matrix.org][Matrix]] :: An open network for secure, decentralized communication.  This can
-    be self-hosted.

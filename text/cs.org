@@ -1,0 +1,83 @@
+:PROPERTIES:
+:ID:       6ac6c708-431c-4cba-b50b-fe8b656df937
+:END:
+#+TITLE: CS
+#+AUTHOR: Vonfry
+
+* Summary
+  :PROPERTIES:
+  :ID:       f07e1b2f-2a06-478c-8fb5-571694b63884
+  :END:
+  - [[https://github.com/sarabander/sicp][sicp]] :: HTML5/EPUB3 version of SICP
+  - [[https://github.com/missing-semester-cn/missing-semester-cn.github.io][missing-semester-cn]] :: *HIGH RECOMMENDED* The Missing Semester of Your CS Education.
+  - [[http://www.learnenough.com][learnenugh]] :: Talking about something a programmer needs but not necessary. These can make you doing things more interesting.
+** Chinese
+   - [[https://github.com/it-ebooks/it-ebooks-archive][ebook]] ::
+* Course
+  :PROPERTIES:
+  :ID:       b4846f51-02a4-43ec-af8d-8b999fe0757e
+  :END:
+** Note
+   :PROPERTIES:
+   :ID:       fc68fc35-3b64-4a5c-b6d1-5e7523c38724
+   :END:
+   - [[https://github.com/apachecn/stanford-cs183-notes][apachecn/stanford-cs183-notes]] ::
+
+* Category Theory
+  :PROPERTIES:
+  :ID:       efa440d2-c947-4f9b-b822-af25d3160d0a
+  :END:
+  - Category Theory for Computer Science(michael barr) ::
+  - Category Theory(Awodey) ::
+  - [[https://link.springer.com/book/10.1007/3-540-60164-3][Category Theory and Computer Science]] ::
+  - [[https://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/][category theory for scientists]] ::
+  - [[https://github.com/hmemcpy/milewski-ctfp-pdf][category theory for programmer]] ::
+  - categories for the working mathematician ::
+  - [[https://github.com/liuxinyu95/unplugged][unplugged]] :: isomorphism
+  - basic category theroy ::
+
+* Programming Language
+  :PROPERTIES:
+  :ID:       a61ddef7-58a9-4f05-aeca-fe70e67a931d
+  :END:
+  - [[https://steshaw.org/plt/][book list]] ::
+  - concepts of programming languages ::
+  - practical foundations for programming languages ::
+  - types and programming languages ::
+  - certified programming with dependent types ::
+* Calculus
+  :PROPERTIES:
+  :ID:       d01b618a-c558-4659-af7d-920dadf9bc6c
+  :END:
+** Lambda
+   :PROPERTIES:
+   :ID:       0c2c5a8a-fa1c-43c8-b681-66f0ec247d91
+   :END:
+   - [[http://goodmath.blogspot.com/][bad math or good math]] ::
+
+*** translate
+    [[http://cgnail.github.io/academic/lambda-1/][- 我的最爱Lambda演算——开篇 · cgnail's weblog]] ::
+    [[http://cgnail.github.io/academic/lambda-2/][- 阿隆佐.丘奇的天才之作——lambda演算中的数字 · cgnail's weblog]] ::
+    [[http://cgnail.github.io/academic/lambda-3/][- Lambda演算中的布尔值和选择 · cgnail's weblog]] ::
+    [[http://cgnail.github.io/academic/lambda-4/][- 为什么是Y？ · cgnail's weblog]] ::
+    [[http://cgnail.github.io/academic/lambda-5/][- 从Lambda演算到组合子演算 · cgnail's weblog]] ::
+    [[http://cgnail.github.io/academic/lambda-6/][- Lambda演算的类型 · cgnail's weblog]] ::
+    [[http%3A//cgnail.github.io/academic/lambda-7/][- 终章，Lambda演算建模——程序即证明！ · cgnail's weblog]] ::
+
+** Logic
+   :PROPERTIES:
+   :ID:       5ee91fbd-8ed8-4f91-b640-147456d16adb
+   :END:
+   - [[https://softwarefoundations.cis.upenn.edu/current/index.html][software foundation]] ::
+* Execrise
+  :PROPERTIES:
+  :ID:       97184ba4-bdb0-4f35-86d2-73c276b9dec0
+  :END:
+  - [[https://cscx.org/][cscx]] :: cs by examples
+* Awesome
+  :PROPERTIES:
+  :ID:       6c88cf97-66a0-47df-9121-2f6884a660a4
+  :END:
+  - [[https://www.bottomupcs.com/][Bottom Up Computer Science]] :: [[https://github.com/ianw/bottomupcs][source]], [[https://web.archive.org/web/20210430003222/https://www.bottomupcs.com/][archive]]
+  - [[https://github.com/papers-we-love/papers-we-love][paper-we-loves]] :: Papers from the computer science community to read and discuss.
+  - [[https://github.com/EbookFoundation/free-programming-books][free programming books]] ::

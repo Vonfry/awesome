@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       2975b67a-4521-4582-b271-a7c24cbb5f59
+:END:
+
+* Password Manager
+  :PROPERTIES:
+  :ID:       6b1a7bc9-1480-4776-9f33-9684a5918abf
+  :END:
+  - 1Password :: Private password managem.
+  - [[https://www.passwordstore.org/][pass]] :: Password management should be simple and follow Unix
+    philosophy. With pass, each password lives inside of a gpg encrypted file
+    whose filename is the title of the website or resource that requires the
+    password. These encrypted files may be organized into meaningful folder
+    hierarchies, copied from computer to computer, and, in general, manipulated
+    using standard command line file management utilities.
+  - [[https://github.com/nuxsmin/sysPass][sysPass]] :: Gestor de Claves web basado en PHP para uso empresarial y personal.
+  - more ::  see [[id:6a798127-176b-44b1-8913-a865a9d223dc][selfhost]]
+
+* PGP
+  :PROPERTIES:
+  :ID:       cd9a9a78-4bd3-44e9-9f4e-4446e4fc5f3a
+  :END:
+Pretty Good Privacy is a nice way to crypt data.
+
+** GnuPG
+   :PROPERTIES:
+   :ID:       c588dbbc-0570-46f2-a57a-47e6ce2133b9
+   :END:
+   A implement of pgp.
+
+*** Public Key Server
+    :PROPERTIES:
+    :ID:       053a7e7b-377d-4005-9dec-bb30acc27483
+    :END:
+    - [[http://keys.gnupg.net/][openpgp]] ::
+    - [[http://pgp.mit.edu/][mit]] ::
+
+** keybase
+   :PROPERTIES:
+   :ID:       ab081076-c0e9-45a7-9ddf-8d64674389c2
+   :END:
+   Use PGP to send message, which like whatsapp but this won't manage you keys, so it is safter. A end-to-end encryption is the best way to exchange message.
+
+   It also is a platform to show your public key. I love it!

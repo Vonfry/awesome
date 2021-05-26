@@ -1,5 +1,0 @@
-#+TITLE: Pdf
-#+AUTHOR: Vonfry
-
-- poppler ::
-- mupdf ::

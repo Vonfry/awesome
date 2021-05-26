@@ -1,5 +1,0 @@
-#+TITLE: Dos
-#+AUTHOR: Vonfry
-
-* Sorcue
-  - [[https://github.com/Microsoft/MS-DOS][MS-DOS]] ::

@@ -1,5 +1,0 @@
-#+TITLE: Unity3D
-#+AUTHOR: Vonfry
-
-* Live2D
-  - [[https://github.com/Live2D/CubismUnityComponents][Cubism]] ::

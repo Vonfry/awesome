@@ -1,4 +1,0 @@
-#+TITLE: EBook
-#+AUTHOR: Vonfry
-
-- [[https://sigil-ebook.com/][sigil]] :: An open source to edit epub

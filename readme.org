@@ -1,0 +1,80 @@
+:PROPERTIES:
+:ID:       0cb0405e-91f7-4261-bc66-a1e126599872
+:END:
+#+title: Awesome
+
+An extensive list of interesting open source projects, articles and other things
+for *myself*. Most of things are collected because of I used.
+
+All files are written in ~org-mode~ with ~org-roam~ and ~org-id~, so all the
+internal link cannot be used outside.
+
+* Awesome
+  :PROPERTIES:
+  :ID:       59a002d7-0c3e-4260-8478-b93d15b711af
+  :END:
+
+  Here are some good awesome what I love.
+
+  Other special awesome in the section's readme file.
+
+  - [[https://github.com/sindresorhus/awesome][awesome]]
+  - [[https://github.com/kdeldycke/awesome-falsehood][FalseHood]]
+
+* Text
+  :PROPERTIES:
+  :ID:       70cc4a06-ba8c-452b-a0b0-ab9a9db0c72b
+  :END:
+  - [[id:b47cd194-8cd7-4c3c-92ca-4bb5f01ec780][reading]]
+  - [[id:6ac6c708-431c-4cba-b50b-fe8b656df937][cs]]
+  - [[id:aa90b535-3acb-485c-be8b-10c6d3b386e6][language]]
+* Entertainment
+  :PROPERTIES:
+  :ID:       67416bda-e0a5-42e3-b367-902387cccf3d
+  :END:
+  - [[id:57064a17-a8e7-433a-907a-94c444b0c65b][game]]
+* System
+  :PROPERTIES:
+  :ID:       97db93bc-c296-49c3-a2af-5726d369835c
+  :END:
+  - [[id:850125d7-f835-48bb-97fb-653d78f67082][linux]]
+    - [[id:746a0cc6-f0c7-4ff0-a1c8-d3d7779ca44a][nixos]]
+  - [[f06b29d0-2566-475d-83d2-f7a519c01f13][windows]]
+  - [[a153e6be-1933-426a-98ae-d0694e84413d][macos]]
+* Academic
+  :PROPERTIES:
+  :ID:       d6568af3-1ffc-462d-bc59-853be090c45c
+  :END:
+  - [[id:49507414-beec-4407-a074-da10337a71f7][simulation]]
+  - [[id:fbc2b35a-7af6-4b9d-80fa-ac9408adb950][search]]
+  - [[id:f76a46d3-df8a-4c45-ad43-f0783b0a382b][data]]
+* Application
+  :PROPERTIES:
+  :ID:       8c6e841a-98c1-4a1d-808c-ddb9208b9c55
+  :END:
+  - [[id:2975b67a-4521-4582-b271-a7c24cbb5f59][crypt]]
+  - [[id:e72ff155-eb79-44ca-8f3e-d9494bb1151e][text]]
+      + [[id:ce9a31a1-1cea-4a43-bb83-b67491859b01][editor]]
+  - [[id:4cf184af-90d7-45e1-bea5-fc91b069fc08][web]]
+  - [[id:b4016a62-7008-4b5e-9b2c-902248915c33][project]]
+  - [[id:0d5835dd-8113-4721-92d2-4bc4d5a37ffc][media]]
+  - [[id:c8070a20-4d88-4fca-bcef-e1fd921f183b][shell]]
+* Development
+  :PROPERTIES:
+  :ID:       1b2117ca-6d7e-4b14-9e6a-f4772172d181
+  :END:
+  - [[id:17cc65cd-5b30-4216-aceb-9e55923d18fb][build]]
+  - [[id:8b34ae27-42a9-43e0-8005-0b6c2b511127][util]]
+  - [[id:855f7f6c-580b-43b4-bd10-3b82a16096da][kernel]]
+  - [[id:1eaf5817-834f-45f9-b00a-82634eac28d3][archiet]]
+  - [[id:ce866a36-dca1-4cc3-8d5b-49f465fb4544][database]]
+  - [[id:9fc615d1-51af-4f9c-a147-9055db39e30b][application]]
+  - [[id:6a83b9c1-ae82-4723-bc01-87e04f24d11a][security]]
+  - [[id:bee36cae-0646-4f4e-bcc1-a893d078079b][misc]]
+  - [[id:9833211b-247b-46a4-8a1f-91b04a5f46ea][algorithm]]
+  - [[id:ea5f732b-1775-449d-9435-7ed891f60aa1][game]]
+  - [[id:4e42518b-3e82-487b-b421-b8afa9fcd92f][lang]]
+* Network
+  - [[id:d86279bd-315c-4288-94de-81cac4a4919b][site]]
+  - [[id:31124768-e7f5-4667-bb6f-68b43f7c04ba][analyzer]]
+  - [[id:f18a0a56-bbec-420a-b264-64eff0dbe931][service]]

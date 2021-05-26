@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       f76a46d3-df8a-4c45-ad43-f0783b0a382b
+:END:
+#+title: Data
+#+author: Vonfry
+
+* Analysis
+  :PROPERTIES:
+  :ID:       a0423671-96aa-40e1-b975-5c13cb550764
+  :END:
+** ML
+   :PROPERTIES:
+   :ID:       69e80d49-9692-45f8-8890-659637824f9e
+   :END:
+   - [[https://christophm.github.io/interpretable-ml-book/index.html][Interpretable Machine learning]] ::
+
+* Data set
+  :PROPERTIES:
+  :ID:       8493606f-9d38-4422-b318-24399e93f730
+  :END:
+  - [[https://crawdad.org/][crawdad]] :: network simulation data
+  - [[http://www.hifleet.com/prelogin.do][hifleet]] :: boat data
+* Company
+  :PROPERTIES:
+  :ID:       1ed6e53d-f4aa-4469-ba94-acd08e47c0fb
+  :END:
+
+  - [[https://skymind.ai/][skymind.ai]]

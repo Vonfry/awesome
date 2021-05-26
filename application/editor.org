@@ -1,0 +1,143 @@
+:PROPERTIES:
+:ID:       ce9a31a1-1cea-4a43-bb83-b67491859b01
+:END:
+#+TITLE: Editor
+#+AUTHOR: Vonfry
+
+List some useful tools for editor to navigate, format or do others.
+
+* IDE and Editor
+  :PROPERTIES:
+  :ID:       de1e414a-16cb-41c4-9c77-16b147af4f56
+  :END:
+  - archive: [[https://web.archive.org/web/20201202025456/http://ntraft.com/a-taxonomy-of-toolchains/][article]], [[https://web.archive.org/web/20201202025333/http%3A%2F%2Fntraft.com%2Fwp-content%2Fuploads%2F2014%2F01%2FIDE.png][picture]], [[https://web.archive.org/web/20201202025409/http%3A%2F%2Fntraft.com%2Fwp-content%2Fuploads%2F2014%2F01%2Ftoolchain.jpg][picture]] ::
+
+* Navigation & Completion & Syntax Check
+  :PROPERTIES:
+  :ID:       9c643252-8a75-426d-840f-e8b82680917a
+  :END:
+  each editor has its own way to do this, but here is a surprising thing which
+  is [[id:05f07be6-d484-4ba5-a59a-62c5d779e5f4][lsp]] designed by microsoft!
+
+* Coding Style
+  :PROPERTIES:
+  :ID:       ceec7c43-ac90-4859-9511-024cd6ae2755
+  :END:
+  A precondition: using differnt sytle for different language.
+
+  [[http://editorconfig.org/][Editorconfig]] is a tool to let all stuffs using the same coding style in a
+  project.
+
+* build your self
+  :PROPERTIES:
+  :ID:       77749e50-2894-406a-ad9c-bc92d9e97067
+  :END:
+  - [[https://viewsourcecode.org/snaptoken/kilo/index.html][url]] ::
+
+* Vim
+  :PROPERTIES:
+  :ID:       56949301-76e0-447b-8c24-ebf6718b5314
+  :END:
+  vim is one of the best editor on the world. It provied a good editing method by
+  normal, insert, visual and other modes.
+** Plugins
+   :PROPERTIES:
+   :ID:       e50a9387-89e4-4c53-bf80-bb320ea603ea
+   :END:
+   - [[http://vimawesome.com/][Vimawesome]] :: website lists famous vim plugins.
+
+** NeoVim
+   :PROPERTIES:
+   :ID:       02be462b-8d2b-41a3-ada2-f409ae512c80
+   :END:
+   rewritten version for vim. It provide more morden api & design, but it is
+   under developing. It can be used to develop vim-like plugin for other editor.
+
+*** GUI
+    - [[https://github.com/onivim/oni][onivim]] :: developing gui cross-platform editor by onivim.
+    - [[https://github.com/Kethku/neovide][neovide]] :: No Nonsense Neovim Client in Rust
+
+** Configure
+   :PROPERTIES:
+   :ID:       cd425548-ca5d-44b3-b687-e2fd9590cf00
+   :END:
+   Here are some samples, but I suggest only take a look as a reference. Write config by yourself!
+   - [[https://gitlab.com/Vonfry/dotfiles/-/tree/master/etc/nixos/modules/user/files/nvim][mine]]
+   - [[https://github.com/SpaceVim/SpaceVim][SpaceVim]]
+
+** Tutor
+   :PROPERTIES:
+   :ID:       8ddb1a4d-582b-40fc-95d4-25ee5194d0c8
+   :END:
+   - [[https://github.com/mhinz/vim-galore][galore]] :: All things Vim!
+* Emacs
+  :PROPERTIES:
+  :ID:       0b125c69-4fc2-4647-a0ad-0cd790b60719
+  :END:
+  Emacs is one of the best editor on the world. Its default editing mode is used
+  in many morden editors such as all text input form on macos.
+
+  But I don't like emacs default editing method. I use evil insteaded.
+
+  The most powerful thing is ~emacs-lisp~. You can de anything here! So, why not
+  use it with vim.
+
+  And emacs author seems hardworking more than vim.
+** Configure
+   :PROPERTIES:
+   :CUSTOM_ID: configure-id
+   :ID:       91764905-90f2-4019-a63f-7e64b9839704
+   :END:
+
+   Here are some samples, but I suggest only take a look as a reference. Write config by yourself!
+
+   - [[https://github.com/VonFry/dotfiles/tree/master/emacs.d][mine]] ::
+   - [[https://github.com/bbatsov/prelude.git][prelude]] :: very very very /Simple/
+   - [[https://github.com/hlissner/doom-emacs][doom]] ::
+   - [[https://github.com/syl20bnr/spacemacs][Spacemacs]] :: It is too heavy, just use it as a reference.
+
+** Plugins
+   :PROPERTIES:
+   :ID:       9d9ac523-6132-4592-a238-43c0eab7c2e5
+   :END:
+
+   See [[#configure-id][configure]]
+
+   See lsp
+
+** Awesome
+   :PROPERTIES:
+   :ID:       80ecba07-8ad9-4a1a-8e5c-af52e51dffb8
+   :END:
+   - [[https://github.com/emacs-tw/awesome-emacs][emacs-tw]] ::
+   - [[https://github.com/purcell/elisp-maintainers][maintainers-list]] ::
+
+** Article
+   :PROPERTIES:
+   :ID:       414038d8-907e-4053-a8b9-dc537cf2137c
+   :END:
+   - [[https://medium.com/@mrbig/the-road-to-emacs-87473db09526][road to emacs]] ::
+   - [[https://github.com/condy0919/emacs-newbie][emacs-newbie]] ::
+   - [[https://github.com/lujun9972/emacs-document][chinese document]] ::
+   - [[https://liujiacai.net/blog/2020/11/25/why-emacs/][chinese introduction]] ::
+** Org Mode
+   :PROPERTIES:
+   :ID:       cba79307-06c8-4025-ac7c-49eff33774ff
+   :END:
+   One of the killer feature in emacs. It use marks to make program analyzing
+   document structure and do many actions such as GTD, calucalting and so on.
+
+   Furthermore [[https://github.com/org-roam/org-roam][roam]] is a kind of way to
+   manage notes. ~org-babel~ allow you to write doucment with coding result.
+
+   - org-agenda :: GTD
+   - org-roam :: roam search
+   - org-z :: zettelkasten link
+   - org-contacts :: contacts with org mode
+** Theme
+   :PROPERTIES:
+   :ID:       8de247f8-921b-42d7-b954-9d7cb518db25
+   :END:
+   - Dracula ::
+   - [[https://github.com/rougier/elegant-emacs][elegant]] :: A very minimal but elegant emacs (I think)
+   - [[https://github.com/rougier/nano-emacs][nano]] :: GNU Emacs / N Λ N O - Emacs made simple
