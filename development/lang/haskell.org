@@ -214,6 +214,8 @@
    :PROPERTIES:
    :ID:       57eb43c8-ca07-4817-8a3a-1143f60a0c07
    :END:
+*** UI
+    - [[https://gitlab.com/platonic/shpadoinkle][shpadoinkle]] :: web ui
 *** Request
     - req ::
     - wreq :: scripting
