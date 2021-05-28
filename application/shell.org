@@ -30,7 +30,6 @@ using for daily and we have other better language for scripts, if you don't use
           + powerlevel10k
           + pure ::
       - Plugins ::
-          +  ::
           + fzf-tab ::
           + fzf-marks ::
           + zsh-navigation-tools ::
