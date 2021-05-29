@@ -41,6 +41,7 @@
    :PROPERTIES:
    :ID:       9d5fe45f-a038-4a9c-8083-7d918bbbac65
    :END:
+   - [[https://github.com/dbcli][dbcli]] :: Better CLIs for Databases
    - phpMyAdmin ::
    - Sqlectron ::
    - dbeaver ::
