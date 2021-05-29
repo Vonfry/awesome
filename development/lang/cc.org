@@ -105,3 +105,10 @@
    :END:
    - re2 :: RE2 is a fast, safe, thread-friendly alternative to backtracking
      regular expression engines like those used in PCRE, Perl, and Python.
+
+** CLI
+   - GNU readline :: GNU Readline is a software library that provides
+     line-editing and history capabilities for interactive programs with a
+     command-line interface, such as Bash. It is currently maintained by Chet
+     Ramey as part of the GNU Project.
+   - editline :: A small replacement for GNU readline() for UNIX
