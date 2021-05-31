@@ -19,6 +19,7 @@
       + [[https://github.com/numtide/rnix-hashes][rnix-hashesr]] :: nix hash converter
       + [[https://github.com/craigmbooth/nix-visualize][nix-visualize]] :: uses the Nix package manager to visualize the dependencies of
         a given package
+      + [[https://github.com/Mic92/tex2nix][tex2nix]] :: texlive expressions for documents
 
 * Mobile
   :PROPERTIES:

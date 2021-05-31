@@ -10,7 +10,8 @@
   :END:
   - [[https://github.com/Gabriel439/haskell-nix][haskell-nix]] :: Nix and Haskell in production
   - [[https://nix.dev/][nix.dev]] :: An opinionated guide for developers getting things done using the Nix ecosystem.
-
+** Arch
+   - [[https://github.com/lucernae/nixos-pi][nixos-pi]] :: How to install NixOS on raspberry PI
 * Converter
   :PROPERTIES:
   :ID:       1e5f8180-c3a2-469a-b984-4ac0f409eaa2
