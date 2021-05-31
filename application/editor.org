@@ -70,6 +70,7 @@ List some useful tools for editor to navigate, format or do others.
    :ID:       8ddb1a4d-582b-40fc-95d4-25ee5194d0c8
    :END:
    - [[https://github.com/mhinz/vim-galore][galore]] :: All things Vim!
+   - [[https://github.com/nanotee/nvim-lua-guide][lua in neovim]] :: a guide
 * Emacs
   :PROPERTIES:
   :ID:       0b125c69-4fc2-4647-a0ad-0cd790b60719
