@@ -31,3 +31,5 @@
   :ID:       f1cdad42-6dde-4a7b-92e5-4ec1c7f7fef6
   :END:
   - [[https://github.com/qeeqbox/social-analyzer][social analyzer]] :: OSINT
+* Agent
+  - [[https://github.com/huginn/huginn][huginn]] :: Create agents that monitor and act on your behalf. Your agents are standing by!
