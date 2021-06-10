@@ -112,3 +112,6 @@
      command-line interface, such as Bash. It is currently maintained by Chet
      Ramey as part of the GNU Project.
    - editline :: A small replacement for GNU readline() for UNIX
+
+** Web
+   - [[https://sqlite.org/althttpd/doc/trunk/althttpd.md][althttpd]] :: Althttpd is a simple webserver that has run the https://sqlite.org/ website since 2004. Althttpd strives for simplicity, security, and low resource usage.
