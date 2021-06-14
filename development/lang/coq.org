@@ -28,3 +28,7 @@ the constructive proof of its formal specification.
   :ID:       5a57b029-7b98-4896-8383-a0ad5e27a9d9
   :END:
   - math-comp ::
+
+* Awesome
+  - [[https://github.com/coq-community/awesome-coq][coq-community]] ::
+  - [[https://github.com/uhub/awesome-coq][uhub]] ::
