@@ -13,3 +13,6 @@ prover.
   :END:
   - [[https://plfa.github.io/][PLFA]] ::
   - [[https://agda-zh.github.io/PLFA-zh/][PLFA-zh]] ::
+
+* Library
+  - [[https://github.com/agda/agda-categories][categories]] :: A new Categories library for Agda
