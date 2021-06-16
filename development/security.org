@@ -7,6 +7,7 @@
   :ID:       dea7ad6a-e1ba-429c-97da-80535898392a
   :END:
   - [[https://beginners.re/][beginners]] ::
+  - [[https://github.com/SecWiki/sec-chart][road chat]] ::
 * Execrise
   :PROPERTIES:
   :ID:       edf0543b-ec65-43e9-8981-380f83a8ff04
@@ -110,3 +111,6 @@
    :END:
    - opensk :: OpenSK is an open-source implementation for security keys written
      in Rust that supports both FIDO U2F and FIDO2 standards.
+
+* Collections
+  - [[https://github.com/SecWiki/linux-kernel-exploits][linux kernel expoits]] ::
