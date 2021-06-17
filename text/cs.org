@@ -45,6 +45,7 @@
   - practical foundations for programming languages ::
   - types and programming languages ::
   - certified programming with dependent types ::
+  - [[https://homotopytypetheory.org/book/][HoTT book]] ::
 * Calculus
   :PROPERTIES:
   :ID:       d01b618a-c558-4659-af7d-920dadf9bc6c
