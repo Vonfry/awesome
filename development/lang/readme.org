@@ -67,6 +67,7 @@
   :END:
   A whole list of PL can be found on [[https://en.wikipedia.org/wiki/List_of_programming_languages_by_type][wikipedia]]. Here lists some languages and
   their development tools.
+  - [[https://github.com/dbohdan/embedded-scripting-languages][embedded scripting language]]
   - [[id:e6523338-7cb4-4491-b49c-66159ce05d3c][agda]]
   - [[id:b580ca5e-b3eb-4177-a8e3-d083aebc82a7][cc]]
   - [[id:fc1e77d6-24e5-4504-908d-04bb71f7206b][coq]]
