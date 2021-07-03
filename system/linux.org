@@ -176,3 +176,4 @@
   :ID:       3aad2fb1-0159-4452-8a63-fa8927d152b3
   :END:
   - KISS Principle :: [[https://en.wikipedia.org/wiki/KISS_principle][keep it simple and silly]], [[https://web.archive.org/web/20210126090054/https://en.wikipedia.org/wiki/KISS_principle][archive]]
+  - [[https://futurist.se/gldt/][distribution timeline]] ::
