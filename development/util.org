@@ -182,3 +182,6 @@
    :END:
 
    See [[https://www.slant.co/topics/370/~best-version-control-systems][here]].
+
+* Mood
+  - [[https://www.musicforprogramming.net/][music for programming]] ::
