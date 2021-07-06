@@ -37,6 +37,8 @@
 *** client
     - sqlitebrowser ::
 
+** clickhouse
+   [[https://github.com/ClickHouse/ClickHouse][repo]]
 ** Client(General)
    :PROPERTIES:
    :ID:       9d5fe45f-a038-4a9c-8083-7d918bbbac65
