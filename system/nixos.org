@@ -18,3 +18,6 @@
   :ID:       1e5f8180-c3a2-469a-b984-4ac0f409eaa2
   :END:
 See nixpkgs manual
+
+* Repos
+  - [[https://nixpk.gs/][pr & other tracker]]
