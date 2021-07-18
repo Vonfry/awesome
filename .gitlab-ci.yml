@@ -3,7 +3,7 @@ stages:
   - deploy
 
 default:
-  image: ubuntu
+  image: ubuntu:rolling
   cache:
     paths:
       - .build/
@@ -12,7 +12,7 @@ default:
 build:
   before_script:
     - apt update
-    - apt install -y ca-cacert emacs graphviz sqlite3
+    - apt install -y ca-cacert emacs graphviz sqlite3 gcc
     - mkdir -p .build
     - mkdir -p .cache
     - mv .cache ~/.cache

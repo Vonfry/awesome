@@ -19,6 +19,7 @@
 (package-initialize)
 (package-refresh-contents)
 
+(package-install 'org)
 (package-install 'org-roam)
 
 (require 'org-id)
@@ -29,11 +30,11 @@
     (message "graph file: %s" file)
     (copy-file file output-file t)))
 (setq-default org-roam-directory ci-dir
-              org-roam-graphviz-extra-options '(("rankdir" . "LR")))
+              org-roam-graph-extra-config '(("rankdir" . "LR")))
 
 (require 'org-roam)
 
-(org-roam-db-build-cache t)
+(org-roam-setup)
 (setq graph-process (org-roam-graph))
 
 (while (process-live-p graph-process))
