@@ -56,6 +56,7 @@
 
 *** Container
     - Docker ::
+    - podman ::
     - [[https://github.com/hpcng/singularity][singularity]] :: Singularity is an open source container platform designed to
       be simple, fast, and secure. Singularity is optimized for compute focused
       enterprise and HPC workloads, allowing untrusted users to run untrusted
