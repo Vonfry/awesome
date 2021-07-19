@@ -22,6 +22,7 @@
 (package-install 'org)
 (package-install 'org-roam)
 
+(require 'org)
 (require 'org-id)
 (org-id-update-id-locations (directory-files-recursively ci-dir "\\.org$" t))
 
@@ -33,6 +34,11 @@
               org-roam-graph-extra-config '(("rankdir" . "LR")))
 
 (require 'org-roam)
+
+(message "org version: %s" (org-version))
+(message "org-roam version: %s" (org-roam-version))
+
+(find-file (expand-file-name "readme.org" ci-dir))
 
 (org-roam-setup)
 (setq graph-process (org-roam-graph))
