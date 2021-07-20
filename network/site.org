@@ -20,6 +20,7 @@
   - [[https://github.com/badges/shields][shields]] :: Concise, consistent, and legible badges in SVG and raster format
   - [[https://pastebin.com/][pastebin]] :: text sharing
   - [[https://hastebin.com/about.md][hastebin]] :: text sharing
+  - [[https://www.privacytools.io/][privacytools]] :: a site to show pricavy of tools
 * Foundation
   :PROPERTIES:
   :ID:       3b27e498-e719-4ded-afc9-8bbf9a9cbe93
