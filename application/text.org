@@ -34,6 +34,13 @@
    :PROPERTIES:
    :ID:       c5bff091-a950-4738-a451-de47a1a5d2bf
    :END:
+*** Tutor
+    :PROPERTIES:
+    :ID:       d77d1a15-0f2d-429d-a7e4-d922a37005c0
+    :END:
+    These are for plain tex, such as some basic macro like ~\ifnum~.
+    - [[https://mirrors.rit.edu/CTAN/info/impatient/][impatient]] ::
+    - [[https://ctan.math.illinois.edu/info/texbytopic/][tex by topic]] ::
 *** Compile
     :PROPERTIES:
     :ID:       989698cc-83fa-482b-8bec-d586b3fa5466
