@@ -26,6 +26,9 @@ I'm not developing on windows, many dev tools just for fun.
   - office ::
   - [[https://calibre-ebook.com/][calibre]] :: e-book
 * Downloader
+  - internet download manager ::
+  - neat download manager ::
+  - free download manager ::
   - [[https://ninjadownloadmanager.com/][ninja download manager]] ::
 * Locale
   - [[https://github.com/xupefei/Locale-Emulator][locale-emulator]] :: Yet Another System Region and Language Simulator
