@@ -9,6 +9,7 @@
   :ID:       49ee6d5d-8e14-45ab-b167-e32b47b5710b
   :END:
   - [[https://github.com/facebook/zstd][zstd]] :: Zstandard - Fast real-time compression algorithm
+  - [[http://catchchallenger.first-world.info/wiki/Quick_Benchmark:_Gzip_vs_Bzip2_vs_LZMA_vs_XZ_vs_LZ4_vs_LZO][quick benchmark for some algorithms]] :: Quick Benchmark: Gzip vs Bzip2 vs LZMA vs XZ vs LZ4 vs LZO
 * Graphics
   :PROPERTIES:
   :ID:       09104b4d-2a16-4c0e-959e-7f9e2f0578e2
