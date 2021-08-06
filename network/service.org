@@ -60,3 +60,16 @@
   :END:
   - [[https://github.com/Kickball/awesome-selfhosted][selfhosted]] ::
   - [[https://github.com/porn-vault/porn-vault][porn vault]] ::  Manage your ever-growing porn collection. Using Vue & GraphQL
+* Blog
+  :PROPERTIES:
+  :ID:       1f01268e-4eac-4551-a730-5d41311fdb70
+  :END:
+** Dynamic
+   - wordpress
+** Static
+   - hakyll ::
+   - jekyll ::
+       - [[https://github.com/riggraz/no-style-please][no-style]] :: A (nearly) no-CSS, fast, minimalist Jekyll theme.
+       - [[https://github.com/mmistakes/so-simple-theme][so-simple-theme]] :: A simple Jekyll theme for words and pictures.
+* Forum/BBS
+  - discourse ::

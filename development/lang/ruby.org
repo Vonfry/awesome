@@ -32,9 +32,6 @@
   - nokogiri ::
   - rouge :: code highlight
   - licensee ::
-  - jekyll :: static blog
-      - [[https://github.com/riggraz/no-style-please][no-style]] :: A (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - [[https://github.com/mmistakes/so-simple-theme][so-simple-theme]] :: A simple Jekyll theme for words and pictures.
 
 * Library
   :PROPERTIES:
