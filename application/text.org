@@ -25,7 +25,6 @@
   - [[https://github.com/edwardtufte/tufte-css][tufte]] ::
   - [[https://github.com/xz/new.css][new.css]] ::
   - [[https://github.com/gongzhitaao/orgcss][orgcss]] ::
-
 * Format / Markup
   :PROPERTIES:
   :ID:       7fce8e13-b895-4e0d-bd51-033784b84a7b
