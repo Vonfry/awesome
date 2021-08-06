@@ -18,6 +18,7 @@
   - [[archive.org][archive]] :: Internet Archive is a non-profit digital library offering free universal access to books, movies & music, as well as 327 billion archived web pages...
   - [[https://github.com/thedevs-network/kutt][kutt]] :: custom url shortener
   - [[https://github.com/badges/shields][shields]] :: Concise, consistent, and legible badges in SVG and raster format
+  - [[https://simpleicons.org/][simpleicon]] :: SVG icons for popular brands
   - [[https://pastebin.com/][pastebin]] :: text sharing
   - [[https://hastebin.com/about.md][hastebin]] :: text sharing
   - [[https://www.privacytools.io/][privacytools]] :: a site to show pricavy of tools
