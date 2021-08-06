@@ -59,3 +59,4 @@
   :ID:       6a798127-176b-44b1-8913-a865a9d223dc
   :END:
   - [[https://github.com/Kickball/awesome-selfhosted][selfhosted]] ::
+  - [[https://github.com/porn-vault/porn-vault][porn vault]] ::  Manage your ever-growing porn collection. Using Vue & GraphQL
