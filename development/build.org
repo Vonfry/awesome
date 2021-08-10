@@ -21,6 +21,7 @@
         a given package
       + [[https://github.com/Mic92/tex2nix][tex2nix]] :: texlive expressions for documents
       + [[https://github.com/berberman/nvfetcher][nvfetcher]] :: Generate nix sources expr for the latest version of packages
+      + [[https://github.com/lilydjwg/nvchecker][nvchecker]] :: New version checker for software releases
 * Mobile
   :PROPERTIES:
   :ID:       e7198447-12ab-4d0d-9deb-d893dd0c7170
