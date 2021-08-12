@@ -40,6 +40,7 @@
     These are for plain tex, such as some basic macro like ~\ifnum~.
     - [[https://mirrors.rit.edu/CTAN/info/impatient/][impatient]] ::
     - [[https://ctan.math.illinois.edu/info/texbytopic/][tex by topic]] ::
+    - [[http://www-sop.inria.fr/marelle/tralics/doc-w.html#cmd-whiledo][latex command]] ::
 *** Compile
     :PROPERTIES:
     :ID:       989698cc-83fa-482b-8bec-d586b3fa5466
