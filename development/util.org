@@ -14,6 +14,8 @@
   :PROPERTIES:
   :ID:       33a8fb9d-b41c-49d6-81b7-6f688782a869
   :END:
+  - [[https://programming-idioms.org/][programming idioms]] :: In this website you can browse standard ways of
+    coding standard things, in several popular programming languages.
 ** Awesome
    - [[https://github.com/LeCoupa/awesome-cheatsheets][LeCoupa/cheatsheet]] ::
    - [[https://github.com/rstacruz/cheatsheets][rstacruz/cheatsheets]] ::
