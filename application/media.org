@@ -40,3 +40,10 @@
   :ID:       69e22d64-0eb8-4a4e-b0e8-5f04f8a35ee2
   :END:
   - audacity :: Audio Player and management
+** Spotify
+   :PROPERTIES:
+   :ID:       8d33be1b-631a-4312-b970-72dd606c47f2
+   :END:
+   - [[https://github.com/jpochyla/psst][psst]] :: Fast and multi-platform Spotify client with native GUI
+   - [[https://github.com/Rigellute/spotify-tui][tui]] :: Spotify for the terminal written in Rust rocket
+   - [[https://github.com/librespot-org/librespot][lib]] :: Open Source Spotify client library
