@@ -22,6 +22,8 @@ I'm not developing on windows, many dev tools just for fun.
 
 * Effect
   - [[http://www.voidtools.com/][Everything]] :: all file searching
+  - [[https://github.com/microsoft/PowerToys][PowerToys]] :: Windows system utilities to maximize productivity. It includes
+    change keymaps, window manager, an simple wox, etc.
   - [[https://github.com/Wox-launcher/Wox][Wox]] :: Like macos quick searching
   - office ::
   - [[https://calibre-ebook.com/][calibre]] :: e-book
