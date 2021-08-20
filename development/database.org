@@ -43,6 +43,7 @@
    :PROPERTIES:
    :ID:       9d5fe45f-a038-4a9c-8083-7d918bbbac65
    :END:
+   - [[https://dbeaver.io/][DBeaver]] :: Universal Database Tool
    - [[https://github.com/nocodb/nocodb][nocodb]] :: Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a
      smart-spreadsheet.
    - [[https://github.com/dbcli][dbcli]] :: Better CLIs for Databases
