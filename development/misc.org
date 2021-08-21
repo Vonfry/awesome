@@ -12,6 +12,7 @@
   - [[https://github.com/ahangchen/How-to-Be-A-Programmer-CN][how to ba a good programmer]] ::
   - [[https://www.tutorialspoint.com/index.html][tutorialspoints]] ::
   - [[https://www.geeksforgeeks.org/][GeekForGeeks]] ::
+  - [[https://github.com/danistefanovic/build-your-own-x][build your own x]] :: Build your own (insert technology here)
 * Community
   :PROPERTIES:
   :ID:       c195d6fb-5919-494b-95a4-c449ecb28c6d
