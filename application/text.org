@@ -112,6 +112,10 @@
     :ID:       e576e52f-cbc7-4e2b-b942-ff9292aa4011
     :END:
     - [[http://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf][The Comprehensive LaTeX Symbol List]]
+
+*** Graphics
+    - [[https://tikz.net][tikz net]] :: This site features TikZ examples made by Izaak Neutelings, focused on Physics.
+    - [[https://texample.net/tikz/examples/][tikz example]] ::
 ** orgmode
    :PROPERTIES:
    :ID:       5fdbbd92-23bc-46bf-a2fc-52c4e2a2d8e3
