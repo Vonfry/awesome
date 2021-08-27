@@ -27,6 +27,7 @@ I'm not developing on windows, many dev tools just for fun.
   - [[https://github.com/Wox-launcher/Wox][Wox]] :: Like macos quick searching
   - office ::
   - [[https://calibre-ebook.com/][calibre]] :: e-book
+  - [[https://github.com/mcmilk/7-Zip-zstd][7zip zstd]] :: 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 * Downloader
   - internet download manager ::
   - neat download manager ::
