@@ -85,6 +85,7 @@
   - real world haskell ::
       - [[https://github.com/huangz1990/real-world-haskell-cn][cn]] ::
   - learn4haskell ::
+  - [[https://leanpub.com/magicalhaskell][magicalhaskell]] ::
 
 * Misc
   :PROPERTIES:
