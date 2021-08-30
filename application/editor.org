@@ -56,6 +56,7 @@ List some useful tools for editor to navigate, format or do others.
 *** GUI
     - [[https://github.com/onivim/oni][onivim]] :: developing gui cross-platform editor by onivim.
     - [[https://github.com/Kethku/neovide][neovide]] :: No Nonsense Neovim Client in Rust
+    - [[https://github.com/rohit-px2/nvui][nvui]] :: A modern frontend for Neovim.
 
 ** Configure
    :PROPERTIES:
