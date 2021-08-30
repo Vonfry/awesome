@@ -40,6 +40,8 @@
    - urxvt ::
    - termonad :: Terminal emulator configurable in Haskell.
    - alacritty :: use gpu for terminal
+   - darktile :: Darktile is a GPU rendered terminal emulator designed for
+     tiling window managers.
 
 ** VM
    :PROPERTIES:
