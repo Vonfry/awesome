@@ -82,3 +82,5 @@
   - [[https://www.bottomupcs.com/][Bottom Up Computer Science]] :: [[https://github.com/ianw/bottomupcs][source]], [[https://web.archive.org/web/20210430003222/https://www.bottomupcs.com/][archive]]
   - [[https://github.com/papers-we-love/papers-we-love][paper-we-loves]] :: Papers from the computer science community to read and discuss.
   - [[https://github.com/EbookFoundation/free-programming-books][free programming books]] ::
+  - [[https://github.com/bobeff/programming-math-science][programming math science]] :: This is a list of links to different freely
+    available learning resources about computer programming, math, and science.
