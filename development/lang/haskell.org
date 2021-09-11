@@ -169,6 +169,9 @@
 *** Parsing
     - megaparsec :: Monadic parser combinators
 *** Struct
+    - ilist :: Optimised list functions for doing index-related things. They're
+      faster than common idioms in all cases, they avoid space leaks, and
+      sometimes they fuse better as well.
     - containers ::
         - sets :: for set-like things
         - dictionaries :: dictionaries, hashmaps, maps, etc.
