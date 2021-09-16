@@ -78,7 +78,12 @@
     - [[https://github.com/elauksap/focus-beamertheme][focus]] :: beamer templete
     - standalone :: produce tight pdf files for one or multiple tikz pictures
     - Auriga :: a minimalist beamer template
-
+**** CV
+     :PROPERTIES:
+     :ID:       16619e56-273d-432a-a83a-df5ae2b7952a
+     :END:
+     - [[https://github.com/sb2nov/resume/][sb2nov]]
+     - [[https://github.com/muratcankaracabey/latex_cv][muratcankaracabey/latex_cv]]
 *** Snippet
     :PROPERTIES:
     :ID:       57f94211-4624-43c6-a0d5-ba624b2b8a7b
