@@ -106,6 +106,13 @@
    :ID:       5c2e877c-bc0c-46d1-a446-b60bf2685bbf
    :END:
    - inxi :: system states, such as cpu, memory and etc
+   - [[https://www.criu.org/Main_Page][CRIU]] :: Checkpoint/Restore In Userspace, or CRIU (pronounced kree-oo, IPA:
+     /krɪʊ/, Russian: криу), is a Linux software. It can freeze a running
+     container (or an individual application) and checkpoint its state to
+     disk. The data saved can be used to restore the application and run it
+     exactly as it was during the time of the freeze. Using this functionality,
+     application or container live migration, snapshots, remote debugging, and
+     many other things are now possible.
 ** Picture
    :PROPERTIES:
    :ID:       ca8cf2f1-ddf5-4c0e-b0c4-7331cb2f5f72
