@@ -10,6 +10,7 @@
   :END:
   - [[https://www.sagemath.org/][SageMath]] :: an open source math tool to
     instead matlab
+  - [[https://amathr.org/software/][Software for Math Research]] ::
 
 * CS
   :PROPERTIES:
