@@ -136,6 +136,8 @@
 **** Gitlab
      powerful!!
 
+     - [[https://github.com/profclems/glab][glab]] :: An open-source GitLab command line tool bringing GitLab's cool
+       features to your command line
      - [[https://github.com/NARKOZ/gitlab][gitlab-ci]] :: a third part tool check gitlab on ci.
 
 **** Gogs / Gitea
