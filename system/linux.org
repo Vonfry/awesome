@@ -48,7 +48,8 @@
    :ID:       e0171361-a324-4d29-b024-43e3e1fe651d
    :END:
    - Qemu ::
-     - libvirt ::
+       - libvirt ::
+       - qira :: QEMU Interactive Runtime Analyser
    - Virtualbox ::
    - Parallel ::
 
