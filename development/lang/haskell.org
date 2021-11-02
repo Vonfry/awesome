@@ -208,6 +208,8 @@
      Families, TypeNats (GHC 7.8+).
    - what4 :: Symbolic formula representation and solver interaction library
    - group-theory :: the theory of group
+   - linear :: Low-dimensional linear algebra primitives for Haskell. This lib
+     contains comparsion with epsilon.
 ** Monadic
    :PROPERTIES:
    :ID:       8f68a258-4899-4dca-bca1-3312beffd21a
