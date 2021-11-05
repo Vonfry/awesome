@@ -28,5 +28,9 @@
   :END:
   - [[https://www.iana.org/][iana]] :: The global coordination of the DNS Root, IP addressing, and other Internet protocol resources is performed as the Internet Assigned Numbers Authority (IANA) functions. Learn more.
   - [[https://www.ietf.org/standards/rfcs/][rfcs]] :: Memos in the RFC document series contain technical and organizational notes about the Internet.
-
+* History
+  :PROPERTIES:
+  :ID:       f466b20d-8cda-4478-8eeb-9f613b35b802
+  :END:
+  - [[https://www.southampton.ac.uk/~cpd/history.html][timeline of the human condition]] ::
 
