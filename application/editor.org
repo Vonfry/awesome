@@ -143,3 +143,8 @@ List some useful tools for editor to navigate, format or do others.
    - Dracula ::
    - [[https://github.com/rougier/elegant-emacs][elegant]] :: A very minimal but elegant emacs (I think)
    - [[https://github.com/rougier/nano-emacs][nano]] :: GNU Emacs / N Λ N O - Emacs made simple
+* Interesting Editors
+  :PROPERTIES:
+  :ID:       fcbde633-1f22-4eb1-8a9f-eed87607a903
+  :END:
+  - [[https://github.com/helix-editor/helix][helix]] :: code in rust
