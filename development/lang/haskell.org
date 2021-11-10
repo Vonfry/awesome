@@ -274,6 +274,12 @@
    :ID:       d59f973d-166d-4536-a868-392f1d2af7dc
    :END:
    - cpphs ::
+** Misc
+   - [[https://github.com/reflex-frp/reflex][reflex]] :: Interactive programs without callbacks or
+     side-effects. Functional Reactive Programming (FRP) uses composable events
+     and time-varying values to describe interactive systems as pure
+     functions. Just like other pure functional code, functional reactive code
+     is easier to get right on the first try, maintain, and reuse.
 * Utils
   :PROPERTIES:
   :ID:       4575d700-48ea-47ee-9488-7ed431687cf1
