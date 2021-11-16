@@ -19,3 +19,4 @@
   :END:
   - [[http://stackoverflow.com/][stackoverflow]] ::
   - github ::
+  - [[https://opensource.guide/][opensource.guide]] ::
