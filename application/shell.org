@@ -74,7 +74,6 @@ using for daily and we have other better language for scripts, if you don't use
   - shellcheck :: ShellCheck, a static analysis tool for shell scripts
   - [[https://github.com/simonmichael/hledger][hledger]] :: The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger
   - tldr :: Simplified and community-driven man pages
-  - [[https://gitlab.com/screenkey/screenkey][screenkey]] :: print the key on screen when you click.
   - [[https://github.com/cheat/cheat][cheat]] :: cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not …
   - [[https://github.com/alexanderepstein/Bash-Snippets][bash-snippet]] :: A collection of small bash scripts for heavy terminal users
   - [[https://github.com/sharkdp/hyperfine][hyperfine]] :: command line benchmarking
