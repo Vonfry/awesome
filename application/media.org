@@ -35,6 +35,12 @@
   - vlc :: qt-based video player
   - mpv :: Video Player
 
+* Picture
+  :PROPERTIES:
+  :ID:       6f6d0ff2-f7f2-4024-9809-1f2feb315219
+  :END:
+  - [[https://www.digikam.org/][digikam]] :: Professional Photo Management with the Power of Open Source
+
 * Audio
   :PROPERTIES:
   :ID:       69e22d64-0eb8-4a4e-b0e8-5f04f8a35ee2
