@@ -60,6 +60,9 @@
   :END:
   - [[https://github.com/Kickball/awesome-selfhosted][selfhosted]] ::
   - [[https://github.com/porn-vault/porn-vault][porn vault]] ::  Manage your ever-growing porn collection. Using Vue & GraphQL
+** s3
+   - [[https://github.com/ceph/ceph][ceph]] ::
+   - minio ::
 * Blog
   :PROPERTIES:
   :ID:       1f01268e-4eac-4551-a730-5d41311fdb70
