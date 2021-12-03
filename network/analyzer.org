@@ -36,4 +36,13 @@
   :END:
   - [[https://github.com/qeeqbox/social-analyzer][social analyzer]] :: OSINT
 * Agent
+  :PROPERTIES:
+  :ID:       7f4581da-5b15-43c8-a8fd-80d664d18dec
+  :END:
   - [[https://github.com/huginn/huginn][huginn]] :: Create agents that monitor and act on your behalf. Your agents are standing by!
+* Speed
+  :PROPERTIES:
+  :ID:       d5aa4feb-3c01-4223-9e72-8503755a889d
+  :END:
+  - speedtest-cli ::
+  - iperf ::
