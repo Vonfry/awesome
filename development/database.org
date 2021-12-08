@@ -30,12 +30,16 @@
     - mycli :: A Terminal Client for MySQL with AutoCompletion and Syntax
       Highlighting.
 
-** SQLite
+** Edge Database
    :PROPERTIES:
-   :ID:       744ccfce-0834-4cb6-8468-ed8b4a46b66b
+   :ID:       e9cf241f-5563-477f-a2d5-b0bd97953a61
    :END:
-*** client
-    - sqlitebrowser ::
+*** SQLite
+    :PROPERTIES:
+    :ID:       744ccfce-0834-4cb6-8468-ed8b4a46b66b
+    :END:
+**** client
+     - sqlitebrowser ::
 
 ** clickhouse
    [[https://github.com/ClickHouse/ClickHouse][repo]]
