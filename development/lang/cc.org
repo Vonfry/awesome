@@ -83,6 +83,7 @@
    :END:
    - ensmallen :: flexible C++ library for efficient mathematical optimization
    - mathfu :: C++ math library developed primarily for games focused on simplicity and efficiency.
+   - [[http://ensmallen.org/docs.html][ensmallen]] :: flexible C++ library for efficient numerical optimization
 ** Micro Control
    :PROPERTIES:
    :ID:       5579ddfb-686b-4ce6-a962-570883c7b5a7
@@ -119,3 +120,4 @@
 
 ** Compression
    - libarchive :: Multi-format archive and compression library
+
