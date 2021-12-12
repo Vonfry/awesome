@@ -16,3 +16,7 @@ prover.
 
 * Library
   - [[https://github.com/agda/agda-categories][categories]] :: A new Categories library for Agda
+** Game
+   - [[https://github.com/thehottgame/theHoTTGame][hott game]] ::Attracting mathematicians (others welcome too) with no
+     experience in proof verification interested in HoTT and able to use Agda
+     for HoTT
