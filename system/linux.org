@@ -152,7 +152,13 @@
    :ID:       2b88bc17-e06a-4e4b-8c47-5f5ecb09060f
    :END:
    - netdata :: system resource monitor
-   - [[https://github.com/prometheus/prometheus][prometheus]] :: Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts if some condition is observed to be true.
+   - [[https://oguzhaninan.github.io/Stacer-Web/][stacer]] :: Stacer is an open source system optimizer and application monitor
+     that helps users to manage entire system with different aspects, its an all
+     in one system utility.
+   - [[https://github.com/prometheus/prometheus][prometheus]] :: Prometheus, a Cloud Native Computing Foundation project, is a
+     systems and service monitoring system. It collects metrics from configured
+     targets at given intervals, evaluates rule expressions, displays the
+     results, and can trigger alerts if some condition is observed to be true.
    - [[https://osquery.io/][osquery]] :: Performant endpoint visibility
 ** Log
    :PROPERTIES:
