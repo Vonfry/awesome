@@ -81,6 +81,10 @@ using for daily and we have other better language for scripts, if you don't use
   - qrencode :: qrcode encode
   - zbar :: qrcode decode
   - direnv ::
+** Parser
+   - [[https://github.com/wader/fq][fq]] :: jq for binary format
+   - [[https://github.com/kislyuk/yq][yq]] :: Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
+   - jq :: jq is a lightweight and flexible command-line JSON processor.
 ** Useless
    :PROPERTIES:
    :ID:       91a4912f-15ee-45ba-974a-0f234d46d40d
