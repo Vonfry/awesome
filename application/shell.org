@@ -69,6 +69,7 @@ using for daily and we have other better language for scripts, if you don't use
   - fzf :: fuzzy search
   - [[https://github.com/sharkdp/bat][bat]] :: A cat(1) clone with wings.
   - exa :: A morden ls
+  - lsd :: A morden ls
   - ripgrep :: A fast grep
   - asciinema :: Terminal session recorder
   - shellcheck :: ShellCheck, a static analysis tool for shell scripts
