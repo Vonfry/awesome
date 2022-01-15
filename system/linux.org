@@ -116,6 +116,7 @@
      many other things are now possible.
    - [[https://github.com/facebookincubator/below][below]] :: A time traveling resource monitor for modern Linux systems
    - [[https://github.com/haampie/libtree][libtree]] :: ldd as a tree
+   - bpftrace :: High-level tracing language for Linux eBPF
 ** Picture
    :PROPERTIES:
    :ID:       ca8cf2f1-ddf5-4c0e-b0c4-7331cb2f5f72
