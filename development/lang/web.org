@@ -49,6 +49,12 @@
     - jQuery ::
 *** Misc
    - [[https://github.com/js-cookie/js-cookie][js-cookie]] :: A simple, lightweight JavaScript API for handling browser cookies
+** Article
+   :PROPERTIES:
+   :ID:       bae49d85-a022-4b46-9981-d6b1184eacf0
+   :END:
+   - [[https://www.gnu.org/philosophy/javascript-trap.zh-cn.html][JavaScript 的陷井 - GNU 工程 - 自由软件基金会]] :: CN
+   - [[https://www.gnu.org/philosophy/javascript-trap.en.html][Javascript Trap]] :: EN
 
 * Package
   :PROPERTIES:
