@@ -87,6 +87,17 @@ using for daily and we have other better language for scripts, if you don't use
    - [[https://github.com/wader/fq][fq]] :: jq for binary format
    - [[https://github.com/kislyuk/yq][yq]] :: Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
    - jq :: jq is a lightweight and flexible command-line JSON processor.
+** Container
+   :PROPERTIES:
+   :ID:       f45ba38b-5666-4998-92ac-2e4729181726
+   :END:
+   - [[https://github.com/89luca89/distrobox][distrobox]] :: Use any Linux distribution inside your terminal. Enable both
+     backward and forward compatibility with software and freedom to use
+     whatever distribution you’re more comfortable with. Distrobox uses podman
+     or docker to create containers using the Linux distribution of your
+     choice. The created container will be tightly integrated with the host,
+     allowing sharing of the HOME directory of the user, external storage,
+     external USB devices and graphical apps (X11/Wayland), and audio.
 ** Useless
    :PROPERTIES:
    :ID:       91a4912f-15ee-45ba-974a-0f234d46d40d
