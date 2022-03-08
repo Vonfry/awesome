@@ -93,6 +93,7 @@
   - [[https://github.com/tinymce/tinymce][tinmce]] :: The world's most popular JavaScript library for rich text editing
   - [[https://github.com/aui/font-spider][fontspider]] :: Smart webfont compression and format conversion tool
   - [[https://github.com/fangzesheng/free-api][free-api]] ::
+  - [[https://github.com/hoppscotch/hoppscotch][hoppscotch]] :: API test environment, web(vue) based.
 * Tutorials
   :PROPERTIES:
   :ID:       2314fbdf-c45a-41ae-8915-cff95aea7d8d
