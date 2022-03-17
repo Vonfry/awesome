@@ -31,3 +31,11 @@ See nixpkgs manual
    :ID:       f8dad4b8-82d0-4a8f-b924-6fd924853d4e
    :END:
    - [[https://github.com/Mic92/sops-nix][sops-nix]] :: Atomic, declarative, and reproducible secret provisioning for NixOS based on sops.
+
+** Server
+   :PROPERTIES:
+   :ID:       b5bafc09-12f8-47e4-96be-f470969c11af
+   :END:
+   - [[https://github.com/thoughtpolice/eris][eris]] :: Serve your /nix/store directory over the internet
+   - nix-serve ::
+   - s3 :: this can serve /nix/store as well to let nix copy work.
