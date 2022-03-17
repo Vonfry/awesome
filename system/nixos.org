@@ -21,3 +21,13 @@ See nixpkgs manual
 
 * Repos
   - [[https://nixpk.gs/][pr & other tracker]]
+
+* Utils
+  :PROPERTIES:
+  :ID:       51d304a0-13a0-4611-a252-164d78c3ea33
+  :END:
+** Secret
+   :PROPERTIES:
+   :ID:       f8dad4b8-82d0-4a8f-b924-6fd924853d4e
+   :END:
+   - [[https://github.com/Mic92/sops-nix][sops-nix]] :: Atomic, declarative, and reproducible secret provisioning for NixOS based on sops.
