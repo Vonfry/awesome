@@ -91,6 +91,12 @@
   - learn4haskell ::
   - [[https://leanpub.com/magicalhaskell][magicalhaskell]] ::
 
+** Compiler
+   :PROPERTIES:
+   :ID:       72c223fb-50bf-4507-9510-b92bd70ab776
+   :END:
+   - [[http://dev.stephendiehl.com/fun/][write you a haskell]] :: Building a modern functional compiler from first
+     principles. [[https://web.archive.org/web/20220322105505/http://dev.stephendiehl.com/fun/][web archive]]
 * Misc
   :PROPERTIES:
   :ID:       0446d055-8c21-4673-8e06-bec77fb17eeb
