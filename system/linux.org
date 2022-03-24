@@ -123,6 +123,7 @@
    :END:
    - inkscape ::
    - gimp ::
+   - krita :: digital painting
 ** Audio
    :PROPERTIES:
    :ID:       8abd585f-20d4-4f49-9c05-168c8832aa71
