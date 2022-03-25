@@ -181,6 +181,11 @@
 *** Terminal
    - [[https://github.com/senorprogrammer/wtf][senorprogrammer/wtf]] :: personal
 ** [[id:c8070a20-4d88-4fca-bcef-e1fd921f183b][Shell]]
+** Profiler
+   :PROPERTIES:
+   :ID:       04a32ae9-c6a1-402a-860e-f1641de27d6e
+   :END:
+   - sysprof
 * Tutor
   :PROPERTIES:
   :ID:       8bbac4cb-9fbc-4d7d-b761-452fac500807
