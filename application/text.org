@@ -143,6 +143,7 @@
     - [[https://github.com/takaxp/org-tree-slide][org tree slide]] :: A presentation tool for org-mode based on the visibility
       of outline trees
     - org roam ::
+    - [[https://github.com/minad/org-modern][org-modern]] :: Modern Org Style
 ** markdown
    :PROPERTIES:
    :ID:       e5b47836-aaf9-41d0-8607-ce7b0cd5d4f2
