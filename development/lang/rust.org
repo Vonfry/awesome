@@ -22,6 +22,18 @@
 ** Game Engine
    - [[https://github.com/bevyengine/bevy][bevy]] :: Bevy is a refreshingly simple data-driven game engine built in
      Rust. It is free and open-source forever!
+** String
+   :PROPERTIES:
+   :ID:       773b1c70-ad7e-4358-acc0-c55b8281a373
+   :END:
+   - regex ::
+** Containers
+   :PROPERTIES:
+   :ID:       a4926ad3-a86f-4cfb-87cb-b66bdefad1f3
+   :END:
+   - itertools :: Extra iterator adaptors, functions and macros, such as
+     ~iter().tuples()~
+   - fnv :: hash map by fnv algorithm
 * CheatSheet
   :PROPERTIES:
   :ID:       e36b62b9-7715-4763-ad53-51bba3e6ceb8
