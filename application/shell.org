@@ -129,6 +129,7 @@ using for daily and we have other better language for scripts, if you don't use
   - [[https://github.com/dotfiles/dotfiles.github.com][dotfiles]]
   - [[https://github.com/alebcay/awesome-shell][shell]]
   - [[https://github.com/unixorn/awesome-zsh-plugins][zsh plugin]]
+  - [[https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/][a list of new(ish) command line tools]]
 * Tutor
   :PROPERTIES:
   :ID:       23ee1d27-b6e7-43c5-bb79-ef6ded683a43
