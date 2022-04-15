@@ -113,6 +113,7 @@ using for daily and we have other better language for scripts, if you don't use
    :ID:       843a253f-6086-473e-8120-c2ebd271b06e
    :END:
    - [[https://github.com/kognise/arpchat][arpchat]] :: Answering the question nobody asked: what if you wanted to text your friends using only ARP?
+   - [[https://github.com/msoap/shell2http][shell2http]] :: Executing shell commands via HTTP server
 ** Misc
    :PROPERTIES:
    :ID:       dc31948d-ce1e-425c-8aa4-c87e025510e9
