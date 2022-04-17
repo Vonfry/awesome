@@ -40,7 +40,7 @@
   :END:
   - strace :: A useful diagnostic, instructional, and debugging tool
   - [[https://github.com/GaloisInc/macaw][macaw]] :: Open source binary analysis tools.
-  - valgrind ::
+  - valgrind :: performance analyzer
   - [[https://github.com/google/sanitizers][google/sanitizers]] :: AddressSanitizer, ThreadSanitizer, MemorySanitizer
   - [[https://github.com/opcm/pcm][pcm]] :: Processor Counter Monitor
 * Diff

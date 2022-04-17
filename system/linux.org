@@ -185,7 +185,8 @@
    :PROPERTIES:
    :ID:       04a32ae9-c6a1-402a-860e-f1641de27d6e
    :END:
-   - sysprof
+   - sysprof ::
+   - perf tools :: from kernel, which can bench and record cpu and ram usages
 * Tutor
   :PROPERTIES:
   :ID:       8bbac4cb-9fbc-4d7d-b761-452fac500807
