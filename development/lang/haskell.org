@@ -29,6 +29,8 @@
       changes to the Glasgow Haskell Compiler. The purpose of the GHC proposal
       process and of the GHC Steering Committee is to broaden the discussion
       of the evolution of GHC.
+    - [[https://github.com/sdiehl/papers][ghc papers]] :: some pdfs for ghc implements. The whole lists can be found
+      in the wiki in ghc repo.
   - [[https://github.com/ghcjs/ghcjs][ghcjs]] :: write web script by haskell
 ** Parser
    - alex ::
