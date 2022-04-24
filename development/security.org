@@ -72,6 +72,7 @@
     :END:
     - [[https://github.com/magnumripper/JohnTheRipper][johnTheRipper]] ::
     - rockyou.txt :: a password directory
+    - hashcat :: World's fastest and most advanced password recovery utility
 *** Android
     :PROPERTIES:
     :ID:       fd0eeb1e-f67b-41bf-80bf-6b388830ccd4
