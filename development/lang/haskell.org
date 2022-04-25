@@ -198,6 +198,7 @@
     - [[https://github.com/ZHaskell/z-data][z-data]] :: array, slices and text
 *** Control
     - pipes :: stream processing
+    - recursion schemes :: Generalized bananas, lenses and barbed wire
 ** Game
    :PROPERTIES:
    :ID:       5d71af26-771c-41d8-81c4-8914883a732d
