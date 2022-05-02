@@ -40,6 +40,7 @@
   :PROPERTIES:
   :ID:       a61ddef7-58a9-4f05-aeca-fe70e67a931d
   :END:
+  - [[https://github.com/steshaw/plt][plt]] :: Programming Language Theory λΠ
   - [[https://steshaw.org/plt/][book list]] ::
   - concepts of programming languages ::
   - practical foundations for programming languages ::
@@ -84,3 +85,5 @@
   - [[https://github.com/EbookFoundation/free-programming-books][free programming books]] ::
   - [[https://github.com/bobeff/programming-math-science][programming math science]] :: This is a list of links to different freely
     available learning resources about computer programming, math, and science.
+
+
