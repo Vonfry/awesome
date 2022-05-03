@@ -76,6 +76,11 @@
   :ID:       97184ba4-bdb0-4f35-86d2-73c276b9dec0
   :END:
   - [[https://cscx.org/][cscx]] :: cs by examples
+* Programming Traits
+  :PROPERTIES:
+  :ID:       c8a490c2-124d-4dd1-9c19-271d5af81e79
+  :END:
+  - [[https://graphics.stanford.edu/~seander/bithacks.html][bit hacks]]
 * Awesome
   :PROPERTIES:
   :ID:       6c88cf97-66a0-47df-9121-2f6884a660a4
