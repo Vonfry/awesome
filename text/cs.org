@@ -40,13 +40,18 @@
   :PROPERTIES:
   :ID:       a61ddef7-58a9-4f05-aeca-fe70e67a931d
   :END:
-  - [[https://github.com/steshaw/plt][plt]] :: Programming Language Theory λΠ
-  - [[https://steshaw.org/plt/][book list]] ::
-  - concepts of programming languages ::
-  - practical foundations for programming languages ::
-  - types and programming languages ::
-  - certified programming with dependent types ::
-  - [[https://homotopytypetheory.org/book/][HoTT book]] ::
+** Type theory
+   :PROPERTIES:
+   :ID:       a7d32853-23f7-417f-b63f-9df2968b987c
+   :END:
+   - [[https://github.com/steshaw/plt][plt]] :: Programming Language Theory λΠ
+   - [[https://steshaw.org/plt/][book list]] ::
+   - concepts of programming languages ::
+   - practical foundations for programming languages ::
+   - types and programming languages ::
+   - certified programming with dependent types ::
+   - [[https://homotopytypetheory.org/book/][HoTT book]] ::
+   - [[https://www.haskellforall.com/2022/05/introductory-resources-to-type-theory.html][Introductory resources to type theory for language implementers]] :: a blog
 * Calculus
   :PROPERTIES:
   :ID:       d01b618a-c558-4659-af7d-920dadf9bc6c
