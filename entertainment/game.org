@@ -25,3 +25,9 @@
   :ID:       647a672f-c4ef-4699-bafd-cea9175af4ee
   :END:
   - [[https://github.com/cnnblike/discord-lite][cnnblike/discord-lite]] :: A solution to censorship on mobile game in Mainland China
+
+* Steam
+  :PROPERTIES:
+  :ID:       271544ec-5f34-4918-9340-6e72569ac261
+  :END:
+  - [[https://github.com/gibbed/SteamAchievementManager][steam achievement manager]]
