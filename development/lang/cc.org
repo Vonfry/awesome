@@ -53,6 +53,7 @@
   :ID:       41635687-4d66-4814-aced-a490e85a57a3
   :END:
   - [[https://github.com/doxygen/doxygen][doxygen]] :: document code by comment
+  - cpplint :: static code checker for C++
 
 * Awesome
   :PROPERTIES:
