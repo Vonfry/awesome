@@ -192,3 +192,14 @@
 
 * Mood
   - [[https://www.musicforprogramming.net/][music for programming]] ::
+
+* Font
+  :PROPERTIES:
+  :ID:       08ff9b81-bac1-4e73-a96e-b25c5cbd5cfb
+  :END:
+  - [[https://www.recursive.design/][recursive]]
+  - [[https://github.com/source-foundry/Hack][hack]]
+  - [[https://github.com/belluzj/fantasque-sans][fantasque sans]]
+  - cascadia code
+  - [[https://typeof.net/Iosevka/][Iosevka]]
+  - Roboto Mono
