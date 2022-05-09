@@ -32,3 +32,8 @@
   :ID:       8b26962a-203a-40c0-a38f-00e35d2b737f
   :END:
   - [[https://github.com/husthuke/awesome-knowledge-graph][awesome-chinese]]
+* Book
+  :PROPERTIES:
+  :ID:       87b485cd-7347-45be-8e6e-941d6a0178b7
+  :END:
+  - [[https://libgen.is][library genesis]]
