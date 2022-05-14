@@ -143,6 +143,7 @@
    - mpd :: Music player daemon
    - more :: see [[id:0d5835dd-8113-4721-92d2-4bc4d5a37ffc][media]]
    - [[https://gitlab.com/screenkey/screenkey][screenkey]] :: print the key on screen when you click.
+   - [[https://maoschanz.github.io/drawing/][drawing]] :: Simple image editor for Linux
 ** Document
    :PROPERTIES:
    :ID:       64096e78-af25-4be2-ab81-3d9a15bd5b1c
