@@ -23,13 +23,6 @@
   Both NixOS and Gentoo are my love. And the archlinux's wiki is the best wiki I
   think. Other distributions are used for special usage in virtual machine.
 
-* Kernal patch
-  :PROPERTIES:
-  :ID:       afe466f7-da48-4322-9856-7b4bd5b47a92
-  :END:
-  - [[https://github.com/zen-kernel/zen-kernel][zen]] ::
-  - other :: see gentoo hardened wiki
-
 * Application
   :PROPERTIES:
   :ID:       40cce5b0-44be-4c79-b78b-6a1d15460620
@@ -206,3 +199,26 @@
   :END:
   - KISS Principle :: [[https://en.wikipedia.org/wiki/KISS_principle][keep it simple and silly]], [[https://web.archive.org/web/20210126090054/https://en.wikipedia.org/wiki/KISS_principle][archive]]
   - [[https://futurist.se/gldt/][distribution timeline]] ::
+
+* Kernel
+  :PROPERTIES:
+  :ID:       f0cecb52-c327-47c2-b9ac-6266632d2ce3
+  :END:
+
+** Kernal patch
+   :PROPERTIES:
+   :ID:       afe466f7-da48-4322-9856-7b4bd5b47a92
+   :END:
+   - [[https://github.com/zen-kernel/zen-kernel][zen]] ::
+   - other :: see gentoo hardened wiki
+
+** Tutor
+   :PROPERTIES:
+   :ID:       ef175041-e063-42ef-9861-803223fe3183
+   :END:
+   - [[https://0xax.gitbooks.io/linux-insides/content/][linux inside]] :: The goal is simple - to share my modest knowledge about the
+     insides of the linux kernel and help people who are interested in linux
+     kernel insides, and other low-level subject matter. Feel free to go through
+     the book Start here
+
+
