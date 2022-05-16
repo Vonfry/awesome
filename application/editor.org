@@ -45,7 +45,9 @@ List some useful tools for editor to navigate, format or do others.
    :ID:       e50a9387-89e4-4c53-bf80-bb320ea603ea
    :END:
    - [[http://vimawesome.com/][Vimawesome]] :: website lists famous vim plugins.
-
+   - [[https://github.com/vimwiki/vimwiki][vimwiki]] :: Personal Wiki for Vim for notes and others
+   - [[https://github.com/dhruvasagar/vim-dotoo][vim dotoo]] :: Org-mode like task logging & time tracking in Vim
+   - [[https://github.com/KevinBockelandt/notoire][notoire]] :: A vim plugin to take notes using the Zettelkasten method
 ** NeoVim
    :PROPERTIES:
    :ID:       02be462b-8d2b-41a3-ada2-f409ae512c80
