@@ -278,6 +278,7 @@
    - tasty ::
    - haskell-hedgehog :: Release with confidence, state-of-the-art property
      testing for Haskell.
+   - [[https://github.com/mesabloo/diagnose][diagnose]] :: Beautiful error reporting done easily
 ** System
    :PROPERTIES:
    :ID:       0317689a-7265-4907-ae03-a830df790e30
