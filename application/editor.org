@@ -109,6 +109,8 @@ List some useful tools for editor to navigate, format or do others.
 
    See lsp
 
+*** Evil
+    - [[https://github.com/noctuid/evil-guide][evil-guide]] :: a guide contains some FAQs.
 ** Awesome
    :PROPERTIES:
    :ID:       80ecba07-8ad9-4a1a-8e5c-af52e51dffb8
