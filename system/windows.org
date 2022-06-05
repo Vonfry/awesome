@@ -27,10 +27,10 @@ I'm not developing on windows, many dev tools just for fun.
   - [[https://github.com/microsoft/PowerToys][PowerToys]] :: Windows system utilities to maximize productivity. It includes
     change keymaps, window manager, an simple wox, etc.
     - [[https://github.com/lin-ycv/EverythingPowerToys][everything plugin]]
-  - [[https://github.com/Wox-launcher/Wox][Wox]] :: Like macos quick searching
+  - +[[https://github.com/Wox-launcher/Wox][Wox]]+ :: Like macos quick searching
   - office ::
   - [[https://calibre-ebook.com/][calibre]] :: e-book
-  - icecream epub reader :: a better epub reader
+  - +icecream epub reader+ :: a better epub reader
   - pdf reader xodo ::
   - foxit ::
   - [[https://github.com/mcmilk/7-Zip-zstd][7zip zstd]] :: 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
