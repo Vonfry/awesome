@@ -14,11 +14,13 @@ I'm not developing on windows, many dev tools just for fun.
     - installer ::
 
 * Terminal
-  - [[https://conemu.github.io/][ConEmu]] :: Emmmm...Better than windows default, but ...
+  - *winget* :: homebrew like package manager for windows *provided in system by default!*
+  - vcpkg :: c++ dependencies manager, supported by micorsoft
+  - +[[https://conemu.github.io/][ConEmu]]+ :: Emmmm...Better than windows default, but ...
 
 ** powershell
    - [[https://github.com/JanDeDobbeleer/oh-my-posh][oh-my-posh]] ::
-   - [[https://github.com/chocolatey/choco][choco]] :: package manager
+   - +[[https://github.com/chocolatey/choco][choco]]+ :: package manager
 
 * Effect
   - [[http://www.voidtools.com/][Everything]] :: all file searching
