@@ -151,5 +151,6 @@ List some useful tools for editor to navigate, format or do others.
   :PROPERTIES:
   :ID:       fcbde633-1f22-4eb1-8a9f-eed87607a903
   :END:
+  - geany :: A fast and lightweight IDE
   - [[https://github.com/helix-editor/helix][helix]] :: code in rust
   - [[https://lapce.dev/][lapce]] :: based on helix and other tools in rust, native gui
