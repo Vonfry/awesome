@@ -153,4 +153,5 @@ List some useful tools for editor to navigate, format or do others.
   :END:
   - geany :: A fast and lightweight IDE
   - [[https://github.com/helix-editor/helix][helix]] :: code in rust
-  - [[https://lapce.dev/][lapce]] :: based on helix and other tools in rust, native gui
+  - [[https://lapce.dev/][lapce]] :: Lightning-fast and Powerful Code Editor written in Rust
+
