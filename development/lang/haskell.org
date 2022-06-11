@@ -148,6 +148,8 @@
    :ID:       b723ef46-a881-476f-a9fe-6890a213153c
    :END:
 *** Arguments
+    - argparser :: Provides a combinator library for defining a command line
+      parser.
     - optparse-generic :: This library auto-generates an
       optparse-applicative-compatible Parser from any data type that derives the
       Generic interface.
