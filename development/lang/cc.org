@@ -122,3 +122,7 @@
 ** Compression
    - libarchive :: Multi-format archive and compression library
 
+** Serialization
+   - [[https://github.com/fraillt/bitsery][bitsery]] :: Your binary serialization library
+   - cereal :: boost like with many builtin supports
+
