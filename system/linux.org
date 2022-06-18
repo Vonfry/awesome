@@ -181,6 +181,8 @@
    :END:
    - sysprof ::
    - perf tools :: from kernel, which can bench and record cpu and ram usages
+** Graphics
+   - [[https://github.com/H-M-H/Weylus][Weylus]] :: Use your tablet as graphic tablet/touch screen on your computer.
 * Tutor
   :PROPERTIES:
   :ID:       8bbac4cb-9fbc-4d7d-b761-452fac500807
