@@ -183,6 +183,7 @@
    - perf tools :: from kernel, which can bench and record cpu and ram usages
 ** Graphics
    - [[https://github.com/H-M-H/Weylus][Weylus]] :: Use your tablet as graphic tablet/touch screen on your computer.
+   - [[https://github.com/pavlobu/deskreen][deskreen]] :: Deskreen turns any device with a web browser into a secondary screen for your computer
 * Tutor
   :PROPERTIES:
   :ID:       8bbac4cb-9fbc-4d7d-b761-452fac500807
