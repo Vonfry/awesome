@@ -12,7 +12,9 @@ I'm not developing on windows, many dev tools just for fun.
     - codegraph ::
     - vassitx ::
     - installer ::
-
+* Viewer
+  - HxD :: hex viewer
+  - Hexinator :: hex viewer
 * Terminal
   - *winget* :: homebrew like package manager for windows *provided in system by default!*
   - vcpkg :: c++ dependencies manager, supported by micorsoft
