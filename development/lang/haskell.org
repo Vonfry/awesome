@@ -88,6 +88,8 @@
   :PROPERTIES:
   :ID:       a4a98e32-b2a5-4e50-9c1d-3a8f15d88c87
   :END:
+  - [[https://github.com/tweag/awesome-learning-haskell/tree/0f294a34ce5e3ebc0f5f89259b819c1a4ed4c31a][awesome-learing-haskell]] :: A collection of resources which were useful to
+    Tweagers for learning Haskell and its various aspects
   - real world haskell ::
       - [[https://github.com/huangz1990/real-world-haskell-cn][cn]] ::
   - learn4haskell ::
