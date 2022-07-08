@@ -12,6 +12,8 @@ Project management
   :END:
   - redmine ::
   - openproject ::
+  - focalboard ::
+  - restya ::
   - taiga ::
   - more :: see [[id:6a798127-176b-44b1-8913-a865a9d223dc][selfhost]]
 
