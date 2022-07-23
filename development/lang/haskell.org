@@ -131,6 +131,7 @@
       - [[https://web.archive.org/web/20191027082045/https://blog.oyanglul.us/grokking-monad/part2][part2]] ::
       - [[https://web.archive.org/web/20191027082055/https://blog.oyanglul.us/grokking-monad/part3][part3]] ::
   - [[https://web.archive.org/web/20201211002735/https://www.snoyman.com/series/haskell-bad-parts][haskell-bad-parts]] ::
+  - [[https://web.archive.org/web/20220723002055/https://medium.com/axiomzenteam/functor-applicative-and-why-8a08f1048d3d][Functor, Applicative, and Why]] ::
 
 * Library
   :PROPERTIES:
