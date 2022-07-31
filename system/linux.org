@@ -224,4 +224,7 @@
      kernel insides, and other low-level subject matter. Feel free to go through
      the book Start here
 
+** Awesome
+   - [[    https://openbenchmarking.org/test/pts/build-linux-kernel
+][compile time on different cpu]] :: this can be a guide to the cpu performance.
 
