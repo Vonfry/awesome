@@ -109,6 +109,11 @@
    - [[https://bouml.fr/index.html][buml]] ::
    - [[https://staruml.sourceforge.net/en/][staruml]] ::
    - [[https://uml.sourceforge.net][uml]] ::
+   - tags2uml :: generate class diagram from tags
+   - visustin :: Visualize your source code with flow charts and UML Activity
+     Diagrams. Visustin is flowcharting software that converts your source code
+     to flow charts—automatically! Draw flow charts with your mouse. View and
+     print charts or export to Visio.
 * Regex
   :PROPERTIES:
   :ID:       191693bb-3b3b-4fab-a283-2d55a25dbcc6
