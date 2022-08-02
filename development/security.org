@@ -54,17 +54,20 @@
 
    - [[https://www.metasploit.com/][metasploit]] ::
    - Ida Pro :: A cross-platform sotfware which can be used almost all files.
-*** Linux Binary
-    :PROPERTIES:
-    :ID:       b8978ffa-6cfb-4547-af51-71dee65def7a
-    :END:
-   - [[https://binary.ninja/][binary ninja]] :: A New Type of Reversing Platform
-   - radare2 :: cli
-       - r2dec :: decompiler plugins written in js
-       - RetDec : decompiler plugins
-       - r2ghidra :: decompiler depended on ghidra
-   - ghidra :: gui, but having problem with no DE linux.
-   - [[https://github.com/google/binnavi][binnavi]] ::
+*** Binary
+    - imHex :: A Hex Editor for Reverse Engineers, Programmers and people who
+      value their retinas when working at 3 AM.
+**** Linux Binary
+     :PROPERTIES:
+     :ID:       b8978ffa-6cfb-4547-af51-71dee65def7a
+     :END:
+    - [[https://binary.ninja/][binary ninja]] :: A New Type of Reversing Platform
+    - radare2 :: cli
+        - r2dec :: decompiler plugins written in js
+        - RetDec : decompiler plugins
+        - r2ghidra :: decompiler depended on ghidra
+    - ghidra :: gui, but having problem with no DE linux.
+    - [[https://github.com/google/binnavi][binnavi]] ::
 
 *** Password
     :PROPERTIES:
