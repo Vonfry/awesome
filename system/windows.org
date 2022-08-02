@@ -6,12 +6,18 @@
 
 I'm not developing on windows, many dev tools just for fun.
 
-* Code
+* Develop
+** IDE
   - [[https://www.visualstudio.com/][visual studio]] :: The best IDE on the world!
-    - supercharge ::
-    - codegraph ::
-    - vassitx ::
-    - installer ::
+      - supercharge ::
+      - codegraph ::
+      - vassitx ::
+      - installer ::
+** Debugger
+   - windbg
+   - x64dbg
+   - [[https://docs.microsoft.com/en-us/sysinternals/downloads/procdump][procdump]]
+
 * Editor
   see also: dev/security/utils/reverse/binary
 ** Hex
@@ -54,6 +60,7 @@ I'm not developing on windows, many dev tools just for fun.
   - sandboxie :: Sandbox
   - process monitor :: a better monitor, and it can record profiles for a
     process. This has a linux version.
+  - process explorer ::
   - RAMDisk :: RAMDisk is a program that takes a portion of your system memory
     and uses it as a disk drive. The more RAM your computer has, the larger the
     RAMDisk you can create.
