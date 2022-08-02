@@ -340,6 +340,8 @@
    :ID:       215ddcb3-d551-4c87-9f3d-38cea1fabaf2
    :END:
    - [[https://github.com/hasktorch/hasktorch][hasktorch]] :: Tensors and neural networks in Haskell
+** Visualizer
+   - [[https://github.com/rgleichman/glance][rgleichman/glance]] :: a visual syntax for the programming language haskell
 * Amazing
   :PROPERTIES:
   :ID:       dfc35d1a-1d61-4878-8190-bebd39fa7f80
