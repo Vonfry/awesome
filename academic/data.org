@@ -13,6 +13,7 @@
    :ID:       69e80d49-9692-45f8-8890-659637824f9e
    :END:
    - [[https://christophm.github.io/interpretable-ml-book/index.html][Interpretable Machine learning]] ::
+   - [[https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset][bandai namco research motiondataset]] ::
 
 * Data set
   :PROPERTIES:
