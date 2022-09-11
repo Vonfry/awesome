@@ -39,6 +39,7 @@ I'm not developing on windows, many dev tools just for fun.
       - [[https://github.com/lin-ycv/EverythingPowerToys][everything plugin]]
   - +[[https://github.com/Wox-launcher/Wox][Wox]]+ :: Like macos quick searching
   - office ::
+  - freda epub ebook reader ::
   - [[https://calibre-ebook.com/][calibre]] :: e-book
   - +icecream epub reader+ :: a better epub reader
   - pdf reader xodo ::
