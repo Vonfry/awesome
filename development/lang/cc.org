@@ -90,6 +90,9 @@
      vectors, numerical solvers, and related algorithms.
    - xtensor :: A great tensor library, which is better than eigen unsupported
      one.
+   - mkl :: intel math kernel library
+   - feast :: eigen solver
+   - arpack-ng :: BLAS, new arpack
 ** Micro Control
    :PROPERTIES:
    :ID:       5579ddfb-686b-4ce6-a962-570883c7b5a7
