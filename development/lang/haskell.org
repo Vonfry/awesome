@@ -94,6 +94,7 @@
       - [[https://github.com/huangz1990/real-world-haskell-cn][cn]] ::
   - learn4haskell ::
   - [[https://leanpub.com/magicalhaskell][magicalhaskell]] ::
+  - [[https://lhbg-book.link/][learn haskell by building a blog generator]] ::
 
 ** Compiler
    :PROPERTIES:
