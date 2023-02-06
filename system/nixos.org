@@ -21,7 +21,9 @@ See nixpkgs manual
 
 * Repos
   - [[https://nixpk.gs/][pr & other tracker]]
-
+* Nix
+  - [[https://noogle.dev][noogle]] :: search nix library
+  - flake-utils :: simple flake framework
 * Utils
   :PROPERTIES:
   :ID:       51d304a0-13a0-4611-a252-164d78c3ea33
