@@ -134,3 +134,9 @@
    - [[https://github.com/fraillt/bitsery][bitsery]] :: Your binary serialization library
    - cereal :: boost like with many builtin supports
 
+** Parser
+   - lex
+   - yacc
+   - boost::spirit
+   - lexy
+
