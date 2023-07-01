@@ -25,3 +25,12 @@
        - inet ::
        - [[https://www.semanticscholar.org/paper/Parallel-simulation-made-easy-with-OMNeT-Sekercioglu-Varga/fe5a96d4ca8125e407214d5195c45a65fc543a6d][parallel simulation]] :: a paper and guide
    - [[https://github.com/akeranen/the-one][ONE]] ::
+* Physical
+  - ansys
+  - crosslight
+  - comsol
+** fdtd
+   - fdtdxx
+   - meep
+** pcb
+   - kicad
