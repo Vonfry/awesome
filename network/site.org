@@ -33,4 +33,6 @@
   :ID:       f466b20d-8cda-4478-8eeb-9f613b35b802
   :END:
   - [[https://www.southampton.ac.uk/~cpd/history.html][timeline of the human condition]] ::
+* Wallpaper
+ - [[https://wallhaven.cc/][wallhaven]]
 
