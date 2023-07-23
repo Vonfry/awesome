@@ -83,6 +83,7 @@
   - [[id:b129507d-56f3-4333-be50-9d516e1375c7][rust]]
   - [[id:eb644dd4-35e4-4736-859d-6be59b4754de][tcl]]
   - [[id:0598a292-589c-43a3-a1de-410199592f8c][web]]
+  - enso :: visualization programming
 
 * Benchmarks
   - [[https://github.com/kostya/benchmarks][benchmarks]] ::  Some benchmarks of different languages
