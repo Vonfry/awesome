@@ -20,10 +20,18 @@
 See nixpkgs manual
 
 * Repos
+  :PROPERTIES:
+  :ID:       6c5aa94e-ff4a-4ec4-ad42-b908a5418fa7
+  :END:
   - [[https://nixpk.gs/][pr & other tracker]]
 * Nix
+  :PROPERTIES:
+  :ID:       fdf3a31d-0a12-41d0-8b46-27b2aecb85cf
+  :END:
   - [[https://noogle.dev][noogle]] :: search nix library
   - flake-utils :: simple flake framework
+  - rust-overlay ::
+  - emacs-overlay ::
 * Utils
   :PROPERTIES:
   :ID:       51d304a0-13a0-4611-a252-164d78c3ea33
