@@ -24,14 +24,15 @@
   :ID:       597184df-4c59-4005-b8ff-b26e8e99b8f2
   :END:
   - [[https://www.haskell.org/ghc/][ghc]] ::
-    - [[https://github.com/ndmitchell/ghcid][ghcid]] :: Very low feature GHCi based IDE
-    - [[https://github.com/ghc-proposals/ghc-proposals][ghc proposals]] :: This repository contains specifications for proposed
-      changes to the Glasgow Haskell Compiler. The purpose of the GHC proposal
-      process and of the GHC Steering Committee is to broaden the discussion
-      of the evolution of GHC.
-    - [[https://github.com/sdiehl/papers][ghc papers]] :: some pdfs for ghc implements. The whole lists can be found
-      in the wiki in ghc repo.
+      - [[https://github.com/ndmitchell/ghcid][ghcid]] :: Very low feature GHCi based IDE
+      - [[https://github.com/ghc-proposals/ghc-proposals][ghc proposals]] :: This repository contains specifications for proposed
+        changes to the Glasgow Haskell Compiler. The purpose of the GHC proposal
+        process and of the GHC Steering Committee is to broaden the discussion
+        of the evolution of GHC.
+      - [[https://github.com/sdiehl/papers][ghc papers]] :: some pdfs for ghc implements. The whole lists can be found
+        in the wiki in ghc repo.
   - [[https://github.com/ghcjs/ghcjs][ghcjs]] :: write web script by haskell
+  - clash-compiler :: Haskell to VHDL/Verilog/SystemVerilog compiler
 ** Parser
    - alex ::
        - [[https://devanla.com/posts/wya-lexer.html][tutor]], [[https://web.archive.org/web/20210409010429/https://devanla.com/posts/wya-lexer.html][archive]] :: example to python
