@@ -60,6 +60,7 @@
   - [[https://catala-lang.org/][catala-lang]] :: Catala is a domain-specific
     programming language designed for deriving correct-by-construction
     implementations from legislative texts.
+  - [[https://github.com/swarm-game/swarm][swarm]] :: Resource gathering + programming game
 
 * List
   :PROPERTIES:
