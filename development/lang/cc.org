@@ -140,3 +140,9 @@
    - boost::spirit
    - lexy
 
+
+** Parallel
+   :PROPERTIES:
+   :ID:       6d7f980c-c0ce-4d02-99b9-fbac75a8b92c
+   :END:
+   - [[https://github.com/taskflow/taskflow][taskflow]] :: A General-purpose Parallel and Heterogeneous Task Programming System
