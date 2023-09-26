@@ -88,6 +88,8 @@
       capabilities of the GPT-4 language model
     - [[https://github.com/oobabooga/text-generation-webui][text generation webui]] :: A Gradio web UI for Large Language
       Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
+    - [[https://github.com/bigscience-workshop/petals][petals]] :: 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference
+      up to 10x faster than offloading
     - [[https://github.com/Hannibal046/Awesome-LLM][awesome-llm]] ::
     - [[https://github.com/togethercomputer/RedPajama-Data][redpajama]] :: An Open Source Recipe to Reproduce LLaMA training dataset
     - [[https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm][dolly]] :: the first open source, instruction-following LLM, fine-tuned on
