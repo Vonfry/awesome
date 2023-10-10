@@ -209,3 +209,16 @@
   - cascadia code
   - [[https://typeof.net/Iosevka/][Iosevka]]
   - Roboto Mono
+
+* Data Format
+  :PROPERTIES:
+  :ID:       23bb4fbe-c68f-4606-b555-f2af2c4e633e
+  :END:
+  - [[https://github.com/AykutSarac/jsoncrack.com][jsoncrack]] :: Innovative and open-source visualization application that
+    transforms various data formats, such as JSON, YAML, XML, CSV and more, into
+    interactive graphs
+  - [[https://github.com/ogaoga/json-visual-editor][json visual editor]] :: Web based JSON Editor powered by React
+  - [[https://jsonmate.com/][jsonmate]] ::
+  - [[https://github.com/triggerdotdev/jsonhero-web][jsonhero]] :: JSON Hero is an open-source, beautiful JSON explorer for the web
+    that lets you browse, search and navigate your JSON files at
+    speed. 🚀. Built with 💜 by the Trigger.dev team.
