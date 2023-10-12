@@ -76,6 +76,7 @@
       language models. Release repo for Vicuna and Chatbot Arena.
     - LLaMA :: A foundational, 65-billion-parameter large language model. Made
       by Meta.Inc.
+    - [[https://github.com/hpcaitech/ColossalAI][colossal ai]] :: Making large AI models cheaper, faster and more accessible
     - [[https://github.com/serge-chat/serge][serge]] :: a chat interface crafted with llama.cpp for running Alpaca
       models. No API keys, entirely self-hosted!
     - [[A high-throughput and memory-efficient inference and serving engine for LLMs][vllm]] :: A high-throughput and memory-efficient inference and serving
