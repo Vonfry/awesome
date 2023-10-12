@@ -115,3 +115,10 @@
     Application Messaging Protocol (WAMP), is feature rich, scalable, robust and
     secure. Let Crossbar.io take care of the hard parts of messaging so you can
     focus on your app's features.
+
+* Frameworks
+  :PROPERTIES:
+  :ID:       aa4fedb1-8b3e-4a9e-bdd3-4b0c46605b2c
+  :END:
+  - [[https://github.com/Pythagora-io/gpt-pilot][gpt pilot]] :: Dev tool that writes scalable apps from scratch while the
+    developer oversees the implementation
