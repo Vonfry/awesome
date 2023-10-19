@@ -222,3 +222,11 @@
   - [[https://github.com/triggerdotdev/jsonhero-web][jsonhero]] :: JSON Hero is an open-source, beautiful JSON explorer for the web
     that lets you browse, search and navigate your JSON files at
     speed. 🚀. Built with 💜 by the Trigger.dev team.
+  - hdf5
+
+* Visualization
+  :PROPERTIES:
+  :ID:       043c7211-3605-4f20-9168-f8bc2b41c228
+  :END:
+  - gephi :: Gephi is a tool for data analysts and scientists keen to explore
+    and understand graphs
