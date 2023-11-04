@@ -55,6 +55,8 @@
   :ID:       e345a0f5-d73e-4311-b943-076fc60ffcc7
   :END:
   - [[https://devdocs.io][devDocs]] ::
+  - [[https://apps.gnome.org/Devhelp/][devhelp]] :: a developer tools for browsing and searching api
+    document. Written in gtk.
   - [[https://zealdocs.org/][zeal]] :: linux & windows
   - [[https://kapeli.com/dash][dash]] :: macos
 * English
