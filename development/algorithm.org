@@ -96,6 +96,8 @@
      :PROPERTIES:
      :ID:       b4374e9a-a687-4264-96dd-f65e07d5708d
      :END:
+     - [[https://huggingface.co/][huggingface]] :: The AI community building the future.
+     - [[https://hf-mirror.com/][hf-mirror]] :: huggingface mirror
      - [[https://github.com/hpcaitech/ColossalAI][colossal ai]] :: Making large AI models cheaper, faster and more accessible
      - [[A high-throughput and memory-efficient inference and serving engine for LLMs][vllm]] :: A high-throughput and memory-efficient inference and serving
        engine for LLMs
