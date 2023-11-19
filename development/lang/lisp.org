@@ -25,6 +25,35 @@
   :END:
   - [[https://github.com/roswell/roswell][roswell]] :: intended to be a launcher for a major lisp environment that just works.
 
+* Library
+  :PROPERTIES:
+  :ID:       b7cc9c00-1003-4c91-a1e4-18709811bdab
+  :END:
+** Base
+   :PROPERTIES:
+   :ID:       483b7021-733e-4cd4-8ad2-321bb40c1a31
+   :END:
+   - iterate :: iteration macro that aims at being simpler
+   - alexandria :: A general-purpose utility library. Public domain.
+** Data Structure
+   :PROPERTIES:
+   :ID:       cf839367-21c2-465a-bdb1-315ff04f4d96
+   :END:
+   - str :: Modern, simple and consistent Common Lisp string manipulation
+     library.
+   - cl-ppcre :: perl regex
+** File Format
+   - jzon :: a correct, safe and fast JSON parser
+** Web Server
+   :PROPERTIES:
+   :ID:       d5652102-3060-497f-b2a2-d3d080ec2775
+   :END:
+   - ningle :: Super micro framework for Common Lisp
+   - Caveman :: A powerful web framework
+   - Clack :: Web server abstraction layer for Common Lisp
+   - woo :: a fast non-blocking HTTP server built on top of libev.
+   - Hunchentoot :: Hunchentoot is a web server written in Common Lisp and at
+     the same time a toolkit for building dynamic websites
 * Misc
   :PROPERTIES:
   :ID:       9eb410e1-24b8-474c-acd9-34b010cbc02b
@@ -35,7 +64,14 @@
   :PROPERTIES:
   :ID:       c51fde42-caa4-436d-839e-3fdd933debde
   :END:
+  - [[https://lispcookbook.github.io/cl-cookbook/][common lisp cookbook]] ::
+  - [[https://github.com/susam/emacs4cl][emacs4cl]] ::
   - acl ::
       - [[acl-translation / acl-chinese%0A][cn]] ::
   - [[https://github.com/binghe/pcl-cn][pcl-cn]] ::
 
+* Awesome
+  :PROPERTIES:
+  :ID:       320d0fbe-f14e-4926-9270-74ae223e63db
+  :END:
+  - [[https://github.com/CodyReichert/awesome-cl][awesome cl]] ::
