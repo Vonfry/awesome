@@ -72,37 +72,39 @@
     :PROPERTIES:
     :ID:       eed4bc27-8aa0-4b7d-99c1-13b1343cf612
     :END:
-**** self host
+**** Some Productions
      :PROPERTIES:
      :ID:       9eadad8b-77e6-4a7d-945f-1351e07e436a
      :END:
-     - [[https://github.com/lm-sys/FastChat#serving-with-web-gui][fastchat]] :: An open platform for training, serving, and evaluating large
-       language models. Release repo for Vicuna and Chatbot Arena.
      - [[https://github.com/serge-chat/serge][serge]] :: a chat interface crafted with llama.cpp for running Alpaca
        models. No API keys, entirely self-hosted!
      - [[https://github.com/bigscience-workshop/petals][petals]] :: 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference
        up to 10x faster than offloading
      - [[https://github.com/oobabooga/text-generation-webui][text generation webui]] :: A Gradio web UI for Large Language
        Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
+**** Dev Framework
+     - langchain :: chain prompt, llm, and other actions togather such as agent
+     - griptape :: like langchain, but different architecture
+     - langserve ::
+     - [[https://github.com/logspace-ai/langflow][langflow]] :: Langflow is a UI for LangChain, designed with react-flow to
+       provide an effortless way to experiment and prototype flows.
+     - [[https://github.com/lm-sys/FastChat#serving-with-web-gui][fastchat]] :: An open platform for training, serving, and evaluating large
+       language models. Release repo for Vicuna and Chatbot Arena. Webui,
+       controller, model (worker) API architecture.
      - [[https://github.com/Significant-Gravitas/Auto-GPT][autogpt]] :: an experimental open-source application showcasing the
-       capabilities of the GPT-4 language model
-**** datasets
-     :PROPERTIES:
-     :ID:       aa4b4d99-b026-42c4-b1fd-0d3c00a9a64d
-     :END:
-     - [[https://github.com/PolisAI/awesome-llm-human-preference-datasets][awesome llm human perference datasets]] :: a collection of human preference
-       datasets for LLM instruction tuning, RLHF and evaluation.
-**** train/model/framework
+       capabilities of the GPT-4 language model. It is used for agent
+       development.
+     - [[A high-throughput and memory-efficient inference and serving engine for LLMs][vllm]] :: A high-throughput and memory-efficient inference and serving
+       engine for LLMs. It supports OpenAI api and self designed api for models.
+**** train/model/datasets
      :PROPERTIES:
      :ID:       b4374e9a-a687-4264-96dd-f65e07d5708d
      :END:
+     - [[https://github.com/PolisAI/awesome-llm-human-preference-datasets][awesome llm human perference datasets]] :: a collection of human preference
+       datasets for LLM instruction tuning, RLHF and evaluation.
      - [[https://huggingface.co/][huggingface]] :: The AI community building the future.
      - [[https://hf-mirror.com/][hf-mirror]] :: huggingface mirror
      - [[https://github.com/hpcaitech/ColossalAI][colossal ai]] :: Making large AI models cheaper, faster and more accessible
-     - [[A high-throughput and memory-efficient inference and serving engine for LLMs][vllm]] :: A high-throughput and memory-efficient inference and serving
-       engine for LLMs
-     - [[https://github.com/logspace-ai/langflow][langflow]] :: Langflow is a UI for LangChain, designed with react-flow to
-       provide an effortless way to experiment and prototype flows.
      - LLaMA :: A foundational, 65-billion-parameter large language model. Made
        by Meta.Inc.
      :PROPERTIES:
