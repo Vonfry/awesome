@@ -153,6 +153,7 @@
    :PROPERTIES:
    :ID:       b723ef46-a881-476f-a9fe-6890a213153c
    :END:
+   - [[https://github.com/luke-clifton/shh][shh]] :: Simple shell like scripting from Haskell
 *** Arguments
     - optparse-applicative :: [the best one] Applicative option parser
     - cmdargs :: [similar to the above] command line argument processing
