@@ -66,6 +66,23 @@
    :ID:       bc565bca-fdb4-4962-abad-88c1dae185f5
    :END:
    - [[https://mathmap.quantamagazine.org/map/][map]] :: the map of mathematics, [[https://web.archive.org/web/20210127023729/https://mathmap.quantamagazine.org/map/][archive]]
+** Logic
+   :PROPERTIES:
+   :ID:       692ce23b-03fa-421c-a8d8-a444f0fa7416
+   :END:
+   - 数理逻辑导引 ::
+   - 符号逻辑讲义 ::
+** Set Theory
+   :PROPERTIES:
+   :ID:       d3b73729-7c7a-4267-a580-251f8db368a1
+   :END:
+   - Set Theory :: by Thomas Jech
+** Group Theory
+   :PROPERTIES:
+   :ID:       9495a62d-48e8-40f9-aa1f-c7f08e1187e7
+   :END:
+   - Abstract algebra ::
+   - Visual group theroy ::
 ** Category Theory
    :PROPERTIES:
    :ID:       fff9ad25-e1cf-49ac-aa36-9d3837d07b07

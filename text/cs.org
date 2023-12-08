@@ -35,11 +35,13 @@
   - categories for the working mathematician ::
   - [[https://github.com/liuxinyu95/unplugged][unplugged]] :: isomorphism
   - basic category theroy ::
+  - category theory in context ::
 
 * Programming Language
   :PROPERTIES:
   :ID:       a61ddef7-58a9-4f05-aeca-fe70e67a931d
   :END:
+
 ** Type theory
    :PROPERTIES:
    :ID:       a7d32853-23f7-417f-b63f-9df2968b987c
@@ -52,6 +54,12 @@
    - certified programming with dependent types ::
    - [[https://homotopytypetheory.org/book/][HoTT book]] ::
    - [[https://www.haskellforall.com/2022/05/introductory-resources-to-type-theory.html][Introductory resources to type theory for language implementers]] :: a blog
+** Interpretation
+   :PROPERTIES:
+   :ID:       30d450c4-8dc1-4c28-9920-93c1e2071d0b
+   :END:
+   - [[https://www.plai.org/][plai]] :: Programming Languages: Application and Interpretation
+   - Essentials of Programming Languages ::
 * Calculus
   :PROPERTIES:
   :ID:       d01b618a-c558-4659-af7d-920dadf9bc6c
