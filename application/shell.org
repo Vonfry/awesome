@@ -51,8 +51,10 @@ using for daily and we have other better language for scripts, if you don't use
   :END:
   List some useful tools.
   - [[https://github.com/uutils/coreutils][coreutils]] :: rust rewrite for gnu coreutils
+  - zoxide :: A smarter cd command. Supports all major shells
   - [[https://github.com/gsamokovarov/jump][jump]] :: Jump helps you navigate faster by learning your habits
   - trash-cli :: a safe rm with xdg
+  - rmw :: trashcan/recycle bin utility for the command line
   - most :: powerful more and less
   - mc :: GNU Midnight Commander is a text based file manager
   - googler :: google in terminal
