@@ -84,6 +84,7 @@ using for daily and we have other better language for scripts, if you don't use
   - direnv ::
   - uchardet :: An encoding detector library ported from Mozilla.
   - termscp :: an tui scp client
+  - lf :: a terminal file manager written in go
 ** Parser
    - [[https://github.com/wader/fq][fq]] :: jq for binary format
    - [[https://github.com/kislyuk/yq][yq]] :: Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
