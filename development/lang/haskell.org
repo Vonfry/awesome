@@ -155,8 +155,8 @@
    :END:
    - [[https://github.com/luke-clifton/shh][shh]] :: Simple shell like scripting from Haskell
 *** Arguments
-    - optparse-applicative :: [the best one] Applicative option parser
-    - cmdargs :: [similar to the above] command line argument processing
+    - cmdargs :: [IMO, the best one] command line argument processing
+    - optparse-applicative :: Applicative option parser
     - optparse-generic :: This library auto-generates an
       optparse-applicative-compatible Parser from any data type that derives the
       Generic interface.
