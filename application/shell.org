@@ -52,41 +52,29 @@ using for daily and we have other better language for scripts, if you don't use
   List some useful tools.
   - [[https://github.com/uutils/coreutils][coreutils]] :: rust rewrite for gnu coreutils
   - zoxide :: A smarter cd command. Supports all major shells
-  - [[https://github.com/gsamokovarov/jump][jump]] :: Jump helps you navigate faster by learning your habits
   - trash-cli :: a safe rm with xdg
-  - rmw :: trashcan/recycle bin utility for the command line
-  - most :: powerful more and less
-  - mc :: GNU Midnight Commander is a text based file manager
-  - googler :: google in terminal
-  - lolcat :: colorful cat
-  - tree :: show dir structure as a tree
   - colordiff ::
   - fortune-mod :: print a saying
   - cmatrix :: show coding matrix in terminal
   - figlet :: ascii art
   - gpatch :: Apply a diff file to an original
   - parallel :: like xargs, but use more cpus
-  - tmux :: more powerful tool like screen
+  - zellij :: A terminal workspace with batteries included
   - thefuck :: fix input error in command
   - fzf :: fuzzy search
-  - [[https://github.com/sharkdp/bat][bat]] :: A cat(1) clone with wings.
-  - exa :: A morden ls
-  - lsd :: A morden ls
   - ripgrep :: A fast grep
   - asciinema :: Terminal session recorder
   - shellcheck :: ShellCheck, a static analysis tool for shell scripts
   - [[https://github.com/simonmichael/hledger][hledger]] :: The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger
   - tldr :: Simplified and community-driven man pages
   - [[https://github.com/cheat/cheat][cheat]] :: cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not …
-  - [[https://github.com/alexanderepstein/Bash-Snippets][bash-snippet]] :: A collection of small bash scripts for heavy terminal users
   - [[https://github.com/sharkdp/hyperfine][hyperfine]] :: command line benchmarking
-  - unar :: unar is the BEST solution for archives containing non UTF-8 encoding file names.
+  - bsdtar :: more format supported tar.
   - qrencode :: qrcode encode
   - zbar :: qrcode decode
   - direnv ::
   - uchardet :: An encoding detector library ported from Mozilla.
   - termscp :: an tui scp client
-  - lf :: a terminal file manager written in go
 ** Parser
    - [[https://github.com/wader/fq][fq]] :: jq for binary format
    - [[https://github.com/kislyuk/yq][yq]] :: Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
@@ -106,6 +94,18 @@ using for daily and we have other better language for scripts, if you don't use
    :PROPERTIES:
    :ID:       91a4912f-15ee-45ba-974a-0f234d46d40d
    :END:
+   These tools have alternative below or they are not useful for daily using.
+   - tree :: show dir structure as a tree
+   - [[https://github.com/alexanderepstein/Bash-Snippets][bash-snippet]] :: A collection of small bash scripts for heavy terminal users
+   - [[https://github.com/gsamokovarov/jump][jump]] :: Jump helps you navigate faster by learning your habits
+   - rmw :: trashcan/recycle bin utility for the command line
+   - mc :: GNU Midnight Commander is a text based file manager
+   - googler :: google in terminal
+   - lf :: a terminal file manager written in go
+   - most :: powerful more and less
+   - lsd :: A morden ls
+   - lolcat :: colorful cat
+   - unar :: unar is the BEST solution for archives containing non UTF-8 encoding file names.
    - [[https://github.com/svenstaro/genact][genact]] :: Pretend to be busy or waiting for your computer when you should actually be doing real work! Impress people with your insane multitasking skills. Just open a few instances of genact and watch the show. genact has multiple scenes that pretend to be doing something exciting or useful when in reality nothing is happening at all.
    - autojump :: quickly jump to dirs.
    - [[https://github.com/aviaviavi/confetti][confetti]] :: a configuration file swapping tool
