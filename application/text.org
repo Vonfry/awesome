@@ -21,9 +21,6 @@
   :ID:       da97eace-69dc-4121-9e49-f59d60a8aa2c
   :END:
   export pure text document to html or other file type with beautiful style.
-  - [[https://github.com/mosra/m.css][m.css]] ::
-  - [[https://github.com/edwardtufte/tufte-css][tufte]] ::
-  - [[https://github.com/xz/new.css][new.css]] ::
   - [[https://github.com/gongzhitaao/orgcss][orgcss]] ::
 * Format / Markup
   :PROPERTIES:
