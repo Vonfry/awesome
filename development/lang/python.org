@@ -23,6 +23,8 @@
   - pip ::
   - setuptools ::
   - wheel ::
+  - pdm :: a dependency management
+  - ruff :: lint
   - [[http://virtualenv.pypa.io/en/stable/][virtualenv]] :: sand box
   - [[https://ipython.org/][ipython]] :: more powerful interpretation
   - [[https://github.com/davidhalter/jedi][jedi]] :: code completion and navigation
@@ -35,6 +37,13 @@
   - [[http://pytz.sourceforge.net/][pytz]] :: a useful package for timezone
   - [[https://github.com/python-poetry/poetry][poetry]] :: a dependency management
 
+* Editor
+  :PROPERTIES:
+  :ID:       363af81f-1763-45d0-8457-f6f75c1cc133
+  :END:
+  - [[https://ryven.org/][ryven]] :: Flow-based visual scripting for Python. A simple and powerful
+    visual nodes editor for Python, and a framework for building nodes executing
+    any Python code.
 * Partice
   :PROPERTIES:
   :ID:       61ece8de-19c3-4262-bf2d-3f1208f8d09e
