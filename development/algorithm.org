@@ -96,6 +96,10 @@
        development.
      - [[A high-throughput and memory-efficient inference and serving engine for LLMs][vllm]] :: A high-throughput and memory-efficient inference and serving
        engine for LLMs. It supports OpenAI api and self designed api for models.
+     - [[https://github.com/geekan/MetaGPT][MetaGPT]] :: The Multi-Agent Framework: Given one line Requirement, return
+       PRD, Design, Tasks, Repo
+     - [[https://github.com/Pythagora-io/gpt-pilot][gpt-polit]] :: Dev tool that writes scalable apps from scratch while the
+       developer oversees the implementation.
 **** train/model/datasets
      :PROPERTIES:
      :ID:       b4374e9a-a687-4264-96dd-f65e07d5708d

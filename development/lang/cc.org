@@ -155,9 +155,14 @@
    :PROPERTIES:
    :ID:       b9953347-1840-492e-a755-68b920d91a72
    :END:
-   - [[https://github.com/Alpine-DAV/ascent][ascent]] :: A flyweight in situ visualization and analysis runtime for
-     multi-physics HPC simulations
    - [[https://github.com/mamedev/mame][mame]] ::
    - [[https://github.com/LLNL/axom][axom]] :: CS infrastructure components for HPC applications
-
-
+** Simulation
+   :PROPERTIES:
+   :ID:       285c6f9b-6026-46ce-85f3-b4053149fa18
+   :END:
+   - [[https://github.com/visit-dav/visit][visit]] :: VisIt - Visualization and Data Analysis for Mesh-based Scientific
+     Data
+   - [[https://github.com/LibrePCB/LibrePCB][LibrePCB]] :: A powerful, innovative and intuitive EDA suite for everyone!
+   - [[https://github.com/Alpine-DAV/ascent][ascent]] :: A flyweight in situ visualization and analysis runtime for
+     multi-physics HPC simulations

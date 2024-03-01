@@ -47,6 +47,7 @@
    - itertools :: Extra iterator adaptors, functions and macros, such as
      ~iter().tuples()~
    - fnv :: hash map by fnv algorithm
+   - [[https://github.com/petgraph/petgraph][petgraph]] :: Graph data structure library for Rust.
 * CheatSheet
   :PROPERTIES:
   :ID:       e36b62b9-7715-4763-ad53-51bba3e6ceb8
