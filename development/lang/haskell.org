@@ -60,7 +60,8 @@
   - [[https://www.haskell.org/hoogle/][hoogle]] :: quickly searching
   - [[https://github.com/dhall-lang/dhall-haskell][dhall]] :: a config language
   - [[https://github.com/yav/graphmod][graphmod]] :: A utility for displaying the module dependencies of Haskell programs.
-
+  - [[https://github.com/haskell/haskell-language-server][haskell language server]] :: Official haskell ide support via language server
+    (LSP). Successor of ghcide & haskell-ide-engine.
 * CI
   :PROPERTIES:
   :ID:       2ad954f4-6f98-4357-a460-da8b579c5fc8
