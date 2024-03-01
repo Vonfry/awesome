@@ -54,6 +54,7 @@
   :PROPERTIES:
   :ID:       6aa5b701-d0fe-454f-8c1e-6094172e8cc5
   :END:
+
 ** AI
    :PROPERTIES:
    :ID:       4d5acc46-11a2-4e21-af71-18e2e641b8c4
@@ -61,6 +62,7 @@
 *** ML
     - tensorflow ::
       - [[https://github.com/astorfi/TensorFlow-World][tensorflow-world]] :: Simple and ready-to-use tutorials for TensorFlow
+    - pytorch ::
 ** Web
    :PROPERTIES:
    :ID:       75434569-41e8-43b2-9c66-c0411ab6c88e
@@ -81,3 +83,19 @@
    :ID:       0bdb2376-e278-4444-a20c-4b01f2242c63
    :END:
    - [[https://github.com/3b1b/manim][manim]] :: Animation engine for explanatory math videos
+** Test
+   :PROPERTIES:
+   :ID:       b97482e5-0a42-403f-8448-9def3f87e724
+   :END:
+   - pytest ::
+** Document
+   :PROPERTIES:
+   :ID:       01899098-9133-4199-aa5c-c42a49642ae0
+   :END:
+   - sphinx ::
+     - sphinx-rtd-theme ::
+** Model
+   :PROPERTIES:
+   :ID:       b8ec6ea7-c1ea-49f3-81a1-96275ce63514
+   :END:
+   - pydantic :: Data validation using Python type hints
