@@ -148,3 +148,16 @@
    :ID:       6d7f980c-c0ce-4d02-99b9-fbac75a8b92c
    :END:
    - [[https://github.com/taskflow/taskflow][taskflow]] :: A General-purpose Parallel and Heterogeneous Task Programming System
+   - [[https://github.com/DLR-AMR/t8code][t8code]] :: Parallel algorithms and data structures for tree-based AMR with
+     arbitrary element shapes.
+
+** HPC
+   :PROPERTIES:
+   :ID:       b9953347-1840-492e-a755-68b920d91a72
+   :END:
+   - [[https://github.com/Alpine-DAV/ascent][ascent]] :: A flyweight in situ visualization and analysis runtime for
+     multi-physics HPC simulations
+   - [[https://github.com/mamedev/mame][mame]] ::
+   - [[https://github.com/LLNL/axom][axom]] :: CS infrastructure components for HPC applications
+
+
