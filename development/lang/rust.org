@@ -27,6 +27,19 @@
    :ID:       773b1c70-ad7e-4358-acc0-c55b8281a373
    :END:
    - regex ::
+** Serialization
+   :PROPERTIES:
+   :ID:       bd2625ed-ef91-4106-8c74-3f4d9fb0db1a
+   :END:
+   - serde ::
+   - serde-json ::
+   - quick-xml ::
+   - pythonize ::
+** FFI
+   :PROPERTIES:
+   :ID:       d5051a51-b7d0-4940-a88d-ca97b254af13
+   :END:
+   - pyo3 :: python
 ** Containers
    :PROPERTIES:
    :ID:       a4926ad3-a86f-4cfb-87cb-b66bdefad1f3
