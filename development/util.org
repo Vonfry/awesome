@@ -136,7 +136,6 @@
 
    the most used.
 
-   - [[https://github.com/martinvonz/jj][jj]] :: A Git-compatible VCS that is both simple and powerful
    - [[https://about.gitlab.com/images/press/git-cheat-sheet.pdf][git cheat]] ::
 
 *** Server
@@ -169,6 +168,8 @@
     git has a simple server by it self, here are some powerful tools.
 
 *** Tools
+    - lazygit ::
+    - [[https://github.com/altsem/gitu][gitu]] :: A terminal user interface for Git. Inspired by Magit, and launched straight from the terminal.
     - git-flow ::
     - git-extras ::
     - [[https://github.com/commitizen/cz-cli][cz-cli]] :: The commitizen command line utility. commit format.
