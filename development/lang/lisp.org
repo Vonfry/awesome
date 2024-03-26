@@ -35,6 +35,12 @@
    :END:
    - iterate :: iteration macro that aims at being simpler
    - alexandria :: A general-purpose utility library. Public domain.
+** File and Directory
+   :PROPERTIES:
+   :ID:       07fe30f2-6edf-47e3-9a26-cb91d4088477
+   :END:
+   - osicat ::
+   - uiop :: some directories, file operation and system operation. But little.
 ** Data Structure
    :PROPERTIES:
    :ID:       cf839367-21c2-465a-bdb1-315ff04f4d96
