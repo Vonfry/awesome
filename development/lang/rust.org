@@ -35,6 +35,11 @@
    - serde-json ::
    - quick-xml ::
    - pythonize ::
+** Parser
+   :PROPERTIES:
+   :ID:       4c5fa35c-9b24-40ee-b795-a9d16ff69ef0
+   :END:
+   - pest :: PEG parser
 ** FFI
    :PROPERTIES:
    :ID:       d5051a51-b7d0-4940-a88d-ca97b254af13
