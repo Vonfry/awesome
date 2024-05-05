@@ -253,11 +253,14 @@
     - haxl :: A Haskell library that simplifies access to remote data, such as
       databases or web-based services.
 *** Server
-   - [[Year:month:day][yesod]] :: A RESTful Haskell web framework built on WAI.
+   - [[https://github.com/digitallyinduced/ihp][ihp]] :: The fastest way to build type safe web apps. IHP is a new
+     batteries-included web framework optimized for longterm productivity and
+     programmer happiness
    - servant :: servant is a set of Haskell libraries for writing type-safe web
      applications but also deriving clients (in Haskell and other languages) or
      generating documentation for them, and more.
    - [[https://github.com/purview-framework/purview][purview]] :: Build server rendered, interactive websites with Haskell
+   - [[Year:month:day][yesod]] :: A RESTful Haskell web framework built on WAI.
 ** Benchmarking
    :PROPERTIES:
    :ID:       29953593-c73f-4519-8c0c-65a38762e766
