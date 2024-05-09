@@ -98,6 +98,7 @@
   - learn4haskell ::
   - [[https://leanpub.com/magicalhaskell][magicalhaskell]] ::
   - [[https://lhbg-book.link/][learn haskell by building a blog generator]] ::
+  - [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/tutorial-on-the-universality-and-expressiveness-of-fold/CDBAA53C7120E23CBBBE206FD47FDBAA][A tutorial on the universality and expressiveness of fold]] ::
 
 ** Compiler
    :PROPERTIES:
