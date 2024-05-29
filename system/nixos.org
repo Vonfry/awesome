@@ -29,6 +29,7 @@ See nixpkgs manual
   :ID:       fdf3a31d-0a12-41d0-8b46-27b2aecb85cf
   :END:
   - [[https://noogle.dev][noogle]] :: search nix library
+  - [[https://www.nixhub.io/][nixhub]] :: search packages with history
   - flake-utils :: simple flake framework
   - rust-overlay ::
   - emacs-overlay ::
