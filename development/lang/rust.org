@@ -35,11 +35,19 @@
    - serde-json ::
    - quick-xml ::
    - pythonize ::
+   - prost :: protobuf
 ** Parser
    :PROPERTIES:
    :ID:       4c5fa35c-9b24-40ee-b795-a9d16ff69ef0
    :END:
    - pest :: PEG parser
+** Algeric
+   :PROPERTIES:
+   :ID:       43feba6e-601d-4987-87fc-29147d4ac9ab
+   :END:
+   - polars :: dataframe
+   - ndarry :: n-dimensional array
+   - nalgebra :: linear-algerbra
 ** FFI
    :PROPERTIES:
    :ID:       d5051a51-b7d0-4940-a88d-ca97b254af13
