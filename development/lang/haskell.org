@@ -314,6 +314,8 @@
    :ID:       78d246b1-850b-467c-8cd4-042035d6d8fc
    :END:
    - [[https://github.com/travitch/datalog][datalog]] :: This is a pure Haskell implementation of Datalog, as a library
+** Development
+   - data-default ::
 * Utils
   :PROPERTIES:
   :ID:       4575d700-48ea-47ee-9488-7ed431687cf1
