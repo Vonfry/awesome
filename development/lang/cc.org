@@ -166,3 +166,7 @@
    - [[https://github.com/LibrePCB/LibrePCB][LibrePCB]] :: A powerful, innovative and intuitive EDA suite for everyone!
    - [[https://github.com/Alpine-DAV/ascent][ascent]] :: A flyweight in situ visualization and analysis runtime for
      multi-physics HPC simulations
+** Containers
+   - [[https://github.com/P-p-H-d/mlib][mlib]] ::  Library of generic and type safe containers in pure C language
+     (C99 or C11) for a wide collection of container (comparable to the C++
+     STL).
