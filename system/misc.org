@@ -10,3 +10,5 @@
   :END:
   - [[https://github.com/64/ByteOS][byteos]] :: A simple hobby operating system for the x86_64 architecture, written in C.
   - minix :: minial system
+* Tutors
+  - [[https://github.com/justinmeiners/lc3-vm][lc3-vm]] ::  Write your own virtual machine for the LC-3 computer!
