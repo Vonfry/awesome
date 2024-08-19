@@ -24,7 +24,13 @@
   - setuptools ::
   - wheel ::
   - pdm :: a dependency management
+  - hatchling :: a building tools
   - ruff :: lint
+  - uv :: An extremely fast Python package installer and resolver, written in
+    Rust.
+  - micromamba :: Mamba is a fast, robust, and cross-platform package manager.
+    This is an alternative of conda with compatibility.
+  - conda ::
   - [[http://virtualenv.pypa.io/en/stable/][virtualenv]] :: sand box
   - [[https://ipython.org/][ipython]] :: more powerful interpretation
   - [[https://github.com/davidhalter/jedi][jedi]] :: code completion and navigation
