@@ -61,6 +61,14 @@
      ~iter().tuples()~
    - fnv :: hash map by fnv algorithm
    - [[https://github.com/petgraph/petgraph][petgraph]] :: Graph data structure library for Rust.
+   - heed :: LMDB wrapper for rust
+** Threads/Parallel
+   - tokio :: Tokio is an event-driven, non-blocking I/O platform for writing
+     asynchronous applications with the Rust programming language. At a high
+     level, it provides a few major components:
+** Web
+*** Frontend
+    - dioxus ::  Fullstack app framework for web, desktop, mobile, and more.
 * CheatSheet
   :PROPERTIES:
   :ID:       e36b62b9-7715-4763-ad53-51bba3e6ceb8
