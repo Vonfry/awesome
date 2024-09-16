@@ -316,6 +316,11 @@
    - [[https://github.com/travitch/datalog][datalog]] :: This is a pure Haskell implementation of Datalog, as a library
 ** Development
    - data-default ::
+** Web
+   :PROPERTIES:
+   :ID:       2fd64aeb-9f70-4654-88e2-2127447b9747
+   :END:
+   - [[https://github.com/obsidiansystems/obelisk][obelisk]] :: Functional reactive web and mobile applications, with batteries included.
 * Utils
   :PROPERTIES:
   :ID:       4575d700-48ea-47ee-9488-7ed431687cf1
