@@ -82,16 +82,13 @@
   :PROPERTIES:
   :ID:       bc607440-3042-459e-b71a-428ee1ef01af
   :END:
-  - [[https://github.com/Marak/faker.js][faker.js]] :: generate many fake data to do testing.
   - hurl :: a curl based test tools
   - [[https://github.com/davecheney/httpstat][httpstat]] :: It's like curl -v, with colours.
   - [[https://github.com/httpie/httpie][httpie]] :: As easy as /aitch-tee-tee-pie/ ￼ Modern, user-friendly
     command-line HTTP client for the API era. JSON support, colors, sessions,
     downloads, plugins & more.
   - fluentd :: data collector and unified logging layer (project under CNCF)
-  - [[https://github.com/rstacruz/nprogressv][ngprogress]] ::
   - [[https://github.com/tinymce/tinymce][tinmce]] :: The world's most popular JavaScript library for rich text editing
-  - [[https://github.com/aui/font-spider][fontspider]] :: Smart webfont compression and format conversion tool
   - [[https://github.com/fangzesheng/free-api][free-api]] ::
   - [[https://github.com/hoppscotch/hoppscotch][hoppscotch]] :: API test environment, web(vue) based.
   - [[https://github.com/buger/goreplay][goreplay]] :: GoReplay is an open-source tool for capturing and replaying
