@@ -21,10 +21,11 @@
   :ID:       abc0a02e-6f21-40f2-9eac-d6fec548e9f4
   :END:
 ** Framework
+  - tailwindcss :: Rapidly build modern websites without ever leaving your HTML.
+      - daisyui :: The most popular component library for Tailwind CSS
   - foundation ::
   - bootstrap ::
   - semantic ui ::
-  - [[https://github.com/egoist/hack][egoist/hack]] :: Dead simple CSS framework.
 
 * Javascript
   :PROPERTIES:
@@ -44,7 +45,6 @@
 
 ** Library
 *** Foundation
-    - prototypeJS ::
     - zepto.js ::
     - jQuery ::
 *** Misc
