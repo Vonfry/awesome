@@ -104,6 +104,8 @@
    :ID:       29da8a7a-73b0-41e1-8009-085e473c3b39
    :END:
    - FoundationDB :: the open source, distributed, transactional key-value store
+   - [[https://github.com/valkey-io/valkey][valkey]] ::  A flexible distributed key-value datastore that supports both
+     caching and beyond caching workloads.
 ** Test
    :PROPERTIES:
    :ID:       9c7d8f4f-dfb6-4b73-a6e3-2c0333ee14ea
