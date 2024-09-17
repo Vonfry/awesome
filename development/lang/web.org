@@ -89,7 +89,6 @@
     command-line HTTP client for the API era. JSON support, colors, sessions,
     downloads, plugins & more.
   - fluentd :: data collector and unified logging layer (project under CNCF)
-  - [[https://cdnjs.com/][cdnjs]] :: Free and Open Source Public Web CDN
   - [[https://github.com/rstacruz/nprogressv][ngprogress]] ::
   - [[https://github.com/tinymce/tinymce][tinmce]] :: The world's most popular JavaScript library for rich text editing
   - [[https://github.com/aui/font-spider][fontspider]] :: Smart webfont compression and format conversion tool
@@ -99,6 +98,11 @@
     live HTTP traffic into a test environment in order to continuously test your
     system with real data. It can be used to increase confidence in code
     deployments, configuration changes and infrastructure changes.
+
+** CDN
+  - [[https://www.staticfile.net/][staticfile]] :: A free cdn for china.
+  - [[https://cdnjs.com/][cdnjs]] :: Free and Open Source Public Web CDN
+
 * Tutorials
   :PROPERTIES:
   :ID:       2314fbdf-c45a-41ae-8915-cff95aea7d8d
