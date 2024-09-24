@@ -105,3 +105,6 @@
    :ID:       b8ec6ea7-c1ea-49f3-81a1-96275ce63514
    :END:
    - pydantic :: Data validation using Python type hints
+** Embedded Lang
+   - [[https://github.com/hylang/hy][hy]] :: A dialect of Lisp that's embedded in Python
+
