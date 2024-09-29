@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       0a438c55-bc03-4394-8365-4a1787b876c3
+:END:
+#+TITLE: Linux
+#+AUTHOR: Vonfry
+
+* Mobels
+  :PROPERTIES:
+  :ID:       18311b37-400d-4c6b-af3f-34930a9d5257
+  :END:
+  - [[https://github.com/KHwang9883/MobileModels/blob/master/misc/bootloader-kernel-source.md][unlock bootloader support]] ::
+* Images
+  - aosp :: android open source project
+  - [[https://docs.robotnix.org/][robotnix]] :: build android image with nix
+  - grapheneOS :: GrapheneOS is a privacy and security focused mobile OS with
+    Android app compatibility developed as a non-profit open source project
+  - lineageos

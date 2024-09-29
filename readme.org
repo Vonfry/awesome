@@ -41,6 +41,7 @@ internal link cannot be used outside.
       - [[id:746a0cc6-f0c7-4ff0-a1c8-d3d7779ca44a][nixos]]
   - [[id:f06b29d0-2566-475d-83d2-f7a519c01f13][windows]]
   - [[id:a153e6be-1933-426a-98ae-d0694e84413d][macos]]
+  - [[id:0a438c55-bc03-4394-8365-4a1787b876c3][android]]
   - [[id:3f4301af-7176-441a-bcb5-d109401fafac][misc]]
 * Academic
   :PROPERTIES:

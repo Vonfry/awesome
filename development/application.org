@@ -13,11 +13,6 @@
    :END:
    - android-sdk ::
    - qemu :: a virtual machine with android
-** images
-   - [[https://docs.robotnix.org/][robotnix]] :: build android image with nix
-   - aosp :: android open source project
-   - grapheneOS :: GrapheneOS is a privacy and security focused mobile OS with
-     Android app compatibility developed as a non-profit open source project
 * iOS
   :PROPERTIES:
   :ID:       858bd719-8ea8-4bcc-9b00-2b1c70a00f02
