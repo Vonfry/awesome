@@ -46,6 +46,8 @@
    :PROPERTIES:
    :ID:       77b8c019-3d94-415b-af35-f84503dcd81a
    :END:
+   - filestash :: A file manager / web client for SFTP, S3, FTP, WebDAV, Git,
+     Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze...
    - seafile :: C, and providing WebDAV. Saving file in blocked, so it syncs quickly.
    - Pydio :: Python.
    - owncloud :: PHP. Having a nice perference for web. Saving file as what you upload.
