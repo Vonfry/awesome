@@ -12,3 +12,10 @@
   - minix :: minial system
 * Tutors
   - [[https://github.com/justinmeiners/lc3-vm][lc3-vm]] ::  Write your own virtual machine for the LC-3 computer!
+* Filesystem
+  :PROPERTIES:
+  :ID:       39faadbe-e8ef-451e-a458-de2475dc7c8a
+  :END:
+  - btrfs ::
+  - [[https://github.com/mhx/dwarfs][dwarfs]] ::  A fast high compression read-only file system for Linux, Windows
+    and macOS
