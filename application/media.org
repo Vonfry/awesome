@@ -53,3 +53,5 @@
    - [[https://github.com/jpochyla/psst][psst]] :: Fast and multi-platform Spotify client with native GUI
    - [[https://github.com/Rigellute/spotify-tui][tui]] :: Spotify for the terminal written in Rust rocket
    - [[https://github.com/librespot-org/librespot][lib]] :: Open Source Spotify client library
+* Documentation
+  - [[https://github.com/opendatalab/MinerU/tree/master][mineru]] :: A one-stop, open-source, high-quality data extraction tool, supports PDF
