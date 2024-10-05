@@ -32,6 +32,9 @@
    :PROPERTIES:
    :ID:       02259089-06f1-40bf-ba32-4b022f54d5fe
    :END:
+   - [[https://p.ost2.fyi/][OpenSecurityTraining2]] :: OpenSecurityTraining2 is a god tier FREE resource
+     for reverse engineering, malware analysis, exploit dev, OS internals, and
+     more. Full learning paths from x86-64 to Windows kernel internals.
    - [[https://www.sans.org/][sans]] ::
    - [[https://www.offensive-security.com/][ospc]] ::
 
