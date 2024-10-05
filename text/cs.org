@@ -22,7 +22,11 @@
    :ID:       fc68fc35-3b64-4a5c-b6d1-5e7523c38724
    :END:
    - [[https://github.com/apachecn/stanford-cs183-notes][apachecn/stanford-cs183-notes]] ::
-
+* Programming bases
+  :PROPERTIES:
+  :ID:       8698c19a-1ece-4add-9fc5-0361e89ee158
+  :END:
+  - Introduction to the Theory of Computation ::
 * Category Theory
   :PROPERTIES:
   :ID:       efa440d2-c947-4f9b-b822-af25d3160d0a
