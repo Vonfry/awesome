@@ -33,6 +33,7 @@ See nixpkgs manual
   - flake-utils :: simple flake framework
   - rust-overlay ::
   - emacs-overlay ::
+  - devenv :: Fast, Declarative, Reproducible and Composable Developer Environments using Nix
 * Utils
   :PROPERTIES:
   :ID:       51d304a0-13a0-4611-a252-164d78c3ea33
