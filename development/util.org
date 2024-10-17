@@ -240,5 +240,6 @@
   :PROPERTIES:
   :ID:       1b2514ac-7007-4b88-af6e-978e83b3ea94
   :END:
+  - [[https://github.com/Nukesor/pueue][pueue]] :: Manage your shell commands
   - [[https://github.com/casey/just][just]] :: Just a command runner
   - [[https://github.com/sagiegurari/cargo-make][cargo-make]] :: Rust task runner and build tool.

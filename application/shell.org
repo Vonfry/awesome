@@ -126,8 +126,6 @@ using for daily and we have other better language for scripts, if you don't use
    See each category.
 
    Or take a look [[https://gitlab.com/Vonfry/dotfiles][mime]].
-
-
 * Awesome
   :PROPERTIES:
   :ID:       603efd4a-b79d-42b7-a109-10352e4d33d1
