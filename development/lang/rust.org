@@ -8,8 +8,10 @@
   :PROPERTIES:
   :ID:       b2286919-dd35-4b72-bdc6-04fb85054bc6
   :END:
-  The official is enough.
+  The official ones are enough.
 
+  - [[https://github.com/roogle-rs/roogle][roogle]] :: Roogle is a Rust API search engine, which allows you to search
+    functions by names and type signatures.
 * Awesome
   :PROPERTIES:
   :ID:       624532fe-6dcb-4698-87d9-5f71041d7ef0
