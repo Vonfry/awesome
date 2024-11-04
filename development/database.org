@@ -88,9 +88,10 @@
     - apache directory studio ::
     - LDAP Admin Tool ::
     - phpldapadmin ::
-* Misc
+* Utils
   :PROPERTIES:
   :ID:       e8f7650f-414d-44bb-a4b5-bc9a896503b2
   :END:
 
   - [[https://github.com/rethinkdb/rethinkdb][rethinkdb]] :: The open-source database for the realtime web. https://rethinkdb.com
+  - [[https://github.com/chartdb/chartdb][chartdb]] ::  Free and open-source database diagrams editor, visualize and design your DB with a single query.
