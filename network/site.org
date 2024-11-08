@@ -36,4 +36,5 @@
   - [[https://www.southampton.ac.uk/~cpd/history.html][timeline of the human condition]] ::
 * Wallpaper
  - [[https://wallhaven.cc/][wallhaven]]
-
+* torrent
+  - btdig.com :: this can reverse search a magnet link
