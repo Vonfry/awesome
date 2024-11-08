@@ -55,6 +55,8 @@
    :ID:       d5051a51-b7d0-4940-a88d-ca97b254af13
    :END:
    - pyo3 :: python
+   - wasm-bindgen :: wasm
+   - cbindgen :: c headers
 ** Containers
    :PROPERTIES:
    :ID:       a4926ad3-a86f-4cfb-87cb-b66bdefad1f3
