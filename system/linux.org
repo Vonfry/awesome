@@ -57,6 +57,10 @@
       be simple, fast, and secure. Singularity is optimized for compute focused
       enterprise and HPC workloads, allowing untrusted users to run untrusted
       containers in a trusted way.
+
+**** Images
+     - [[https://github.com/dockur/windows][windows]] ::  Windows inside a Docker container.
+
 ** Windows Manager
    :PROPERTIES:
    :ID:       4ff3b217-e317-4b39-a791-5fa88b3992c4
