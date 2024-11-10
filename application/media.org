@@ -45,6 +45,8 @@
   :PROPERTIES:
   :ID:       69e22d64-0eb8-4a4e-b0e8-5f04f8a35ee2
   :END:
+  - [[https://github.com/metabrainz/picard][picard]] ::  MusicBrainz Picard audio file tagger
+  - mpd :: Music player daemon
   - audacity :: Audio Player and management
 ** Spotify
    :PROPERTIES:
