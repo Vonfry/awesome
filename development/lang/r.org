@@ -1,42 +1,21 @@
-:PROPERTIES:
-:ID:       8159fd52-d870-4d5f-9a96-76e56b24e402
-:END:
 #+author: Vonfry
 #+title: R
 
 * Library
-  :PROPERTIES:
-  :ID:       90c65dd6-8e7a-4ac1-a41a-c6dad14fa468
-  :END:
 ** Funcition
-   :PROPERTIES:
-   :ID:       dc2cd791-96e5-4d76-acc3-9d3622ba815a
-   :END:
    - purrr :: A complete and consistent functional programming toolkit for R.
 ** Data Frame
-   :PROPERTIES:
-   :ID:       fffc0641-d9f2-439c-85a3-0a543f1d59b9
-   :END:
    - dplyr :: A fast, consistent tool for working with data frame like objects, both in memory and out of memory.
        - dbplyr :: database with data.frame
    - data.table :: fast version for data.frame
    - reshape ::
 
 ** String
-   :PROPERTIES:
-   :ID:       be0ce77e-8d93-4128-a7b5-f7ac95ff2cfe
-   :END:
    - stringr :: regex support and some other string action
 
 ** Export
-   :PROPERTIES:
-   :ID:       72e45cb5-12d5-4873-9d63-52f2ff710c1c
-   :END:
    - [[https://github.com/yihui/knitr][yihui/knitr]] :: A general-purpose tool for dynamic report generation in R
 ** Visualization
-   :PROPERTIES:
-   :ID:       8ce437f3-47fc-461d-b9aa-68d1f0dffd16
-   :END:
    - ggplot :: 2d
    - patchwork ::  The goal of patchwork is to make it ridiculously simple to
      combine separate ggplots into the same graphic
@@ -48,28 +27,16 @@
     - [[https://github.com/karthik/wesanderson][wasenderon]] :: A Wes Anderson color palette for R
 
 ** Math
-   :PROPERTIES:
-   :ID:       be023fc7-ff17-4149-8c22-ebef6dc0a2c4
-   :END:
    - signal :: A set of signal processing functions originally written for
      'Matlab' and 'Octave'.
    - mosaic :: Description Data sets and utilities from Project [[http://mosaic-web.org][MOSAIC]]
      used sed to teach mathematics, statistics, computation and modeling. Funded
      by the NSF, Project MOSAIC is a community of educators working
 ** Performance
-   :PROPERTIES:
-   :ID:       33e53be9-3b14-4385-9a8c-1b72b65438e6
-   :END:
    - microbenchmark :: benchmark
 * Awesome
-  :PROPERTIES:
-  :ID:       164d40e5-6040-4da5-bb94-67a554c9a5a9
-  :END:
   - [[https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages][quick list of useful packages]] ::
   - [[https://github.com/qinwf/awesome-R][awesome]] ::
 
 * Cheat
-  :PROPERTIES:
-  :ID:       d67e2cc3-d559-455c-804b-a2fef1b81176
-  :END:
   - [[https://github.com/rstudio/cheatsheets][rstudio cheatsheet]] ::

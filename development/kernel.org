@@ -1,31 +1,13 @@
-:PROPERTIES:
-:ID:       855f7f6c-580b-43b4-bd10-3b82a16096da
-:END:
 #+title: Kernel
 
 * Tution
-  :PROPERTIES:
-  :ID:       77167ad7-3042-4e13-96d6-cd1ee9daa903
-  :END:
   - [[https://github.com/cfenollosa/os-tutorial][os-tutorial]]
 * Dos
-  :PROPERTIES:
-  :ID:       dfe47a80-734c-449e-907b-2bc77f21f63e
-  :END:
 ** Sorcue
    - [[https://github.com/Microsoft/MS-DOS][MS-DOS]] ::
 * Linux
-  :PROPERTIES:
-  :ID:       d85c0825-250b-4a14-b9c1-7df692b9217f
-  :END:
 ** Cheat
-   :PROPERTIES:
-   :ID:       86533901-f89c-4398-88d7-eccb3d0dd72d
-   :END:
    - [[https://github.com/cirosantilli/linux-kernel-module-cheat][cirosantilli/linux-kernel-module-cheat]] ::
 
 ** Source
-   :PROPERTIES:
-   :ID:       eb9ea808-5f4f-4da3-a8df-509f4e2ce0e7
-   :END:
    - [[http://lxr.linux.no][lxr]] :: the linux cross reference, and a online [[https://elixir.bootlin.com/linux/latest/source][one]].

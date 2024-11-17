@@ -1,31 +1,16 @@
-:PROPERTIES:
-:ID:       ea5f732b-1775-449d-9435-7ed891f60aa1
-:END:
 #+title: Game
 #+author: Vonfry
 
 
 * Roadmap
-  :PROPERTIES:
-  :ID:       14f6adbe-9f30-4489-b1f5-cd20d0ed96d1
-  :END:
  - [[https://github.com/miloyip/game-programmer][roadmap]] ::
 * Engine
-  :PROPERTIES:
-  :ID:       c7b41f58-e533-4051-975c-84395f74f907
-  :END:
 ** 3D
-   :PROPERTIES:
-   :ID:       6c9c6777-2562-4c27-9ed4-fd6368e70782
-   :END:
    - [[https://github.com/OGRECave/ogre][ogre]] :: scene-oriented, flexible 3D engine written in C++ - official github mirror
    - godot ::
    - unity3d ::
-     + [[https://github.com/Live2D/CubismUnityComponents][Cubism]] :: live2d
+       + [[https://github.com/Live2D/CubismUnityComponents][Cubism]] :: live2d
    - [[https://github.com/mangos/MaNGOS][mangos]] :: old engine, just take a look to learn.
 
 ** 2D
-   :PROPERTIES:
-   :ID:       942f5d6f-f3a8-4699-9fd4-031c1481b1d3
-   :END:
    - [[https://github.com/krkrz/krkrz][krkrz]] :: galgame

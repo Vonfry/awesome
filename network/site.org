@@ -1,21 +1,12 @@
-:PROPERTIES:
-:ID:       d86279bd-315c-4288-94de-81cac4a4919b
-:END:
 #+title: Site
 
 * Interesting
-  :PROPERTIES:
-  :ID:       99deb3e4-84fd-4252-b4f8-220bad0062a2
-  :END:
   - [[http://animatedengines.com/][animated]] :: animated engines
   - [[http://make.girls.moe/][makegirlsmoe_web]] :: Create Anime Characters with MakeGirlsMoe
   - [[https://github.com/1j01/98][1j01/98]] :: Windows 98 simulator online (web-based recreation)
   - [[https://usenothing.com/][nothing]] :: Ease your mind. Settle into silence. And simply do nothing.
 
 * Util
-  :PROPERTIES:
-  :ID:       fc605ed3-6e5a-4d25-a544-b2a6df37e42d
-  :END:
   - [[archive.org][archive]] :: Internet Archive is a non-profit digital library offering free universal access to books, movies & music, as well as 327 billion archived web pages...
   - [[https://github.com/thedevs-network/kutt][kutt]] :: custom url shortener
   - [[https://github.com/badges/shields][shields]] :: Concise, consistent, and legible badges in SVG and raster format
@@ -24,15 +15,9 @@
   - [[https://hastebin.com/about.md][hastebin]] :: text sharing
   - [[https://www.privacytools.io/][privacytools]] :: a site to show pricavy of tools
 * Foundation
-  :PROPERTIES:
-  :ID:       3b27e498-e719-4ded-afc9-8bbf9a9cbe93
-  :END:
   - [[https://www.iana.org/][iana]] :: The global coordination of the DNS Root, IP addressing, and other Internet protocol resources is performed as the Internet Assigned Numbers Authority (IANA) functions. Learn more.
   - [[https://www.ietf.org/standards/rfcs/][rfcs]] :: Memos in the RFC document series contain technical and organizational notes about the Internet.
 * History
-  :PROPERTIES:
-  :ID:       f466b20d-8cda-4478-8eeb-9f613b35b802
-  :END:
   - [[https://www.southampton.ac.uk/~cpd/history.html][timeline of the human condition]] ::
 * Wallpaper
  - [[https://wallhaven.cc/][wallhaven]]

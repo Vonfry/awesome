@@ -1,21 +1,12 @@
-:PROPERTIES:
-:ID:       3f4301af-7176-441a-bcb5-d109401fafac
-:END:
 #+TITLE: Misc
 #+AUTHOR: Vonfry
 
 * Instresting Project
-  :PROPERTIES:
-  :ID:       3e5bae35-04c1-4c69-9f75-ff78bada8a1d
-  :END:
   - [[https://github.com/64/ByteOS][byteos]] :: A simple hobby operating system for the x86_64 architecture, written in C.
   - minix :: minial system
 * Tutors
   - [[https://github.com/justinmeiners/lc3-vm][lc3-vm]] ::  Write your own virtual machine for the LC-3 computer!
 * Filesystem
-  :PROPERTIES:
-  :ID:       39faadbe-e8ef-451e-a458-de2475dc7c8a
-  :END:
   - btrfs ::
   - [[https://github.com/mhx/dwarfs][dwarfs]] ::  A fast high compression read-only file system for Linux, Windows
     and macOS

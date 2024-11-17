@@ -1,13 +1,7 @@
-:PROPERTIES:
-:ID:       17cc65cd-5b30-4216-aceb-9e55923d18fb
-:END:
 #+title: Build
 #+author: Vonfry
 
 * Universal
-  :PROPERTIES:
-  :ID:       a77ade2b-eaff-4d9f-a9e1-edd78d84d7e9
-  :END:
   - make ::
   - automake ::
   - nix ::
@@ -23,7 +17,4 @@
       + [[https://github.com/berberman/nvfetcher][nvfetcher]] :: Generate nix sources expr for the latest version of packages
       + [[https://github.com/lilydjwg/nvchecker][nvchecker]] :: New version checker for software releases
 * Mobile
-  :PROPERTIES:
-  :ID:       e7198447-12ab-4d0d-9deb-d893dd0c7170
-  :END:
   - [[https://github.com/fastlane/fastlane][fastlane]] ::

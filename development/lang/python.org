@@ -1,25 +1,13 @@
-:PROPERTIES:
-:ID:       842fce0c-9da5-4178-95b6-84a19d4cbbb3
-:END:
 #+TITLE: Python
 #+AUTHOR: Vonfry
 
 * Compiler
-  :PROPERTIES:
-  :ID:       ec6f34e3-68a0-454b-98c2-c6d58b6fe94b
-  :END:
   python 3 is better than 2, which provide more morden designing.
 
 * Coding Style
-  :PROPERTIES:
-  :ID:       ea88c2cb-7c8b-4565-98fc-a34280e467ea
-  :END:
   - [[https://www.python.org/dev/peps/pep-0008/][PEP8]] :: It is too strict, but useful. A tool named ~flake8~ can check it.
 
 * Tool Chain
-  :PROPERTIES:
-  :ID:       02eb65b6-1de0-4a1f-8c29-bf98ba8975cd
-  :END:
   - pip ::
   - setuptools ::
   - wheel ::
@@ -44,66 +32,36 @@
   - [[https://github.com/python-poetry/poetry][poetry]] :: a dependency management
 
 * Editor
-  :PROPERTIES:
-  :ID:       363af81f-1763-45d0-8457-f6f75c1cc133
-  :END:
   - [[https://ryven.org/][ryven]] :: Flow-based visual scripting for Python. A simple and powerful
     visual nodes editor for Python, and a framework for building nodes executing
     any Python code.
 * Partice
-  :PROPERTIES:
-  :ID:       61ece8de-19c3-4262-bf2d-3f1208f8d09e
-  :END:
  - [[https://github.com/coells/100days][100days]] ::
 
 * Library
-  :PROPERTIES:
-  :ID:       6aa5b701-d0fe-454f-8c1e-6094172e8cc5
-  :END:
 
 ** AI
-   :PROPERTIES:
-   :ID:       4d5acc46-11a2-4e21-af71-18e2e641b8c4
-   :END:
 *** ML
     - tensorflow ::
       - [[https://github.com/astorfi/TensorFlow-World][tensorflow-world]] :: Simple and ready-to-use tutorials for TensorFlow
     - pytorch ::
 ** Web
-   :PROPERTIES:
-   :ID:       75434569-41e8-43b2-9c66-c0411ab6c88e
-   :END:
 *** Framework
     - flask :: The Python micro framework for building web applications.
     - django ::
 
 ** Music
-   :PROPERTIES:
-   :ID:       2b044f0e-2835-4870-91d4-88d7adf59662
-   :END:
    - [[https://github.com/Rainbow-Dreamer/musicpy][musicpy]] :: Musicpy is a music programming langauge designed to write music
      in very handy syntax for musicians
 
 ** Visualization
-   :PROPERTIES:
-   :ID:       0bdb2376-e278-4444-a20c-4b01f2242c63
-   :END:
    - [[https://github.com/3b1b/manim][manim]] :: Animation engine for explanatory math videos
 ** Test
-   :PROPERTIES:
-   :ID:       b97482e5-0a42-403f-8448-9def3f87e724
-   :END:
    - pytest ::
 ** Document
-   :PROPERTIES:
-   :ID:       01899098-9133-4199-aa5c-c42a49642ae0
-   :END:
    - sphinx ::
-     - sphinx-rtd-theme ::
+       - sphinx-rtd-theme ::
 ** Model
-   :PROPERTIES:
-   :ID:       b8ec6ea7-c1ea-49f3-81a1-96275ce63514
-   :END:
    - pydantic :: Data validation using Python type hints
 ** Embedded Lang
    - [[https://github.com/hylang/hy][hy]] :: A dialect of Lisp that's embedded in Python

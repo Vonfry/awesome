@@ -1,35 +1,20 @@
-:PROPERTIES:
-:ID:       6ac6c708-431c-4cba-b50b-fe8b656df937
-:END:
 #+TITLE: CS
 #+AUTHOR: Vonfry
 
 * Summary
-  :PROPERTIES:
-  :ID:       f07e1b2f-2a06-478c-8fb5-571694b63884
-  :END:
   - [[https://github.com/sarabander/sicp][sicp]] :: HTML5/EPUB3 version of SICP
   - [[https://github.com/missing-semester-cn/missing-semester-cn.github.io][missing-semester-cn]] :: *HIGH RECOMMENDED* The Missing Semester of Your CS Education.
   - [[http://www.learnenough.com][learnenugh]] :: Talking about something a programmer needs but not necessary. These can make you doing things more interesting.
 ** Chinese
    - [[https://github.com/it-ebooks/it-ebooks-archive][ebook]] ::
 * Course
-  :PROPERTIES:
-  :ID:       b4846f51-02a4-43ec-af8d-8b999fe0757e
-  :END:
 ** Note
-   :PROPERTIES:
-   :ID:       fc68fc35-3b64-4a5c-b6d1-5e7523c38724
-   :END:
    - [[https://github.com/apachecn/stanford-cs183-notes][apachecn/stanford-cs183-notes]] ::
 * Programming bases
-  :PROPERTIES:
-  :ID:       8698c19a-1ece-4add-9fc5-0361e89ee158
-  :END:
   - Introduction to the Theory of Computation ::
 * Category Theory
   :PROPERTIES:
-  :ID:       efa440d2-c947-4f9b-b822-af25d3160d0a
+  :CUSTOM_ID: category_theroy
   :END:
   - Category Theory for Computer Science(michael barr) ::
   - Category Theory(Awodey) ::
@@ -42,14 +27,8 @@
   - category theory in context ::
 
 * Programming Language
-  :PROPERTIES:
-  :ID:       a61ddef7-58a9-4f05-aeca-fe70e67a931d
-  :END:
 
 ** Type theory
-   :PROPERTIES:
-   :ID:       a7d32853-23f7-417f-b63f-9df2968b987c
-   :END:
    - [[https://github.com/steshaw/plt][plt]] :: Programming Language Theory λΠ
    - [[https://steshaw.org/plt/][book list]] ::
    - concepts of programming languages ::
@@ -59,19 +38,10 @@
    - [[https://homotopytypetheory.org/book/][HoTT book]] ::
    - [[https://www.haskellforall.com/2022/05/introductory-resources-to-type-theory.html][Introductory resources to type theory for language implementers]] :: a blog
 ** Interpretation
-   :PROPERTIES:
-   :ID:       30d450c4-8dc1-4c28-9920-93c1e2071d0b
-   :END:
    - [[https://www.plai.org/][plai]] :: Programming Languages: Application and Interpretation
    - Essentials of Programming Languages ::
 * Calculus
-  :PROPERTIES:
-  :ID:       d01b618a-c558-4659-af7d-920dadf9bc6c
-  :END:
 ** Lambda
-   :PROPERTIES:
-   :ID:       0c2c5a8a-fa1c-43c8-b681-66f0ec247d91
-   :END:
    - [[http://goodmath.blogspot.com/][bad math or good math]] ::
 
 *** translate
@@ -84,24 +54,12 @@
     [[http%3A//cgnail.github.io/academic/lambda-7/][- 终章，Lambda演算建模——程序即证明！ · cgnail's weblog]] ::
 
 ** Logic
-   :PROPERTIES:
-   :ID:       5ee91fbd-8ed8-4f91-b640-147456d16adb
-   :END:
    - [[https://softwarefoundations.cis.upenn.edu/current/index.html][software foundation]] ::
 * Execrise
-  :PROPERTIES:
-  :ID:       97184ba4-bdb0-4f35-86d2-73c276b9dec0
-  :END:
   - [[https://cscx.org/][cscx]] :: cs by examples
 * Programming Traits
-  :PROPERTIES:
-  :ID:       c8a490c2-124d-4dd1-9c19-271d5af81e79
-  :END:
   - [[https://graphics.stanford.edu/~seander/bithacks.html][bit hacks]]
 * Awesome
-  :PROPERTIES:
-  :ID:       6c88cf97-66a0-47df-9121-2f6884a660a4
-  :END:
   - [[https://www.bottomupcs.com/][Bottom Up Computer Science]] :: [[https://github.com/ianw/bottomupcs][source]], [[https://web.archive.org/web/20210430003222/https://www.bottomupcs.com/][archive]]
   - [[https://github.com/papers-we-love/papers-we-love][paper-we-loves]] :: Papers from the computer science community to read and discuss.
   - [[https://github.com/EbookFoundation/free-programming-books][free programming books]] ::

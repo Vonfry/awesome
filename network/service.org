@@ -1,51 +1,27 @@
-:PROPERTIES:
-:ID:       f18a0a56-bbec-420a-b264-64eff0dbe931
-:END:
 #+title: Service
 * VLAN
-  :PROPERTIES:
-  :ID:       3123ec95-c2de-4ee9-9851-751e1957a07b
-  :END:
   - zerotier ::
   - tailscale ::
   - ngrok ::
   - [[https://github.com/inlets/inlets][inlets]] :: Cloud Native Tunnel for APIs
   - localtunnel ::
 * IM
-  :PROPERTIES:
-  :ID:       2a418fc2-672a-4cf8-a260-dc72826acefe
-  :END:
 ** IRC
-   :PROPERTIES:
-   :ID:       1e434db2-954c-4dc6-afe8-4c8c9aa4a6e0
-   :END:
    - liberachat
    - freenode
 ** Morden
-   :PROPERTIES:
-   :ID:       a7b34516-4294-474d-889f-9c8d5ec0957b
-   :END:
    - [[matrix.org][Matrix]] :: An open network for secure, decentralized communication.  This can
      be self-hosted.
 
 * Transfer / Synchronization
-  :PROPERTIES:
-  :ID:       fdb9ba2a-52ce-43df-b52b-2129574556a4
-  :END:
   Self host file sever.
 
 ** commercial
-   :PROPERTIES:
-   :ID:       fc4f97f0-bb4a-4970-b74c-2cc7ffcaa7cf
-   :END:
    - Dropbox ::
    - Google drive ::
    - pcloud ::
 
 ** Self host
-   :PROPERTIES:
-   :ID:       77b8c019-3d94-415b-af35-f84503dcd81a
-   :END:
    - filestash :: A file manager / web client for SFTP, S3, FTP, WebDAV, Git,
      Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze...
    - seafile :: C, and providing WebDAV. Saving file in blocked, so it syncs quickly.
@@ -58,7 +34,7 @@
    - Samba :: Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol
 * Selfhost
   :PROPERTIES:
-  :ID:       6a798127-176b-44b1-8913-a865a9d223dc
+  :CUSTOM_ID: selfhost
   :END:
   - [[https://github.com/Kickball/awesome-selfhosted][selfhosted]] ::
   - [[https://github.com/porn-vault/porn-vault][porn vault]] ::  Manage your ever-growing porn collection. Using Vue & GraphQL
@@ -66,9 +42,6 @@
    - [[https://github.com/ceph/ceph][ceph]] ::
    - minio ::
 * Blog
-  :PROPERTIES:
-  :ID:       1f01268e-4eac-4551-a730-5d41311fdb70
-  :END:
 ** Dynamic
    - wordpress
 ** Static

@@ -1,20 +1,11 @@
-:PROPERTIES:
-:ID:       31124768-e7f5-4667-bb6f-68b43f7c04ba
-:END:
 #+title: Analyzer
 
 * Web Log
-  :PROPERTIES:
-  :ID:       32e114cf-3abf-45f8-88c5-bb9004a030a3
-  :END:
   - goaccess :: A real-time web log analyzer and interactive viewer that runs in a terminal
   - rhit :: nginx log reader
-  - more :: see [[id:6a798127-176b-44b1-8913-a865a9d223dc][selfhost]]
+  - more :: see [[file:service.org::#selfhost][selfhost]]
 
 * Security
-  :PROPERTIES:
-  :ID:       3e93f5be-2201-4cd0-8eef-1c45aa28ad83
-  :END:
   - nmap :: port scan
   - nessus :: A remote security scanner
   - snort :: Snort is an intrusion prevention system, network monitor, and alert
@@ -31,18 +22,9 @@
     high performance, packet-processing stack that can run on commodity CPUs.
 
 * Social
-  :PROPERTIES:
-  :ID:       f1cdad42-6dde-4a7b-92e5-4ec1c7f7fef6
-  :END:
   - [[https://github.com/qeeqbox/social-analyzer][social analyzer]] :: OSINT
 * Agent
-  :PROPERTIES:
-  :ID:       7f4581da-5b15-43c8-a8fd-80d664d18dec
-  :END:
   - [[https://github.com/huginn/huginn][huginn]] :: Create agents that monitor and act on your behalf. Your agents are standing by!
 * Speed
-  :PROPERTIES:
-  :ID:       d5aa4feb-3c01-4223-9e72-8503755a889d
-  :END:
   - speedtest-cli ::
   - iperf ::

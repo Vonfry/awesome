@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       f06b29d0-2566-475d-83d2-f7a519c01f13
-:END:
 #+TITLE: Windows
 #+AUTHOR: Vonfry
 

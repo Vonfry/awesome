@@ -1,19 +1,10 @@
-:PROPERTIES:
-:ID:       8b34ae27-42a9-43e0-8005-0b6c2b511127
-:END:
 #+title: Utils
 #+author: Vonfry
 
 * Audit
-  :PROPERTIES:
-  :ID:       af7a3d62-b879-463b-85f2-5e59bb415eb6
-  :END:
   - rats ::
   - understand ::
 * Cheatsheet
-  :PROPERTIES:
-  :ID:       33a8fb9d-b41c-49d6-81b7-6f688782a869
-  :END:
   - [[https://programming-idioms.org/][programming idioms]] :: In this website you can browse standard ways of
     coding standard things, in several popular programming languages.
 ** Awesome
@@ -21,53 +12,32 @@
    - [[https://github.com/rstacruz/cheatsheets][rstacruz/cheatsheets]] ::
    - [[https://github.com/detailyang/awesome-cheatsheet][detailyang/awesome-cheatsheet]] :: another sheet
 * Code Review
-  :PROPERTIES:
-  :ID:       e835cfe7-a4c4-48ae-a38b-ce0f2ac0814e
-  :END:
   - Phabricator ::
 * Colorscheme
-  :PROPERTIES:
-  :ID:       b931b66a-9f3f-4c01-b956-a9cc531a2990
-  :END:
   - [[https://github.com/altercation/solarized][altercation/solarized]] :: My love!
-    - [[https://github.com/thomasf/solarized-css][css]] ::
+      - [[https://github.com/thomasf/solarized-css][css]] ::
   - dracula ::
   - tomorrow ::
   - one :: provide by atom
 * Debug
-  :PROPERTIES:
-  :ID:       5a20765d-0760-402d-90d0-da3a6c2415e4
-  :END:
   - strace :: A useful diagnostic, instructional, and debugging tool
   - [[https://github.com/GaloisInc/macaw][macaw]] :: Open source binary analysis tools.
   - valgrind :: performance analyzer
   - [[https://github.com/google/sanitizers][google/sanitizers]] :: AddressSanitizer, ThreadSanitizer, MemorySanitizer
   - [[https://github.com/opcm/pcm][pcm]] :: Processor Counter Monitor
 * Diff
-  :PROPERTIES:
-  :ID:       45ee1e5b-8fd8-4f26-aa13-01e79f4cb57c
-  :END:
   - diff/colordiff ::
   - vimdiff ::
   - meld ::
 * Doc
-  :PROPERTIES:
-  :ID:       e345a0f5-d73e-4311-b943-076fc60ffcc7
-  :END:
   - [[https://devdocs.io][devDocs]] ::
   - [[https://apps.gnome.org/Devhelp/][devhelp]] :: a developer tools for browsing and searching api
     document. Written in gtk.
   - [[https://zealdocs.org/][zeal]] :: linux & windows
   - [[https://kapeli.com/dash][dash]] :: macos
 * English
-  :PROPERTIES:
-  :ID:       cc63c4cf-9e47-496e-a2c8-7f826753e568
-  :END:
   - [[https://github.com/shimohq/chinese-programmer-wrong-pronunciation][wrong pronunciation]] ::
 * Keyboard
-  :PROPERTIES:
-  :ID:       9b00f200-202a-4cfb-93d2-f9414bf7d398
-  :END:
   - hhkb ::
   - code keyboard ::
   - x-bows nature ::
@@ -79,35 +49,23 @@
   - [[https://github.com/diimdeep/awesome-split-keyboards][split keyboards]] :: awesome list
 * Lang Server Protocol
   :PROPERTIES:
-  :ID:       05f07be6-d484-4ba5-a59a-62c5d779e5f4
+  :CUSTOM_ID: lsp
   :END:
   [[https://microsoft.github.io/language-server-protocol/specification][langserver]] is a protocol used  between a tool (the client) and a language smartness provider (the server) to integrate features like auto complete, go to definition, find all references and alike into the tool
 
   [[http://langserver.org/][langserver suuport list]]
 * Mirror
-  :PROPERTIES:
-  :ID:       fa5230b4-02a4-43e0-bf63-11b2d41f4a0b
-  :END:
  - [[https://mirrorz.org/][mirror list]] ::
 ** Chinese
    - [[https://mirrors.sjtug.sjtu.edu.cn/][sjtu]] ::
    - [[https://mirrors.tuna.tsinghua.edu.cn/][tuna]] ::
    - [[http://mirrors.ustc.edu.cn/][ustc]] ::
 * Parsing
-  :PROPERTIES:
-  :ID:       8d28e2f8-ba46-4d2d-9fdb-9fdfdb5f9e94
-  :END:
   - [[https://github.com/tree-sitter/tree-sitter][tree-sitter]] :: An incremental parsing system for programming tools
 * Roadmap
-  :PROPERTIES:
-  :ID:       7532327a-4742-49b2-bd51-aa644795e3b8
-  :END:
   - [[https://github.com/kamranahmedse/developer-roadmap][developer roadmap]] ::
 
 * Diagram
-  :PROPERTIES:
-  :ID:       88948120-6a2d-47f2-b846-4cbc69f903cb
-  :END:
   - [[https://github.com/terrastruct/d2][d2]] ::  D2 is a modern diagram scripting language that turns text to diagrams.
   - graphviz ::
   - plantuml ::
@@ -122,20 +80,11 @@
      to flow charts—automatically! Draw flow charts with your mouse. View and
      print charts or export to Visio.
 * Regex
-  :PROPERTIES:
-  :ID:       191693bb-3b3b-4fab-a283-2d55a25dbcc6
-  :END:
   - [[https://github.com/cdoco/common-regex][common regex]] ::
   - [[https://grep.app/][grep.app]] :: search repo online
 
 * VCS
-  :PROPERTIES:
-  :ID:       8f5dc50d-785a-435c-b18f-de4d6a4a5d3b
-  :END:
 ** Git
-   :PROPERTIES:
-   :ID:       fe5eed0d-d8f6-4acb-b8f2-be0ebae3c26d
-   :END:
 
    Stupid content tracker: distributed VCS designed for speed and efficiency.
 
@@ -183,9 +132,6 @@
     - gitignore.io ::
 
 ** Darcs
-   :PROPERTIES:
-   :ID:       80bfe735-7b66-47cc-ac82-34b11e28e02d
-   :END:
 
    coded in haskell
 
@@ -193,14 +139,8 @@
     - [[https://hub.darcs.net/][darcs-hub]] ::
 
 ** Svn
-   :PROPERTIES:
-   :ID:       a65bce25-d563-46c1-9000-b0fe0ebff289
-   :END:
    not distributed, so there is little coyies. Easily to use for non-programers, which provide a default web interface.
 ** Misc
-   :PROPERTIES:
-   :ID:       8b9d2d4d-3703-491f-9413-809d7ac6fd01
-   :END:
 
    See [[https://www.slant.co/topics/370/~best-version-control-systems][here]].
 
@@ -208,9 +148,6 @@
   - [[https://www.musicforprogramming.net/][music for programming]] ::
 
 * Font
-  :PROPERTIES:
-  :ID:       08ff9b81-bac1-4e73-a96e-b25c5cbd5cfb
-  :END:
   - [[https://www.recursive.design/][recursive]]
   - [[https://www.monolisa.dev/][monalisa]]
   - [[https://github.com/source-foundry/Hack][hack]]
@@ -220,9 +157,6 @@
   - Roboto Mono
 
 * Data Format
-  :PROPERTIES:
-  :ID:       23bb4fbe-c68f-4606-b555-f2af2c4e633e
-  :END:
   - [[https://github.com/AykutSarac/jsoncrack.com][jsoncrack]] :: Innovative and open-source visualization application that
     transforms various data formats, such as JSON, YAML, XML, CSV and more, into
     interactive graphs
@@ -234,17 +168,11 @@
   - hdf5
 
 * Visualization
-  :PROPERTIES:
-  :ID:       043c7211-3605-4f20-9168-f8bc2b41c228
-  :END:
   - gephi :: Gephi is a tool for data analysts and scientists keen to explore
     and understand graphs
 
 
 * Task runner
-  :PROPERTIES:
-  :ID:       1b2514ac-7007-4b88-af6e-978e83b3ea94
-  :END:
   - [[https://github.com/Nukesor/pueue][pueue]] :: Manage your shell commands
   - [[https://github.com/casey/just][just]] :: Just a command runner
   - [[https://github.com/sagiegurari/cargo-make][cargo-make]] :: Rust task runner and build tool.

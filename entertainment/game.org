@@ -1,33 +1,18 @@
-:PROPERTIES:
-:ID:       57064a17-a8e7-433a-907a-94c444b0c65b
-:END:
 #+TITLE: Game
 #+AUTHOR: Vonfry
 
 * OSU
-  :PROPERTIES:
-  :ID:       1d93de88-d7d0-45d5-9b0b-8241ebac854c
-  :END:
   rhythm is just a *click* away!
 
   [[https://github.com/ppy/osu][source]]
 
 * Galgame
-  :PROPERTIES:
-  :ID:       9f64140c-27ac-4b85-93d6-122a846affd2
-  :END:
   - 素晴日 ::
   - 青空下的加缪 ::
   - 樱之诗 ::
 
 * Censorship
-  :PROPERTIES:
-  :ID:       647a672f-c4ef-4699-bafd-cea9175af4ee
-  :END:
   - [[https://github.com/cnnblike/discord-lite][cnnblike/discord-lite]] :: A solution to censorship on mobile game in Mainland China
 
 * Steam
-  :PROPERTIES:
-  :ID:       271544ec-5f34-4918-9340-6e72569ac261
-  :END:
   - [[https://github.com/gibbed/SteamAchievementManager][steam achievement manager]]

@@ -1,17 +1,8 @@
-:PROPERTIES:
-:ID:       b47cd194-8cd7-4c3c-92ca-4bb5f01ec780
-:END:
 #+title: Reading
 * General
-  :PROPERTIES:
-  :ID:       5c409498-6fc1-498c-ab98-11562e63d859
-  :END:
   - [[https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way][how to ask questino the smart way]]
   - [[https://cse.buffalo.edu/~rapaport/howtostudy.html][how to study]]
 * Literature
-  :PROPERTIES:
-  :ID:       b380fa4c-efc9-4994-97a0-37a916024673
-  :END:
   - 银河铁道之夜 ::
   - 周易 ::
   - 易经杂说 :: 南怀瑾
@@ -30,9 +21,6 @@
   - 把栏杆拍遍 ::
 
 ** Poetry
-   :PROPERTIES:
-   :ID:       5f034ae9-9a83-430e-a8d8-b3a8ae849a2e
-   :END:
 *** Chinese
 **** [[https://github.com/chinese-poetry/chinese-poetry][chinese-poetry]]
      - 诗韵格律 ::
@@ -42,9 +30,6 @@
     - 宫沢贤治 ::
 
 * Biography
-  :PROPERTIES:
-  :ID:       80b822f2-3f18-4a07-b07e-3c5e69abae57
-  :END:
   - 乔布斯传 ::
   - 乔纳森传 ::
   - 人月神话 ::
@@ -58,49 +43,25 @@
   - 只是为了好玩 :: Linus
 
 * Mathematics
-  :PROPERTIES:
-  :ID:       488e8cbf-425f-43ba-ae18-33b2460e209e
-  :END:
   - 用数学的眼光看世界 ::
 ** Roadmap
-   :PROPERTIES:
-   :ID:       bc565bca-fdb4-4962-abad-88c1dae185f5
-   :END:
    - [[https://mathmap.quantamagazine.org/map/][map]] :: the map of mathematics, [[https://web.archive.org/web/20210127023729/https://mathmap.quantamagazine.org/map/][archive]]
 ** Logic
-   :PROPERTIES:
-   :ID:       692ce23b-03fa-421c-a8d8-a444f0fa7416
-   :END:
    - 数理逻辑导引 ::
    - 符号逻辑讲义 ::
 ** Set Theory
-   :PROPERTIES:
-   :ID:       d3b73729-7c7a-4267-a580-251f8db368a1
-   :END:
    - Set Theory :: by Thomas Jech
 ** Group Theory
-   :PROPERTIES:
-   :ID:       9495a62d-48e8-40f9-aa1f-c7f08e1187e7
-   :END:
    - Abstract algebra ::
    - Visual group theroy ::
 ** Category Theory
-   :PROPERTIES:
-   :ID:       fff9ad25-e1cf-49ac-aa36-9d3837d07b07
-   :END:
-   see [[id:efa440d2-c947-4f9b-b822-af25d3160d0a][CS/Category Theory]]
+   see [[file:cs.org::#category_theroy][CS/Category Theory]]
 * Physics
-  :PROPERTIES:
-  :ID:       0140ff1a-94db-44c3-bad6-9e13d9ac745e
-  :END:
 ** Primary
    - 平等宇宙 ::
    - 自然哲学的数学原理 ::
    - 费曼物理讲义 ::
 * Misc
-  :PROPERTIES:
-  :ID:       c72d29da-dc83-4d4d-8eb2-53620cf96b99
-  :END:
   - 精神分析引论 ::
   - 梦的解析 ::
   - 性学三论 ::
@@ -108,20 +69,11 @@
   - On Aggressive ::
   - 论有学识的无知 ::
 * Philosophy
-  :PROPERTIES:
-  :ID:       0acdc03b-9033-4967-8bf9-9866589ef4cd
-  :END:
 ** Primary
-   :PROPERTIES:
-   :ID:       b8bd3157-8c2a-40ef-ae52-a0d452cf29c6
-   :END:
    - 你的第一本哲学书 ::
    - 苏菲的世界 ::
 
 ** Logic
-   :PROPERTIES:
-   :ID:       c7d68f31-0908-4df9-a3ac-5e769ddf2fcb
-   :END:
    - 逻辑哲学论 ::
    - 《逻辑哲学论》研究 :: 韩林合
    - 世界的逻辑构造 ::
@@ -130,9 +82,6 @@
    - 罗素 ::
 
 ** Misc
-   :PROPERTIES:
-   :ID:       6dc6a4a5-f0f8-41c8-a905-339c35a5be52
-   :END:
    - 存在与虚无 ::
    - 中国哲学简史 :: 冯友兰
    - 查拉图斯特拉如是说 ::

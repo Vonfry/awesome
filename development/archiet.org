@@ -1,18 +1,9 @@
-:PROPERTIES:
-:ID:       1eaf5817-834f-45f9-b00a-82634eac28d3
-:END:
 #+TITLE: Architecth
 #+AUTHOR: Vonfry
 
 * Awesome
-  :PROPERTIES:
-  :ID:       92af9a9c-cce0-44a4-bb88-de084ea1eab7
-  :END:
   - [[https://github.com/xingshaocheng/architect-awesome][xingshaocheng/architect-awesome]] ::
 * General
-  :PROPERTIES:
-  :ID:       0c00e315-fa7f-4065-bb75-c5c72a49867e
-  :END:
   - [[https://colin-scott.github.io/personal_website/research/interactive_latency.html][Latency Numbers Every Programmer Should Know]] ::
   - [[https://eater.net/8bit][build an 8 b ticomputer from scratch]]
 * Quantum

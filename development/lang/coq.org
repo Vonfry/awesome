@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       fc1e77d6-24e5-4504-908d-04bb71f7206b
-:END:
 #+author: Vonfry
 #+title: Coq
 
@@ -10,9 +7,6 @@ assertions, helps to find formal proofs, and extracts a certified program from
 the constructive proof of its formal specification.
 
 * Offcial
-  :PROPERTIES:
-  :ID:       62db72d7-6c72-41dd-8b15-ec01cc38e676
-  :END:
 
   - [[https://coq.inria.fr][website]] :: A released pdf or current refl can be found in document page.
 
@@ -24,9 +18,6 @@ the constructive proof of its formal specification.
    - [[https://github.com/ProofGeneral/PG][emacs plugins]] ::
 
 * Library
-  :PROPERTIES:
-  :ID:       5a57b029-7b98-4896-8383-a0ad5e27a9d9
-  :END:
   - math-comp ::
 ** Convertor
    - hs-to-coq :: Convert Haskell source code to Coq source code.

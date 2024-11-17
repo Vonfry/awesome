@@ -1,70 +1,37 @@
-:PROPERTIES:
-:ID:       e72ff155-eb79-44ca-8f3e-d9494bb1151e
-:END:
 #+TITLE: Text
 #+AUTHOR: Vonfry
 
 * Converter
-  :PROPERTIES:
-  :ID:       c1ea0b87-03e5-483a-9d97-fc06fa1eaaa2
-  :END:
   - [[http://www.pandoc.org/][pandoc]] :: A tool is written in haskell, which can general markdown, tex, rst and other files to pdf, html, or others.
 
 * Typing
-  :PROPERTIES:
-  :ID:       cb1378cf-0ddb-40ff-87bd-5f435818ee7e
-  :END:
   - [[https://www.typingclub.com/][typingclub]]
 
 * Export style
-  :PROPERTIES:
-  :ID:       da97eace-69dc-4121-9e49-f59d60a8aa2c
-  :END:
   export pure text document to html or other file type with beautiful style.
   - [[https://github.com/gongzhitaao/orgcss][orgcss]] ::
 * Format / Markup
-  :PROPERTIES:
-  :ID:       7fce8e13-b895-4e0d-bd51-033784b84a7b
-  :END:
 ** tex
-   :PROPERTIES:
-   :ID:       c5bff091-a950-4738-a451-de47a1a5d2bf
-   :END:
 *** Tutor
-    :PROPERTIES:
-    :ID:       d77d1a15-0f2d-429d-a7e4-d922a37005c0
-    :END:
     These are for plain tex, such as some basic macro like ~\ifnum~.
     - [[https://mirrors.rit.edu/CTAN/info/impatient/][impatient]] ::
     - [[https://ctan.math.illinois.edu/info/texbytopic/][tex by topic]] ::
     - [[http://www-sop.inria.fr/marelle/tralics/doc-w.html#cmd-whiledo][latex command]] ::
 *** Compile
-    :PROPERTIES:
-    :ID:       989698cc-83fa-482b-8bec-d586b3fa5466
-    :END:
     - [[https://github.com/tectonic-typesetting/tectonic][tectonic]] :: a replacement for latex compiler
     - ~xelatex~ is the best one in my opinion, which provides more morden function with different language.
 
 *** Editor
-    :PROPERTIES:
-    :ID:       727c4105-7416-4c7f-897f-2a6f36110a20
-    :END:
     - [[http://tug.org/texlive/][TexLive]] :: Containing the most usually using packages with a superior environment and a simple editor.
 
 **** macOS
      Texpad is a powerful editor, see [[../app-os/macos.org][macOS.org]]
 
 *** Tutor
-    :PROPERTIES:
-    :ID:       951c7eda-a150-4bd4-a107-9706d50d612a
-    :END:
      - [[https://github.com/tuna/thulib-latex-talk][tuna]] :: 清华
      - [[https://www.learnlatex.org/en/][leanrn tex]] ::
 
 *** Template
-    :PROPERTIES:
-    :ID:       9db51144-b4c6-4276-af7c-b7d301913a4d
-    :END:
     - [[https://github.com/borisveytsman/acmart][acmart]] / [[https://www.acm.org/publications/proceedings-template][ACM Master Article Template]] ::
     - [[https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/][ieee]] ::
     - [[https://www.springer.com/gp/livingreviews/latex-templates][springer]] ::
@@ -76,60 +43,36 @@
     - standalone :: produce tight pdf files for one or multiple tikz pictures
     - Auriga :: a minimalist beamer template
 **** CV
-     :PROPERTIES:
-     :ID:       16619e56-273d-432a-a83a-df5ae2b7952a
-     :END:
      - [[https://github.com/sb2nov/resume/][sb2nov]]
      - [[https://github.com/muratcankaracabey/latex_cv][muratcankaracabey/latex_cv]]
 *** Snippet
-    :PROPERTIES:
-    :ID:       57f94211-4624-43c6-a0d5-ba624b2b8a7b
-    :END:
     - [[https://github.com/habi/latex][habi/latex]] ::
 
 *** Macro
-    :PROPERTIES:
-    :ID:       c35637af-e8ab-4447-85b7-ea34d28fa150
-    :END:
     - [[https://github.com/CTeX-org/ctex-kit][ctex-kit]] ::
 *** Diff
-    :PROPERTIES:
-    :ID:       edf33509-365f-42b0-b93e-e7779ce49c8b
-    :END:
     - [[https://gitlab.com/git-latexdiff/git-latexdiff][git-latexdiff]] :: a tool to graphically visualize differences between
       different versions of a LaTeX file. Technically, it is a wrapper around git
       and latexdiff.
 
 *** Style
-    :PROPERTIES:
-    :ID:       0ceab4ba-ee8a-43f2-a305-9dbd84559820
-    :END:
 **** Graph
      - xkcd :: A kind of graph style, some [[https://tex.stackexchange.com/questions/74878/create-xkcd-style-diagram-in-tex][tutor]]
 **** Cite
      - gbt7714 :: chinese bibtex style
 
 *** Cheatsheet
-    :PROPERTIES:
-    :ID:       e576e52f-cbc7-4e2b-b942-ff9292aa4011
-    :END:
     - [[http://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf][The Comprehensive LaTeX Symbol List]]
 
 *** Graphics
     - [[https://tikz.net][tikz net]] :: This site features TikZ examples made by Izaak Neutelings, focused on Physics.
     - [[https://texample.net/tikz/examples/][tikz example]] ::
 ** orgmode
-   :PROPERTIES:
-   :ID:       5fdbbd92-23bc-46bf-a2fc-52c4e2a2d8e3
-   :END:
    It is more powerful than markdown or rst, and easier than tex.
 
    Emacs is enough!
 
 *** Template
-    :PROPERTIES:
-    :ID:       e0521747-0584-4bef-b488-825e269da647
-    :END:
     - [[https://github.com/fniessen/org-html-themes][org-html-themes]] :: org html output
 *** Web pages
     - [[https://orgmodeweb.org/][orgmodeweb]] ::Web app to view, edit and search org files.
@@ -142,25 +85,13 @@
     - org roam ::
     - [[https://github.com/minad/org-modern][org-modern]] :: Modern Org Style
 ** markdown
-   :PROPERTIES:
-   :ID:       e5b47836-aaf9-41d0-8607-ce7b0cd5d4f2
-   :END:
    - [[https://marktext.github.io/website/][mark-text]] :: A good cross-platform editor
 ** epub
-   :PROPERTIES:
-   :ID:       eac0345d-f21b-4999-bbd5-4cd2717f0271
-   :END:
    - [[https://sigil-ebook.com/][sigil]] :: An open source to edit epub
 ** pdf
-   :PROPERTIES:
-   :ID:       f15b2d68-3bb6-4ce0-99a1-6caaabb18c64
-   :END:
    - poppler ::
    - mupdf ::
 ** evernote
-   :PROPERTIES:
-   :ID:       d51b2758-0e87-447e-8ae6-5a9ae4891ed1
-   :END:
    It has a wonderful function to take a note anywhere. The editor
    is terrible, but it can do a lot for webpage cropping and knowledge
    organization.

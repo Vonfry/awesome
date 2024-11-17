@@ -1,19 +1,13 @@
-:PROPERTIES:
-:ID:       850125d7-f835-48bb-97fb-653d78f67082
-:END:
 #+TITLE: Linux
 #+AUTHOR: Vonfry
 
 * Release
-  :PROPERTIES:
-  :ID:       a5349de9-dfaf-44cb-9414-1f5644b7bd2b
-  :END:
   - Gentoo :: A flexible, source-based Linux distribution that becomes just
     about any system you need—and much more. You can choose what you want to
     install with a package.
       - Anything(installation, development environment, overlay or others) about
         it can be fountd on its [[http://wiki.gentoo.org/][*wiki*]].
-  - [[id:746a0cc6-f0c7-4ff0-a1c8-d3d7779ca44a][NixOS]] :: NixOS is a Linux distribution with a unique approach to package and
+  - [[file:nixos.org][NixOS]] :: NixOS is a Linux distribution with a unique approach to package and
     configuration management. Built on top of the Nix package manager, it is
     completely declarative, makes upgrading systems reliable, and has many
     other advantages.
@@ -24,9 +18,6 @@
   think. Other distributions are used for special usage in virtual machine.
 
 * Application
-  :PROPERTIES:
-  :ID:       40cce5b0-44be-4c79-b78b-6a1d15460620
-  :END:
   Linux tools can be checked in shell and other topics as well.
 ** Terminal
    - xterm ::
@@ -37,9 +28,6 @@
      tiling window managers.
 
 ** VM
-   :PROPERTIES:
-   :ID:       e0171361-a324-4d29-b024-43e3e1fe651d
-   :END:
    - Qemu ::
        - libvirt ::
        - qira :: QEMU Interactive Runtime Analyser
@@ -62,13 +50,10 @@
      - [[https://github.com/dockur/windows][windows]] ::  Windows inside a Docker container.
 
 ** Windows Manager
-   :PROPERTIES:
-   :ID:       4ff3b217-e317-4b39-a791-5fa88b3992c4
-   :END:
    - XMonad :: A tiling window manager, written in haskell. You can configure it a lot.
-     - xmonad-contrib :: Third party tiling algorithms, configurations and scripts to xmonad, a tiling window manager for X.
-     - xmonad-extra :: Various modules for xmonad that cannot be added to xmonad-contrib because of additional dependencies.
-     - [[https://github.com/taffybar/taffybar][system info bar]]
+       - xmonad-contrib :: Third party tiling algorithms, configurations and scripts to xmonad, a tiling window manager for X.
+       - xmonad-extra :: Various modules for xmonad that cannot be added to xmonad-contrib because of additional dependencies.
+       - [[https://github.com/taffybar/taffybar][system info bar]]
    - waymonad :: A wayland compositor based on ideas from and inspired by xmonad
    - [[https://www.slant.co/topics/390/~best-window-managers-for-linux][more]] ::
 *** Login
@@ -89,9 +74,6 @@
     - xscreensaver ::
     - xidlehook :: a replacement for xautolock.
 ** Remote(GUI)
-   :PROPERTIES:
-   :ID:       db25d406-e2b1-4f3b-8cd0-9366ed8e027e
-   :END:
    - freerdp :: rdp protocol remote connectiing util. This can connect to
      windows. On linux, you have to open a service first.
    - tigervnc :: vnc protocol to connect.
@@ -100,9 +82,6 @@
    - rdesktop ::
 
 ** System
-   :PROPERTIES:
-   :ID:       5c2e877c-bc0c-46d1-a446-b60bf2685bbf
-   :END:
    - inxi :: system states, such as cpu, memory and etc
    - [[https://www.criu.org/Main_Page][CRIU]] :: Checkpoint/Restore In Userspace, or CRIU (pronounced kree-oo, IPA:
      /krɪʊ/, Russian: криу), is a Linux software. It can freeze a running
@@ -115,42 +94,27 @@
    - [[https://github.com/haampie/libtree][libtree]] :: ldd as a tree
    - bpftrace :: High-level tracing language for Linux eBPF
 ** Picture
-   :PROPERTIES:
-   :ID:       ca8cf2f1-ddf5-4c0e-b0c4-7331cb2f5f72
-   :END:
    - inkscape ::
    - gimp ::
    - krita :: digital painting
 ** Audio
-   :PROPERTIES:
-   :ID:       8abd585f-20d4-4f49-9c05-168c8832aa71
-   :END:
    - pavucontrol ::
    - pulseeffects ::
    - kid3 ::
    - audacity ::
    - ffmpeg ::
 ** Media
-   :PROPERTIES:
-   :ID:       8bb02c88-1823-4ee2-b957-d2d34f9ed98b
-   :END:
    - inkscape :: vector graphics
    - gimp :: image Manipulation Program
    - kid3 :: Audio Tagger
    - mpd :: Music player daemon
-   - more :: see [[id:0d5835dd-8113-4721-92d2-4bc4d5a37ffc][media]]
+   - more :: see [[file:../application/media.org][media]]
    - [[https://gitlab.com/screenkey/screenkey][screenkey]] :: print the key on screen when you click.
    - [[https://maoschanz.github.io/drawing/][drawing]] :: Simple image editor for Linux
 ** Document
-   :PROPERTIES:
-   :ID:       64096e78-af25-4be2-ab81-3d9a15bd5b1c
-   :END:
    - zathura :: pdf reader
-   - more :: see [[id:e72ff155-eb79-44ca-8f3e-d9494bb1151e][text]]
+   - more :: see [[file:../application/text.org][text]]
 ** Monitor
-   :PROPERTIES:
-   :ID:       2b88bc17-e06a-4e4b-8c47-5f5ecb09060f
-   :END:
    - netdata :: system resource monitor
    - [[https://oguzhaninan.github.io/Stacer-Web/][stacer]] :: Stacer is an open source system optimizer and application monitor
      that helps users to manage entire system with different aspects, its an all
@@ -161,9 +125,6 @@
      results, and can trigger alerts if some condition is observed to be true.
    - [[https://osquery.io/][osquery]] :: Performant endpoint visibility
 ** Log
-   :PROPERTIES:
-   :ID:       d13f1bfb-8839-4364-9c01-5ce2ba1046e6
-   :END:
    - [[https://www.elastic.co/cn/products/logstash][logstas]] :: transport and process your logs, events, or other data
    - elk ::
    - [[https://logz.io/][logz]] :: AI-Powered ELK as a Service
@@ -173,25 +134,16 @@
 ** Security
    - fail2ban :: scans log files and bans IPs that show malicious signs
 ** Dashboard
-   :PROPERTIES:
-   :ID:       8952788f-5803-419f-9364-d5b1e076dc18
-   :END:
 *** Terminal
    - [[https://github.com/senorprogrammer/wtf][senorprogrammer/wtf]] :: personal
-** [[id:c8070a20-4d88-4fca-bcef-e1fd921f183b][Shell]]
+** [[file:../application/shell.org][Shell]]
 ** Profiler
-   :PROPERTIES:
-   :ID:       04a32ae9-c6a1-402a-860e-f1641de27d6e
-   :END:
    - sysprof ::
    - perf tools :: from kernel, which can bench and record cpu and ram usages
 ** Graphics
    - [[https://github.com/H-M-H/Weylus][Weylus]] :: Use your tablet as graphic tablet/touch screen on your computer.
    - [[https://github.com/pavlobu/deskreen][deskreen]] :: Deskreen turns any device with a web browser into a secondary screen for your computer
 * Tutor
-  :PROPERTIES:
-  :ID:       8bbac4cb-9fbc-4d7d-b761-452fac500807
-  :END:
   - [[https://github.com/learnbyexample/Command-line-text-processing][CLI]] ::
   - [[https://linuxcommand.org][linuxcommand.org]] ::
   - [[https://wizardzines.com/zines/bite-size-linux/][bite size linux]] :: Confused about what a system call is? Heard the term
@@ -201,28 +153,16 @@
     them individually (for $10-$12 each), or get the whole collection.
 
 * Philosophy
-  :PROPERTIES:
-  :ID:       3aad2fb1-0159-4452-8a63-fa8927d152b3
-  :END:
   - KISS Principle :: [[https://en.wikipedia.org/wiki/KISS_principle][keep it simple and silly]], [[https://web.archive.org/web/20210126090054/https://en.wikipedia.org/wiki/KISS_principle][archive]]
   - [[https://futurist.se/gldt/][distribution timeline]] ::
 
 * Kernel
-  :PROPERTIES:
-  :ID:       f0cecb52-c327-47c2-b9ac-6266632d2ce3
-  :END:
 
 ** Kernal patch
-   :PROPERTIES:
-   :ID:       afe466f7-da48-4322-9856-7b4bd5b47a92
-   :END:
    - [[https://github.com/zen-kernel/zen-kernel][zen]] ::
    - other :: see gentoo hardened wiki
 
 ** Tutor
-   :PROPERTIES:
-   :ID:       ef175041-e063-42ef-9861-803223fe3183
-   :END:
    - [[https://0xax.gitbooks.io/linux-insides/content/][linux inside]] :: The goal is simple - to share my modest knowledge about the
      insides of the linux kernel and help people who are interested in linux
      kernel insides, and other low-level subject matter. Feel free to go through

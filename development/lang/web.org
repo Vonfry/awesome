@@ -1,13 +1,7 @@
-:PROPERTIES:
-:ID:       0598a292-589c-43a3-a1de-410199592f8c
-:END:
 #+TITLE: Web
 #+AUTHOR: Vonfry
 
 * Css
-  :PROPERTIES:
-  :ID:       f32a6eea-792c-4691-9786-9ae51a5d1199
-  :END:
 
 ** extension
    - less ::
@@ -17,9 +11,6 @@
    - [[https://github.com/necolas/normalize.css][normalize]] :: A modern alternative to CSS resets
 
 * Html
-  :PROPERTIES:
-  :ID:       abc0a02e-6f21-40f2-9eac-d6fec548e9f4
-  :END:
 ** Framework
   - tailwindcss :: Rapidly build modern websites without ever leaving your HTML.
       - daisyui :: The most popular component library for Tailwind CSS
@@ -28,9 +19,6 @@
   - semantic ui ::
 
 * Javascript
-  :PROPERTIES:
-  :ID:       0c64da08-b2bd-42cf-942d-7b489d653e49
-  :END:
 
 ** Style
    - [[https://github.com/airbnb/javascript][airbnb]] ::
@@ -50,28 +38,16 @@
 *** Misc
    - [[https://github.com/js-cookie/js-cookie][js-cookie]] :: A simple, lightweight JavaScript API for handling browser cookies
 ** Article
-   :PROPERTIES:
-   :ID:       bae49d85-a022-4b46-9981-d6b1184eacf0
-   :END:
    - [[https://www.gnu.org/philosophy/javascript-trap.zh-cn.html][JavaScript 的陷井 - GNU 工程 - 自由软件基金会]] :: CN
    - [[https://www.gnu.org/philosophy/javascript-trap.en.html][Javascript Trap]] :: EN
 
 * Package
-  :PROPERTIES:
-  :ID:       45fd5afe-0f84-42c7-96ef-f27d61907dd2
-  :END:
   - grunt ::
 
 * Road Map
-  :PROPERTIES:
-  :ID:       76f840cd-b665-4cdc-a684-7d1ca829dd45
-  :END:
   - [[https://github.com/sdmg15/Best-websites-a-programmer-should-visit][best web developers a programmer should visit]] ::
 
 * Test
-  :PROPERTIES:
-  :ID:       13acfb38-1069-4f9f-a27d-03f8ac767edb
-  :END:
 ** Automate
    - selenium ::
 
@@ -79,9 +55,6 @@
    - beef :: The Browser Exploitation Framework Project
 
 * Utils
-  :PROPERTIES:
-  :ID:       bc607440-3042-459e-b71a-428ee1ef01af
-  :END:
   - hurl :: a curl based test tools
   - [[https://github.com/davecheney/httpstat][httpstat]] :: It's like curl -v, with colours.
   - [[https://github.com/httpie/httpie][httpie]] :: As easy as /aitch-tee-tee-pie/ ￼ Modern, user-friendly
@@ -101,15 +74,9 @@
   - [[https://cdnjs.com/][cdnjs]] :: Free and Open Source Public Web CDN
 
 * Tutorials
-  :PROPERTIES:
-  :ID:       2314fbdf-c45a-41ae-8915-cff95aea7d8d
-  :END:
   - [[https://github.com/microsoft/Web-Dev-For-Beginners][microsoft/web-dev-for-beginners]] ::
 
 * Deploy
-  :PROPERTIES:
-  :ID:       926e309a-7ade-4433-8825-a3c07e98a7d2
-  :END:
   - [[https://www.heroku.com][heroku]] ::
   - [[https://crossbar.io/][crossbar]] :: Crossbar.io is an open source networking platform for
     distributed and microservice applications. It implements the open Web
@@ -118,8 +85,5 @@
     focus on your app's features.
 
 * Frameworks
-  :PROPERTIES:
-  :ID:       aa4fedb1-8b3e-4a9e-bdd3-4b0c46605b2c
-  :END:
   - [[https://github.com/Pythagora-io/gpt-pilot][gpt pilot]] :: Dev tool that writes scalable apps from scratch while the
     developer oversees the implementation

@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       aa90b535-3acb-485c-be8b-10c6d3b386e6
-:END:
 #+title: Language
 * Translation
   - OmegaT :: A free software to help translate

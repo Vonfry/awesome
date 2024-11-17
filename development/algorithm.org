@@ -1,81 +1,36 @@
-:PROPERTIES:
-:ID:       9833211b-247b-46a4-8a1f-91b04a5f46ea
-:END:
 #+title: Algorithm
 #+author: Vonfry
 
 * Compression
-  :PROPERTIES:
-  :ID:       49ee6d5d-8e14-45ab-b167-e32b47b5710b
-  :END:
   - [[https://github.com/facebook/zstd][zstd]] :: Zstandard - Fast real-time compression algorithm
   - [[http://catchchallenger.first-world.info/wiki/Quick_Benchmark:_Gzip_vs_Bzip2_vs_LZMA_vs_XZ_vs_LZ4_vs_LZO][quick benchmark for some algorithms]] :: Quick Benchmark: Gzip vs Bzip2 vs LZMA vs XZ vs LZ4 vs LZO
 * Graphics
-  :PROPERTIES:
-  :ID:       09104b4d-2a16-4c0e-959e-7f9e2f0578e2
-  :END:
 ** Library
-   :PROPERTIES:
-   :ID:       95cc5cb4-d264-417d-8a08-8fb61e924131
-   :END:
    - [[https://github.com/CMU-Perceptual-Computing-Lab/openpose][openpose]] ::
 ** Project
-   :PROPERTIES:
-   :ID:       f5ba5dd4-3da5-4da8-aaf7-dc37f87e30ce
-   :END:
    - [[https://github.com/nagadomi/waifu2x][waifu2x]] :: Image Super-Resolution for Anime-style art using Deep
      Convolutional Neural Networks. And it supports photo.
 ** Tutor
-   :PROPERTIES:
-   :ID:       a5f87598-ec1b-43e6-9f8e-dc650656b04c
-   :END:
    - [[https://learnopengl.com/][learnopengl]] ::
 * Mathematics
-  :PROPERTIES:
-  :ID:       6d8da821-5826-453d-ae7a-31e2fde7ff5d
-  :END:
 ** Equation
-   :PROPERTIES:
-   :ID:       c4bd9c07-8c56-4fbe-a8bc-25292ca8d252
-   :END:
 *** Differential Equation
     - runge kutta ::
 
 * Visualization
-  :PROPERTIES:
-  :ID:       f3cfe2e4-5038-4a36-8848-c71c11cd0bba
-  :END:
   - [[https://github.com/algorithm-visualizer/algorithm-visualizer][algorithm-visualizer/algorithm-visualizer]] ::
   - [[https://github.com/afonsonf/tlaplus-graph-explorer][tla+]] :: A static web application to explore and animate a TLA+ state graph.
 * Archive
-  :PROPERTIES:
-  :ID:       45154fc6-f4a8-487f-91f1-6abe4399e840
-  :END:
   - [[https://github.com/algorithm-archivists/algorithm-archive][algorithm-archive]] :: The Arcane Algorithm Archive is a collaborative effort to create a guide for all important algorithms in all languages.
 
 * Execise
-  :PROPERTIES:
-  :ID:       292b0089-35a5-481a-ba1a-28db84609452
-  :END:
   - leetcode
-    - [[https://github.com/apachecn/awesome-leetcode][awesome]] ::
+      - [[https://github.com/apachecn/awesome-leetcode][awesome]] ::
 
 * Artificial Intelligence
-  :PROPERTIES:
-  :ID:       56e6e5c0-31a2-42d1-b66b-8649905bbb7c
-  :END:
 ** Machine Learning
-   :PROPERTIES:
-   :ID:       4b48a17e-0151-4a68-a31c-dce0d526fa37
-   :END:
 *** LLM
-    :PROPERTIES:
-    :ID:       eed4bc27-8aa0-4b7d-99c1-13b1343cf612
-    :END:
 **** Some Productions
-     :PROPERTIES:
-     :ID:       9eadad8b-77e6-4a7d-945f-1351e07e436a
-     :END:
      - [[https://github.com/serge-chat/serge][serge]] :: a chat interface crafted with llama.cpp for running Alpaca
        models. No API keys, entirely self-hosted!
      - [[https://github.com/bigscience-workshop/petals][petals]] :: 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference
@@ -101,9 +56,6 @@
      - [[https://github.com/Pythagora-io/gpt-pilot][gpt-polit]] :: Dev tool that writes scalable apps from scratch while the
        developer oversees the implementation.
 **** train/model/datasets
-     :PROPERTIES:
-     :ID:       b4374e9a-a687-4264-96dd-f65e07d5708d
-     :END:
      - [[https://github.com/PolisAI/awesome-llm-human-preference-datasets][awesome llm human perference datasets]] :: a collection of human preference
        datasets for LLM instruction tuning, RLHF and evaluation.
      - [[https://huggingface.co/][huggingface]] :: The AI community building the future.
@@ -119,7 +71,4 @@
        a human-generated instruction dataset licensed for research and commercial
        use.
 **** awesome
-     :PROPERTIES:
-     :ID:       901eebfa-0174-4b9d-8fa4-bc9694375337
-     :END:
      - [[https://github.com/Hannibal046/Awesome-LLM][awesome-llm]] ::

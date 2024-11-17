@@ -1,12 +1,6 @@
-:PROPERTIES:
-:ID:       4e42518b-3e82-487b-b421-b8afa9fcd92f
-:END:
 #+title: Lang
 
 * Coding Style
-  :PROPERTIES:
-  :ID:       d8a40a58-cf9e-4863-b000-e67144c1e735
-  :END:
 
   Here are some projects contain many coding style.
 
@@ -15,45 +9,27 @@
   - [[https://github.com/google/styleguide][google]]
 
 * Multiple Lang
-  :PROPERTIES:
-  :ID:       7e15f5c8-ce02-4d6f-b994-ff3cc15060bb
-  :END:
 
   - [[https://developers.google.com/protocol-buffers/][google protocol buffer]]
 
 * Analysis
-  :PROPERTIES:
-  :ID:       d6ffda37-82c0-46bf-bc74-552dc117066b
-  :END:
 
   - [[https://github.com/AlDanial/cloc][cloc]] :: count lines of code
   - [[https://github.com/XAMPPRocky/tokei][tokie]] :: Count your code, quickly
 
 * Exercism
-  :PROPERTIES:
-  :ID:       903593f5-b2e8-41ed-a2c8-729541fcfdc6
-  :END:
 
   - [[https://github.com/exercism/exercism.io][execrism.io]] :: Quickly ramp up in new programming languages.
 
 * Semantic
-  :PROPERTIES:
-  :ID:       966936f2-7283-4b52-b5bd-9e3ead903cc0
-  :END:
   - [[https://github.com/github/semantic][github/semantic]]
 
 * Text
-  :PROPERTIES:
-  :ID:       87a091c6-986d-4aee-a713-0341ca1b0bf1
-  :END:
 
   - [[https://github.com/jwiegley/thinking-with-functions][thinking with function]]
   - [[http://worrydream.com/#!/LearnableProgramming][learnable programming]]
 
 * Study
-  :PROPERTIES:
-  :ID:       4e156449-23de-4290-aa95-c14a9f2f9249
-  :END:
   - [[https://repl.it/][repl.it]] :: try repl language
   - [[https://github.com/tuvtran/project-based-learning][project based learning]] :: Curated list of project-based tutorials
 
@@ -63,27 +39,24 @@
   - [[https://github.com/swarm-game/swarm][swarm]] :: Resource gathering + programming game
 
 * List
-  :PROPERTIES:
-  :ID:       ef566c45-31d1-4a96-bbe8-eec6b39905f9
-  :END:
   A whole list of PL can be found on [[https://en.wikipedia.org/wiki/List_of_programming_languages_by_type][wikipedia]]. Here lists some languages and
   their development tools.
   - [[https://github.com/dbohdan/embedded-scripting-languages][embedded scripting language]]
-  - [[id:e6523338-7cb4-4491-b49c-66159ce05d3c][agda]]
-  - [[id:b580ca5e-b3eb-4177-a8e3-d083aebc82a7][cc]]
-  - [[id:fc1e77d6-24e5-4504-908d-04bb71f7206b][coq]]
-  - [[id:b7edae80-6219-40ab-94dd-3006dc283b2f][dart]]
-  - [[id:8e3e4532-76f6-4794-aa53-8b0119188fa1][haskell]]
+  - [[file:agda.org][agda]]
+  - [[file:cc.org][cc]]
+  - [[file:coq.org][coq]]
+  - [[file:dart.org][dart]]
+  - [[file:haskell.org][haskell]]
   - hol
   - idris
-  - [[id:cb156bef-3818-4737-b4e7-6c0af1e8385d][lisp]]
-  - [[id:a6a6db93-3ae6-4880-bfd7-7fd006f73809][perl]]
-  - [[id:842fce0c-9da5-4178-95b6-84a19d4cbbb3][python]]
-  - [[id:8159fd52-d870-4d5f-9a96-76e56b24e402][r]]
-  - [[id:b9ab8268-a274-4f20-80a7-129d571632b3][ruby]]
-  - [[id:b129507d-56f3-4333-be50-9d516e1375c7][rust]]
-  - [[id:eb644dd4-35e4-4736-859d-6be59b4754de][tcl]]
-  - [[id:0598a292-589c-43a3-a1de-410199592f8c][web]]
+  - [[file:lisp.org][lisp]]
+  - [[file:perl.org][perl]]
+  - [[file:python.org][python]]
+  - [[file:r.org][r]]
+  - [[file:ruby.org][ruby]]
+  - [[file:rust.org][rust]]
+  - [[file:tcl.org][tcl]]
+  - [[file:web.org][web]]
   - enso :: visualization programming
 
 * Benchmarks

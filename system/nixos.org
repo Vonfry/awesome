@@ -1,33 +1,18 @@
-:PROPERTIES:
-:ID:       746a0cc6-f0c7-4ff0-a1c8-d3d7779ca44a
-:END:
 #+TITLE: NixOS
 #+AUTHOR: Vonfry
 
 * Guide
-  :PROPERTIES:
-  :ID:       55191c8e-6df4-4679-95fd-839ad2a3754c
-  :END:
   - [[https://github.com/Gabriel439/haskell-nix][haskell-nix]] :: Nix and Haskell in production
   - [[https://nix.dev/][nix.dev]] :: An opinionated guide for developers getting things done using the Nix ecosystem.
 * Arch
   - [[https://github.com/lucernae/nixos-pi][nixos-pi]] :: How to install NixOS on raspberry PI
   - [[https://gitea.redalder.org/Magic_RB/NixNG][NixNG]] :: A lighter and simpler design against NixOS
 * Converter
-  :PROPERTIES:
-  :ID:       1e5f8180-c3a2-469a-b984-4ac0f409eaa2
-  :END:
 See nixpkgs manual
 
 * Repos
-  :PROPERTIES:
-  :ID:       6c5aa94e-ff4a-4ec4-ad42-b908a5418fa7
-  :END:
   - [[https://nixpk.gs/][pr & other tracker]]
 * Nix
-  :PROPERTIES:
-  :ID:       fdf3a31d-0a12-41d0-8b46-27b2aecb85cf
-  :END:
   - [[https://noogle.dev][noogle]] :: search nix library
   - [[https://www.nixhub.io/][nixhub]] :: search packages with history
   - flake-utils :: simple flake framework
@@ -35,19 +20,10 @@ See nixpkgs manual
   - emacs-overlay ::
   - devenv :: Fast, Declarative, Reproducible and Composable Developer Environments using Nix
 * Utils
-  :PROPERTIES:
-  :ID:       51d304a0-13a0-4611-a252-164d78c3ea33
-  :END:
 ** Secret
-   :PROPERTIES:
-   :ID:       f8dad4b8-82d0-4a8f-b924-6fd924853d4e
-   :END:
    - [[https://github.com/Mic92/sops-nix][sops-nix]] :: Atomic, declarative, and reproducible secret provisioning for NixOS based on sops.
 
 ** Server
-   :PROPERTIES:
-   :ID:       b5bafc09-12f8-47e4-96be-f470969c11af
-   :END:
    - [[https://github.com/thoughtpolice/eris][eris]] :: Serve your /nix/store directory over the internet
    - nix-serve ::
    - s3 :: this can serve /nix/store as well to let nix copy work.

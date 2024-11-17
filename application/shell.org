@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       c8070a20-4d88-4fca-bcef-e1fd921f183b
-:END:
 #+TITLE: Shell
 #+AUTHOR: Vonfry
 
@@ -9,9 +6,6 @@ using for daily and we have other better language for scripts, if you don't use
 ~.net~.
 
 * Shell
-  :PROPERTIES:
-  :ID:       6be16198-8f29-4071-9c76-b71dc8adf87b
-  :END:
   - sh :: Please write script use this.
   - bash :: The default one, it is inconvenient to use.
   - zsh :: Quickly, easy, having a lot of plugins and more interactive.
@@ -25,8 +19,6 @@ using for daily and we have other better language for scripts, if you don't use
             most important reason is speed and stdandard, for example, oh-my-zsh
             uses ~source~ to load theme, prezto uses ~zstyle~.
       - prompt ::
-          + [[https://github.com/starship/starship][starship]] :: The minimal, blazing-fast, and infinitely customizable prompt
-            for any shell!
           + powerlevel10k
           + pure ::
       - Plugins ::
@@ -44,11 +36,11 @@ using for daily and we have other better language for scripts, if you don't use
   - tcsh ::
   - powershell :: Support by windows. Combine with ~.NET~. It has a superior script language, but using for interactive is bad. And why not using ruby, perl, python or other scripting language? More about see: [[../sys-os/windows.org][sys-os/windows.org]]
   - [[http://xon.sh/][xonsh]] :: python based
+** promps
+   - [[https://github.com/starship/starship][starship]] :: The minimal, blazing-fast, and infinitely customizable prompt
+     for any shell!
 
 * Utils
-  :PROPERTIES:
-  :ID:       37c0bb8b-bca6-4596-8963-87c54be4da60
-  :END:
   List some useful tools.
   - [[https://github.com/uutils/coreutils][coreutils]] :: rust rewrite for gnu coreutils
   - zoxide :: A smarter cd command. Supports all major shells
@@ -81,9 +73,6 @@ using for daily and we have other better language for scripts, if you don't use
    - [[https://github.com/kislyuk/yq][yq]] :: Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
    - jq :: jq is a lightweight and flexible command-line JSON processor.
 ** Container
-   :PROPERTIES:
-   :ID:       f45ba38b-5666-4998-92ac-2e4729181726
-   :END:
    - [[https://github.com/89luca89/distrobox][distrobox]] :: Use any Linux distribution inside your terminal. Enable both
      backward and forward compatibility with software and freedom to use
      whatever distribution you’re more comfortable with. Distrobox uses podman
@@ -92,9 +81,6 @@ using for daily and we have other better language for scripts, if you don't use
      allowing sharing of the HOME directory of the user, external storage,
      external USB devices and graphical apps (X11/Wayland), and audio.
 ** Useless
-   :PROPERTIES:
-   :ID:       91a4912f-15ee-45ba-974a-0f234d46d40d
-   :END:
    These tools have alternative below or they are not useful for daily using.
    - tree :: show dir structure as a tree
    - [[https://github.com/alexanderepstein/Bash-Snippets][bash-snippet]] :: A collection of small bash scripts for heavy terminal users
@@ -114,34 +100,19 @@ using for daily and we have other better language for scripts, if you don't use
    - visidata :: A terminal spreadsheet multitool for discovering and arranging data
    - [[https://github.com/hotvulcan/Thanos.sh][thanos.sh]] :: if you are Thanos(root), this command could delete half your files randomly
 ** Cheatsheets
-   :PROPERTIES:
-   :ID:       42de0a48-6ffb-4522-afbc-afad5271fed4
-   :END:
    - [[http://cht.sh/][cheat.sh]] :: a online api based cheat sheet for shell.
 ** Interesting
-   :PROPERTIES:
-   :ID:       843a253f-6086-473e-8120-c2ebd271b06e
-   :END:
    - [[https://github.com/kognise/arpchat][arpchat]] :: Answering the question nobody asked: what if you wanted to text your friends using only ARP?
    - [[https://github.com/msoap/shell2http][shell2http]] :: Executing shell commands via HTTP server
 ** Misc
-   :PROPERTIES:
-   :ID:       dc31948d-ce1e-425c-8aa4-c87e025510e9
-   :END:
    See each category.
 
    Or take a look [[https://gitlab.com/Vonfry/dotfiles][mime]].
 * Awesome
-  :PROPERTIES:
-  :ID:       603efd4a-b79d-42b7-a109-10352e4d33d1
-  :END:
   - [[https://github.com/dotfiles/dotfiles.github.com][dotfiles]]
   - [[https://github.com/alebcay/awesome-shell][shell]]
   - [[https://github.com/unixorn/awesome-zsh-plugins][zsh plugin]]
   - [[https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/][a list of new(ish) command line tools]]
 * Tutor
-  :PROPERTIES:
-  :ID:       23ee1d27-b6e7-43c5-bb79-ef6ded683a43
-  :END:
   - [[https://github.com/jlevy/the-art-of-command-line][the art of command line]] :: Master the command line, in one page
   - [[https://github.com/you-dont-need/You-Dont-Need-GUI][you dont neet gui]] :: Stop relying on GUI; CLI **ROCKS**

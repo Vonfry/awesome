@@ -1,25 +1,13 @@
-:PROPERTIES:
-:ID:       b9ab8268-a274-4f20-80a7-129d571632b3
-:END:
 #+TITLE: Ruby
 #+AUTHOR: Vonfry
 
 * Coding Style
-  :PROPERTIES:
-  :ID:       f710a9fa-109d-4ea1-9fef-b7da16b61718
-  :END:
   Please follow the ruby constraint, which is enough.
 
 * Compiler
-  :PROPERTIES:
-  :ID:       dd5615d4-853c-4d94-b9b8-c54407c5005e
-  :END:
   - jruby ::
 
 * Tool Chain
-  :PROPERTIES:
-  :ID:       8f9bbc85-b7e2-48a5-8262-8fde95045d70
-  :END:
   - Gem & bundler ::
   - rake ::
   - pry :: powerful interpretation
@@ -34,20 +22,11 @@
   - licensee ::
 
 * Library
-  :PROPERTIES:
-  :ID:       dbbd9383-695b-4deb-95ea-b475433ecb86
-  :END:
 ** Database
    - sequel :: Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby.
 
 ** Web
-   :PROPERTIES:
-   :ID:       05482298-2c0c-4e39-82a2-2143ea780ad4
-   :END:
 *** Rails
-    :PROPERTIES:
-    :ID:       a0677519-0ad7-4da7-9c96-06255d5c0238
-    :END:
 **** separate from rails
     - ActiveRecord ::
     - standalone-migrations :: A gem to use Rails Database Migrations in non Rails projects
