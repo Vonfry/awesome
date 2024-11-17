@@ -103,10 +103,15 @@
   :ID:       7532327a-4742-49b2-bd51-aa644795e3b8
   :END:
   - [[https://github.com/kamranahmedse/developer-roadmap][developer roadmap]] ::
-* Uml
+
+* Diagram
   :PROPERTIES:
-  :ID:       07b09133-d6e1-4478-b5d5-affcbd88e345
+  :ID:       88948120-6a2d-47f2-b846-4cbc69f903cb
   :END:
+  - [[https://github.com/terrastruct/d2][d2]] ::  D2 is a modern diagram scripting language that turns text to diagrams.
+  - graphviz ::
+  - plantuml ::
+  - drawio ::
 ** Generate
    - [[https://bouml.fr/index.html][buml]] ::
    - [[https://staruml.sourceforge.net/en/][staruml]] ::
