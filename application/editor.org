@@ -137,8 +137,8 @@ List some useful tools for editor to navigate, format or do others.
    manage notes. ~org-babel~ allow you to write doucment with coding result.
 
    - org-agenda :: GTD
+   - [[https://git.sr.ht/~ymherklotz/org-zettelkasten][org-zettelkasten]] ::
    - org-roam :: roam search
-   - org-z :: zettelkasten link
    - org-contacts :: contacts with org mode
 ** Theme
    :PROPERTIES:
