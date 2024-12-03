@@ -222,6 +222,7 @@
    - data-default ::
 ** Web
    - [[https://github.com/obsidiansystems/obelisk][obelisk]] :: Functional reactive web and mobile applications, with batteries included.
+   - hyperbole :: Haskell interactive serverside web framework inspired by HTMX
 * Utils
 ** Blog
    - hakyll :: static blog

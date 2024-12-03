@@ -10,6 +10,8 @@
 * Export style
   export pure text document to html or other file type with beautiful style.
   - [[https://github.com/gongzhitaao/orgcss][orgcss]] ::
+  - [[https://github.com/vincentdoerig/latex-css][latex-css]] ::  LaTeX.css is a CSS library that makes your website look like a
+    LaTeX document
 * Format / Markup
 ** tex
 *** Tutor

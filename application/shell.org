@@ -99,6 +99,7 @@ using for daily and we have other better language for scripts, if you don't use
    - [[https://github.com/dustinkirkland/hollywood][hollywood]] ::
    - visidata :: A terminal spreadsheet multitool for discovering and arranging data
    - [[https://github.com/hotvulcan/Thanos.sh][thanos.sh]] :: if you are Thanos(root), this command could delete half your files randomly
+   - [[https://github.com/yorukot/superfile][superfile]] :: Pretty fancy and modern terminal file manager
 ** Cheatsheets
    - [[http://cht.sh/][cheat.sh]] :: a online api based cheat sheet for shell.
 ** Interesting
