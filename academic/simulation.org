@@ -5,6 +5,9 @@
   :PROPERTIES:
   :CUSTOM_ID: math
   :END:
+  - [[https://mathics.org/][mathics]] ::  An open-source Mathematica. This repository contains the Python
+    modules for WL Built-in functions, variables, core primitives, e.g. Symbol,
+    a parser to create Expressions, and an evaluator to execute them.
   - [[https://www.sagemath.org/][SageMath]] :: an open source math tool to
     instead matlab
   - [[https://amathr.org/software/][Software for Math Research]] ::
