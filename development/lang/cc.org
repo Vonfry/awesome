@@ -125,3 +125,10 @@
      STL).
 ** Assemble
    - [[https://github.com/capstone-engine/capstone][capstone]] :: Capstone disassembly/disassembler framework for ...
+** Structures
+   - [[https://github.com/abseil/abseil-cpp][abseil]] :: Abseil Common Libraries (C++)
+   - [[https://github.com/ZigRazor/CXXGraph][cxxgraph]] :: Header-Only C++ Library for Graph Representation and Algorithms
+   - [[https://github.com/greg7mdp/parallel-hashmap][parallel-hashmap]] ::  A family of header-only, very fast and memory-friendly
+     hashmap and btree containers.
+   - [[https://github.com/greg7mdp/gtl][gtl]] ::  Greg's Template Library of useful classes.
+   - [[https://github.com/lamarrr/STX][stx]] :: C++17 & C++ 20 error-handling and utility extensions.
