@@ -31,8 +31,10 @@
    - Qemu ::
        - libvirt ::
        - qira :: QEMU Interactive Runtime Analyser
+   - unicorn :: qemu based simpler vm.
    - Virtualbox ::
-   - Parallel ::
+   - [[https://github.com/AsahiLinux/muvm][nuvm]] :: run programs from your system in a microVM
+   - [[https://github.com/nexus-xyz/nexus-zkvm][nexus zkvm]] :: The Nexus zkVM: The zero-knowledge virtual machine
 
 *** Repo
     - [[https://github.com/foxlet/macOS-Simple-KVM][macOS-Simple-KVM]] :: Tools to set up a quick macOS VM in QEMU, accelerated

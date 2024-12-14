@@ -32,6 +32,7 @@
       - gdbgui ::
   - lldb ::
 * Tool chains
+  - clangd :: lang server
   - [[https://github.com/doxygen/doxygen][doxygen]] :: document code by comment
       - [[https://github.com/jothepro/doxygen-awesome-css][doxygen awesome css]] :: Custom CSS theme for doxygen html-documentation
         with lots of customization parameters.
@@ -39,6 +40,10 @@
   - [[https://github.com/conan-io/conan][conan]] :: The open-source C and C++ package manager
   - [[https://github.com/lawmurray/doxide][doxide]] :: Modern documentation for modern C++. Configure with YAML, output
     Markdown, post-process with Material for MkDocs.
+** Profiler
+   - gprof :: gcc based profiler
+   - [[https://github.com/tyoma/micro-profiler][micro-profiler]]  :: Cross-platform low-footprint realtime C/C++ Profiler
+   - [[https://github.com/yse/easy_profiler][easy_profiler]] :: Lightweight profiler library for c++
 * Awesome
   - [[https://github.com/fffaraz/awesome-cpp][fffaraz/awesome-cpp]] :: A curated list of awesome C++ (or C) frameworks,
     libraries, resources, and shiny things. Inspired by awesome-... stuff.

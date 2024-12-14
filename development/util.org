@@ -176,3 +176,6 @@
   - [[https://github.com/Nukesor/pueue][pueue]] :: Manage your shell commands
   - [[https://github.com/casey/just][just]] :: Just a command runner
   - [[https://github.com/sagiegurari/cargo-make][cargo-make]] :: Rust task runner and build tool.
+
+* Profiler
+  - [[https://github.com/mstange/samply][samply]] :: Command-line sampling profiler for macOS and Linux
