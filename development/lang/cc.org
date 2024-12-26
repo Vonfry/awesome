@@ -30,6 +30,7 @@
 * Debug
   - gdb ::
       - gdbgui ::
+      - [[https://github.com/cyrus-and/gdb-dashboard][gdb-dashboard]] ::  Modular visual interface for GDB in Python
   - lldb ::
 * Tool chains
   - clangd :: lang server
