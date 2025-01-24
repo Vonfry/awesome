@@ -85,5 +85,7 @@
     focus on your app's features.
 
 * Frameworks
+  - cef :: Chromium Embedded Framework (CEF). A simple framework for embedding
+    Chromium-based browsers in other applications.
   - [[https://github.com/Pythagora-io/gpt-pilot][gpt pilot]] :: Dev tool that writes scalable apps from scratch while the
     developer oversees the implementation

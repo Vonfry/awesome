@@ -6,6 +6,7 @@
 ** Common Lisp
    - sbcl ::
    - clisp ::
+   - [[https://common-lisp.net/project/ecl/][ecl]] :: Embeddable Common Lisp; compiles to C
 
 ** Emacs lisp
 *** [[https://github.com/bbatsov/emacs-lisp-style-guide][Coding Style]]
@@ -33,9 +34,18 @@
    - ningle :: Super micro framework for Common Lisp
    - Caveman :: A powerful web framework
    - Clack :: Web server abstraction layer for Common Lisp
+     - lack ::
    - woo :: a fast non-blocking HTTP server built on top of libev.
    - Hunchentoot :: Hunchentoot is a web server written in Common Lisp and at
      the same time a toolkit for building dynamic websites
+** Web Client
+   - [[https://github.com/fukamachi/dexador][dexador]] :: An HTTP client, that aims at replacing Drakma
+** Enhance
+   - [[https://github.com/coalton-lang/coalton][coalton]] ::  Coalton is an efficient, statically typed functional
+     programming language that supercharges Common Lisp.
+** Date and time
+   - [[https://common-lisp.net/project/local-time/][local-time]] :: development library for manipulating date and time
+     information in a semi-standard manner
 * Misc
   - [[https://github.com/kanaka/mal][mal]] - A wonderful project to write a lisp compiler by yourself in many language.
 

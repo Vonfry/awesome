@@ -1,0 +1,6 @@
+#+TITLE: SQL
+#+AUTHOR: Vonfry
+
+* Tools
+  - [[https://github.com/PRQL/prql][prql]] :: PRQL is a modern language for transforming data — a simple,
+    powerful, pipelined SQL replacement

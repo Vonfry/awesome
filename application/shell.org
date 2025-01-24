@@ -62,6 +62,7 @@ using for daily and we have other better language for scripts, if you don't use
   - [[https://github.com/cheat/cheat][cheat]] :: cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not …
   - [[https://github.com/sharkdp/hyperfine][hyperfine]] :: command line benchmarking
   - bsdtar :: more format supported tar.
+  - [[https://github.com/ouch-org/ouch][ouch]] :: Painless compression and decompression in the terminal
   - qrencode :: qrcode encode
   - zbar :: qrcode decode
   - direnv ::

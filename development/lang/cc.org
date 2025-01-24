@@ -114,6 +114,8 @@
    - [[https://github.com/taskflow/taskflow][taskflow]] :: A General-purpose Parallel and Heterogeneous Task Programming System
    - [[https://github.com/DLR-AMR/t8code][t8code]] :: Parallel algorithms and data structures for tree-based AMR with
      arbitrary element shapes.
+   - [[https://github.com/kokkos/kokkos][kokkos]] :: Kokkos C++ Performance Portability Programming Ecosystem: The Programming
+   Model - Parallel Execution and Memory Abstraction
 
 ** HPC
    - [[https://github.com/mamedev/mame][mame]] ::
@@ -138,3 +140,5 @@
      hashmap and btree containers.
    - [[https://github.com/greg7mdp/gtl][gtl]] ::  Greg's Template Library of useful classes.
    - [[https://github.com/lamarrr/STX][stx]] :: C++17 & C++ 20 error-handling and utility extensions.
+** Porfiler
+   - [[https://github.com/wolfpld/tracy][tracy]] :: Frame profiler

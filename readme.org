@@ -39,6 +39,7 @@ internal link cannot be used outside.
   - [[file:system/windows.org][windows]]
   - [[file:system/macos.org][macos]]
   - [[file:system/android.org][android]]
+  - [[file:system/ios.org][android]]
   - [[file:system/misc.org][misc]]
 * Academic
   :PROPERTIES:
@@ -72,7 +73,7 @@ internal link cannot be used outside.
   - [[file:development/misc.org][misc]]
   - [[file:development/algorithm.org][algorithm]]
   - [[file:development/game.org][game]]
-  - [[file:development/lang.org][lang]]
+  - [[file:development/lang/readme.org][lang]]
 * Network
   :PROPERTIES:
   :CUSTOM_ID: network

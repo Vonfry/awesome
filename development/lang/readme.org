@@ -57,6 +57,7 @@
   - [[file:rust.org][rust]]
   - [[file:tcl.org][tcl]]
   - [[file:web.org][web]]
+  - [[file:sql.org][sql]]
   - enso :: visualization programming
 
 * Benchmarks
