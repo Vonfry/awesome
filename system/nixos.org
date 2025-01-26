@@ -19,6 +19,8 @@ See nixpkgs manual
   - rust-overlay ::
   - emacs-overlay ::
   - devenv :: Fast, Declarative, Reproducible and Composable Developer Environments using Nix
+* Deploy
+  - deploy-rs
 * Utils
 ** Secret
    - [[https://github.com/Mic92/sops-nix][sops-nix]] :: Atomic, declarative, and reproducible secret provisioning for NixOS based on sops.

@@ -142,3 +142,5 @@
    - [[https://github.com/lamarrr/STX][stx]] :: C++17 & C++ 20 error-handling and utility extensions.
 ** Porfiler
    - [[https://github.com/wolfpld/tracy][tracy]] :: Frame profiler
+   - [[https://github.com/bytecodealliance/sightglass][sightglass]] :: A benchmark suite and tool to compare different
+     implementations of the same primitives.

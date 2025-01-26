@@ -62,3 +62,7 @@
 
 * Benchmarks
   - [[https://github.com/kostya/benchmarks][benchmarks]] ::  Some benchmarks of different languages
+
+
+* Tutor
+  - [[https://github.com/sampsyo/bril][brill]] :: an educational compiler intermediate representation
