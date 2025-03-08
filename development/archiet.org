@@ -9,5 +9,6 @@
 * ABI
   - [[https://gitlab.com/x86-psABIs/x86-64-ABI][x86-64 psABI]] ::
   - [[https://developer.arm.com/documentation/107656/0101/Getting-started-with-Armv8-M-based-systems/Procedure-Call-Standard-for-Arm-Architecture--AAPCS-?lang=en][aapcs]] ::
+  - [[https://github.com/ARM-software/abi-aa][abi-aa]] ::  Application Binary Interface for the Arm® Architecture
 * Quantum
   - [[https://qiskit.org/textbook/preface.html][qiskit]]
