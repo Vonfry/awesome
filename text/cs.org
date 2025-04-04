@@ -57,6 +57,8 @@
    - [[https://softwarefoundations.cis.upenn.edu/current/index.html][software foundation]] ::
 * Execrise
   - [[https://cscx.org/][cscx]] :: cs by examples
+* Protocols
+  - [[https://blog.lohr.dev/imap-introduction][imap and email ::]]
 * Programming Traits
   - [[https://graphics.stanford.edu/~seander/bithacks.html][bit hacks]]
 * Awesome
