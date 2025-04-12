@@ -59,6 +59,7 @@ internal link cannot be used outside.
   - [[file:application/project.org][project]]
   - [[file:application/media.org][media]]
   - [[file:application/shell.org][shell]]
+  - [[file:application/misc.org][misc]]
 * Development
   :PROPERTIES:
   :CUSTOM_ID: development

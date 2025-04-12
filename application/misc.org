@@ -1,0 +1,6 @@
+#+title: Misc
+#+author: Vonfry
+
+* Clean
+  - [[https://github.com/qarmin/czkawka][czkawka]] ::  Multi functional app to find duplicates, empty folders, similar
+    images etc.
