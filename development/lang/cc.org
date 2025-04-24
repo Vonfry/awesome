@@ -24,7 +24,6 @@
   - cmake ::
   - xmake :: A cross-platform build utility based on Lua
   - automake ::
-  - waf ::
   - [[https://github.com/rizsotto/Bear][bear]] :: a tools to help generate ~compile-commands.json~
 
 * Debug

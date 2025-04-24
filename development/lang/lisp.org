@@ -46,6 +46,8 @@
 ** Date and time
    - [[https://common-lisp.net/project/local-time/][local-time]] :: development library for manipulating date and time
      information in a semi-standard manner
+** Command line options
+   - [[https://github.com/dnaeon/clingon][clingon]] :: a rich command-line options parser system
 * Misc
   - [[https://github.com/kanaka/mal][mal]] - A wonderful project to write a lisp compiler by yourself in many language.
 

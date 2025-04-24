@@ -23,7 +23,6 @@ I'm not developing on windows, many dev tools just for fun.
 * Terminal
   - *winget* :: homebrew like package manager for windows *provided in system by default!*
   - vcpkg :: c++ dependencies manager, supported by micorsoft
-  - +[[https://conemu.github.io/][ConEmu]]+ :: Emmmm...Better than windows default, but ...
 
 ** powershell
    - [[https://github.com/JanDeDobbeleer/oh-my-posh][oh-my-posh]] ::
@@ -34,12 +33,8 @@ I'm not developing on windows, many dev tools just for fun.
   - [[https://github.com/microsoft/PowerToys][PowerToys]] :: Windows system utilities to maximize productivity. It includes
     change keymaps, window manager, an simple wox, etc.
       - [[https://github.com/lin-ycv/EverythingPowerToys][everything plugin]]
-  - +[[https://github.com/Wox-launcher/Wox][Wox]]+ :: Like macos quick searching
   - office ::
-  - freda epub ebook reader ::
   - [[https://calibre-ebook.com/][calibre]] :: e-book
-  - +icecream epub reader+ :: a better epub reader
-  - pdf reader xodo ::
   - foxit ::
   - [[https://github.com/mcmilk/7-Zip-zstd][7zip zstd]] :: 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
   - peazip :: PeaZip free file archiver utility, open extract RAR TAR ZIP files
@@ -51,8 +46,6 @@ I'm not developing on windows, many dev tools just for fun.
   - neat download manager ::
   - free download manager ::
   - [[https://ninjadownloadmanager.com/][ninja download manager]] ::
-* Locale
-  - [[https://github.com/xupefei/Locale-Emulator][locale-emulator]] :: Yet Another System Region and Language Simulator
 
 * System
   - sandboxie :: Sandbox

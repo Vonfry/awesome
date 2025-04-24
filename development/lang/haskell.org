@@ -7,8 +7,6 @@
   - [[https://wiki.haskell.org/Category:Style][wiki: style]] ::
   - [[https://wiki.haskell.org/Category:Idioms][wiki: idiomls]] ::
   - [[https://github.com/tibbe/haskell-style-guide][tibble]] ::
-      - hindent ::
-  - [[https://github.com/facebookincubator/retrie][retrie]] ::
 
 * Compiler
   - [[https://www.haskell.org/ghc/][ghc]] ::
@@ -32,7 +30,6 @@
   - [[http://www.haskellstack.org/][stack]] :: Work with cabal to manage whole project.
       - [[https://www.stackage.org/][stackage]] :: "Stable Hackage": vetted consistent packages from Hackage
       - stack-run :: A plugin, quickly run the project.
-  - [[https://github.com/nmattia/snack][snack]] :: Nix-based incremental Haskell build tool
   - shake ::
 
 * Tool Chains
@@ -52,10 +49,6 @@
 
 * Checklist
   - [[https://github.com/haskell-perf/checklist][checklist]] :: A checklist to optimize code
-
-* IDE
-  - [[https://github.com/haskell/haskell-language-server][haskell-language-server]] :: A framework which can work with vim, emacs and others
-  - [[https://github.com/leksah/leksah][leksah]] ::
 
 * Tutor
   - [[https://github.com/tweag/awesome-learning-haskell/tree/0f294a34ce5e3ebc0f5f89259b819c1a4ed4c31a][awesome-learing-haskell]] :: A collection of resources which were useful to
@@ -79,7 +72,6 @@
   - [[https://haskell.pl-a.net/][haskell planetarium]] ::
   - [[https://github.com/albohlabs/awesome-haskell][for beginner]] ::
   - [[https://github.com/sdiehl/wiwinwlh][wiwinwlh]] ::
-  - *[[https://toolbox.brick.do/][toolbox]]* :: Useful tools when developing haskell
 
 * Article
   - [[https://www.williamyaoh.com/posts/2019-11-24-design-and-testing-articles.html][A LIST OF HASKELL ARTICLES ON GOOD DESIGN, GOOD TESTING]] ::

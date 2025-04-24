@@ -8,4 +8,4 @@
   - [[https://docs.robotnix.org/][robotnix]] :: build android image with nix
   - grapheneOS :: GrapheneOS is a privacy and security focused mobile OS with
     Android app compatibility developed as a non-profit open source project
-  - lineageos
+  - lineageos ::
