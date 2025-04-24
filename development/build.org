@@ -9,8 +9,6 @@
       + niv :: Easy dependency management for Nix projects
       + [[https://github.com/nix-community/awesome-nix][awesome-nix]] ::
       + [[https://github.com/nix-community/NUR][NUR]] :: A community nix repo
-      + [[https://github.com/GTrunSec/braindump-nix-resource][recouse collection]] ::
-      + [[https://github.com/numtide/rnix-hashes][rnix-hashesr]] :: nix hash converter
       + [[https://github.com/craigmbooth/nix-visualize][nix-visualize]] :: uses the Nix package manager to visualize the dependencies of
         a given package
       + [[https://github.com/Mic92/tex2nix][tex2nix]] :: texlive expressions for documents
