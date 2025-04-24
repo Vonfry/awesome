@@ -9,18 +9,6 @@ using for daily and we have other better language for scripts, if you don't use
   - sh :: Please write script use this.
   - bash :: The default one, it is inconvenient to use.
   - zsh :: Quickly, easy, having a lot of plugins and more interactive.
-      - Framework ::
-          + antigen :: plugin manager, it can manage compiling and plugins
-            automatically. Fast!
-          + zplug :: plugin manager
-          + prezto :: simple and fast.
-          + oh-my-zsh :: Powerful! But slowly! NOT RECOMMENDED.
-            Oh-my-zsh is good, having a lot of functions but I don't need them. The
-            most important reason is speed and stdandard, for example, oh-my-zsh
-            uses ~source~ to load theme, prezto uses ~zstyle~.
-      - prompt ::
-          + powerlevel10k
-          + pure ::
       - Plugins ::
           + fzf-tab ::
           + fzf-marks ::
@@ -73,14 +61,6 @@ using for daily and we have other better language for scripts, if you don't use
    - [[https://github.com/wader/fq][fq]] :: jq for binary format
    - [[https://github.com/kislyuk/yq][yq]] :: Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
    - jq :: jq is a lightweight and flexible command-line JSON processor.
-** Container
-   - [[https://github.com/89luca89/distrobox][distrobox]] :: Use any Linux distribution inside your terminal. Enable both
-     backward and forward compatibility with software and freedom to use
-     whatever distribution you’re more comfortable with. Distrobox uses podman
-     or docker to create containers using the Linux distribution of your
-     choice. The created container will be tightly integrated with the host,
-     allowing sharing of the HOME directory of the user, external storage,
-     external USB devices and graphical apps (X11/Wayland), and audio.
 ** Useless
    These tools have alternative below or they are not useful for daily using.
    - tree :: show dir structure as a tree
