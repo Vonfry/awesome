@@ -138,7 +138,6 @@
    - [[https://github.com/greg7mdp/parallel-hashmap][parallel-hashmap]] ::  A family of header-only, very fast and memory-friendly
      hashmap and btree containers.
    - [[https://github.com/greg7mdp/gtl][gtl]] ::  Greg's Template Library of useful classes.
-   - [[https://github.com/lamarrr/STX][stx]] :: C++17 & C++ 20 error-handling and utility extensions.
 ** Porfiler
    - [[https://github.com/wolfpld/tracy][tracy]] :: Frame profiler
    - [[https://github.com/bytecodealliance/sightglass][sightglass]] :: A benchmark suite and tool to compare different
