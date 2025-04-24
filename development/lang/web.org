@@ -89,3 +89,7 @@
     Chromium-based browsers in other applications.
   - [[https://github.com/Pythagora-io/gpt-pilot][gpt pilot]] :: Dev tool that writes scalable apps from scratch while the
     developer oversees the implementation
+
+
+* Communication Protocol
+  - [[https://developers.google.com/protocol-buffers/][google protocol buffer]]

@@ -8,10 +8,6 @@
   - [[https://github.com/kciter/awesome-style-guide][awesome-style-guide]]
   - [[https://github.com/google/styleguide][google]]
 
-* Multiple Lang
-
-  - [[https://developers.google.com/protocol-buffers/][google protocol buffer]]
-
 * Analysis
 
   - [[https://github.com/AlDanial/cloc][cloc]] :: count lines of code
@@ -20,9 +16,6 @@
 * Exercism
 
   - [[https://github.com/exercism/exercism.io][execrism.io]] :: Quickly ramp up in new programming languages.
-
-* Semantic
-  - [[https://github.com/github/semantic][github/semantic]]
 
 * Text
 
@@ -45,14 +38,10 @@
   - [[file:agda.org][agda]]
   - [[file:cc.org][cc]]
   - [[file:coq.org][coq]]
-  - [[file:dart.org][dart]]
   - [[file:haskell.org][haskell]]
-  - hol
-  - idris
   - [[file:lisp.org][lisp]]
   - [[file:perl.org][perl]]
   - [[file:python.org][python]]
-  - [[file:ruby.org][ruby]]
   - [[file:rust.org][rust]]
   - [[file:web.org][web]]
   - [[file:sql.org][sql]]
