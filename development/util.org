@@ -1,9 +1,6 @@
 #+title: Utils
 #+author: Vonfry
 
-* Audit
-  - rats ::
-  - understand ::
 * Cheatsheet
   - [[https://programming-idioms.org/][programming idioms]] :: In this website you can browse standard ways of
     coding standard things, in several popular programming languages.
@@ -11,25 +8,34 @@
    - [[https://github.com/LeCoupa/awesome-cheatsheets][LeCoupa/cheatsheet]] ::
    - [[https://github.com/rstacruz/cheatsheets][rstacruz/cheatsheets]] ::
    - [[https://github.com/detailyang/awesome-cheatsheet][detailyang/awesome-cheatsheet]] :: another sheet
-* Code Review
-  - Phabricator ::
+* Code Static Analysis
+  - [[https://scitools.com/][understand]] ::
+  - [[https://oig.hhs.gov/compliance/rat-stats/][rats]] ::
 * Colorscheme
-  - [[https://github.com/altercation/solarized][altercation/solarized]] :: My love!
+  - dracula :: My love!
+  - [[https://github.com/altercation/solarized][altercation/solarized]] :: great light theme!
       - [[https://github.com/thomasf/solarized-css][css]] ::
-  - dracula ::
-  - tomorrow ::
-  - one :: provide by atom
 * Debug
+  - [[https://microsoft.github.io/debug-adapter-protocol/specification.html][debug adapter protocol]] :: The Debug Adapter Protocol defines the protocol
+    used between an editor or IDE and a debugger or runtime.
   - strace :: A useful diagnostic, instructional, and debugging tool
   - [[https://github.com/GaloisInc/macaw][macaw]] :: Open source binary analysis tools.
   - valgrind :: performance analyzer
   - [[https://github.com/google/sanitizers][google/sanitizers]] :: AddressSanitizer, ThreadSanitizer, MemorySanitizer
   - [[https://github.com/opcm/pcm][pcm]] :: Processor Counter Monitor
+  - windbg
+  - x64dbg
+  - [[https://docs.microsoft.com/en-us/sysinternals/downloads/procdump][procdump]]
+
 * Diff
+  - why not emacs with ediff? ::
   - diff/colordiff ::
   - vimdiff ::
   - meld ::
+  - winmerge :: a diff and merge tools, which is under maintaining and useful
 * Doc
+  - manpage ::
+  - texinfo ::
   - [[https://devdocs.io][devDocs]] ::
   - [[https://apps.gnome.org/Devhelp/][devhelp]] :: a developer tools for browsing and searching api
     document. Written in gtk.
@@ -140,9 +146,6 @@
 
 ** Svn
    not distributed, so there is little coyies. Easily to use for non-programers, which provide a default web interface.
-** Misc
-
-   See [[https://www.slant.co/topics/370/~best-version-control-systems][here]].
 
 * Mood
   - [[https://www.musicforprogramming.net/][music for programming]] ::
@@ -165,7 +168,7 @@
   - [[https://github.com/triggerdotdev/jsonhero-web][jsonhero]] :: JSON Hero is an open-source, beautiful JSON explorer for the web
     that lets you browse, search and navigate your JSON files at
     speed. 🚀. Built with 💜 by the Trigger.dev team.
-  - hdf5
+  - hdf5 ::
 
 * Visualization
   - gephi :: Gephi is a tool for data analysts and scientists keen to explore
@@ -176,6 +179,21 @@
   - [[https://github.com/Nukesor/pueue][pueue]] :: Manage your shell commands
   - [[https://github.com/casey/just][just]] :: Just a command runner
   - [[https://github.com/sagiegurari/cargo-make][cargo-make]] :: Rust task runner and build tool.
+  - [[file:build.org][why not use build tools]]?
 
 * Profiler
   - [[https://github.com/mstange/samply][samply]] :: Command-line sampling profiler for macOS and Linux
+  - [[https://github.com/sharkdp/hyperfine][hyperfine]] :: command line benchmarking
+
+* IDE
+  - [[https://www.visualstudio.com/][visual studio]] :: The best IDE on the world!
+      - supercharge ::
+      - codegraph ::
+      - vassitx ::
+      - installer ::
+  - [[https://developer.apple.com/cn/xcode/ide/][XCode]] :: =xcode-select --install=
+
+* Resources/Processes
+   - [[https://learn.microsoft.com/en-us/sysinternals/downloads/procmon][process monitor]] :: a better monitor, and it can record profiles for a
+   process. This has a linux version.
+   - [[https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer][process explorer]] ::

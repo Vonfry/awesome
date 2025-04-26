@@ -1,7 +1,6 @@
 #+title: Crypt
 
 * Password Manager
-  - 1Password :: Private password managem.
   - [[https://www.passwordstore.org/][pass]] :: Password management should be simple and follow Unix
     philosophy. With pass, each password lives inside of a gpg encrypted file
     whose filename is the title of the website or resource that requires the
@@ -9,7 +8,6 @@
     hierarchies, copied from computer to computer, and, in general, manipulated
     using standard command line file management utilities.
   - gopass ::
-  - [[https://github.com/nuxsmin/sysPass][sysPass]] :: Gestor de Claves web basado en PHP para uso empresarial y personal.
   - more ::  see [[file:../network/service.org::#selfhost][selfhost]]
 
 * PGP
@@ -29,8 +27,6 @@ Pretty Good Privacy is a nice way to crypt data.
     :END:
     - [[http://keys.gnupg.net/][openpgp]] ::
     - [[http://pgp.mit.edu/][mit]] ::
-
-** keybase
-   Use PGP to send message, which like whatsapp but this won't manage you keys, so it is safter. A end-to-end encryption is the best way to exchange message.
-
-   It also is a platform to show your public key. I love it!
+** Age
+ A simple, modern and secure encryption tool (and Go library) with small
+ explicit keys, no config options, and UNIX-style composability.

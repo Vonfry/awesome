@@ -25,10 +25,7 @@
 
 *** Editor
     - [[http://tug.org/texlive/][TexLive]] :: Containing the most usually using packages with a superior environment and a simple editor.
-
-**** macOS
-     Texpad is a powerful editor, see [[../app-os/macos.org][macOS.org]]
-
+    - [[https://www.texpad.com/][TexPad]] :: The best latex editor on mac, I think.
 *** Tutor
      - [[https://github.com/tuna/thulib-latex-talk][tuna]] :: 清华
      - [[https://www.learnlatex.org/en/][leanrn tex]] ::
@@ -70,30 +67,35 @@
     - [[https://tikz.net][tikz net]] :: This site features TikZ examples made by Izaak Neutelings, focused on Physics.
     - [[https://texample.net/tikz/examples/][tikz example]] ::
 ** orgmode
+   :PROPERTIES:
+   :CUSTOM_ID: orgmode
+   :END:
    It is more powerful than markdown or rst, and easier than tex.
 
-   Emacs is enough!
+   Emacs is enough! See my [[https://git.sr.ht/~vonfry/dotfiles][dotfiles]] for details.
 
 *** Template
     - [[https://github.com/fniessen/org-html-themes][org-html-themes]] :: org html output
 *** Web pages
     - [[https://orgmodeweb.org/][orgmodeweb]] ::Web app to view, edit and search org files.
-*** Converter
-    - org-ruby :: org-mode conversation
 *** Extensions
     Here list some useful tools. The others can be found in [[https://gitlab.com/Vonfry/dotfiles][dotfiles]].
     - [[https://github.com/takaxp/org-tree-slide][org tree slide]] :: A presentation tool for org-mode based on the visibility
       of outline trees
-    - org roam ::
     - [[https://github.com/minad/org-modern][org-modern]] :: Modern Org Style
 ** markdown
+   - typroa ::
    - [[https://marktext.github.io/website/][mark-text]] :: A good cross-platform editor
 ** epub
+   - [[https://calibre-ebook.com/][calibre]] :: e-book
    - [[https://sigil-ebook.com/][sigil]] :: An open source to edit epub
 ** pdf
+   - zathura ::
    - poppler ::
    - mupdf ::
-** evernote
-   It has a wonderful function to take a note anywhere. The editor
-   is terrible, but it can do a lot for webpage cropping and knowledge
-   organization.
+   - foxit ::
+   - [[https://pdfexpert.com/][pdf expert]]
+* Documentation
+  - MS office ::
+  - libreoffice ::
+  - openoffice ::

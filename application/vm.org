@@ -1,0 +1,34 @@
+#+TITLE: VM/Container
+#+AUTHOR: Vonfry
+
+* VM
+  - Qemu ::
+  - libvirt ::
+  - qira :: QEMU Interactive Runtime Analyser
+  - unicorn :: qemu based simpler vm.
+  - Virtualbox ::
+  - [[https://github.com/AsahiLinux/muvm][nuvm]] :: run programs from your system in a microVM
+  - [[https://github.com/nexus-xyz/nexus-zkvm][nexus zkvm]] :: The Nexus zkVM: The zero-knowledge virtual machine
+  - [[http://www.parallels.com][Parallels Desktop]] :: Best Virtual Machine on macOS, I think.
+
+** OS
+     - [[https://github.com/foxlet/macOS-Simple-KVM][macOS-Simple-KVM]] :: Tools to set up a quick macOS VM in QEMU, accelerated
+       by KVM.
+
+* Container
+   - Docker ::
+   - podman ::
+*** Images
+    - [[https://github.com/dockur/windows][windows]] ::  Windows inside a Docker container.
+    - [[https://github.com/sickcodes/Docker-OSX][docker osx]] ::  Run macOS VM in a Docker! Run near native OSX-KVM in
+      Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac
+      Containers.
+*** Utils
+  - [[https://github.com/89luca89/distrobox][distrobox]] :: Use any Linux distribution inside your terminal. Enable both
+    backward and forward compatibility with software and freedom to use
+    whatever distribution you’re more comfortable with. Distrobox uses podman
+    or docker to create containers using the Linux distribution of your
+    choice. The created container will be tightly integrated with the host,
+    allowing sharing of the HOME directory of the user, external storage,
+    external USB devices and graphical apps (X11/Wayland), and audio.
+  - [[https://github.com/containers/toolbox][toolbox]] ::  Tool for interactive command line environments on Linux

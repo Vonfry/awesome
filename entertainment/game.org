@@ -11,8 +11,5 @@
   - 青空下的加缪 ::
   - 樱之诗 ::
 
-* Censorship
-  - [[https://github.com/cnnblike/discord-lite][cnnblike/discord-lite]] :: A solution to censorship on mobile game in Mainland China
-
 * Steam
-  - [[https://github.com/gibbed/SteamAchievementManager][steam achievement manager]]
+  - [[https://steampp.net/][watt]] :: 「Watt Toolkit」是一个开源跨平台的多功能游戏工具箱，此工具的大部分功能都是需要您下载安装 Steam 才能使用。

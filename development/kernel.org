@@ -1,4 +1,5 @@
 #+title: Kernel
+see [[file:../system/][system]] as well.
 
 * Tution
   - [[https://github.com/cfenollosa/os-tutorial][os-tutorial]]

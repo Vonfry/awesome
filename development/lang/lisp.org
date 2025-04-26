@@ -9,6 +9,8 @@
    - [[https://common-lisp.net/project/ecl/][ecl]] :: Embeddable Common Lisp; compiles to C
 
 ** Emacs lisp
+   More info see my dotfiles.
+
 *** [[https://github.com/bbatsov/emacs-lisp-style-guide][Coding Style]]
 
 ** Scheme
@@ -18,6 +20,7 @@
   - [[https://github.com/roswell/roswell][roswell]] :: intended to be a launcher for a major lisp environment that just works.
 
 * Library
+  Most of them can be found in quicklisp.
 ** Base
    - iterate :: iteration macro that aims at being simpler
    - alexandria :: A general-purpose utility library. Public domain.
@@ -50,7 +53,9 @@
    - [[https://github.com/dnaeon/clingon][clingon]] :: a rich command-line options parser system
 * Misc
   - [[https://github.com/kanaka/mal][mal]] - A wonderful project to write a lisp compiler by yourself in many language.
-
+* Docs
+  - documentation-symbol in cl with each object ::
+  - [[http://www.lispworks.com/documentation/common-lisp.html][lispwork's cl doc]] ::
 * Tutor
   - [[https://lispcookbook.github.io/cl-cookbook/][common lisp cookbook]] ::
   - [[https://github.com/susam/emacs4cl][emacs4cl]] ::

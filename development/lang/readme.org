@@ -44,7 +44,7 @@
   - [[file:python.org][python]]
   - [[file:rust.org][rust]]
   - [[file:web.org][web]]
-  - [[file:sql.org][sql]]
+  - [[file:../../system/nixos.org][nix]]
   - enso :: visualization programming
 
 * Benchmarks

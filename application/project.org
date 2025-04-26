@@ -5,23 +5,9 @@ Project management
 
 * Server
   - redmine ::
-  - openproject ::
-  - focalboard ::
-  - restya ::
-  - taiga ::
   - more :: see [[file:../network/service.org::#selfhost][selfhost]]
 
 * Tracking
-  - Jira & Jenkins :: which can be cooperated with gitlab
-  - trello ::
-  - asana ::
-  - wrike ::
+  - [[https://www.omnigroup.com/][OmniPlan]] :: project time manager
   - openproject ::
-  - Pivotal Tracker ::
   - [[https://www.slant.co/topics/1811/~feature-tracking-planning-tools-for-small-development-teams][more]] ::
-
-* Misc
-  - [[https://github.com/hashicorp/terraform][terraform]] :: Terraform enables you to safely and predictably create, change,
-    and improve infrastructure. It is an open source tool that codifies APIs into
-    declarative configuration files that can be shared amongst team members,
-    treated as code, edited, reviewed, and versioned. https://www.terraform.io/

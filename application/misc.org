@@ -4,3 +4,60 @@
 * Clean
   - [[https://github.com/qarmin/czkawka][czkawka]] ::  Multi functional app to find duplicates, empty folders, similar
     images etc.
+  - [[https://freemacsoft.net/appcleaner/][AppCleaner]] :: free
+  - CleanMyMac ::
+
+* Compression
+  - bsdtar :: more format supported tar.
+  - [[https://github.com/ouch-org/ouch][ouch]] :: Painless compression and decompression in the terminal
+  - [[https://theunarchiver.com][The Unarchiver]] :: archive tool
+  - [[https://github.com/mcmilk/7-Zip-zstd][7zip zstd]] :: 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
+  - peazip :: PeaZip free file archiver utility, open extract RAR TAR ZIP files
+
+* Encoding detector
+  - uchardet :: An encoding detector library ported from Mozilla.
+
+* QR Code
+  - qrencode :: qrcode encode
+  - zbar :: qrcode decode
+
+* Financial
+  - [[https://github.com/simonmichael/hledger][hledger]] :: The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger
+  - [[https://wiz.money/][MoneyWiz]] :: accounting manager
+
+* Quotation
+  - [[https://github.com/shlomif/fortune-mod][fortune-mod]] :: print a saying
+
+* Ascii
+  - figlet :: ascii art
+
+* Remote Connections
+  - ssh ::
+    - x forward ::
+  - freerdp :: rdp protocol remote connectiing util. This can connect to
+    windows. On linux, you have to open a service first.
+  - tigervnc :: vnc protocol to connect.
+  - remmina :: Multiple protocol supporting client.
+  - nomachine :: server and client, self protocol
+  - rdesktop ::
+* Screen Extension
+  - [[https://github.com/pavlobu/deskreen][deskreen]] :: Deskreen turns any device with a web browser into a secondary screen for your computer
+  - [[https://github.com/H-M-H/Weylus][Weylus]] :: Use your tablet as graphic tablet/touch screen on your computer.
+  - duet display :: Ex-Apple Engineers turn your iPad into an extra display.
+* Diary
+  - why not orgmode :: see my dotfiles
+  - [[http://dayoneapp.com/][Day One]] :: diary
+* Mindmap
+  - why not orgmode :: see my dotfiles
+  - [[https://www.toketaware.com/ithoughts-osx/][iThoughtsX]] :: mindmap
+* Finder
+  - [[https://totalfinder.binaryage.com/][totalfinder]] ::
+  - [[http://www.voidtools.com/][Everything]] :: all file searching
+* Downloader
+  - aria2 ::
+  - curl ::
+  - qbittorrent ::
+  - internet download manager ::
+  - neat download manager ::
+  - free download manager ::
+  - [[https://ninjadownloadmanager.com/][ninja download manager]] ::

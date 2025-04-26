@@ -42,6 +42,7 @@
    - Essentials of Programming Languages ::
 * Calculus
 ** Lambda
+   - [[Abstract Computing Machines: A Lambda Calculus Perspective]] ::
    - [[http://goodmath.blogspot.com/][bad math or good math]] ::
 
 *** translate

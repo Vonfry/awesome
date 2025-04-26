@@ -9,5 +9,9 @@
   - [[https://github.com/danistefanovic/build-your-own-x][build your own x]] :: Build your own (insert technology here)
 * Community
   - [[http://stackoverflow.com/][stackoverflow]] ::
-  - github ::
   - [[https://opensource.guide/][opensource.guide]] ::
+* Open Source Site
+  - sourcehut ::
+  - codeberg ::
+  - github ::
+  - gitlab ::

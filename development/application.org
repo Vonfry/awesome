@@ -4,10 +4,11 @@
 ** Simulation
    - android-sdk ::
    - qemu :: a virtual machine with android
-* iOS
 
+* iOS
 ** Swift
    - [[https://github.com/jphong1111/Useful_Swift][useful]] :: List of useful iOS & Swift stuff!!
+
 ** Web
 *** Pack
     - Apache Cordova :: Mobile apps with HTML, CSS & JS

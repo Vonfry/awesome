@@ -1,0 +1,82 @@
+#+TITLE: Deploy
+#+AUTHOR: Vonfry
+
+This file also contais some useful self-hosted services.
+
+* VLAN
+  - zerotier ::
+  - tailscale ::
+  - ngrok ::
+  - [[https://github.com/inlets/inletsctl][inlets]] :: inletsctl automates the task of creating an exit-server (tunnel
+    server) on public cloud infrastructure. The create command provisions a
+    cheap cloud VM with a public IP and pre-installs inlets for you. You'll then
+    get a connection string that you can use with the inlets client.
+  - [[https://github.com/FDio/vpp][vpp]] :: The VPP platform is an extensible framework that provides
+    out-of-the-box production quality switch/router functionality. It is the
+    open source version of Cisco's Vector Packet Processing (VPP) technology: a
+    high performance, packet-processing stack that can run on commodity CPUs.
+* IM
+** IRC
+   - liberachat
+   - freenode
+** Morden
+   - [[matrix.org][Matrix]] :: An open network for secure, decentralized communication.  This can
+     be self-hosted.
+
+
+* Selfhost
+  :PROPERTIES:
+  :CUSTOM_ID: selfhost
+  :END:
+  - [[https://github.com/Kickball/awesome-selfhosted][selfhosted]] ::
+  - [[https://github.com/porn-vault/porn-vault][porn vault]] ::  Manage your ever-growing porn collection. Using Vue & GraphQL
+** s3
+   - [[https://github.com/ceph/ceph][ceph]] ::
+   - minio ::
+
+* Automata
+  - see [[file:../system/nixos.org::#deploy][Deploy]] as well ::
+  - [[https://github.com/hashicorp/terraform][terraform]] :: Terraform enables you to safely and predictably create, change,
+    and improve infrastructure. It is an open source tool that codifies APIs into
+    declarative configuration files that can be shared amongst team members,
+    treated as code, edited, reviewed, and versioned. https://www.terraform.io/
+* Log
+  - [[https://www.elastic.co/cn/products/logstash][logstas]] :: transport and process your logs, events, or other data
+  - elk ::
+  - [[https://logz.io/][logz]] :: AI-Powered ELK as a Service
+  - [[https://logentries.com/][logntries]] :: The Fastest Way to Analyze Your Log Data No complex setup. No waiting. Just answers.
+  - OpenStack :: What is OpenStack? OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed through a dashboard that gives administrators control while empowering their users to provision resources through a web interface.
+  - grafana ::
+
+* Web Log
+  - goaccess :: A real-time web log analyzer and interactive viewer that runs in a terminal
+  - rhit :: nginx log reader
+  - more :: see [[file:service.org::#selfhost][selfhost]]
+
+* Security
+
+* Forum/BBS
+  - discourse ::
+
+* Security
+  - fail2ban :: scans log files and bans IPs that show malicious signs
+  - nmap :: port scan
+  - nessus :: A remote security scanner
+  - snort :: Snort is an intrusion prevention system, network monitor, and alert
+    daemon.
+  - ossec ::
+  - mhn :: Modern Honey Network, MHN is a centralized server for management and
+    data collection of honeypots. MHN allows you to deploy sensors quickly and
+    to collect data immediately, viewable from a neat web interface. Honeypot
+    deploy scripts include several common honeypot technologies, including
+    Snort, Cowrie, Dionaea, and glastopf, among others.
+
+* Social
+  - [[https://github.com/qeeqbox/social-analyzer][social analyzer]] :: OSINT
+* Agent
+  - [[https://github.com/huginn/huginn][huginn]] :: Create agents that monitor and act on your behalf. Your agents are standing by!
+* Performance
+  - speedtest-cli ::
+  - iperf ::
+* WebDAV
+  - [[https://github.com/jelmer/xandikos][xandikos]] :: A CalDAV/CardDAV server backed by Git 

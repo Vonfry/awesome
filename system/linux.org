@@ -2,15 +2,15 @@
 #+AUTHOR: Vonfry
 
 * Release
+  - [[file:nixos.org][NixOS]] :: NixOS is a Linux distribution with a unique approach to package and
+    configuration management. Built on top of the Nix package manager, it is
+    completely declarative, makes upgrading systems reliable, and has many
+    other advantages.
   - Gentoo :: A flexible, source-based Linux distribution that becomes just
     about any system you need—and much more. You can choose what you want to
     install with a package.
       - Anything(installation, development environment, overlay or others) about
         it can be fountd on its [[http://wiki.gentoo.org/][*wiki*]].
-  - [[file:nixos.org][NixOS]] :: NixOS is a Linux distribution with a unique approach to package and
-    configuration management. Built on top of the Nix package manager, it is
-    completely declarative, makes upgrading systems reliable, and has many
-    other advantages.
   - Kali :: Kali Linux Advanced Web Attacks and Exploitation
   - qubes os :: A reasonably secure operating system
 
@@ -18,139 +18,39 @@
   think. Other distributions are used for special usage in virtual machine.
 
 * Application
-  Linux tools can be checked in shell and other topics as well.
-** Terminal
-   - xterm ::
-   - urxvt ::
-   - termonad :: Terminal emulator configurable in Haskell.
-   - alacritty :: use gpu for terminal
-   - darktile :: Darktile is a GPU rendered terminal emulator designed for
-     tiling window managers.
+  Linux tools can be checked in shell and other topics as well. Here only lists
+  some applications related to kernel, administration or linux
+  direct-related/special/focus topics.
 
-** VM
-   - Qemu ::
-       - libvirt ::
-       - qira :: QEMU Interactive Runtime Analyser
-   - unicorn :: qemu based simpler vm.
-   - Virtualbox ::
-   - [[https://github.com/AsahiLinux/muvm][nuvm]] :: run programs from your system in a microVM
-   - [[https://github.com/nexus-xyz/nexus-zkvm][nexus zkvm]] :: The Nexus zkVM: The zero-knowledge virtual machine
+  - [[https://wiki.archlinux.org/title/List_of_applications][lists on archlinux wiki]] :: This article is a general list of applications
+    sorted by category, as a reference for those looking for packages. Many
+    sections are split between console and graphical applications. Applications
+    listed in "Console" sections can have graphical front-ends, official ones
+    are currently omitted.
+  - [[https://github.com/uutils/coreutils][coreutils]] :: rust rewrite for gnu coreutils
+** Login
+   - [[https://sr.ht/~kennylevinsen/greetd][greetd]] :: greetd is a minimal and flexible login manager daemon that makes
+     no assumptions about what you want to launch.
+   - sddm ::
+       - [[https://github.com/MarianArlt/sddm-chili][chili]] :: A beatiful theme without kde dependencies.
+       - [[https://github.com/MarianArlt/sddm-sugar-dark][sugar]] ::
+       - [[https://github.com/RadRussianRus/sddm-slice][slice]] ::
+       - [[https://github.com/Rokin05/SDDM-Themes][Rokin05/SDDM-Themes]] ::
 
-*** Repo
-    - [[https://github.com/foxlet/macOS-Simple-KVM][macOS-Simple-KVM]] :: Tools to set up a quick macOS VM in QEMU, accelerated
-      by KVM.
-
-*** Container
-    - Docker ::
-    - podman ::
-**** Images
-     - [[https://github.com/dockur/windows][windows]] ::  Windows inside a Docker container.
-     - [[https://github.com/sickcodes/Docker-OSX][docker osx]] ::  Run macOS VM in a Docker! Run near native OSX-KVM in
-       Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac
-       Containers.
-**** Utils
-   - [[https://github.com/89luca89/distrobox][distrobox]] :: Use any Linux distribution inside your terminal. Enable both
-     backward and forward compatibility with software and freedom to use
-     whatever distribution you’re more comfortable with. Distrobox uses podman
-     or docker to create containers using the Linux distribution of your
-     choice. The created container will be tightly integrated with the host,
-     allowing sharing of the HOME directory of the user, external storage,
-     external USB devices and graphical apps (X11/Wayland), and audio.
-   - [[https://github.com/containers/toolbox][toolbox]] ::  Tool for interactive command line environments on Linux
-** Windows Manager
-   - XMonad :: A tiling window manager, written in haskell. You can configure it a lot.
-       - xmonad-contrib :: Third party tiling algorithms, configurations and scripts to xmonad, a tiling window manager for X.
-       - xmonad-extra :: Various modules for xmonad that cannot be added to xmonad-contrib because of additional dependencies.
-       - [[https://github.com/taffybar/taffybar][system info bar]]
-   - waymonad :: A wayland compositor based on ideas from and inspired by xmonad
-   - [[https://www.slant.co/topics/390/~best-window-managers-for-linux][more]] ::
-*** Login
-    - sddm ::
-        - [[https://github.com/MarianArlt/sddm-chili][chili]] :: A beatiful theme without kde dependencies.
-        - [[https://github.com/MarianArlt/sddm-sugar-dark][sugar]] ::
-        - [[https://github.com/RadRussianRus/sddm-slice][slice]] ::
-        - [[https://github.com/Rokin05/SDDM-Themes][Rokin05/SDDM-Themes]] ::
-
-*** Locker
-    - i3lock ::
-        - i3lock-color :: A rewrite with more customizing feature.
-        - i3lock-fancy ::
-        - betterlockscreen ::
-    - sflock ::
-    - light-locker ::
-    - lightdm :: dm-tools lock
-    - xscreensaver ::
-    - xidlehook :: a replacement for xautolock.
-** Remote(GUI)
-   - freerdp :: rdp protocol remote connectiing util. This can connect to
-     windows. On linux, you have to open a service first.
-   - tigervnc :: vnc protocol to connect.
-   - remmina :: Multiple protocol supporting client.
-   - nomachine :: server and client, self protocol
-   - rdesktop ::
-
-** System
-   - inxi :: system states, such as cpu, memory and etc
-   - [[https://www.criu.org/Main_Page][CRIU]] :: Checkpoint/Restore In Userspace, or CRIU (pronounced kree-oo, IPA:
-     /krɪʊ/, Russian: криу), is a Linux software. It can freeze a running
-     container (or an individual application) and checkpoint its state to
-     disk. The data saved can be used to restore the application and run it
-     exactly as it was during the time of the freeze. Using this functionality,
-     application or container live migration, snapshots, remote debugging, and
-     many other things are now possible.
-   - [[https://github.com/facebookincubator/below][below]] :: A time traveling resource monitor for modern Linux systems
+** Locker
+   - i3lock ::
+       - i3lock-color :: A rewrite with more customizing feature.
+       - i3lock-fancy ::
+       - betterlockscreen ::
+   - xscreensaver ::
+   - xidlehook :: a replacement for xautolock.
+** Linker
    - [[https://github.com/haampie/libtree][libtree]] :: ldd as a tree
-   - bpftrace :: High-level tracing language for Linux eBPF
-** Picture
-   - inkscape ::
-   - gimp ::
-   - krita :: digital painting
-** Audio
-   - pavucontrol ::
-   - pulseeffects ::
-   - kid3 ::
-   - audacity ::
-   - ffmpeg ::
-** Media
-   - inkscape :: vector graphics
-   - gimp :: image Manipulation Program
-   - kid3 :: Audio Tagger
-   - mpd :: Music player daemon
-   - more :: see [[file:../application/media.org][media]]
-   - [[https://gitlab.com/screenkey/screenkey][screenkey]] :: print the key on screen when you click.
-   - [[https://maoschanz.github.io/drawing/][drawing]] :: Simple image editor for Linux
-** Document
-   - zathura :: pdf reader
-   - more :: see [[file:../application/text.org][text]]
-** Monitor
-   - netdata :: system resource monitor
-   - [[https://oguzhaninan.github.io/Stacer-Web/][stacer]] :: Stacer is an open source system optimizer and application monitor
-     that helps users to manage entire system with different aspects, its an all
-     in one system utility.
-   - [[https://github.com/prometheus/prometheus][prometheus]] :: Prometheus, a Cloud Native Computing Foundation project, is a
-     systems and service monitoring system. It collects metrics from configured
-     targets at given intervals, evaluates rule expressions, displays the
-     results, and can trigger alerts if some condition is observed to be true.
-   - [[https://osquery.io/][osquery]] :: Performant endpoint visibility
-** Log
-   - [[https://www.elastic.co/cn/products/logstash][logstas]] :: transport and process your logs, events, or other data
-   - elk ::
-   - [[https://logz.io/][logz]] :: AI-Powered ELK as a Service
-   - [[https://logentries.com/][logntries]] :: The Fastest Way to Analyze Your Log Data No complex setup. No waiting. Just answers.
-   - OpenStack :: What is OpenStack? OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed through a dashboard that gives administrators control while empowering their users to provision resources through a web interface.
-   - grafana ::
-** Security
-   - fail2ban :: scans log files and bans IPs that show malicious signs
-** Dashboard
-*** Terminal
-   - [[https://github.com/senorprogrammer/wtf][senorprogrammer/wtf]] :: personal
 ** [[file:../application/shell.org][Shell]]
 ** Profiler
    - sysprof ::
    - perf tools :: from kernel, which can bench and record cpu and ram usages
-** Graphics
-   - [[https://github.com/H-M-H/Weylus][Weylus]] :: Use your tablet as graphic tablet/touch screen on your computer.
-   - [[https://github.com/pavlobu/deskreen][deskreen]] :: Deskreen turns any device with a web browser into a secondary screen for your computer
+
 * Tutor
   - [[https://github.com/learnbyexample/Command-line-text-processing][CLI]] ::
   - [[https://linuxcommand.org][linuxcommand.org]] ::

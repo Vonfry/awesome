@@ -11,24 +11,19 @@
   - pip ::
   - setuptools ::
   - wheel ::
+  - uv :: An extremely fast Python package installer and resolver, written in
+    Rust.
   - pdm :: a dependency management
   - hatchling :: a building tools
   - ruff :: lint
-  - uv :: An extremely fast Python package installer and resolver, written in
-    Rust.
   - micromamba :: Mamba is a fast, robust, and cross-platform package manager.
     This is an alternative of conda with compatibility.
   - conda ::
   - [[http://virtualenv.pypa.io/en/stable/][virtualenv]] :: sand box
   - [[https://ipython.org/][ipython]] :: more powerful interpretation
-  - [[https://github.com/davidhalter/jedi][jedi]] :: code completion and navigation
-  - [[http://flake8.pycqa.org/en/latest/][flake8]] :: code checks
   - [[https://github.com/alecthomas/importmagic][importmagic]] :: auto imports
   - [[https://github.com/hhatto/autopep8][autopep8]] :: code PEP8 formatting
   - [[https://github.com/python-rope/rope][rope]] :: refactoring library
-  - [[https://github.com/google/yapf][yapf]] :: format tool
-  - [[https://github.com/portante/pycscope][pycscope]] :: cscope support
-  - [[http://pytz.sourceforge.net/][pytz]] :: a useful package for timezone
   - [[https://github.com/python-poetry/poetry][poetry]] :: a dependency management
 
 * Editor
@@ -41,6 +36,7 @@
 * Library
 
 ** AI
+   see [[file:../library.org::*Artificial Intelligence][library/ai]] as well. Most of them are in python.
 *** ML
     - tensorflow ::
       - [[https://github.com/astorfi/TensorFlow-World][tensorflow-world]] :: Simple and ready-to-use tutorials for TensorFlow
@@ -65,4 +61,15 @@
    - pydantic :: Data validation using Python type hints
 ** Embedded Lang
    - [[https://github.com/hylang/hy][hy]] :: A dialect of Lisp that's embedded in Python
+** Parser
+   - [[https://github.com/lark-parser/lark][lark]] :: Lark is a parsing toolkit for Python, built with a focus on
+     ergonomics, performance and modularity.
+** Locale
+  - [[http://pytz.sourceforge.net/][pytz]] :: a useful package for timezone
+** Development
+   You can use them to develop your own tools. If you want a tool with a schu
+   features, check [[*Tool Chain][tool chain]] for detail.
 
+  - [[https://github.com/davidhalter/jedi][jedi]] :: code completion and navigation
+  - [[http://flake8.pycqa.org/en/latest/][flake8]] :: code checks
+  - [[https://github.com/google/yapf][yapf]] :: format tool

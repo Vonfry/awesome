@@ -31,20 +31,21 @@
      platforms in an array of different programming languages.
 * Util
 ** Reverse
-
+   - radare2 :: cli
+       - r2dec :: decompiler plugins written in js
+       - RetDec : decompiler plugins
+       - r2ghidra :: decompiler depended on ghidra
    - [[https://www.metasploit.com/][metasploit]] ::
    - Ida Pro :: A cross-platform sotfware which can be used almost all files.
-*** Binary
-    - imHex :: A Hex Editor for Reverse Engineers, Programmers and people who
-      value their retinas when working at 3 AM.
-**** Linux Binary
-    - [[https://binary.ninja/][binary ninja]] :: A New Type of Reversing Platform
-    - radare2 :: cli
-        - r2dec :: decompiler plugins written in js
-        - RetDec : decompiler plugins
-        - r2ghidra :: decompiler depended on ghidra
-    - ghidra :: gui, but having problem with no DE linux.
-    - [[https://github.com/google/binnavi][binnavi]] ::
+   - [[https://www.hopperapp.com/][hopper]] :: Reversing tools
+** Binary
+   - HxD :: hex viewer
+   - Hexinator :: hex viewer
+   - imHex :: A Hex Editor for Reverse Engineers, Programmers and people who
+     value their retinas when working at 3 AM.
+   - [[https://binary.ninja/][binary ninja]] :: A New Type of Reversing Platform
+   - ghidra :: gui, but having problem with no DE linux.
+   - [[https://github.com/google/binnavi][binnavi]] ::
 
 *** Password
     - [[https://github.com/magnumripper/JohnTheRipper][johnTheRipper]] ::
@@ -72,15 +73,7 @@
    - opensk :: OpenSK is an open-source implementation for security keys written
      in Rust that supports both FIDO U2F and FIDO2 standards.
 * Library
-  - [[https://github.com/lifting-bits/remill][remill]] :: Library for lifting machine code to LLVM bitcode
-  - [[https://github.com/DynamoRIO/dynamorio][dynamorio]] :: Dynamic Instrumentation Tool Platform
-  - [[https://github.com/keystone-engine/keystone][keystone]] :: Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips,
-    PowerPC, Sparc, SystemZ & X86) + bindings
-  - [[https://github.com/capstone-engine/capstone][capstone]] ::  Capstone disassembly/disassembler framework for ARM, ARM64
-    (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips,
-    MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore,
-    Webassembly, XCore and X86.
-  - [[https://github.com/dyninst/dyninst][dyninst]] :: DyninstAPI: Tools for binary instrumentation, analysis, and modification.
-
+  see [[file:lang/cc.org::*Assemble][cc/Assemble]] or other languages.
 * Collections
   - [[https://github.com/SecWiki/linux-kernel-exploits][linux kernel expoits]] ::
+  - [[https://github.com/CVEProject/cvelistV5][CVElist]] ::

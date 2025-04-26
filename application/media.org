@@ -6,7 +6,8 @@
    - fontforge :: postscript font editor and converter
 
 ** Font
-   - [[https://github.com/source-foundry/Hack][hack]] :: my favourite
+   - [[https://www.recursive.design/][recursive]] ::
+   - [[https://github.com/source-foundry/Hack][hack]] ::
    - [[https://github.com/ryanoasis/nerd-fonts][nerd]] ::
    - [[https://github.com/larsenwork/monoid][monoid]] ::
    - [[https://github.com/tonsky/FiraCode][fira code]] ::
@@ -14,25 +15,44 @@
 
 
 * Video
+  - mpv :: Video Player
   - handbrake :: HandBrake is an open-source video transcoder available for Linux, Mac, and Windows, licensed under the GNU General Public License (GPL) Version 2.
   - ffmpeg ::
       + [[https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730][cheatsheet]] ::
   - vlc :: qt-based video player
-  - mpv :: Video Player
+  - [[https://github.com/lhc70000/iina][IINA]] :: A wonderful video player for macos.
+  - Adobe xxx :: you know what
+  - [[https://www.apple.com/final-cut-pro/][Final Cut Pro X]] :: video making
 
 * Picture
   - [[https://www.digikam.org/][digikam]] :: Professional Photo Management with the Power of Open Source
+  - inkscape ::
+  - gimp ::
+  - krita :: digital painting
+  - [[https://maoschanz.github.io/drawing/][drawing]] :: Simple image editor for Linux
+  - Adobe xxx :: you know what
+  - [[https://sketchbook.com/][SketchBook]] :: draw a picture
+  - [[https://photobulkeditor.com/][PhotoBluk]] :: quick cut picture
+  - [[http://www.pixelmator.com/pro/][Pixelmator]] :: photo making
 
 * Audio
   - [[https://github.com/metabrainz/picard][picard]] ::  MusicBrainz Picard audio file tagger
   - mpd :: Music player daemon
   - audacity :: Audio Player and management
+  - kid3 :: Audio Tagger
   - pipewire :: linux audio service
       - easyeffects ::
           - [[https://github.com/p-chan5/EasyPulse][easy pulse]] :: A set of HQ presets for Easy Effects.
+  - [[https://vox.rocks/][Vox]] :: Music player
+  - Adobe xxx :: you know what
 ** Spotify
    - [[https://github.com/jpochyla/psst][psst]] :: Fast and multi-platform Spotify client with native GUI
-   - [[https://github.com/Rigellute/spotify-tui][tui]] :: Spotify for the terminal written in Rust rocket
    - [[https://github.com/librespot-org/librespot][lib]] :: Open Source Spotify client library
 * Documentation
   - [[https://github.com/opendatalab/MinerU/tree/master][mineru]] :: A one-stop, open-source, high-quality data extraction tool, supports PDF
+
+* Screen Recorder
+  - [[https://github.com/lextrack/MiniScreenRecorder][mini screen recorder]] :: Screen recorder made with Python and Tkinter for
+    Windows and Linux.
+  - [[https://gitlab.com/screenkey/screenkey][screenkey]] :: print the key on screen when you click.
+  - [[https://flameshot.org/][flameshot]] :: Powerful, yet simple to use open-source screenshot software.

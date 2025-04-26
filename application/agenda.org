@@ -1,0 +1,9 @@
+#+TITLE: Agenda
+#+AUTHOR: Vonfry
+
+- orgmode :: see [[file:text.org::#orgmode][orgmode]]
+* Lists
+  - [[https://www.omnigroup.com/omnifocus][OmniFocus]] :: GTD! Best one I think! (Org-mode is useful too, but this can use on iphone as well.)
+  - [[https://www.omnigroup.com/][OmniGraffle]] ::
+* Calendar
+  - [[https://flexibits.com/fantastical][fantastical]] :: calendar

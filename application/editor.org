@@ -25,25 +25,12 @@ List some useful tools for editor to navigate, format or do others.
 ** Plugins
    - [[http://vimawesome.com/][Vimawesome]] :: website lists famous vim plugins.
    - [[https://github.com/vimwiki/vimwiki][vimwiki]] :: Personal Wiki for Vim for notes and others
-   - [[https://github.com/dhruvasagar/vim-dotoo][vim dotoo]] :: Org-mode like task logging & time tracking in Vim
-   - [[https://github.com/KevinBockelandt/notoire][notoire]] :: A vim plugin to take notes using the Zettelkasten method
 ** NeoVim
    rewritten version for vim. It provide more morden api & design, but it is
    under developing. It can be used to develop vim-like plugin for other editor.
 
-*** GUI
-    - [[https://github.com/onivim/oni][onivim]] :: developing gui cross-platform editor by onivim.
-    - [[https://github.com/Kethku/neovide][neovide]] :: No Nonsense Neovim Client in Rust
-    - [[https://github.com/rohit-px2/nvui][nvui]] :: A modern frontend for Neovim.
-
-** Configure
-   Here are some samples, but I suggest only take a look as a reference. Write config by yourself!
-   - [[https://gitlab.com/Vonfry/dotfiles/-/tree/master/etc/nixos/modules/user/files/nvim][mine]]
-   - [[https://github.com/SpaceVim/SpaceVim][SpaceVim]]
-
 ** Tutor
    - [[https://github.com/mhinz/vim-galore][galore]] :: All things Vim!
-   - [[https://github.com/nanotee/nvim-lua-guide][lua in neovim]] :: a guide
 * Emacs
   Emacs is one of the best editor on the world. Its default editing mode is used
   in many morden editors such as all text input form on macos.
@@ -84,19 +71,8 @@ List some useful tools for editor to navigate, format or do others.
    - [[https://github.com/lujun9972/emacs-document][chinese document]] ::
    - [[https://liujiacai.net/blog/2020/11/25/why-emacs/][chinese introduction]] ::
 ** Org Mode
-   One of the killer feature in emacs. It use marks to make program analyzing
-   document structure and do many actions such as GTD, calucalting and so on.
-
-   Furthermore [[https://github.com/org-roam/org-roam][roam]] is a kind of way to
-   manage notes. ~org-babel~ allow you to write doucment with coding result.
-
-   - org-agenda :: GTD
-   - [[https://git.sr.ht/~ymherklotz/org-zettelkasten][org-zettelkasten]] ::
-   - org-roam :: roam search
-   - org-contacts :: contacts with org mode
 ** Theme
    - Dracula ::
-   - [[https://github.com/rougier/elegant-emacs][elegant]] :: A very minimal but elegant emacs (I think)
    - [[https://github.com/rougier/nano-emacs][nano]] :: GNU Emacs / N Λ N O - Emacs made simple
 * Interesting Editors
   - geany :: A fast and lightweight IDE

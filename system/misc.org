@@ -4,9 +4,9 @@
 * Instresting Project
   - [[https://github.com/64/ByteOS][byteos]] :: A simple hobby operating system for the x86_64 architecture, written in C.
   - minix :: minial system
-* Tutors
-  - [[https://github.com/justinmeiners/lc3-vm][lc3-vm]] ::  Write your own virtual machine for the LC-3 computer!
 * Filesystem
   - btrfs ::
   - [[https://github.com/mhx/dwarfs][dwarfs]] ::  A fast high compression read-only file system for Linux, Windows
     and macOS
+* Tutors
+  - [[https://github.com/justinmeiners/lc3-vm][lc3-vm]] ::  Write your own virtual machine for the LC-3 computer!

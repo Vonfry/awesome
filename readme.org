@@ -6,6 +6,15 @@ for *myself*. Most of things are collected because of I used.
 All files are written in ~org-mode~ with ~CUSTOM_ID~, so all the
 internal link cannot be used outside.
 
+Applications are placed in application categories instead of system.
+In other words, applications for different OS are listed togather.
+Some of them are cross platfroms, but some of them are not so.
+
+Some tools/services for both development or not are placed in application,
+and some are mainly for development are placed in development.
+Simple system resource are placed in application, but complex operation and
+maintenance tools are under development.
+
 * Awesome
   :PROPERTIES:
   :CUSTOM_ID: awesome
@@ -59,6 +68,10 @@ internal link cannot be used outside.
   - [[file:application/project.org][project]]
   - [[file:application/media.org][media]]
   - [[file:application/shell.org][shell]]
+  - [[file:application/vm.org][vm/containter]]
+  - [[file:application/wm.org][wm]]
+  - [[file:application/agenda.org][agenda]]
+  - [[file:application/moniter.org][monitor]]
   - [[file:application/misc.org][misc]]
 * Development
   :PROPERTIES:
@@ -75,10 +88,5 @@ internal link cannot be used outside.
   - [[file:development/algorithm.org][algorithm]]
   - [[file:development/game.org][game]]
   - [[file:development/lang/readme.org][lang]]
-* Network
-  :PROPERTIES:
-  :CUSTOM_ID: network
-  :END:
-  - [[file:network/site.org][site]]
-  - [[file:network/analyzer.org][analyzer]]
-  - [[file:network/service.org][service]]
+  - [[file:development/deploy.org][deploy]]
+  - [[file:development/library.org][library]]

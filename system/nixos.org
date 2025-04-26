@@ -1,23 +1,40 @@
-#+TITLE: NixOS
+#+TITLE: Nix(OS)
 #+AUTHOR: Vonfry
+
+see development/lang/nix for some generic tools.
 
 * Guide
   - [[https://github.com/Gabriel439/haskell-nix][haskell-nix]] :: Nix and Haskell in production
   - [[https://nix.dev/][nix.dev]] :: An opinionated guide for developers getting things done using the Nix ecosystem.
-* Converter
-See nixpkgs manual
-
 * Repos
-  - [[https://nixpk.gs/][pr & other tracker]]
+  - [[https://nixpk.gs/][pr & other tracker]] ::
 * Nix
+  :PROPERTIES:
+  :CUSTOM_ID: nix
+  :END:
+** Framework
+  - flake-utils :: simple flake framework
+** Searching/Discover
   - [[https://noogle.dev][noogle]] :: search nix library
   - [[https://www.nixhub.io/][nixhub]] :: search packages with history
-  - flake-utils :: simple flake framework
+  - [[https://github.com/craigmbooth/nix-visualize][nix-visualize]] :: uses the Nix package manager to visualize the dependencies
+    of a given package
+  - nix index ::
+** Ovelays
   - rust-overlay ::
   - emacs-overlay ::
-  - devenv :: Fast, Declarative, Reproducible and Composable Developer Environments using Nix
+  - [[https://github.com/nix-community/NUR][NUR]] :: A community nix repo
+** Dependencies
+   - niv :: Easy dependency management for Nix projects
+   - [[https://github.com/berberman/nvfetcher][nvfetcher]] :: Generate nix sources expr for the latest version of packages
+** Awesome
+   - [[https://github.com/nix-community/awesome-nix][awesome-nix]] ::
+
 * Deploy
-  - deploy-rs
+  :PROPERTIES:
+  :CUSTOM_ID: deploy
+  :END:
+  - [[https://github.com/serokell/deploy-rs][deploy-rs]] ::
 * Utils
 ** Secret
    - [[https://github.com/Mic92/sops-nix][sops-nix]] :: Atomic, declarative, and reproducible secret provisioning for NixOS based on sops.

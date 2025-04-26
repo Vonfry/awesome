@@ -1,0 +1,25 @@
+#+TITLE: WM
+#+AUTHOR: Vonfry
+
+* Dynamic/Tiling WM
+  - XMonad :: A tiling window manager, written in haskell. You can configure it a lot.
+      - xmonad-contrib :: Third party tiling algorithms, configurations and scripts to xmonad, a tiling window manager for X.
+      - xmonad-extra :: Various modules for xmonad that cannot be added to xmonad-contrib because of additional dependencies.
+      - [[https://github.com/taffybar/taffybar][system info bar]]
+  - [[https://github.com/YaLTeR/niri][niri]] ::  A scrollable-tiling Wayland compositor.
+  - [[https://github.com/koekeishiya/yabai][yabai]] :: A tiling window manager for macOS based on binary space
+    partitioning 
+* Keycuts
+  - [[https://github.com/kmonad/kmonad][keymonad]] :: An advanced keyboard manager 
+  - [[https://github.com/koekeishiya/skhd][skhd]] ::  Simple hotkey daemon for macOS 
+* Launcher
+  - [[https://codeberg.org/dnkl/fuzzel][fuzzel]] :: Application launcher for wlroots based Wayland compositors,
+    similar to rofi's `drun` mode.
+  - [[https://www.alfredapp.com/][Alfred]] :: more powerful quick seach
+      - [[https://github.com/rhydlewis/search-omnifocus][searc-omnifocus]] ::
+      - [[zenorocha / alfred-workflows%0A][workflow collect]] ::
+  - [[https://github.com/microsoft/PowerToys][PowerToys]] :: Windows system utilities to maximize productivity. It includes
+    change keymaps, window manager, an simple wox, etc.
+      - [[https://github.com/lin-ycv/EverythingPowerToys][everything plugin]]
+* Awesome
+  - [[https://wiki.archlinux.org/title/List_of_applications/Other#Window_managers][archlinux wiki]] ::

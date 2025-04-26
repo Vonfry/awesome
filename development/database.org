@@ -1,6 +1,8 @@
 #+TITLE: DB
 #+AUTHOR: Vonfry
 
+Similar to [[file:library.org][library]], here lists some generic databases.
+
 * Relational
 
 ** PostgreSQL
@@ -25,9 +27,6 @@
     :END:
 **** client
      - sqlitebrowser ::
-
-** clickhouse
-   [[https://github.com/ClickHouse/ClickHouse][repo]]
 ** Client(General)
    - [[https://dbeaver.io/][DBeaver]] :: Universal Database Tool
    - [[https://github.com/nocodb/nocodb][nocodb]] :: Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a
@@ -42,8 +41,10 @@
 * Non-relational
   - Readis ::
   - MongoDB ::
+  - [[https://github.com/facebook/rocksdb/][RocksDB]] ::  A library that provides an embeddable, persistent key-value store for fast storage.
 
 * Columnar
+  - [[https://github.com/ClickHouse/ClickHouse][clickhouse]] ::
   - [[https://www.influxdata.com/time-series-database/][influxdata]] :: time series database
   - [[https://docs.databend.com/guides][databend]] ::
 * Directory
@@ -56,6 +57,9 @@
     - LDAP Admin Tool ::
     - phpldapadmin ::
 * Utils
-
   - [[https://github.com/rethinkdb/rethinkdb][rethinkdb]] :: The open-source database for the realtime web. https://rethinkdb.com
   - [[https://github.com/chartdb/chartdb][chartdb]] ::  Free and open-source database diagrams editor, visualize and design your DB with a single query.
+
+* SQL
+  - [[https://github.com/PRQL/prql][prql]] :: PRQL is a modern language for transforming data — a simple,
+    powerful, pipelined SQL replacement

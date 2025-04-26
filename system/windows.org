@@ -3,57 +3,10 @@
 
 I'm not developing on windows, many dev tools just for fun.
 
-* Develop
-** IDE
-  - [[https://www.visualstudio.com/][visual studio]] :: The best IDE on the world!
-      - supercharge ::
-      - codegraph ::
-      - vassitx ::
-      - installer ::
-** Debugger
-   - windbg
-   - x64dbg
-   - [[https://docs.microsoft.com/en-us/sysinternals/downloads/procdump][procdump]]
 
-* Editor
-  see also: dev/security/utils/reverse/binary
-** Hex
-   - HxD :: hex viewer
-   - Hexinator :: hex viewer
-* Terminal
-  - *winget* :: homebrew like package manager for windows *provided in system by default!*
-  - vcpkg :: c++ dependencies manager, supported by micorsoft
-
-** powershell
-   - [[https://github.com/JanDeDobbeleer/oh-my-posh][oh-my-posh]] ::
-   - +[[https://github.com/chocolatey/choco][choco]]+ :: package manager
-
-* Effect
-  - [[http://www.voidtools.com/][Everything]] :: all file searching
-  - [[https://github.com/microsoft/PowerToys][PowerToys]] :: Windows system utilities to maximize productivity. It includes
-    change keymaps, window manager, an simple wox, etc.
-      - [[https://github.com/lin-ycv/EverythingPowerToys][everything plugin]]
-  - office ::
-  - [[https://calibre-ebook.com/][calibre]] :: e-book
-  - foxit ::
-  - [[https://github.com/mcmilk/7-Zip-zstd][7zip zstd]] :: 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
-  - peazip :: PeaZip free file archiver utility, open extract RAR TAR ZIP files
-  - winmerge :: a diff and merge tools, which is under maintaining and useful
-
-* Downloader
-  - aria2 ::
-  - internet download manager ::
-  - neat download manager ::
-  - free download manager ::
-  - [[https://ninjadownloadmanager.com/][ninja download manager]] ::
-
-* System
-  - sandboxie :: Sandbox
-  - process monitor :: a better monitor, and it can record profiles for a
-    process. This has a linux version.
-  - process explorer ::
-  - RAMDisk :: RAMDisk is a program that takes a portion of your system memory
-    and uses it as a disk drive. The more RAM your computer has, the larger the
-    RAMDisk you can create.
-  - ImDisk :: Like RAMDisk, but open source
+- sandboxie :: Sandbox
+- RAMDisk :: RAMDisk is a program that takes a portion of your system memory
+and uses it as a disk drive. The more RAM your computer has, the larger the
+RAMDisk you can create.
+- ImDisk :: Like RAMDisk, but open source
 

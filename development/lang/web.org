@@ -9,8 +9,6 @@
        - compass ::
 ** Library
    - [[https://github.com/necolas/normalize.css][normalize]] :: A modern alternative to CSS resets
-
-* Html
 ** Framework
   - tailwindcss :: Rapidly build modern websites without ever leaving your HTML.
       - daisyui :: The most popular component library for Tailwind CSS
@@ -19,21 +17,20 @@
   - semantic ui ::
 
 * Javascript
-
 ** Style
    - [[https://github.com/airbnb/javascript][airbnb]] ::
 
 ** Compiler
-   - v8 ::
+   - [[https://v8.dev/][v8]] ::
    - nodejs ::
 
 *** Webassembly
     - emscripten :: llvm to webassembly
-    - ghcjs ::
+    - wasm bingen :: see rust
+    - ghcjs :: see haskell
 
 ** Library
 *** Foundation
-    - zepto.js ::
     - jQuery ::
 *** Misc
    - [[https://github.com/js-cookie/js-cookie][js-cookie]] :: A simple, lightweight JavaScript API for handling browser cookies
@@ -42,6 +39,7 @@
    - [[https://www.gnu.org/philosophy/javascript-trap.en.html][Javascript Trap]] :: EN
 
 * Package
+  - npm ::
   - grunt ::
 
 * Road Map
@@ -49,47 +47,48 @@
 
 * Test
 ** Automate
-   - selenium ::
+   - selenium :: Selenium is a browser automation library. Most often used for
+     testing web-applications, Selenium may be used for any task that requires
+     automating interaction with the browser.
 
 ** Penetration
    - beef :: The Browser Exploitation Framework Project
 
 * Utils
-  - hurl :: a curl based test tools
   - [[https://github.com/davecheney/httpstat][httpstat]] :: It's like curl -v, with colours.
-  - [[https://github.com/httpie/httpie][httpie]] :: As easy as /aitch-tee-tee-pie/ ￼ Modern, user-friendly
-    command-line HTTP client for the API era. JSON support, colors, sessions,
-    downloads, plugins & more.
   - fluentd :: data collector and unified logging layer (project under CNCF)
   - [[https://github.com/tinymce/tinymce][tinmce]] :: The world's most popular JavaScript library for rich text editing
   - [[https://github.com/fangzesheng/free-api][free-api]] ::
-  - [[https://github.com/hoppscotch/hoppscotch][hoppscotch]] :: API test environment, web(vue) based.
   - [[https://github.com/buger/goreplay][goreplay]] :: GoReplay is an open-source tool for capturing and replaying
     live HTTP traffic into a test environment in order to continuously test your
     system with real data. It can be used to increase confidence in code
     deployments, configuration changes and infrastructure changes.
+** Test tools
+  - why not emacs's org babel with curl? ::
+  - hurl :: a curl based test tools
+  - [[https://github.com/httpie/httpie][httpie]] :: As easy as /aitch-tee-tee-pie/ ￼ Modern, user-friendly
+    command-line HTTP client for the API era. JSON support, colors, sessions,
+    downloads, plugins & more.
+  - [[https://paw.cloud/][Paw]] :: Web API Test
+  - [[https://github.com/hoppscotch/hoppscotch][hoppscotch]] :: API test environment, web(vue) based.
 
 ** CDN
   - [[https://www.staticfile.net/][staticfile]] :: A free cdn for china.
   - [[https://cdnjs.com/][cdnjs]] :: Free and Open Source Public Web CDN
+
 
 * Tutorials
   - [[https://github.com/microsoft/Web-Dev-For-Beginners][microsoft/web-dev-for-beginners]] ::
 
 * Deploy
   - [[https://www.heroku.com][heroku]] ::
-  - [[https://crossbar.io/][crossbar]] :: Crossbar.io is an open source networking platform for
-    distributed and microservice applications. It implements the open Web
-    Application Messaging Protocol (WAMP), is feature rich, scalable, robust and
-    secure. Let Crossbar.io take care of the hard parts of messaging so you can
-    focus on your app's features.
 
 * Frameworks
-  - cef :: Chromium Embedded Framework (CEF). A simple framework for embedding
+  - [[https://github.com/chromiumembedded/cef][cef]] :: Chromium Embedded Framework (CEF). A simple framework for embedding
     Chromium-based browsers in other applications.
   - [[https://github.com/Pythagora-io/gpt-pilot][gpt pilot]] :: Dev tool that writes scalable apps from scratch while the
     developer oversees the implementation
 
-
-* Communication Protocol
-  - [[https://developers.google.com/protocol-buffers/][google protocol buffer]]
+* Foundation
+  - [[https://www.iana.org/][iana]] :: The global coordination of the DNS Root, IP addressing, and other Internet protocol resources is performed as the Internet Assigned Numbers Authority (IANA) functions. Learn more.
+  - [[https://www.ietf.org/standards/rfcs/][rfcs]] :: Memos in the RFC document series contain technical and organizational notes about the Internet.

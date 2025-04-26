@@ -1,17 +1,11 @@
 #+title: Algorithm
 #+author: Vonfry
 
+This is for algoriths itself without they libraries/implementation.
+It focuses on theory, performance and execises.
+
 * Compression
-  - [[https://github.com/facebook/zstd][zstd]] :: Zstandard - Fast real-time compression algorithm
   - [[http://catchchallenger.first-world.info/wiki/Quick_Benchmark:_Gzip_vs_Bzip2_vs_LZMA_vs_XZ_vs_LZ4_vs_LZO][quick benchmark for some algorithms]] :: Quick Benchmark: Gzip vs Bzip2 vs LZMA vs XZ vs LZ4 vs LZO
-* Graphics
-** Library
-   - [[https://github.com/CMU-Perceptual-Computing-Lab/openpose][openpose]] ::
-** Project
-   - [[https://github.com/nagadomi/waifu2x][waifu2x]] :: Image Super-Resolution for Anime-style art using Deep
-     Convolutional Neural Networks. And it supports photo.
-** Tutor
-   - [[https://learnopengl.com/][learnopengl]] ::
 * Mathematics
 ** Equation
 *** Differential Equation
@@ -26,49 +20,3 @@
 * Execise
   - leetcode
       - [[https://github.com/apachecn/awesome-leetcode][awesome]] ::
-
-* Artificial Intelligence
-** Machine Learning
-*** LLM
-**** Some Productions
-     - [[https://github.com/serge-chat/serge][serge]] :: a chat interface crafted with llama.cpp for running Alpaca
-       models. No API keys, entirely self-hosted!
-     - [[https://github.com/bigscience-workshop/petals][petals]] :: 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference
-       up to 10x faster than offloading
-     - [[https://github.com/oobabooga/text-generation-webui][text generation webui]] :: A Gradio web UI for Large Language
-       Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
-**** Dev Framework
-     - langchain :: chain prompt, llm, and other actions togather such as agent
-     - griptape :: like langchain, but different architecture
-     - langserve ::
-     - [[https://github.com/logspace-ai/langflow][langflow]] :: Langflow is a UI for LangChain, designed with react-flow to
-       provide an effortless way to experiment and prototype flows.
-     - [[https://github.com/lm-sys/FastChat#serving-with-web-gui][fastchat]] :: An open platform for training, serving, and evaluating large
-       language models. Release repo for Vicuna and Chatbot Arena. Webui,
-       controller, model (worker) API architecture.
-     - [[https://github.com/Significant-Gravitas/Auto-GPT][autogpt]] :: an experimental open-source application showcasing the
-       capabilities of the GPT-4 language model. It is used for agent
-       development.
-     - [[A high-throughput and memory-efficient inference and serving engine for LLMs][vllm]] :: A high-throughput and memory-efficient inference and serving
-       engine for LLMs. It supports OpenAI api and self designed api for models.
-     - [[https://github.com/geekan/MetaGPT][MetaGPT]] :: The Multi-Agent Framework: Given one line Requirement, return
-       PRD, Design, Tasks, Repo
-     - [[https://github.com/Pythagora-io/gpt-pilot][gpt-polit]] :: Dev tool that writes scalable apps from scratch while the
-       developer oversees the implementation.
-**** train/model/datasets
-     - [[https://github.com/PolisAI/awesome-llm-human-preference-datasets][awesome llm human perference datasets]] :: a collection of human preference
-       datasets for LLM instruction tuning, RLHF and evaluation.
-     - [[https://huggingface.co/][huggingface]] :: The AI community building the future.
-     - [[https://hf-mirror.com/][hf-mirror]] :: huggingface mirror
-     - [[https://github.com/hpcaitech/ColossalAI][colossal ai]] :: Making large AI models cheaper, faster and more accessible
-     - LLaMA :: A foundational, 65-billion-parameter large language model. Made
-       by Meta.Inc.
-     :PROPERTIES:
-     :ID:       c6c05050-6716-4136-a0da-27c6876c4d4a
-     :END:
-     - [[https://github.com/togethercomputer/RedPajama-Data][redpajama]] :: An Open Source Recipe to Reproduce LLaMA training dataset
-     - [[https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm][dolly]] :: the first open source, instruction-following LLM, fine-tuned on
-       a human-generated instruction dataset licensed for research and commercial
-       use.
-**** awesome
-     - [[https://github.com/Hannibal046/Awesome-LLM][awesome-llm]] ::

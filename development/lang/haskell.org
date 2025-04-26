@@ -17,7 +17,8 @@
         of the evolution of GHC.
       - [[https://github.com/sdiehl/papers][ghc papers]] :: some pdfs for ghc implements. The whole lists can be found
         in the wiki in ghc repo.
-  - [[https://github.com/ghcjs/ghcjs][ghcjs]] :: write web script by haskell
+      - [[https://github.com/alpmestan/ghc.nix][ghc with nix support]] :: Nix (shell) expression for working on GHC
+  - [[https://github.com/ghcjs/ghcjs][ghcjs]] :: write web script by haskell (merged in ghc already!)
   - clash-compiler :: Haskell to VHDL/Verilog/SystemVerilog compiler
 ** Parser
    - alex ::
@@ -30,7 +31,6 @@
   - [[http://www.haskellstack.org/][stack]] :: Work with cabal to manage whole project.
       - [[https://www.stackage.org/][stackage]] :: "Stable Hackage": vetted consistent packages from Hackage
       - stack-run :: A plugin, quickly run the project.
-  - shake ::
 
 * Tool Chains
   - haddock :: comment to document
@@ -46,6 +46,7 @@
 
 * Cheatsheet
   - [[https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet][symbol search cheatsheet]] ::
+  - [[https://generics.jasperwoudenberg.com/][generics]] :: archive
 
 * Checklist
   - [[https://github.com/haskell-perf/checklist][checklist]] :: A checklist to optimize code
@@ -86,6 +87,7 @@
   - [[https://web.archive.org/web/20220723002055/https://medium.com/axiomzenteam/functor-applicative-and-why-8a08f1048d3d][Functor, Applicative, and Why]] ::
 
 * Library
+  All them can be searched on hackage. Some of them with a link to their repos.
 ** Codc
 *** Compression
     - zstd ::
@@ -123,7 +125,8 @@
     - password :: Hashing and checking of passwords
     - cryptonite :: many algorithms
 *** Parsing
-    - megaparsec :: Monadic parser combinators
+   - megaparsec :: Monadic parser combinators
+   - hnix :: Haskell implementation of the Nix language
 *** Struct
     - ilist :: Optimised list functions for doing index-related things. They're
       faster than common idioms in all cases, they avoid space leaks, and
@@ -160,31 +163,11 @@
 ** Monadic
    - transformers ::
    - mtl ::
-** Net
-*** UI
-    - [[https://gitlab.com/platonic/shpadoinkle][shpadoinkle]] :: web ui
-*** Request
-    - req ::
-    - wreq :: scripting
-    - http-client-tls :: everything else(client)
-    - servant-client :: both the client and the server.
-    - haxl :: A Haskell library that simplifies access to remote data, such as
-      databases or web-based services.
-*** Server
-   - [[https://github.com/digitallyinduced/ihp][ihp]] :: The fastest way to build type safe web apps. IHP is a new
-     batteries-included web framework optimized for longterm productivity and
-     programmer happiness
-   - servant :: servant is a set of Haskell libraries for writing type-safe web
-     applications but also deriving clients (in Haskell and other languages) or
-     generating documentation for them, and more.
-   - [[https://github.com/purview-framework/purview][purview]] :: Build server rendered, interactive websites with Haskell
-   - [[Year:month:day][yesod]] :: A RESTful Haskell web framework built on WAI.
 ** Benchmarking
    - criterion :: This library provides a powerful but simple way to measure
      software performance. It provides both a framework for executing and
      analysing benchmarks and a set of driver functions that makes it easy to
      build and run benchmarks, and to analyse their results.
-   - gauge :: 'gauge' is a lean, maintained fork of Criterion
 ** Foundation
    - foundation :: a replace for prelude
    - [[https://github.com/polysemy-research/polysemy][polysemy]] :: gemini higher-order, no-boilerplate, zero-cost monads
@@ -192,8 +175,10 @@
    - [[https://github.com/GaloisInc/crucible][crucible]] :: Crucible is a library for symbolic simulation of imperative programs
 ** Test
    - quickcheck ::
-   - hspce ::
-   - tasty ::
+   - hspec ::
+   - tasty :: Tasty is a modern testing framework for Haskell. It lets you
+     combine your unit tests, golden tests, QuickCheck/SmallCheck properties,
+     and any other types of tests into a single test suite.
    - haskell-hedgehog :: Release with confidence, state-of-the-art property
      testing for Haskell.
    - [[https://github.com/mesabloo/diagnose][diagnose]] :: Beautiful error reporting done easily
@@ -212,25 +197,29 @@
    - [[https://github.com/travitch/datalog][datalog]] :: This is a pure Haskell implementation of Datalog, as a library
 ** Development
    - data-default ::
-** Web
+   - lens :: You know what.
+   - optics :: This package makes it possible to define and use Lenses,
+     Traversals, Prisms and other optics, using an abstract interface.
+** Net/Web
+   - req ::
+   - wreq :: scripting
+   - http-client-tls :: everything else(client)
+   - servant-client :: both the client and the server.
+   - haxl :: Haxl is a library and EDSL for efficient scheduling of concurrent
+     data accesses with a concise applicative API.
+   - [[https://github.com/digitallyinduced/ihp][ihp]] :: The fastest way to build type safe web apps. IHP is a new
+     batteries-included web framework optimized for longterm productivity and
+     programmer happiness
+   - servant :: servant is a set of Haskell libraries for writing type-safe web
+     applications but also deriving clients (in Haskell and other languages) or
+     generating documentation for them, and more.
+   - [[https://github.com/purview-framework/purview][purview]] :: Build server rendered, interactive websites with Haskell
+   - [[Year:month:day][yesod]] :: A RESTful Haskell web framework built on WAI.
    - [[https://github.com/obsidiansystems/obelisk][obelisk]] :: Functional reactive web and mobile applications, with batteries included.
    - hyperbole :: Haskell interactive serverside web framework inspired by HTMX
-* Utils
-** Blog
-   - hakyll :: static blog
-** Generic
-   - [[https://generics.jasperwoudenberg.com/][generics]] :: archive
-** GHC
-   - [[https://github.com/bgamari/ghc-utils][bgamari/ghc-utils]]
-   - [[https://github.com/alpmestan/ghc.nix][ghc with nix support]] :: Nix (shell) expression for working on GHC
-** Configure
-   - hnix :: Haskell implementation of the Nix language
-   - dhall ::
-** Performance
+** Profiler
    - ~ghc -profile~ ::
 ** AI
    - [[https://github.com/hasktorch/hasktorch][hasktorch]] :: Tensors and neural networks in Haskell
-** Visualizer
-   - [[https://github.com/rgleichman/glance][rgleichman/glance]] :: a visual syntax for the programming language haskell
 * Amazing
   - [[https://github.com/dpiponi/quine-central][dpiponi/quine-central]] :: This is a Haskell program that prints out a Perl program that prints out a Python program that prints out a Ruby program that prints out a C program that prints out a Java program that prints out the original program.
