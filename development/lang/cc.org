@@ -153,5 +153,8 @@
    - [[https://github.com/wolfpld/tracy][tracy]] :: Frame profiler
    - [[https://github.com/bytecodealliance/sightglass][sightglass]] :: A benchmark suite and tool to compare different
      implementations of the same primitives.
+** Embedded Language
+   - [[https://github.com/asmjit/asmjit][asmjit]] :: Low-latency machine code generation
+   - lua :: you know what
 * ABI
    - [[https://github.com/itanium-cxx-abi/cxx-abi][cxx-abi]] ::  C++ ABI Summary

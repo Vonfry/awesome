@@ -34,6 +34,8 @@
     - jQuery ::
 *** Misc
    - [[https://github.com/js-cookie/js-cookie][js-cookie]] :: A simple, lightweight JavaScript API for handling browser cookies
+*** API
+    - [[https://github.com/PipedreamHQ/pipedream][pipedream]] :: Connect APIs, remarkably fast. Free for developers.
 ** Article
    - [[https://www.gnu.org/philosophy/javascript-trap.zh-cn.html][JavaScript 的陷井 - GNU 工程 - 自由软件基金会]] :: CN
    - [[https://www.gnu.org/philosophy/javascript-trap.en.html][Javascript Trap]] :: EN

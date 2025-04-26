@@ -217,6 +217,8 @@
    - [[Year:month:day][yesod]] :: A RESTful Haskell web framework built on WAI.
    - [[https://github.com/obsidiansystems/obelisk][obelisk]] :: Functional reactive web and mobile applications, with batteries included.
    - hyperbole :: Haskell interactive serverside web framework inspired by HTMX
+*** RPC
+    - [[https://github.com/agentm/curryer][curryer]] :: Fast Haskell RPC
 ** Profiler
    - ~ghc -profile~ ::
 ** AI

@@ -46,6 +46,7 @@
   - [[file:web.org][web]]
   - [[file:../../system/nixos.org][nix]]
   - enso :: visualization programming
+  - [[https://github.com/tsotchke/eshkol][eshkol]] :: High-Performance LISP-like language for Scientific Computing and AI written in C
 
 * Benchmarks
   - [[https://github.com/kostya/benchmarks][benchmarks]] ::  Some benchmarks of different languages
