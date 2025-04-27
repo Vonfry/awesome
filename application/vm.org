@@ -11,10 +11,6 @@
   - [[https://github.com/nexus-xyz/nexus-zkvm][nexus zkvm]] :: The Nexus zkVM: The zero-knowledge virtual machine
   - [[http://www.parallels.com][Parallels Desktop]] :: Best Virtual Machine on macOS, I think.
 
-** OS
-     - [[https://github.com/foxlet/macOS-Simple-KVM][macOS-Simple-KVM]] :: Tools to set up a quick macOS VM in QEMU, accelerated
-       by KVM.
-
 * Container
    - Docker ::
    - podman ::
