@@ -3,6 +3,8 @@
 
 * VM
   - Qemu ::
+    - [[https://github.com/quickemu-project/quickemu][quickemu]] :: Quickly create and run optimised Windows, macOS and Linux
+      virtual machines
   - libvirt ::
   - qira :: QEMU Interactive Runtime Analyser
   - unicorn :: qemu based simpler vm.
