@@ -15,16 +15,7 @@ See [[file:../development/deploy.org][development/deploy]] for complex tools.
    - [[https://github.com/aristocratos/btop][btop]] ::  A monitor of resources
    - [[https://github.com/facebookincubator/below][below]] :: A time traveling resource monitor for modern Linux systems
    - bpftrace :: High-level tracing language for Linux eBPF
+   - [[https://github.com/GyulyVGC/sniffnet][sniffnet]] ::  Comfortably monitor your Internet traffic
    - [[https://gitlab.com/mission-center-devs/mission-center][mission-center]] :: Monitor your CPU, Memory, Disk, Network and GPU usage
      with Mission Center
    - [[https://bjango.com/mac/istatmenus/][iStat Menus]] :: system status bar
-* Monitor
-   - netdata :: system resource monitor
-   - [[https://oguzhaninan.github.io/Stacer-Web/][stacer]] :: Stacer is an open source system optimizer and application monitor
-     that helps users to manage entire system with different aspects, its an all
-     in one system utility.
-   - [[https://github.com/prometheus/prometheus][prometheus]] :: Prometheus, a Cloud Native Computing Foundation project, is a
-     systems and service monitoring system. It collects metrics from configured
-     targets at given intervals, evaluates rule expressions, displays the
-     results, and can trigger alerts if some condition is observed to be true.
-   - [[https://osquery.io/][osquery]] :: Performant endpoint visibility
