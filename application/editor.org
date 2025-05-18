@@ -59,8 +59,23 @@ List some useful tools for editor to navigate, format or do others.
 
    See lsp
 
+
 *** Evil
     - [[https://github.com/noctuid/evil-guide][evil-guide]] :: a guide contains some FAQs.
+
+*** Mail
+    - [[https://github.com/djcb/mu][mu4e]] ::
+    - gnus ::
+      - [[https://www.gnu.org/software/emacs/manual/html_node/gnus/Mail-in-a-Newsreader.html#Mail-in-a-Newsreader][Mail-in-a-Newsreader]]
+      - [[https://web.archive.org/web/20241108152000/https://www.rath.org/whats-wrong-with-gnus.html][whats wrong with gnus]]
+*** Agenda/TODO
+    - org mode
+*** Contacts
+    - org-contacts
+*** Media
+    - emms
+*** Feeds
+    - elfeed
 ** Awesome
    - [[https://github.com/emacs-tw/awesome-emacs][emacs-tw]] ::
    - [[https://github.com/purcell/elisp-maintainers][maintainers-list]] ::
