@@ -103,11 +103,11 @@
    - [[https://github.com/protocolbuffers/protobuf][protobuf]] :: Protocol Buffers - Google's data interchange format
 
 ** Parser
-   - lex
-   - yacc
-   - boost::spirit
-   - lexy
-
+   - lex ::
+   - yacc ::
+   - boost::spirit ::
+   - lexy ::
+   - [[https://github.com/satya-das/cppparser][cppparser]] ::  A library to parse C/C++ source as AST
 
 ** Parallel
    - [[https://github.com/taskflow/taskflow][taskflow]] :: A General-purpose Parallel and Heterogeneous Task Programming System
@@ -153,8 +153,14 @@
    - [[https://github.com/wolfpld/tracy][tracy]] :: Frame profiler
    - [[https://github.com/bytecodealliance/sightglass][sightglass]] :: A benchmark suite and tool to compare different
      implementations of the same primitives.
+   - [[https://github.com/gperftools/gperftools][gperftools]] :: gperftools is a collection of a high-performance
+     multi-threaded ~malloc()~ implementation, plus some pretty nifty
+     performance analysis tools.
 ** Embedded Language
    - [[https://github.com/asmjit/asmjit][asmjit]] :: Low-latency machine code generation
    - lua :: you know what
+** Watch
+   - [[https://github.com/facebook/watchman][watchman]] :: Watches files and records, or triggers actions, when they
+     change.
 * ABI
    - [[https://github.com/itanium-cxx-abi/cxx-abi][cxx-abi]] ::  C++ ABI Summary

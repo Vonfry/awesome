@@ -111,14 +111,10 @@
      light, simple
 
 **** Github
-     - [[https://github.com/tiimgreen/github-cheat-sheet][github cheat sheet]] ::
-***** Tools
-      - [[https://github.com/piotrmurach/github_cli][github_ci]] ::
-      - [[https://github.com/tiimgreen/github-cheat-sheet][github cheat sheet]] :: A list of cool features of Git and GitHub.
-***** Toy
-      - [[https://github.com/tipsy/profile-summary-for-github][tipsy/profile-summary-for-github]] :: Tool for visualizing GitHub profiles
-      - [[www.visualsource.net][visualsource]] ::
-      - [[https://skyline.github.com/][skyline]] :: your github story in 3d
+     - [[https://github.com/tipsy/profile-summary-for-github][tipsy/profile-summary-for-github]] :: Tool for visualizing GitHub profiles
+     - [[https://www.visualsource.net][visualsource]] ::
+     - [[https://skyline.github.com/][skyline]] :: your github story in 3d
+     - [[https://github.com/nektos/act][act]] ::  Run your GitHub Actions locally 🚀
 **** Sourcehub
      [[https://sourcehut.org/][official site]]
 
